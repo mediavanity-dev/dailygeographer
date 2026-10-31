@@ -32,7 +32,10 @@ const dayNumber = (d) => Math.floor(d.getTime() / 86400000);
 const sparql = async (query) =>
   (await getJSON(`https://query.wikidata.org/sparql?format=json&query=${encodeURIComponent(query)}`)).results.bindings;
 
-async function pickCountry(date) {
+// The rotation list is kept in the repo so Wikidata edits can't reshuffle it; refresh with --refresh-countries.
+const COUNTRIES_FILE = new URL('./countries.json', import.meta.url);
+
+async function refreshCountries() {
   // Current UN member states (membership statement without an end date) with an English Wikipedia article.
   const rows = await sparql(`SELECT ?c ?article WHERE {
     ?c p:P463 ?m. ?m ps:P463 wd:Q1065. FILTER NOT EXISTS { ?m pq:P582 [] }
@@ -42,6 +45,12 @@ async function pickCountry(date) {
   const members = [...new Map(rows.map((r) => [r.c.value, r])).values()]
     .map((r) => ({ qid: r.c.value.split('/').pop(), title: decodeURIComponent(r.article.value.split('/wiki/')[1]) }))
     .sort((a, b) => a.title.localeCompare(b.title));
+  await writeFile(COUNTRIES_FILE, JSON.stringify(members, null, 2) + '\n');
+  console.log(`Wrote countries.json: ${members.length} countries`);
+}
+
+async function pickCountry(date) {
+  const members = JSON.parse(await readFile(COUNTRIES_FILE, 'utf8'));
   // Stepping by 37 (coprime with 193) visits every country once per cycle, in a less predictable order.
   const pick = members[(dayNumber(date) * 37) % members.length];
   console.log(`${members.length} UN members; today is ${pick.title}`);
@@ -145,6 +154,11 @@ async function build(date) {
   };
   await writeFile(file, JSON.stringify(data, null, 2) + '\n');
   console.log(`Wrote ${isoDate(date)}.json: ${data.name}, ${news.items.length} headlines (${news.label})`);
+}
+
+if (process.argv.includes('--refresh-countries')) {
+  await refreshCountries();
+  process.exit(0);
 }
 
 await mkdir(DATA_DIR, { recursive: true });
