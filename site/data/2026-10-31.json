@@ -1,6 +1,6 @@
 {
   "date": "2026-10-31",
-  "updated": "2026-10-31T18:10:15.190Z",
+  "updated": "2026-10-31T18:51:05.786Z",
   "qid": "Q117",
   "name": "Ghana",
   "status": "UN member state",
@@ -94,6 +94,67 @@
           "url": "https://zalebs.com/business/ghana-and-nigeria-secure-u-17-womens-world-cup-knockout-spots/",
           "source": "zalebs.com",
           "date": "20261025T103000Z",
+          "lang": "English"
+        }
+      ]
+    },
+    "google": {
+      "label": "Top stories, Google News GH:en edition",
+      "items": [
+        {
+          "title": "Gov't demands justice for teenager fatally shot in the Bronx",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOR3FCeW1VNGtFRUg1WHVYY0Q3ZmVOTWM0Tk9FYTVjdnQ1NVU4dHI4dERYNzIxRzg5TlpRRlFSZDBhdEhucU5sS1pSRjVPcmVRQmJyYmV3Z0dsWmZzazYyS2lnZWtxOWJ0MUh2ZEwxV1c2Wlc1cWJpM0s5OHVhREs3aUNGd21BeFc5UlZ4V2o2UTlrbWRPV3ZJQnRBWXhGb1BhaVUtU0d1SnRTbER5cGc?oc=5",
+          "source": "graphic.com.gh",
+          "date": "2026-10-31T12:13:46.000Z",
+          "lang": "English"
+        },
+        {
+          "title": "Researchers target manufacturing emissions under Laser4NetZero project in push for greener EVs",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNT2VNdkY3TFphd0V1YmFJaUNLRVhYRjZHMzNyOXRfcktidnN5eTY3RmR0eWY0RloyLUlXNU5VVTcyek91ekRwZDZLb2RQdDlMblZCbEV1M1RwVzJ6aTZwVGFSN2xaUHdFMlRGd0ZBVEZ4bEZYQjA4NGlUVHlVZnFseGRLbjFUV3ZRVjJFSW5FSlI5MG8xbDA1SW1iZUJVQjFieFU1UFB5RWRVSjQ4QzRVSnlVRDRMcU4yVFdOZ2VDM2FNckdDc1BIQzF2WmU4TUVlN05mNmdUTQ?oc=5",
+          "source": "ghanabusinessnews.com",
+          "date": "2026-10-31T07:44:43.000Z",
+          "lang": "English"
+        },
+        {
+          "title": "'We are not ready for November 1' — Transport operators threaten nationwide strike over TraffiTech-GH rollout",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOa1dJVDY1TDZzRlRyaDBtaWVTZXFrOTBiSHNuS2dBVTUweWRqMHRwamg2R3JqYXRXVVdMSGVhLVVYN1JhNDJSYXNJZ21NZm4yTVE1blY5NUxQVGQ1endBM0pqbUI4akFmRU92b24wWEdETU1ndlMyV0g4WTEyVWFXR1Z2WkZ1ckpmVS1NV3FtcHnSAY8BQVVfeXFMUC1IRmliUkozVngxRjVMX3F0NVlXenZObW9VZDVVSThMQ25uTXhuVjhzZ2RkVzBNdnlSTXJtMG1QU0pfc0thNmU5cHl1NlQ5SkJkaEZYVTFrai1yTnd1TnFSVHV5djltUjdoYktvdWxUQUNEV0VVQ0N2WUE2bUtseW9UZnV6U2VwRXFWYlBrUWM?oc=5",
+          "source": "modernghana.com",
+          "date": "2026-10-31T15:02:00.000Z",
+          "lang": "English"
+        },
+        {
+          "title": "Livestream: Newsfile discusses Mahama’s galamsey fight, GH¢49.72m evacuation controversy and 5-year presidential term proposal",
+          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPbG9PZGNYWHZudmhYWXNMS191QlVKTmdQX0xJSVZHQ182cXVsMWQxSEhoVVdJY0d3b0lKVEI2VDlHSngtbUFBR2tRRFpsU2poRVFzTFJDXzlkNkJaYVlmN0FkQmUxRW0wam9GX1JDNmlxbnVHaC14N2oteTkxSk03Y01SeURsNUJoMVJfUlFwZnBjemFFbDdHanRxcW5zQWpzRVdQbHFvX3BrVWVOTXFpNnNXNVZLalpOQ2J2T0UybHE4U0N0R21BSENRcXZMTGRHVWJvWW9BTmRGWEZrQ1VmYy1XcjRRdw?oc=5",
+          "source": "cedirates.com",
+          "date": "2026-10-31T17:42:51.000Z",
+          "lang": "English"
+        },
+        {
+          "title": "Ghana making financial gains but losing environmental battle against galamsey – Prof. Appiagyei-Atua",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORGNULVlWaDlNajVLTm5udkFhQ0hWeExCOGEySmI4ejZoazFJX0NtVlpUMHJjVTN6c01lbGE3ZlBRNDR3MUlzVF9CLUlJZUtneDBqSVB0eWFfaDc2TUx5TGpVN1c2Zi1rSHhjZ1MwUHA0Q1dtczJTMVJkRUJSbWhXRlpwNWJ0TkROdFR2WEprZGFiUzBrOG9heTNmRjfSAZsBQVVfeXFMUFpzcE9wSnNjalJ2SUY4OGpsYXNFVERQcm1peUpBdWdISkFVMHhmSjlKZ0lWanJ1dWNHbkswTWMwM0NwaUVuSUtsNzBmMWhObnlBa2RLd3E4V0dHS3VHbWo5SGJNWVotb2dCcHpZeWlrWkw1M0U1b0JxbmlGblh0eXdENG1XLVhfVzhteGNfa3M1RG5wZHRmT1RCNnc?oc=5",
+          "source": "modernghana.com",
+          "date": "2026-10-31T17:10:00.000Z",
+          "lang": "English"
+        },
+        {
+          "title": "Uncle, niece shot dead over alleged GH¢500,000 debt; woman arrested, GH¢100,000 reward offered for suspect",
+          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPR0ZBc293M0hJeFFxSzI4RGR5Q1FqUTh3VU9PSDRKMXJ6SXlfUlJKUkhqNk82V1p0cUNyYnpVZTlVa1JHNGo2UmV6LVhmUlBmLXJXeDVMUklzeHlWdXM4dlU0X2ZwQUVpWWNQdkV5Vi1OSGdFSEpDcktxVzZpX0JEUU9vOU1Ja3J3bGFqUks1eG5VRl9IdHdSX0FNRFZLRXJpODhJcnFad0lpNENmd1R6QVdSRF9HOEFSX0xOM2EtTnNJVEFyQ1R5V1JPTFRfYzFqaFhyS2tWX0JCZXRiZWhNblVDbE5jN3Jh?oc=5",
+          "source": "graphic.com.gh",
+          "date": "2026-10-31T08:33:36.000Z",
+          "lang": "English"
+        },
+        {
+          "title": "“They stabbed her to death” – Fabulous Ladies coach confirms killing of Agartha Takyiwa",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPaDhfMnU2cVZtQmNSNDQ2cDNLR0p6QzRsRW5iQWR3UVNEdlo0WVdPbjhUSm0zWmNUcDBpLWxvdFNCVk52UGhkd0tRaDU4X01MMTFjSjhYdFhVODJxdTJPSmpaNGQ4Wml2bFV0VU5wQWlBZTZ1X0t0SHRMTXZuTEctNDVILUt0VVBYdkozVnFrRkFHQzBLYmc1OWVlQzB6QUlyX193dDBMS0Q3blJCa3ZpeDdYODYyaHRDNGhFdzVn?oc=5",
+          "source": "citisportsonline.com",
+          "date": "2026-10-31T14:14:24.000Z",
+          "lang": "English"
+        },
+        {
+          "title": "Muntaka pledges support to Ghana Prisons Service to improve efficiency, welfare",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNdHBEUEdoU3ZNZjd5M2R2U2hyQlJITzA4aXNpMjEtYlAwZjI0ZHZySmI0YWVYc2t0Nks5NzBlQm1XWDNiN1ZOcjhyWmV0ZzNEMTdYdzdYMUJnNFU4eUJRYjlQRGw5SzZ0NjdJaUVmcWNrOHhDZm9TNDJINFNEblVBb1dLNWlURmlMVXJFcEhMeElNUEo4V1JPS0I2VVFLYnZlTEItOE1JVmdoN254MFNJcWdHbUVzeFk?oc=5",
+          "source": "citinewsroom.com",
+          "date": "2026-10-31T12:57:52.000Z",
           "lang": "English"
         }
       ]
