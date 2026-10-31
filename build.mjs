@@ -215,7 +215,8 @@ async function firstWithResults(attempts, exclude = new Set()) {
   for (const a of attempts) {
     const url = `https://api.gdeltproject.org/api/v2/doc/doc?query=${encodeURIComponent(a.q)}&mode=artlist&format=json&maxrecords=40&sort=datedesc&timespan=${a.span}`;
     try {
-      const { articles = [] } = await getJSON(url, 3, 15000);
+      // GDELT often answers HTTP 429 to shared CI addresses, so the same query is retried with long waits (20s, 40s, 60s).
+      const { articles = [] } = await getJSON(url, 4, 20000);
       const seen = new Set(), perSource = {};
       // A cap per outlet keeps one prolific site from filling the list.
       const items = articles
