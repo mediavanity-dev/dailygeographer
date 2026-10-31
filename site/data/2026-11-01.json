@@ -1,0 +1,165 @@
+{
+  "date": "2026-11-01",
+  "updated": "2026-10-31T23:23:29.006Z",
+  "qid": "Q902",
+  "name": "Bangladesh",
+  "status": "UN member state",
+  "officialName": "Bangladesh",
+  "flag": {
+    "svg": "https://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Bangladesh.svg",
+    "alt": "Flag of Bangladesh"
+  },
+  "facts": {
+    "Capital": "Dhaka",
+    "Continent": "Asia",
+    "Population": "171,466,990",
+    "Area": "147,570 km²",
+    "Languages": "Bangla",
+    "Currency": "Bangladeshi taka",
+    "Time zones": "Bangladesh Standard Time, Asia/Dhaka, UTC+06:00",
+    "Calling code": "+880"
+  },
+  "map": "https://www.openstreetmap.org/?mlat=24.016666666&mlon=89.866666666#map=5/24.016666666/89.866666666",
+  "summary": {
+    "extract": "Bangladesh, officially the People's Republic of Bangladesh, is a country in South Asia. It is the eighth-most populous country in the world with a population of almost 180 million within an area of 148,461 square kilometres (57,321 sq mi). Bangladesh shares land borders with India to the north, west, and east, and Myanmar to the southeast. It has a coastline along the Bay of Bengal to its south and is separated from Bhutan and Nepal by the Siliguri Corridor, and from China by the Indian states of West Bengal and Sikkim to its north. Dhaka, the capital and largest city, is the nation's political, financial, and cultural centre. Chittagong is the second-largest city and the busiest port of the country.",
+    "url": "https://en.wikipedia.org/wiki/Bangladesh"
+  },
+  "history": {
+    "title": "History of Bangladesh",
+    "paragraphs": [
+      "The history of Bangladesh dates back over four millennia to the Chalcolithic period. The region's early history was characterized by a succession of Hindu and Buddhist kingdoms and empires that fought for control over the Bengal region. Islam arrived in the 8th century and gradually became the dominant religion from the early 13th century with conquests led by Bakhtiyar Khalji and the activities of Sunni missionaries, like Shah Jalal. Muslim rulers promoted the spread of Islam by building mosques across the region. From the 14th century onward, Bengal was ruled by the Bengal Sultanate, founded by Fakhruddin Mubarak Shah, who established an individual currency. The Bengal Sultanate expanded under rulers like Shamsuddin Ilyas Shah, leading to economic prosperity and military dominance, with Bengal being referred to by Europeans as the richest country to trade with. The region later became a part of the Mughal Empire, and according to historian C. A. Bayly, it was probably the empire's wealthiest province.",
+      "Following the decline of the Mughal Empire in the early 1700s, Bengal became a semi-independent state under the Nawabs of Bengal, ultimately led by Siraj ud-Daulah. It was later conquered by the British East India Company after the Battle of Plassey in 1757. Bengal played a crucial role in the Industrial Revolution in Britain, but also faced significant deindustrialization. The Bengal Presidency was established during British rule.",
+      "The borders of modern Bangladesh were established with the partition of Bengal between India and Pakistan during the Partition of India in August 1947, when the region became East Pakistan as part of the newly formed State of Pakistan following the end of the British rule in the region. The Proclamation of Bangladeshi Independence in March 1971 led to the nine-month-long Bangladesh Liberation War, which culminated in the emergence of the People's Republic of Bangladesh. Independence was declared in 1971.",
+      "Since gaining independence, Bangladesh has faced political instability, economic reconstruction, and social transformation. The country experienced military coups and authoritarian rule, notably under General Ziaur Rahman and General Hussain Muhammad Ershad. The restoration of parliamentary democracy in the 1990s saw power alternate between the Awami League, and the Bangladesh Nationalist Party. In recent decades, Bangladesh has achieved significant economic growth, emerging as one of the world's fastest-growing economies, driven by its garment industry, remittances, and infrastructure development. However, it continues to grapple with political instability, human rights issues, and the impact of climate change. The return of the Awami League to power in 2009 under Sheikh Hasina's leadership saw economic progress but criticisms of authoritarianism. The Prime Minister was forced to flee the country after her third continuous term due to countrywide protest in 2024, and was found guilty of crimes against humanity. Bangladesh has played a critical role in addressing regional issues, including the Rohingya refugee crisis, which has strained its resources and highlighted its humanitarian commitments."
+    ],
+    "url": "https://en.wikipedia.org/wiki/History_of_Bangladesh"
+  },
+  "news": {
+    "local": {
+      "label": "No recent headlines found",
+      "items": []
+    },
+    "international": {
+      "label": "Last 7 days",
+      "items": [
+        {
+          "title": "Far - sea capabilities on display as China 48th naval escort formation completes record Gulf of Aden mission",
+          "url": "http://eng.chinamil.com.cn/2025xb/O_251451/16496217.html",
+          "source": "eng.chinamil.com.cn",
+          "date": "20261026T071500Z",
+          "lang": "English"
+        },
+        {
+          "title": "The 67 Per Cent Moment: India Is Paying More for a New Economic Order",
+          "url": "https://www.ibtimes.co.in/67-per-cent-moment-india-paying-more-new-economic-order-907846",
+          "source": "ibtimes.co.in",
+          "date": "20261026T071500Z",
+          "lang": "English"
+        },
+        {
+          "title": "As the US and China form AI blocs, countries are increasingly torn between them",
+          "url": "https://isp.netscape.com:443/pf/story/0001/20261026/9974a3e5dc955a93935d131a4aeb8886",
+          "source": "isp.netscape.com",
+          "date": "20261026T050000Z",
+          "lang": "English"
+        },
+        {
+          "title": "Former CJI Chandrachud urges doctors to prioritise mental health, uphold humanity in patient care at UCMS 55th anniversary",
+          "url": "http://www.laosnews.net/news/279397450/former-cji-chandrachud-urges-doctors-to-prioritise-mental-health-uphold-humanity-in-patient-care-at-ucms-55th-anniversary",
+          "source": "laosnews.net",
+          "date": "20261025T124500Z",
+          "lang": "English"
+        },
+        {
+          "title": "Reclaiming the Bputra for Commerce",
+          "url": "https://www.sentinelassam.com/more-news/editorial/reclaiming-the-bputra-for-commerce",
+          "source": "sentinelassam.com",
+          "date": "20261025T124500Z",
+          "lang": "English"
+        },
+        {
+          "title": "Operation Trident: ED arrests six, freezes 1, 424 bank accounts, attaches property worth Rs 17 . 82 Crore",
+          "url": "http://www.laosnews.net/news/279397447/operation-trident-ed-arrests-six-freezes-1424-bank-accounts-attaches-property-worth-rs-1782-crore",
+          "source": "laosnews.net",
+          "date": "20261025T124500Z",
+          "lang": "English"
+        },
+        {
+          "title": "Conflict: Quotations on Rebellion and Resolution",
+          "url": "https://www.sentinelassam.com/more-news/life/conflict-quotations-on-rebellion-and-resolution",
+          "source": "sentinelassam.com",
+          "date": "20261025T124500Z",
+          "lang": "English"
+        },
+        {
+          "title": "Remembering Jogen Chowdhury: Painter, Teacher, and Former Rajya Sabha Member",
+          "url": "https://www.boldsky.com/insync/remembering-jogen-chowdhury-painter-teacher-and-former-rajya-sabha-member-173515.html",
+          "source": "boldsky.com",
+          "date": "20261025T123000Z",
+          "lang": "English"
+        }
+      ]
+    },
+    "google": {
+      "label": "Top stories, Google News BD:bn edition",
+      "items": [
+        {
+          "title": "বঙ্গোপসাগরের আরেকটি ঘূর্ণিঝড়ের আশঙ্কা",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9aYW9rOFRidFJ2bVlCRy1Ec3l6NDBSZ1prN3R0ak5IalBKNkw3ZWZkY3hIVlJzSEVmZ3d3V0Q5eWtsempZcjNVZFlVMzY2RVNsUUs4ekQ1anAwcDFDaXdVNFF4SzJBWUdLeFk0YU96VjVaQnBqbWc?oc=5",
+          "source": "banglanews24.com",
+          "date": "2026-10-31T13:21:15.000Z",
+          "lang": "Bangla"
+        },
+        {
+          "title": "SIR Row: মক পার্লামেন্টে জ্ঞানেশ কুমারকে ‘ইমপিচ’ করল বিরোধীরা, রাষ্ট্রদ্রোহের মামলা",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNWXhBRHJqQ0otMmttVTIzaHJNN180NmpLQVZNXzhaTm1lSm9KdjZCTU9uLWQ4dFJkcDl6d0FzbjVLYnR3eWRraTVpYXdNSC1SbWVEek03WTRHRGlUbU04VG1xbG9TZ1dmQkhjT09DVlNPQ2huNkd1bF9XYjctaUlEbmNQRl9xR240Uy1oN081aUVmSHdGbjd3TDRKY0p1RTFtaHFfbnhVUXpoWGduYkNCWDFSSkJKLXN5alHSAb8BQVVfeXFMTTI1c1IwdWEtQlNWaS1kdWxpTkFuVkNIbzFKNmxVbnJFQkVFck9LbFlnV3VLajQ2WGdrdUNubVZOalVJV3I2V3VfLVMzRTYwN05OWWV3Nm9rZFgtREE5QVdLSm1fbmVWeV9LSFBIUkYxUXBPbUNTUHBIZUNIWWNUNjBjMTlNTnFTQS1HaTh3VHR0OHpZNWJySExZZmxma2VocGJDeGE0ZFZZbmZYcXo2U080X0ZwZG5VdFZVV0JjOVU?oc=5",
+          "source": "bengali.abplive.com",
+          "date": "2026-10-31T16:03:21.000Z",
+          "lang": "Bangla"
+        },
+        {
+          "title": "এইচএসসিতে ২২ বছরের মধ্যে পাসের হার কম, কিন্তু কেন এই বিপর্যয়",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1UU2g0LXliU3ZXT2JKVm5ERWY4UTNCYUFIV2NCVzF2VlZzWWZFS1M3Vk51WWFxeFg5WlhkbjROU1lGNm9VY1VNTEFHLUE5X0dJT0JGSkVzU0dRNFYwbmtnWUJaZTV0WEU1ZVlV0gF4QVVfeXFMT2puMlpVZWJxQzZ0SDI0S0tEanFnZ1dTc1Uwb3JpemRKd1Z3ajFEQ3dnQmJocHlnREIzTzFlX3Z6U2dVY3F4LVdzYTNibHhkYVp5YjUxOUdaa2tWSDRBRkFiMUhVTU90V3g1SnBMTHJ6bkMzSVZoM3kw?oc=5",
+          "source": "prothomalo.com",
+          "date": "2026-10-31T10:50:00.000Z",
+          "lang": "Bangla"
+        },
+        {
+          "title": "ইহুদি-আরব জোট সরকার গঠনের পক্ষে ইসরায়েলজুড়ে বিক্ষোভের প্রস্তুতি",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE94emVVcTdCZFdvVmcyX01KYmZ1ODBpZ3lUN05ORGMtd1U0RXBxQ0ZmMTJxc3lobFlXemt0blpnd2N0ejFGT2tuVmQ0QXZYcTR1N091T1BnU1JJTkxTMXhNNGVTelN2QdIBc0FVX3lxTE9zQU9RMnBvcHEzQXFwY1M0cFZNX3pjbjNaalIwYVdXREhnRVpJOTc5NzNIWlQ0WmxGQ3c1ckdxZlRyQy14NnFJdjJLSjd0SnZraFVSbUtZd2xyY1RkX2VzSmtqSnA1WVFIcjJpMVp0bjBQSGc?oc=5",
+          "source": "prothomalo.com",
+          "date": "2026-10-31T12:13:30.000Z",
+          "lang": "Bangla"
+        },
+        {
+          "title": "তাহসিফের মৃত্যু: দীপকে নৌ পুলিশের কাছে দিল পিবিআই",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1PUTF6Q2FXTldfYXVFeEl1RkJRSmpmNVBmS3ZSZFJqVVUzUHI0ckNEMEo2MnhSeUNpQTJNZHNwMjhGZjJxM3AzZzl4X0luOHVXNDNrVVNZN0V2MEV4dTJhOGZKX3FmNXI0TWs2ckJB?oc=5",
+          "source": "banglanews24.com",
+          "date": "2026-10-30T20:43:17.000Z",
+          "lang": "Bangla"
+        },
+        {
+          "title": "Gold Price Today: ধনতেরসের আগেই সুখবর সোনার বাজারে? দীপাবলির আগে সোনা-রুপোর দামে আজ চমক?",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQa0tZekE0ekhWaVBMdXIzcVRISXRUZjQ2b0lVUnZMU1VvdjBXMFNfTENPMm5wT09lSndoNVlHZHIyMGlqZWp3WnI5Ml92eEZ4X3N3eW5EbkFQc3daZ181MFY2RkJGdFJfcGFRVGxFdTRUX3h4SHExYXktNGdTRElfbFNLc1M5eG9hSlcwcFBUZDJ0MjFKY2N6cnB3cTZaN3pWVDExZTlUSGl3eHRBLWlnWmVLeGNYNVBURWdOYm1YQkxaZ9IBxwFBVV95cUxQakdRU000TllZbGJmM21lUW1TdkxKN3BhQWY1bjZidmRTaUZNNS1Bc2dIYWVCbjdGc0JFNV90VWdlS3M4elM1QjFWeTcyb0RxX0VjLVMtV3JCVVJYOHU1b2dFNWRxM28yNjBKRGVzcU1rZ1FyUzR1aTc1V1ROWGFQVkdXUDVJbE1Rcm9UZG5GdzJ2S2dDU1JHY1c4elUzQW9ZM2RYLW02Z2ZlVG8xV1dCUjdlekdsa1FabEZHRms4QVBrMnRnejdB?oc=5",
+          "source": "bengali.abplive.com",
+          "date": "2026-10-31T06:38:00.000Z",
+          "lang": "Bangla"
+        },
+        {
+          "title": "সাজেকে ইউপিডিএফ ও জেএসএসের মধ্যে গোলাগুলি: পুলিশ",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5BODdRSjNZMEZPV2R0MTRYNFlYOGZfTVNBVmM0VXZFY0hNOHVmS0xGaEVvazdqSV9sYjFwZG85dDJidlo3SEx2U0pzLUZKWmFTekI0c3I4a2pmWk9wNHRya2hWdW1BYnc?oc=5",
+          "source": "bangla.bdnews24.com",
+          "date": "2026-10-31T12:42:00.000Z",
+          "lang": "Bangla"
+        },
+        {
+          "title": "ঢাকায় বাস রুট ৯৮ থেকে কমে ৩২ হচ্ছে",
+          "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBIVW80Ql9qdC0zV2lwSVE3QksyM2ZPbFBUZDJWWGhuNXExV1RiLXprUUxTUHk2ZHNqSExaOUpyYUZZaTY2WjhrYW1B?oc=5",
+          "source": "desh.tv",
+          "date": "2026-10-31T12:54:54.000Z",
+          "lang": "Bangla"
+        }
+      ]
+    }
+  }
+}
