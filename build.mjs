@@ -35,25 +35,70 @@ const sparql = async (query) =>
 // The rotation list is kept in the repo so Wikidata edits can't reshuffle it; refresh with --refresh-countries.
 const COUNTRIES_FILE = new URL('./countries.json', import.meta.url);
 
+// The rotation is every ISO 3166-1 entry with a permanent population, plus Kosovo (XK, used by the EU, IMF and World Bank).
+// Wikidata also tags some non-ISO codes with P297; these are dropped.
+const NOT_ISO = new Set(['AC', 'CP', 'CQ', 'DG', 'EA', 'EZ', 'TA', 'UN', 'YU']);
+const UNINHABITED = new Set(['AQ', 'BV', 'GS', 'HM', 'IO', 'TF', 'UM']); // IO: Chagossians were expelled; no permanent population today
+const PREFERRED_ITEM = { DK: 'Q35' }; // Denmark rather than the Danish Realm
+const NAMES = { NL: 'Netherlands', IE: 'Ireland', MF: 'Saint Martin', GG: 'Guernsey' };
+
+// Political status shown on the page; UN members not listed here are "UN member state".
+const BOT = 'British Overseas Territory', US = 'Unincorporated territory of the United States';
+const FR_DEP = 'Overseas department of France', FR_COL = 'Overseas collectivity of France';
+const CROWN = 'British Crown Dependency', AU = 'External territory of Australia';
+const NL_CC = 'Constituent country of the Kingdom of the Netherlands';
+const STATUS = {
+  DK: 'UN member state', // membership sits on the Danish Realm item in Wikidata
+  PS: 'UN observer state, recognised by most UN members', VA: 'UN observer state',
+  TW: 'Partially recognised state; claimed by the People\'s Republic of China',
+  XK: 'Partially recognised state; claimed by Serbia',
+  EH: 'Non-self-governing territory (UN list); disputed between Morocco and the Sahrawi Republic',
+  FK: `${BOT}; claimed by Argentina`, GI: `${BOT}; claimed by Spain`,
+  AI: BOT, BM: BOT, KY: BOT, MS: BOT, PN: BOT, SH: BOT, TC: BOT, VG: BOT,
+  JE: CROWN, GG: CROWN, IM: CROWN,
+  AS: US, GU: US, MP: US, PR: US, VI: US,
+  GF: FR_DEP, GP: FR_DEP, MQ: FR_DEP, RE: FR_DEP, YT: FR_DEP,
+  BL: FR_COL, MF: FR_COL, PF: FR_COL, PM: FR_COL, WF: FR_COL, NC: 'Special collectivity of France',
+  AW: NL_CC, CW: NL_CC, SX: NL_CC, BQ: 'Special municipalities of the Netherlands',
+  GL: 'Autonomous territory of Denmark', FO: 'Autonomous territory of Denmark',
+  AX: 'Autonomous region of Finland', SJ: 'Part of Norway',
+  HK: 'Special administrative region of China', MO: 'Special administrative region of China',
+  CK: 'Self-governing in free association with New Zealand', NU: 'Self-governing in free association with New Zealand',
+  TK: 'Territory of New Zealand', CX: AU, CC: AU, NF: AU,
+};
+
 async function refreshCountries() {
-  // Current UN member states (membership statement without an end date) with an English Wikipedia article.
-  const rows = await sparql(`SELECT ?c ?article WHERE {
-    ?c p:P463 ?m. ?m ps:P463 wd:Q1065. FILTER NOT EXISTS { ?m pq:P582 [] }
-    ?c wdt:P31 wd:Q3624078.
+  const rows = await sparql(`SELECT ?c ?code ?article ?un WHERE {
+    ?c p:P297 ?s. ?s ps:P297 ?code. FILTER NOT EXISTS { ?s pq:P582 [] } MINUS { ?s wikibase:rank wikibase:DeprecatedRank }
     ?article schema:about ?c; schema:isPartOf <https://en.wikipedia.org/>.
+    OPTIONAL { ?c p:P463 ?m. ?m ps:P463 wd:Q1065. FILTER NOT EXISTS { ?m pq:P582 [] } BIND(true AS ?un) }
   }`);
-  const members = [...new Map(rows.map((r) => [r.c.value, r])).values()]
-    .map((r) => ({ qid: r.c.value.split('/').pop(), title: decodeURIComponent(r.article.value.split('/wiki/')[1]) }))
-    .sort((a, b) => a.title.localeCompare(b.title));
-  await writeFile(COUNTRIES_FILE, JSON.stringify(members, null, 2) + '\n');
-  console.log(`Wrote countries.json: ${members.length} countries`);
+  const byCode = new Map();
+  for (const r of rows) {
+    const code = r.code.value, qid = r.c.value.split('/').pop(), un = !!r.un;
+    if (NOT_ISO.has(code) || UNINHABITED.has(code)) continue;
+    const best = byCode.get(code);
+    // Several items can share a code (e.g. Cyprus the state and the island): prefer the override, then the UN member.
+    if (best && (best.qid === PREFERRED_ITEM[code] || (best.un && qid !== PREFERRED_ITEM[code]))) continue;
+    byCode.set(code, { code, qid, title: decodeURIComponent(r.article.value.split('/wiki/')[1]), un });
+  }
+  const list = [...byCode.values()].map(({ code, qid, title, un }) => {
+    const status = STATUS[code] ?? (un ? 'UN member state' : undefined);
+    if (!status) throw new Error(`No status for ${code} (${title}); add it to STATUS`);
+    // Article titles give the common name ("China", not "People's Republic of China"); drop "(country)" etc.
+    const name = NAMES[code] ?? title.replace(/_/g, ' ').replace(/\s*\(.*\)$/, '');
+    return { code, qid, title, name, status };
+  }).sort((a, b) => a.name.localeCompare(b.name));
+  await writeFile(COUNTRIES_FILE, JSON.stringify(list, null, 2) + '\n');
+  console.log(`Wrote countries.json: ${list.length} countries and territories (${list.filter((x) => x.status === 'UN member state').length} UN members)`);
 }
 
-async function pickCountry(date) {
+async function pickCountry(date, previousQid) {
   const members = JSON.parse(await readFile(COUNTRIES_FILE, 'utf8'));
-  // Stepping by 37 (coprime with 193) visits every country once per cycle, in a less predictable order.
-  const pick = members[(dayNumber(date) * 37) % members.length];
-  console.log(`${members.length} UN members; today is ${pick.title}`);
+  // Stepping by 37 visits every entry once per cycle in a less predictable order, as long as the count isn't a multiple of 37.
+  // A day that already has a file keeps its country, so list changes never switch a country mid-day.
+  const pick = members.find((m) => m.qid === previousQid) ?? members[(dayNumber(date) * 37) % members.length];
+  console.log(`${members.length} countries and territories; ${isoDate(date)} is ${pick.name}`);
   return { ...pick, ...(await getDetails(pick.qid)) };
 }
 
@@ -127,15 +172,16 @@ async function readExisting(file) {
 
 async function build(date) {
   const file = new URL(`${isoDate(date)}.json`, DATA_DIR);
-  const c = await pickCountry(date);
   const previous = await readExisting(file);
-  // Article titles give the common name ("China", not "People's Republic of China"); drop "(country)" etc.
-  const name = c.title.replace(/_/g, ' ').replace(/\s*\(.*\)$/, '');
+  const c = await pickCountry(date, previous?.qid);
+  const name = c.name;
   const news = (await getNews(name)) ?? previous?.news ?? { label: 'No recent headlines found', items: [] };
   const data = {
     date: isoDate(date),
     updated: new Date().toISOString(),
+    qid: c.qid,
     name,
+    status: c.status,
     officialName: c.official ?? c.label,
     flag: { svg: c.flag, alt: `Flag of ${name}` },
     facts: {

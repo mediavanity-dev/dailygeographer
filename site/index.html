@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>The Daily Geographer</title>
-<meta name="description" content="A different country every day: today's news, flag and essential facts.">
+<meta name="description" content="A different country or territory every day: today's news, flag and essential facts.">
 <style>
   :root {
     --bg: #f6f4ef; --card: #ffffff; --text: #1c1b19; --muted: #6b675f; --line: #e3dfd6; --accent: #1f5f8b;
@@ -37,15 +37,18 @@
   a { color: var(--accent); }
   footer { color: var(--muted); font-size: .8rem; padding: 8px 0 32px; }
   .status { padding: 48px 0; text-align: center; color: var(--muted); }
+  .standing { display: inline-block; margin: 4px 0 4px; padding: 3px 10px; border: 1px solid var(--line); border-radius: 999px;
+    color: var(--muted); font-size: .8rem; line-height: 1.4; }
   @media (min-width: 640px) { .hero img { width: 140px; } }
 </style>
 </head>
 <body>
 <main>
   <header class="site"><span class="brand">The Daily Geographer</span><span class="date" id="date"></span></header>
-  <div id="app"><p class="status">Loading today's country…</p></div>
+  <div id="app"><p class="status">Loading…</p></div>
   <footer>
-    A new country every day at 00:00 UTC. Facts and flag from <a href="https://www.wikidata.org">Wikidata</a> (CC0);
+    A new country or territory every day at 00:00 UTC, from the
+    <a href="https://www.iso.org/iso-3166-country-codes.html">ISO 3166-1</a> list plus Kosovo, leaving out places with no permanent population. Facts and flag from <a href="https://www.wikidata.org">Wikidata</a> (CC0);
     summary from <a href="https://en.wikipedia.org">Wikipedia</a> (CC BY-SA); headlines via
     <a href="https://www.gdeltproject.org">GDELT</a>, linking to their publishers.
   </footer>
@@ -84,15 +87,16 @@ function render(d) {
       ? el('ol', { className: 'news' }, ...d.news.items.map((n) => el('li', {},
           el('a', { href: n.url, textContent: n.title, target: '_blank', rel: 'noopener' }),
           el('div', { className: 'meta', textContent: [n.source, newsDate(n.date), n.lang !== 'English' ? n.lang : null].filter(Boolean).join(' · ') }))))
-      : el('p', { textContent: 'No recent headlines were found for this country.' }));
+      : el('p', { textContent: `No recent headlines were found for ${d.name}.` }));
 
   const facts = el('section', {}, el('h2', { textContent: 'At a glance' }),
     el('dl', {}, ...Object.entries(d.facts).filter(([, v]) => v).flatMap(([k, v]) => [el('dt', { textContent: k }), el('dd', { textContent: v })])),
     d.map ? el('p', {}, el('a', { href: d.map, textContent: 'View on map', target: '_blank', rel: 'noopener' })) : null);
 
-  const about = d.summary?.extract ? el('section', {}, el('h2', { textContent: 'About' }),
-    el('p', { textContent: d.summary.extract }),
-    d.summary.url ? el('a', { href: d.summary.url, textContent: 'Read more on Wikipedia', target: '_blank', rel: 'noopener' }) : null) : null;
+  const about = d.summary?.extract || d.status ? el('section', {}, el('h2', { textContent: 'About' }),
+    d.status ? el('span', { className: 'standing', textContent: d.status, title: 'Political status' }) : null,
+    d.summary?.extract ? el('p', { textContent: d.summary.extract }) : null,
+    d.summary?.url ? el('a', { href: d.summary.url, textContent: 'Read more on Wikipedia', target: '_blank', rel: 'noopener' }) : null) : null;
 
   app.replaceChildren(
     el('div', { className: 'hero' },
@@ -102,7 +106,7 @@ function render(d) {
 }
 
 load().then(render).catch(() => {
-  app.replaceChildren(el('p', { className: 'status', textContent: "Today's country isn't ready yet. Please check back shortly." }));
+  app.replaceChildren(el('p', { className: 'status', textContent: "Today's page isn't ready yet. Please check back shortly." }));
 });
 
 // Reload just after the next UTC midnight so open tabs switch to the new country.

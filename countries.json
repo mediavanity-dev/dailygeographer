@@ -1,774 +1,1703 @@
 [
   {
+    "code": "AF",
     "qid": "Q889",
-    "title": "Afghanistan"
+    "title": "Afghanistan",
+    "name": "Afghanistan",
+    "status": "UN member state"
   },
   {
+    "code": "AX",
+    "qid": "Q5689",
+    "title": "Åland",
+    "name": "Åland",
+    "status": "Autonomous region of Finland"
+  },
+  {
+    "code": "AL",
     "qid": "Q222",
-    "title": "Albania"
+    "title": "Albania",
+    "name": "Albania",
+    "status": "UN member state"
   },
   {
+    "code": "DZ",
     "qid": "Q262",
-    "title": "Algeria"
+    "title": "Algeria",
+    "name": "Algeria",
+    "status": "UN member state"
   },
   {
+    "code": "AS",
+    "qid": "Q16641",
+    "title": "American_Samoa",
+    "name": "American Samoa",
+    "status": "Unincorporated territory of the United States"
+  },
+  {
+    "code": "AD",
     "qid": "Q228",
-    "title": "Andorra"
+    "title": "Andorra",
+    "name": "Andorra",
+    "status": "UN member state"
   },
   {
+    "code": "AO",
     "qid": "Q916",
-    "title": "Angola"
+    "title": "Angola",
+    "name": "Angola",
+    "status": "UN member state"
   },
   {
+    "code": "AI",
+    "qid": "Q25228",
+    "title": "Anguilla",
+    "name": "Anguilla",
+    "status": "British Overseas Territory"
+  },
+  {
+    "code": "AG",
     "qid": "Q781",
-    "title": "Antigua_and_Barbuda"
+    "title": "Antigua_and_Barbuda",
+    "name": "Antigua and Barbuda",
+    "status": "UN member state"
   },
   {
+    "code": "AR",
     "qid": "Q414",
-    "title": "Argentina"
+    "title": "Argentina",
+    "name": "Argentina",
+    "status": "UN member state"
   },
   {
+    "code": "AM",
     "qid": "Q399",
-    "title": "Armenia"
+    "title": "Armenia",
+    "name": "Armenia",
+    "status": "UN member state"
   },
   {
+    "code": "AW",
+    "qid": "Q21203",
+    "title": "Aruba",
+    "name": "Aruba",
+    "status": "Constituent country of the Kingdom of the Netherlands"
+  },
+  {
+    "code": "AU",
     "qid": "Q408",
-    "title": "Australia"
+    "title": "Australia",
+    "name": "Australia",
+    "status": "UN member state"
   },
   {
+    "code": "AT",
     "qid": "Q40",
-    "title": "Austria"
+    "title": "Austria",
+    "name": "Austria",
+    "status": "UN member state"
   },
   {
+    "code": "AZ",
     "qid": "Q227",
-    "title": "Azerbaijan"
+    "title": "Azerbaijan",
+    "name": "Azerbaijan",
+    "status": "UN member state"
   },
   {
+    "code": "BH",
     "qid": "Q398",
-    "title": "Bahrain"
+    "title": "Bahrain",
+    "name": "Bahrain",
+    "status": "UN member state"
   },
   {
+    "code": "BD",
     "qid": "Q902",
-    "title": "Bangladesh"
+    "title": "Bangladesh",
+    "name": "Bangladesh",
+    "status": "UN member state"
   },
   {
+    "code": "BB",
     "qid": "Q244",
-    "title": "Barbados"
+    "title": "Barbados",
+    "name": "Barbados",
+    "status": "UN member state"
   },
   {
+    "code": "BY",
     "qid": "Q184",
-    "title": "Belarus"
+    "title": "Belarus",
+    "name": "Belarus",
+    "status": "UN member state"
   },
   {
+    "code": "BE",
     "qid": "Q31",
-    "title": "Belgium"
+    "title": "Belgium",
+    "name": "Belgium",
+    "status": "UN member state"
   },
   {
+    "code": "BZ",
     "qid": "Q242",
-    "title": "Belize"
+    "title": "Belize",
+    "name": "Belize",
+    "status": "UN member state"
   },
   {
+    "code": "BJ",
     "qid": "Q962",
-    "title": "Benin"
+    "title": "Benin",
+    "name": "Benin",
+    "status": "UN member state"
   },
   {
+    "code": "BM",
+    "qid": "Q23635",
+    "title": "Bermuda",
+    "name": "Bermuda",
+    "status": "British Overseas Territory"
+  },
+  {
+    "code": "BT",
     "qid": "Q917",
-    "title": "Bhutan"
+    "title": "Bhutan",
+    "name": "Bhutan",
+    "status": "UN member state"
   },
   {
+    "code": "BO",
     "qid": "Q750",
-    "title": "Bolivia"
+    "title": "Bolivia",
+    "name": "Bolivia",
+    "status": "UN member state"
   },
   {
+    "code": "BA",
     "qid": "Q225",
-    "title": "Bosnia_and_Herzegovina"
+    "title": "Bosnia_and_Herzegovina",
+    "name": "Bosnia and Herzegovina",
+    "status": "UN member state"
   },
   {
+    "code": "BW",
     "qid": "Q963",
-    "title": "Botswana"
+    "title": "Botswana",
+    "name": "Botswana",
+    "status": "UN member state"
   },
   {
+    "code": "BR",
     "qid": "Q155",
-    "title": "Brazil"
+    "title": "Brazil",
+    "name": "Brazil",
+    "status": "UN member state"
   },
   {
+    "code": "VG",
+    "qid": "Q25305",
+    "title": "British_Virgin_Islands",
+    "name": "British Virgin Islands",
+    "status": "British Overseas Territory"
+  },
+  {
+    "code": "BN",
     "qid": "Q921",
-    "title": "Brunei"
+    "title": "Brunei",
+    "name": "Brunei",
+    "status": "UN member state"
   },
   {
+    "code": "BG",
     "qid": "Q219",
-    "title": "Bulgaria"
+    "title": "Bulgaria",
+    "name": "Bulgaria",
+    "status": "UN member state"
   },
   {
+    "code": "BF",
     "qid": "Q965",
-    "title": "Burkina_Faso"
+    "title": "Burkina_Faso",
+    "name": "Burkina Faso",
+    "status": "UN member state"
   },
   {
+    "code": "BI",
     "qid": "Q967",
-    "title": "Burundi"
+    "title": "Burundi",
+    "name": "Burundi",
+    "status": "UN member state"
   },
   {
+    "code": "KH",
     "qid": "Q424",
-    "title": "Cambodia"
+    "title": "Cambodia",
+    "name": "Cambodia",
+    "status": "UN member state"
   },
   {
+    "code": "CM",
     "qid": "Q1009",
-    "title": "Cameroon"
+    "title": "Cameroon",
+    "name": "Cameroon",
+    "status": "UN member state"
   },
   {
+    "code": "CA",
     "qid": "Q16",
-    "title": "Canada"
+    "title": "Canada",
+    "name": "Canada",
+    "status": "UN member state"
   },
   {
+    "code": "CV",
     "qid": "Q1011",
-    "title": "Cape_Verde"
+    "title": "Cape_Verde",
+    "name": "Cape Verde",
+    "status": "UN member state"
   },
   {
+    "code": "BQ",
+    "qid": "Q27561",
+    "title": "Caribbean_Netherlands",
+    "name": "Caribbean Netherlands",
+    "status": "Special municipalities of the Netherlands"
+  },
+  {
+    "code": "KY",
+    "qid": "Q5785",
+    "title": "Cayman_Islands",
+    "name": "Cayman Islands",
+    "status": "British Overseas Territory"
+  },
+  {
+    "code": "CF",
     "qid": "Q929",
-    "title": "Central_African_Republic"
+    "title": "Central_African_Republic",
+    "name": "Central African Republic",
+    "status": "UN member state"
   },
   {
+    "code": "TD",
     "qid": "Q657",
-    "title": "Chad"
+    "title": "Chad",
+    "name": "Chad",
+    "status": "UN member state"
   },
   {
+    "code": "CL",
     "qid": "Q298",
-    "title": "Chile"
+    "title": "Chile",
+    "name": "Chile",
+    "status": "UN member state"
   },
   {
+    "code": "CN",
     "qid": "Q148",
-    "title": "China"
+    "title": "China",
+    "name": "China",
+    "status": "UN member state"
   },
   {
+    "code": "CX",
+    "qid": "Q31063",
+    "title": "Christmas_Island",
+    "name": "Christmas Island",
+    "status": "External territory of Australia"
+  },
+  {
+    "code": "CC",
+    "qid": "Q36004",
+    "title": "Cocos_(Keeling)_Islands",
+    "name": "Cocos (Keeling) Islands",
+    "status": "External territory of Australia"
+  },
+  {
+    "code": "CO",
     "qid": "Q739",
-    "title": "Colombia"
+    "title": "Colombia",
+    "name": "Colombia",
+    "status": "UN member state"
   },
   {
+    "code": "KM",
     "qid": "Q970",
-    "title": "Comoros"
+    "title": "Comoros",
+    "name": "Comoros",
+    "status": "UN member state"
   },
   {
+    "code": "CK",
+    "qid": "Q26988",
+    "title": "Cook_Islands",
+    "name": "Cook Islands",
+    "status": "Self-governing in free association with New Zealand"
+  },
+  {
+    "code": "CR",
     "qid": "Q800",
-    "title": "Costa_Rica"
+    "title": "Costa_Rica",
+    "name": "Costa Rica",
+    "status": "UN member state"
   },
   {
+    "code": "HR",
     "qid": "Q224",
-    "title": "Croatia"
+    "title": "Croatia",
+    "name": "Croatia",
+    "status": "UN member state"
   },
   {
+    "code": "CU",
     "qid": "Q241",
-    "title": "Cuba"
+    "title": "Cuba",
+    "name": "Cuba",
+    "status": "UN member state"
   },
   {
+    "code": "CW",
+    "qid": "Q25279",
+    "title": "Curaçao",
+    "name": "Curaçao",
+    "status": "Constituent country of the Kingdom of the Netherlands"
+  },
+  {
+    "code": "CY",
     "qid": "Q229",
-    "title": "Cyprus"
+    "title": "Cyprus",
+    "name": "Cyprus",
+    "status": "UN member state"
   },
   {
+    "code": "CZ",
     "qid": "Q213",
-    "title": "Czech_Republic"
+    "title": "Czech_Republic",
+    "name": "Czech Republic",
+    "status": "UN member state"
   },
   {
-    "qid": "Q756617",
-    "title": "Danish_Realm"
-  },
-  {
+    "code": "CD",
     "qid": "Q974",
-    "title": "Democratic_Republic_of_the_Congo"
+    "title": "Democratic_Republic_of_the_Congo",
+    "name": "Democratic Republic of the Congo",
+    "status": "UN member state"
   },
   {
+    "code": "DK",
+    "qid": "Q35",
+    "title": "Denmark",
+    "name": "Denmark",
+    "status": "UN member state"
+  },
+  {
+    "code": "DJ",
     "qid": "Q977",
-    "title": "Djibouti"
+    "title": "Djibouti",
+    "name": "Djibouti",
+    "status": "UN member state"
   },
   {
+    "code": "DM",
     "qid": "Q784",
-    "title": "Dominica"
+    "title": "Dominica",
+    "name": "Dominica",
+    "status": "UN member state"
   },
   {
+    "code": "DO",
     "qid": "Q786",
-    "title": "Dominican_Republic"
+    "title": "Dominican_Republic",
+    "name": "Dominican Republic",
+    "status": "UN member state"
   },
   {
+    "code": "EC",
     "qid": "Q736",
-    "title": "Ecuador"
+    "title": "Ecuador",
+    "name": "Ecuador",
+    "status": "UN member state"
   },
   {
+    "code": "EG",
     "qid": "Q79",
-    "title": "Egypt"
+    "title": "Egypt",
+    "name": "Egypt",
+    "status": "UN member state"
   },
   {
+    "code": "SV",
     "qid": "Q792",
-    "title": "El_Salvador"
+    "title": "El_Salvador",
+    "name": "El Salvador",
+    "status": "UN member state"
   },
   {
+    "code": "GQ",
     "qid": "Q983",
-    "title": "Equatorial_Guinea"
+    "title": "Equatorial_Guinea",
+    "name": "Equatorial Guinea",
+    "status": "UN member state"
   },
   {
+    "code": "ER",
     "qid": "Q986",
-    "title": "Eritrea"
+    "title": "Eritrea",
+    "name": "Eritrea",
+    "status": "UN member state"
   },
   {
+    "code": "EE",
     "qid": "Q191",
-    "title": "Estonia"
+    "title": "Estonia",
+    "name": "Estonia",
+    "status": "UN member state"
   },
   {
+    "code": "SZ",
     "qid": "Q1050",
-    "title": "Eswatini"
+    "title": "Eswatini",
+    "name": "Eswatini",
+    "status": "UN member state"
   },
   {
+    "code": "ET",
     "qid": "Q115",
-    "title": "Ethiopia"
+    "title": "Ethiopia",
+    "name": "Ethiopia",
+    "status": "UN member state"
   },
   {
+    "code": "FK",
+    "qid": "Q9648",
+    "title": "Falkland_Islands",
+    "name": "Falkland Islands",
+    "status": "British Overseas Territory; claimed by Argentina"
+  },
+  {
+    "code": "FO",
+    "qid": "Q4628",
+    "title": "Faroe_Islands",
+    "name": "Faroe Islands",
+    "status": "Autonomous territory of Denmark"
+  },
+  {
+    "code": "FM",
     "qid": "Q702",
-    "title": "Federated_States_of_Micronesia"
+    "title": "Federated_States_of_Micronesia",
+    "name": "Federated States of Micronesia",
+    "status": "UN member state"
   },
   {
+    "code": "FJ",
     "qid": "Q712",
-    "title": "Fiji"
+    "title": "Fiji",
+    "name": "Fiji",
+    "status": "UN member state"
   },
   {
+    "code": "FI",
     "qid": "Q33",
-    "title": "Finland"
+    "title": "Finland",
+    "name": "Finland",
+    "status": "UN member state"
   },
   {
+    "code": "FR",
     "qid": "Q142",
-    "title": "France"
+    "title": "France",
+    "name": "France",
+    "status": "UN member state"
   },
   {
+    "code": "GF",
+    "qid": "Q3769",
+    "title": "French_Guiana",
+    "name": "French Guiana",
+    "status": "Overseas department of France"
+  },
+  {
+    "code": "PF",
+    "qid": "Q30971",
+    "title": "French_Polynesia",
+    "name": "French Polynesia",
+    "status": "Overseas collectivity of France"
+  },
+  {
+    "code": "GA",
     "qid": "Q1000",
-    "title": "Gabon"
+    "title": "Gabon",
+    "name": "Gabon",
+    "status": "UN member state"
   },
   {
+    "code": "GE",
     "qid": "Q230",
-    "title": "Georgia_(country)"
+    "title": "Georgia_(country)",
+    "name": "Georgia",
+    "status": "UN member state"
   },
   {
+    "code": "DE",
     "qid": "Q183",
-    "title": "Germany"
+    "title": "Germany",
+    "name": "Germany",
+    "status": "UN member state"
   },
   {
+    "code": "GH",
     "qid": "Q117",
-    "title": "Ghana"
+    "title": "Ghana",
+    "name": "Ghana",
+    "status": "UN member state"
   },
   {
+    "code": "GI",
+    "qid": "Q1410",
+    "title": "Gibraltar",
+    "name": "Gibraltar",
+    "status": "British Overseas Territory; claimed by Spain"
+  },
+  {
+    "code": "GR",
     "qid": "Q41",
-    "title": "Greece"
+    "title": "Greece",
+    "name": "Greece",
+    "status": "UN member state"
   },
   {
+    "code": "GL",
+    "qid": "Q223",
+    "title": "Greenland",
+    "name": "Greenland",
+    "status": "Autonomous territory of Denmark"
+  },
+  {
+    "code": "GD",
     "qid": "Q769",
-    "title": "Grenada"
+    "title": "Grenada",
+    "name": "Grenada",
+    "status": "UN member state"
   },
   {
+    "code": "GP",
+    "qid": "Q17012",
+    "title": "Guadeloupe",
+    "name": "Guadeloupe",
+    "status": "Overseas department of France"
+  },
+  {
+    "code": "GU",
+    "qid": "Q16635",
+    "title": "Guam",
+    "name": "Guam",
+    "status": "Unincorporated territory of the United States"
+  },
+  {
+    "code": "GT",
     "qid": "Q774",
-    "title": "Guatemala"
+    "title": "Guatemala",
+    "name": "Guatemala",
+    "status": "UN member state"
   },
   {
+    "code": "GG",
+    "qid": "Q25230",
+    "title": "Bailiwick_of_Guernsey",
+    "name": "Guernsey",
+    "status": "British Crown Dependency"
+  },
+  {
+    "code": "GN",
     "qid": "Q1006",
-    "title": "Guinea"
+    "title": "Guinea",
+    "name": "Guinea",
+    "status": "UN member state"
   },
   {
+    "code": "GW",
     "qid": "Q1007",
-    "title": "Guinea-Bissau"
+    "title": "Guinea-Bissau",
+    "name": "Guinea-Bissau",
+    "status": "UN member state"
   },
   {
+    "code": "GY",
     "qid": "Q734",
-    "title": "Guyana"
+    "title": "Guyana",
+    "name": "Guyana",
+    "status": "UN member state"
   },
   {
+    "code": "HT",
     "qid": "Q790",
-    "title": "Haiti"
+    "title": "Haiti",
+    "name": "Haiti",
+    "status": "UN member state"
   },
   {
+    "code": "HN",
     "qid": "Q783",
-    "title": "Honduras"
+    "title": "Honduras",
+    "name": "Honduras",
+    "status": "UN member state"
   },
   {
+    "code": "HK",
+    "qid": "Q8646",
+    "title": "Hong_Kong",
+    "name": "Hong Kong",
+    "status": "Special administrative region of China"
+  },
+  {
+    "code": "HU",
     "qid": "Q28",
-    "title": "Hungary"
+    "title": "Hungary",
+    "name": "Hungary",
+    "status": "UN member state"
   },
   {
+    "code": "IS",
     "qid": "Q189",
-    "title": "Iceland"
+    "title": "Iceland",
+    "name": "Iceland",
+    "status": "UN member state"
   },
   {
+    "code": "IN",
     "qid": "Q668",
-    "title": "India"
+    "title": "India",
+    "name": "India",
+    "status": "UN member state"
   },
   {
+    "code": "ID",
     "qid": "Q252",
-    "title": "Indonesia"
+    "title": "Indonesia",
+    "name": "Indonesia",
+    "status": "UN member state"
   },
   {
+    "code": "IR",
     "qid": "Q794",
-    "title": "Iran"
+    "title": "Iran",
+    "name": "Iran",
+    "status": "UN member state"
   },
   {
+    "code": "IQ",
     "qid": "Q796",
-    "title": "Iraq"
+    "title": "Iraq",
+    "name": "Iraq",
+    "status": "UN member state"
   },
   {
-    "qid": "Q801",
-    "title": "Israel"
-  },
-  {
-    "qid": "Q38",
-    "title": "Italy"
-  },
-  {
-    "qid": "Q1008",
-    "title": "Ivory_Coast"
-  },
-  {
-    "qid": "Q766",
-    "title": "Jamaica"
-  },
-  {
-    "qid": "Q17",
-    "title": "Japan"
-  },
-  {
-    "qid": "Q810",
-    "title": "Jordan"
-  },
-  {
-    "qid": "Q232",
-    "title": "Kazakhstan"
-  },
-  {
-    "qid": "Q114",
-    "title": "Kenya"
-  },
-  {
-    "qid": "Q29999",
-    "title": "Kingdom_of_the_Netherlands"
-  },
-  {
-    "qid": "Q710",
-    "title": "Kiribati"
-  },
-  {
-    "qid": "Q817",
-    "title": "Kuwait"
-  },
-  {
-    "qid": "Q813",
-    "title": "Kyrgyzstan"
-  },
-  {
-    "qid": "Q819",
-    "title": "Laos"
-  },
-  {
-    "qid": "Q211",
-    "title": "Latvia"
-  },
-  {
-    "qid": "Q822",
-    "title": "Lebanon"
-  },
-  {
-    "qid": "Q1013",
-    "title": "Lesotho"
-  },
-  {
-    "qid": "Q1014",
-    "title": "Liberia"
-  },
-  {
-    "qid": "Q1016",
-    "title": "Libya"
-  },
-  {
-    "qid": "Q347",
-    "title": "Liechtenstein"
-  },
-  {
-    "qid": "Q37",
-    "title": "Lithuania"
-  },
-  {
-    "qid": "Q32",
-    "title": "Luxembourg"
-  },
-  {
-    "qid": "Q1019",
-    "title": "Madagascar"
-  },
-  {
-    "qid": "Q1020",
-    "title": "Malawi"
-  },
-  {
-    "qid": "Q833",
-    "title": "Malaysia"
-  },
-  {
-    "qid": "Q826",
-    "title": "Maldives"
-  },
-  {
-    "qid": "Q912",
-    "title": "Mali"
-  },
-  {
-    "qid": "Q233",
-    "title": "Malta"
-  },
-  {
-    "qid": "Q709",
-    "title": "Marshall_Islands"
-  },
-  {
-    "qid": "Q1025",
-    "title": "Mauritania"
-  },
-  {
-    "qid": "Q1027",
-    "title": "Mauritius"
-  },
-  {
-    "qid": "Q96",
-    "title": "Mexico"
-  },
-  {
-    "qid": "Q217",
-    "title": "Moldova"
-  },
-  {
-    "qid": "Q235",
-    "title": "Monaco"
-  },
-  {
-    "qid": "Q711",
-    "title": "Mongolia"
-  },
-  {
-    "qid": "Q236",
-    "title": "Montenegro"
-  },
-  {
-    "qid": "Q1028",
-    "title": "Morocco"
-  },
-  {
-    "qid": "Q1029",
-    "title": "Mozambique"
-  },
-  {
-    "qid": "Q836",
-    "title": "Myanmar"
-  },
-  {
-    "qid": "Q1030",
-    "title": "Namibia"
-  },
-  {
-    "qid": "Q697",
-    "title": "Nauru"
-  },
-  {
-    "qid": "Q837",
-    "title": "Nepal"
-  },
-  {
-    "qid": "Q664",
-    "title": "New_Zealand"
-  },
-  {
-    "qid": "Q811",
-    "title": "Nicaragua"
-  },
-  {
-    "qid": "Q1032",
-    "title": "Niger"
-  },
-  {
-    "qid": "Q1033",
-    "title": "Nigeria"
-  },
-  {
-    "qid": "Q423",
-    "title": "North_Korea"
-  },
-  {
-    "qid": "Q221",
-    "title": "North_Macedonia"
-  },
-  {
-    "qid": "Q20",
-    "title": "Norway"
-  },
-  {
-    "qid": "Q842",
-    "title": "Oman"
-  },
-  {
-    "qid": "Q843",
-    "title": "Pakistan"
-  },
-  {
-    "qid": "Q695",
-    "title": "Palau"
-  },
-  {
-    "qid": "Q804",
-    "title": "Panama"
-  },
-  {
-    "qid": "Q691",
-    "title": "Papua_New_Guinea"
-  },
-  {
-    "qid": "Q733",
-    "title": "Paraguay"
-  },
-  {
-    "qid": "Q419",
-    "title": "Peru"
-  },
-  {
-    "qid": "Q928",
-    "title": "Philippines"
-  },
-  {
-    "qid": "Q36",
-    "title": "Poland"
-  },
-  {
-    "qid": "Q45",
-    "title": "Portugal"
-  },
-  {
-    "qid": "Q846",
-    "title": "Qatar"
-  },
-  {
+    "code": "IE",
     "qid": "Q27",
-    "title": "Republic_of_Ireland"
+    "title": "Republic_of_Ireland",
+    "name": "Ireland",
+    "status": "UN member state"
   },
   {
+    "code": "IM",
+    "qid": "Q9676",
+    "title": "Isle_of_Man",
+    "name": "Isle of Man",
+    "status": "British Crown Dependency"
+  },
+  {
+    "code": "IL",
+    "qid": "Q801",
+    "title": "Israel",
+    "name": "Israel",
+    "status": "UN member state"
+  },
+  {
+    "code": "IT",
+    "qid": "Q38",
+    "title": "Italy",
+    "name": "Italy",
+    "status": "UN member state"
+  },
+  {
+    "code": "CI",
+    "qid": "Q1008",
+    "title": "Ivory_Coast",
+    "name": "Ivory Coast",
+    "status": "UN member state"
+  },
+  {
+    "code": "JM",
+    "qid": "Q766",
+    "title": "Jamaica",
+    "name": "Jamaica",
+    "status": "UN member state"
+  },
+  {
+    "code": "JP",
+    "qid": "Q17",
+    "title": "Japan",
+    "name": "Japan",
+    "status": "UN member state"
+  },
+  {
+    "code": "JE",
+    "qid": "Q785",
+    "title": "Jersey",
+    "name": "Jersey",
+    "status": "British Crown Dependency"
+  },
+  {
+    "code": "JO",
+    "qid": "Q810",
+    "title": "Jordan",
+    "name": "Jordan",
+    "status": "UN member state"
+  },
+  {
+    "code": "KZ",
+    "qid": "Q232",
+    "title": "Kazakhstan",
+    "name": "Kazakhstan",
+    "status": "UN member state"
+  },
+  {
+    "code": "KE",
+    "qid": "Q114",
+    "title": "Kenya",
+    "name": "Kenya",
+    "status": "UN member state"
+  },
+  {
+    "code": "KI",
+    "qid": "Q710",
+    "title": "Kiribati",
+    "name": "Kiribati",
+    "status": "UN member state"
+  },
+  {
+    "code": "XK",
+    "qid": "Q1246",
+    "title": "Kosovo",
+    "name": "Kosovo",
+    "status": "Partially recognised state; claimed by Serbia"
+  },
+  {
+    "code": "KW",
+    "qid": "Q817",
+    "title": "Kuwait",
+    "name": "Kuwait",
+    "status": "UN member state"
+  },
+  {
+    "code": "KG",
+    "qid": "Q813",
+    "title": "Kyrgyzstan",
+    "name": "Kyrgyzstan",
+    "status": "UN member state"
+  },
+  {
+    "code": "LA",
+    "qid": "Q819",
+    "title": "Laos",
+    "name": "Laos",
+    "status": "UN member state"
+  },
+  {
+    "code": "LV",
+    "qid": "Q211",
+    "title": "Latvia",
+    "name": "Latvia",
+    "status": "UN member state"
+  },
+  {
+    "code": "LB",
+    "qid": "Q822",
+    "title": "Lebanon",
+    "name": "Lebanon",
+    "status": "UN member state"
+  },
+  {
+    "code": "LS",
+    "qid": "Q1013",
+    "title": "Lesotho",
+    "name": "Lesotho",
+    "status": "UN member state"
+  },
+  {
+    "code": "LR",
+    "qid": "Q1014",
+    "title": "Liberia",
+    "name": "Liberia",
+    "status": "UN member state"
+  },
+  {
+    "code": "LY",
+    "qid": "Q1016",
+    "title": "Libya",
+    "name": "Libya",
+    "status": "UN member state"
+  },
+  {
+    "code": "LI",
+    "qid": "Q347",
+    "title": "Liechtenstein",
+    "name": "Liechtenstein",
+    "status": "UN member state"
+  },
+  {
+    "code": "LT",
+    "qid": "Q37",
+    "title": "Lithuania",
+    "name": "Lithuania",
+    "status": "UN member state"
+  },
+  {
+    "code": "LU",
+    "qid": "Q32",
+    "title": "Luxembourg",
+    "name": "Luxembourg",
+    "status": "UN member state"
+  },
+  {
+    "code": "MO",
+    "qid": "Q14773",
+    "title": "Macau",
+    "name": "Macau",
+    "status": "Special administrative region of China"
+  },
+  {
+    "code": "MG",
+    "qid": "Q1019",
+    "title": "Madagascar",
+    "name": "Madagascar",
+    "status": "UN member state"
+  },
+  {
+    "code": "MW",
+    "qid": "Q1020",
+    "title": "Malawi",
+    "name": "Malawi",
+    "status": "UN member state"
+  },
+  {
+    "code": "MY",
+    "qid": "Q833",
+    "title": "Malaysia",
+    "name": "Malaysia",
+    "status": "UN member state"
+  },
+  {
+    "code": "MV",
+    "qid": "Q826",
+    "title": "Maldives",
+    "name": "Maldives",
+    "status": "UN member state"
+  },
+  {
+    "code": "ML",
+    "qid": "Q912",
+    "title": "Mali",
+    "name": "Mali",
+    "status": "UN member state"
+  },
+  {
+    "code": "MT",
+    "qid": "Q233",
+    "title": "Malta",
+    "name": "Malta",
+    "status": "UN member state"
+  },
+  {
+    "code": "MH",
+    "qid": "Q709",
+    "title": "Marshall_Islands",
+    "name": "Marshall Islands",
+    "status": "UN member state"
+  },
+  {
+    "code": "MQ",
+    "qid": "Q17054",
+    "title": "Martinique",
+    "name": "Martinique",
+    "status": "Overseas department of France"
+  },
+  {
+    "code": "MR",
+    "qid": "Q1025",
+    "title": "Mauritania",
+    "name": "Mauritania",
+    "status": "UN member state"
+  },
+  {
+    "code": "MU",
+    "qid": "Q1027",
+    "title": "Mauritius",
+    "name": "Mauritius",
+    "status": "UN member state"
+  },
+  {
+    "code": "YT",
+    "qid": "Q17063",
+    "title": "Mayotte",
+    "name": "Mayotte",
+    "status": "Overseas department of France"
+  },
+  {
+    "code": "MX",
+    "qid": "Q96",
+    "title": "Mexico",
+    "name": "Mexico",
+    "status": "UN member state"
+  },
+  {
+    "code": "MD",
+    "qid": "Q217",
+    "title": "Moldova",
+    "name": "Moldova",
+    "status": "UN member state"
+  },
+  {
+    "code": "MC",
+    "qid": "Q235",
+    "title": "Monaco",
+    "name": "Monaco",
+    "status": "UN member state"
+  },
+  {
+    "code": "MN",
+    "qid": "Q711",
+    "title": "Mongolia",
+    "name": "Mongolia",
+    "status": "UN member state"
+  },
+  {
+    "code": "ME",
+    "qid": "Q236",
+    "title": "Montenegro",
+    "name": "Montenegro",
+    "status": "UN member state"
+  },
+  {
+    "code": "MS",
+    "qid": "Q13353",
+    "title": "Montserrat",
+    "name": "Montserrat",
+    "status": "British Overseas Territory"
+  },
+  {
+    "code": "MA",
+    "qid": "Q1028",
+    "title": "Morocco",
+    "name": "Morocco",
+    "status": "UN member state"
+  },
+  {
+    "code": "MZ",
+    "qid": "Q1029",
+    "title": "Mozambique",
+    "name": "Mozambique",
+    "status": "UN member state"
+  },
+  {
+    "code": "MM",
+    "qid": "Q836",
+    "title": "Myanmar",
+    "name": "Myanmar",
+    "status": "UN member state"
+  },
+  {
+    "code": "NA",
+    "qid": "Q1030",
+    "title": "Namibia",
+    "name": "Namibia",
+    "status": "UN member state"
+  },
+  {
+    "code": "NR",
+    "qid": "Q697",
+    "title": "Nauru",
+    "name": "Nauru",
+    "status": "UN member state"
+  },
+  {
+    "code": "NP",
+    "qid": "Q837",
+    "title": "Nepal",
+    "name": "Nepal",
+    "status": "UN member state"
+  },
+  {
+    "code": "NL",
+    "qid": "Q29999",
+    "title": "Kingdom_of_the_Netherlands",
+    "name": "Netherlands",
+    "status": "UN member state"
+  },
+  {
+    "code": "NC",
+    "qid": "Q33788",
+    "title": "New_Caledonia",
+    "name": "New Caledonia",
+    "status": "Special collectivity of France"
+  },
+  {
+    "code": "NZ",
+    "qid": "Q664",
+    "title": "New_Zealand",
+    "name": "New Zealand",
+    "status": "UN member state"
+  },
+  {
+    "code": "NI",
+    "qid": "Q811",
+    "title": "Nicaragua",
+    "name": "Nicaragua",
+    "status": "UN member state"
+  },
+  {
+    "code": "NE",
+    "qid": "Q1032",
+    "title": "Niger",
+    "name": "Niger",
+    "status": "UN member state"
+  },
+  {
+    "code": "NG",
+    "qid": "Q1033",
+    "title": "Nigeria",
+    "name": "Nigeria",
+    "status": "UN member state"
+  },
+  {
+    "code": "NU",
+    "qid": "Q34020",
+    "title": "Niue",
+    "name": "Niue",
+    "status": "Self-governing in free association with New Zealand"
+  },
+  {
+    "code": "NF",
+    "qid": "Q31057",
+    "title": "Norfolk_Island",
+    "name": "Norfolk Island",
+    "status": "External territory of Australia"
+  },
+  {
+    "code": "KP",
+    "qid": "Q423",
+    "title": "North_Korea",
+    "name": "North Korea",
+    "status": "UN member state"
+  },
+  {
+    "code": "MK",
+    "qid": "Q221",
+    "title": "North_Macedonia",
+    "name": "North Macedonia",
+    "status": "UN member state"
+  },
+  {
+    "code": "MP",
+    "qid": "Q16644",
+    "title": "Northern_Mariana_Islands",
+    "name": "Northern Mariana Islands",
+    "status": "Unincorporated territory of the United States"
+  },
+  {
+    "code": "NO",
+    "qid": "Q20",
+    "title": "Norway",
+    "name": "Norway",
+    "status": "UN member state"
+  },
+  {
+    "code": "OM",
+    "qid": "Q842",
+    "title": "Oman",
+    "name": "Oman",
+    "status": "UN member state"
+  },
+  {
+    "code": "PK",
+    "qid": "Q843",
+    "title": "Pakistan",
+    "name": "Pakistan",
+    "status": "UN member state"
+  },
+  {
+    "code": "PW",
+    "qid": "Q695",
+    "title": "Palau",
+    "name": "Palau",
+    "status": "UN member state"
+  },
+  {
+    "code": "PS",
+    "qid": "Q219060",
+    "title": "Palestine",
+    "name": "Palestine",
+    "status": "UN observer state, recognised by most UN members"
+  },
+  {
+    "code": "PA",
+    "qid": "Q804",
+    "title": "Panama",
+    "name": "Panama",
+    "status": "UN member state"
+  },
+  {
+    "code": "PG",
+    "qid": "Q691",
+    "title": "Papua_New_Guinea",
+    "name": "Papua New Guinea",
+    "status": "UN member state"
+  },
+  {
+    "code": "PY",
+    "qid": "Q733",
+    "title": "Paraguay",
+    "name": "Paraguay",
+    "status": "UN member state"
+  },
+  {
+    "code": "PE",
+    "qid": "Q419",
+    "title": "Peru",
+    "name": "Peru",
+    "status": "UN member state"
+  },
+  {
+    "code": "PH",
+    "qid": "Q928",
+    "title": "Philippines",
+    "name": "Philippines",
+    "status": "UN member state"
+  },
+  {
+    "code": "PN",
+    "qid": "Q35672",
+    "title": "Pitcairn_Islands",
+    "name": "Pitcairn Islands",
+    "status": "British Overseas Territory"
+  },
+  {
+    "code": "PL",
+    "qid": "Q36",
+    "title": "Poland",
+    "name": "Poland",
+    "status": "UN member state"
+  },
+  {
+    "code": "PT",
+    "qid": "Q45",
+    "title": "Portugal",
+    "name": "Portugal",
+    "status": "UN member state"
+  },
+  {
+    "code": "PR",
+    "qid": "Q1183",
+    "title": "Puerto_Rico",
+    "name": "Puerto Rico",
+    "status": "Unincorporated territory of the United States"
+  },
+  {
+    "code": "QA",
+    "qid": "Q846",
+    "title": "Qatar",
+    "name": "Qatar",
+    "status": "UN member state"
+  },
+  {
+    "code": "CG",
     "qid": "Q971",
-    "title": "Republic_of_the_Congo"
+    "title": "Republic_of_the_Congo",
+    "name": "Republic of the Congo",
+    "status": "UN member state"
   },
   {
+    "code": "RE",
+    "qid": "Q17070",
+    "title": "Réunion",
+    "name": "Réunion",
+    "status": "Overseas department of France"
+  },
+  {
+    "code": "RO",
     "qid": "Q218",
-    "title": "Romania"
+    "title": "Romania",
+    "name": "Romania",
+    "status": "UN member state"
   },
   {
+    "code": "RU",
     "qid": "Q159",
-    "title": "Russia"
+    "title": "Russia",
+    "name": "Russia",
+    "status": "UN member state"
   },
   {
+    "code": "RW",
     "qid": "Q1037",
-    "title": "Rwanda"
+    "title": "Rwanda",
+    "name": "Rwanda",
+    "status": "UN member state"
   },
   {
+    "code": "BL",
+    "qid": "Q25362",
+    "title": "Saint_Barthélemy",
+    "name": "Saint Barthélemy",
+    "status": "Overseas collectivity of France"
+  },
+  {
+    "code": "SH",
+    "qid": "Q192184",
+    "title": "Saint_Helena,_Ascension_and_Tristan_da_Cunha",
+    "name": "Saint Helena, Ascension and Tristan da Cunha",
+    "status": "British Overseas Territory"
+  },
+  {
+    "code": "KN",
     "qid": "Q763",
-    "title": "Saint_Kitts_and_Nevis"
+    "title": "Saint_Kitts_and_Nevis",
+    "name": "Saint Kitts and Nevis",
+    "status": "UN member state"
   },
   {
+    "code": "LC",
     "qid": "Q760",
-    "title": "Saint_Lucia"
+    "title": "Saint_Lucia",
+    "name": "Saint Lucia",
+    "status": "UN member state"
   },
   {
+    "code": "MF",
+    "qid": "Q126125",
+    "title": "Collectivity_of_Saint_Martin",
+    "name": "Saint Martin",
+    "status": "Overseas collectivity of France"
+  },
+  {
+    "code": "PM",
+    "qid": "Q34617",
+    "title": "Saint_Pierre_and_Miquelon",
+    "name": "Saint Pierre and Miquelon",
+    "status": "Overseas collectivity of France"
+  },
+  {
+    "code": "VC",
     "qid": "Q757",
-    "title": "Saint_Vincent_and_the_Grenadines"
+    "title": "Saint_Vincent_and_the_Grenadines",
+    "name": "Saint Vincent and the Grenadines",
+    "status": "UN member state"
   },
   {
+    "code": "WS",
     "qid": "Q683",
-    "title": "Samoa"
+    "title": "Samoa",
+    "name": "Samoa",
+    "status": "UN member state"
   },
   {
+    "code": "SM",
     "qid": "Q238",
-    "title": "San_Marino"
+    "title": "San_Marino",
+    "name": "San Marino",
+    "status": "UN member state"
   },
   {
+    "code": "ST",
     "qid": "Q1039",
-    "title": "São_Tomé_and_Príncipe"
+    "title": "São_Tomé_and_Príncipe",
+    "name": "São Tomé and Príncipe",
+    "status": "UN member state"
   },
   {
+    "code": "SA",
     "qid": "Q851",
-    "title": "Saudi_Arabia"
+    "title": "Saudi_Arabia",
+    "name": "Saudi Arabia",
+    "status": "UN member state"
   },
   {
+    "code": "SN",
     "qid": "Q1041",
-    "title": "Senegal"
+    "title": "Senegal",
+    "name": "Senegal",
+    "status": "UN member state"
   },
   {
+    "code": "RS",
     "qid": "Q403",
-    "title": "Serbia"
+    "title": "Serbia",
+    "name": "Serbia",
+    "status": "UN member state"
   },
   {
+    "code": "SC",
     "qid": "Q1042",
-    "title": "Seychelles"
+    "title": "Seychelles",
+    "name": "Seychelles",
+    "status": "UN member state"
   },
   {
+    "code": "SL",
     "qid": "Q1044",
-    "title": "Sierra_Leone"
+    "title": "Sierra_Leone",
+    "name": "Sierra Leone",
+    "status": "UN member state"
   },
   {
+    "code": "SG",
     "qid": "Q334",
-    "title": "Singapore"
+    "title": "Singapore",
+    "name": "Singapore",
+    "status": "UN member state"
   },
   {
+    "code": "SX",
+    "qid": "Q26273",
+    "title": "Sint_Maarten",
+    "name": "Sint Maarten",
+    "status": "Constituent country of the Kingdom of the Netherlands"
+  },
+  {
+    "code": "SK",
     "qid": "Q214",
-    "title": "Slovakia"
+    "title": "Slovakia",
+    "name": "Slovakia",
+    "status": "UN member state"
   },
   {
+    "code": "SI",
     "qid": "Q215",
-    "title": "Slovenia"
+    "title": "Slovenia",
+    "name": "Slovenia",
+    "status": "UN member state"
   },
   {
+    "code": "SB",
     "qid": "Q685",
-    "title": "Solomon_Islands"
+    "title": "Solomon_Islands",
+    "name": "Solomon Islands",
+    "status": "UN member state"
   },
   {
+    "code": "SO",
     "qid": "Q1045",
-    "title": "Somalia"
+    "title": "Somalia",
+    "name": "Somalia",
+    "status": "UN member state"
   },
   {
+    "code": "ZA",
     "qid": "Q258",
-    "title": "South_Africa"
+    "title": "South_Africa",
+    "name": "South Africa",
+    "status": "UN member state"
   },
   {
+    "code": "KR",
     "qid": "Q884",
-    "title": "South_Korea"
+    "title": "South_Korea",
+    "name": "South Korea",
+    "status": "UN member state"
   },
   {
+    "code": "SS",
     "qid": "Q958",
-    "title": "South_Sudan"
+    "title": "South_Sudan",
+    "name": "South Sudan",
+    "status": "UN member state"
   },
   {
+    "code": "ES",
     "qid": "Q29",
-    "title": "Spain"
+    "title": "Spain",
+    "name": "Spain",
+    "status": "UN member state"
   },
   {
+    "code": "LK",
     "qid": "Q854",
-    "title": "Sri_Lanka"
+    "title": "Sri_Lanka",
+    "name": "Sri Lanka",
+    "status": "UN member state"
   },
   {
+    "code": "SD",
     "qid": "Q1049",
-    "title": "Sudan"
+    "title": "Sudan",
+    "name": "Sudan",
+    "status": "UN member state"
   },
   {
+    "code": "SR",
     "qid": "Q730",
-    "title": "Suriname"
+    "title": "Suriname",
+    "name": "Suriname",
+    "status": "UN member state"
   },
   {
+    "code": "SJ",
+    "qid": "Q842829",
+    "title": "Svalbard_and_Jan_Mayen",
+    "name": "Svalbard and Jan Mayen",
+    "status": "Part of Norway"
+  },
+  {
+    "code": "SE",
     "qid": "Q34",
-    "title": "Sweden"
+    "title": "Sweden",
+    "name": "Sweden",
+    "status": "UN member state"
   },
   {
+    "code": "CH",
     "qid": "Q39",
-    "title": "Switzerland"
+    "title": "Switzerland",
+    "name": "Switzerland",
+    "status": "UN member state"
   },
   {
+    "code": "SY",
     "qid": "Q858",
-    "title": "Syria"
+    "title": "Syria",
+    "name": "Syria",
+    "status": "UN member state"
   },
   {
+    "code": "TW",
+    "qid": "Q865",
+    "title": "Taiwan",
+    "name": "Taiwan",
+    "status": "Partially recognised state; claimed by the People's Republic of China"
+  },
+  {
+    "code": "TJ",
     "qid": "Q863",
-    "title": "Tajikistan"
+    "title": "Tajikistan",
+    "name": "Tajikistan",
+    "status": "UN member state"
   },
   {
+    "code": "TZ",
     "qid": "Q924",
-    "title": "Tanzania"
+    "title": "Tanzania",
+    "name": "Tanzania",
+    "status": "UN member state"
   },
   {
+    "code": "TH",
     "qid": "Q869",
-    "title": "Thailand"
+    "title": "Thailand",
+    "name": "Thailand",
+    "status": "UN member state"
   },
   {
+    "code": "BS",
     "qid": "Q778",
-    "title": "The_Bahamas"
+    "title": "The_Bahamas",
+    "name": "The Bahamas",
+    "status": "UN member state"
   },
   {
+    "code": "GM",
     "qid": "Q1005",
-    "title": "The_Gambia"
+    "title": "The_Gambia",
+    "name": "The Gambia",
+    "status": "UN member state"
   },
   {
+    "code": "TL",
     "qid": "Q574",
-    "title": "Timor-Leste"
+    "title": "Timor-Leste",
+    "name": "Timor-Leste",
+    "status": "UN member state"
   },
   {
+    "code": "TG",
     "qid": "Q945",
-    "title": "Togo"
+    "title": "Togo",
+    "name": "Togo",
+    "status": "UN member state"
   },
   {
+    "code": "TK",
+    "qid": "Q36823",
+    "title": "Tokelau",
+    "name": "Tokelau",
+    "status": "Territory of New Zealand"
+  },
+  {
+    "code": "TO",
     "qid": "Q678",
-    "title": "Tonga"
+    "title": "Tonga",
+    "name": "Tonga",
+    "status": "UN member state"
   },
   {
+    "code": "TT",
     "qid": "Q754",
-    "title": "Trinidad_and_Tobago"
+    "title": "Trinidad_and_Tobago",
+    "name": "Trinidad and Tobago",
+    "status": "UN member state"
   },
   {
+    "code": "TN",
     "qid": "Q948",
-    "title": "Tunisia"
+    "title": "Tunisia",
+    "name": "Tunisia",
+    "status": "UN member state"
   },
   {
+    "code": "TR",
     "qid": "Q43",
-    "title": "Turkey"
+    "title": "Turkey",
+    "name": "Turkey",
+    "status": "UN member state"
   },
   {
+    "code": "TM",
     "qid": "Q874",
-    "title": "Turkmenistan"
+    "title": "Turkmenistan",
+    "name": "Turkmenistan",
+    "status": "UN member state"
   },
   {
+    "code": "TC",
+    "qid": "Q18221",
+    "title": "Turks_and_Caicos_Islands",
+    "name": "Turks and Caicos Islands",
+    "status": "British Overseas Territory"
+  },
+  {
+    "code": "TV",
     "qid": "Q672",
-    "title": "Tuvalu"
+    "title": "Tuvalu",
+    "name": "Tuvalu",
+    "status": "UN member state"
   },
   {
+    "code": "UG",
     "qid": "Q1036",
-    "title": "Uganda"
+    "title": "Uganda",
+    "name": "Uganda",
+    "status": "UN member state"
   },
   {
+    "code": "UA",
     "qid": "Q212",
-    "title": "Ukraine"
+    "title": "Ukraine",
+    "name": "Ukraine",
+    "status": "UN member state"
   },
   {
+    "code": "AE",
     "qid": "Q878",
-    "title": "United_Arab_Emirates"
+    "title": "United_Arab_Emirates",
+    "name": "United Arab Emirates",
+    "status": "UN member state"
   },
   {
+    "code": "GB",
     "qid": "Q145",
-    "title": "United_Kingdom"
+    "title": "United_Kingdom",
+    "name": "United Kingdom",
+    "status": "UN member state"
   },
   {
+    "code": "US",
     "qid": "Q30",
-    "title": "United_States"
+    "title": "United_States",
+    "name": "United States",
+    "status": "UN member state"
   },
   {
+    "code": "VI",
+    "qid": "Q11703",
+    "title": "United_States_Virgin_Islands",
+    "name": "United States Virgin Islands",
+    "status": "Unincorporated territory of the United States"
+  },
+  {
+    "code": "UY",
     "qid": "Q77",
-    "title": "Uruguay"
+    "title": "Uruguay",
+    "name": "Uruguay",
+    "status": "UN member state"
   },
   {
+    "code": "UZ",
     "qid": "Q265",
-    "title": "Uzbekistan"
+    "title": "Uzbekistan",
+    "name": "Uzbekistan",
+    "status": "UN member state"
   },
   {
+    "code": "VU",
     "qid": "Q686",
-    "title": "Vanuatu"
+    "title": "Vanuatu",
+    "name": "Vanuatu",
+    "status": "UN member state"
   },
   {
+    "code": "VA",
+    "qid": "Q237",
+    "title": "Vatican_City",
+    "name": "Vatican City",
+    "status": "UN observer state"
+  },
+  {
+    "code": "VE",
     "qid": "Q717",
-    "title": "Venezuela"
+    "title": "Venezuela",
+    "name": "Venezuela",
+    "status": "UN member state"
   },
   {
+    "code": "VN",
     "qid": "Q881",
-    "title": "Vietnam"
+    "title": "Vietnam",
+    "name": "Vietnam",
+    "status": "UN member state"
   },
   {
+    "code": "WF",
+    "qid": "Q35555",
+    "title": "Wallis_and_Futuna",
+    "name": "Wallis and Futuna",
+    "status": "Overseas collectivity of France"
+  },
+  {
+    "code": "EH",
+    "qid": "Q6250",
+    "title": "Western_Sahara",
+    "name": "Western Sahara",
+    "status": "Non-self-governing territory (UN list); disputed between Morocco and the Sahrawi Republic"
+  },
+  {
+    "code": "YE",
     "qid": "Q805",
-    "title": "Yemen"
+    "title": "Yemen",
+    "name": "Yemen",
+    "status": "UN member state"
   },
   {
+    "code": "ZM",
     "qid": "Q953",
-    "title": "Zambia"
+    "title": "Zambia",
+    "name": "Zambia",
+    "status": "UN member state"
   },
   {
+    "code": "ZW",
     "qid": "Q954",
-    "title": "Zimbabwe"
+    "title": "Zimbabwe",
+    "name": "Zimbabwe",
+    "status": "UN member state"
   }
 ]
