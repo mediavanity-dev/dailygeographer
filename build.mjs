@@ -211,43 +211,41 @@ async function getHistory(ref) {
 // GDELT allows roughly one request per 5 seconds, so attempts are spaced out.
 const NEWS_PER_LIST = 8, PER_SOURCE = 2;
 
-async function firstWithResults(attempts, exclude = new Set()) {
-  for (const a of attempts) {
-    const url = `https://api.gdeltproject.org/api/v2/doc/doc?query=${encodeURIComponent(a.q)}&mode=artlist&format=json&maxrecords=40&sort=datedesc&timespan=${a.span}`;
-    try {
-      // GDELT often answers HTTP 429 to shared CI addresses, so the same query is retried with long waits (20s, 40s, 60s).
-      const { articles = [] } = await getJSON(url, 4, 20000);
-      const seen = new Set(), perSource = {};
-      // A cap per outlet keeps one prolific site from filling the list.
-      const items = articles
-        .filter((x) => x.title && !exclude.has(x.url) && !seen.has(x.title) && seen.add(x.title)
-          && (perSource[x.domain] = (perSource[x.domain] ?? 0) + 1) <= PER_SOURCE)
-        .slice(0, NEWS_PER_LIST)
-        .map((x) => ({ title: cleanTitle(x.title), url: x.url, source: x.domain, date: x.seendate, lang: x.language }));
-      await sleep(6000);
-      if (items.length >= 3) return { label: a.label, items };
-    } catch (err) {
-      console.warn('GDELT attempt failed:', a.q, a.span, err.message);
-      await sleep(6000);
-    }
+// GDELT dates look like 20261031T120000Z.
+const ageDays = (s) => (Date.now() - Date.parse(s.replace(/^(\d{4})(\d\d)(\d\d)T(\d\d)(\d\d)(\d\d)Z$/, '$1-$2-$3T$4:$5:$6Z'))) / 86400000;
+const ageLabel = (items) => {
+  const oldest = Math.max(...items.map((x) => ageDays(x.date)));
+  return oldest <= 1 ? 'Last 24 hours' : oldest <= 7 ? 'Last 7 days' : oldest <= 31 ? 'Last month' : 'Last 3 months';
+};
+
+// One query per list, newest first, keeps GDELT calls (and its rate limiting) to a minimum.
+async function newest(q, span, exclude = new Set()) {
+  const url = `https://api.gdeltproject.org/api/v2/doc/doc?query=${encodeURIComponent(q)}&mode=artlist&format=json&maxrecords=75&sort=datedesc&timespan=${span}`;
+  try {
+    // GDELT often answers HTTP 429 to shared CI addresses, so the query is retried with long waits (20s, 40s, 60s).
+    const { articles = [] } = await getJSON(url, 4, 20000);
+    const seen = new Set(), perSource = {};
+    // A cap per outlet keeps one prolific site from filling the list.
+    const items = articles
+      .filter((x) => x.title && !exclude.has(x.url) && !seen.has(x.title) && seen.add(x.title)
+        && (perSource[x.domain] = (perSource[x.domain] ?? 0) + 1) <= PER_SOURCE)
+      .slice(0, NEWS_PER_LIST)
+      .map((x) => ({ title: cleanTitle(x.title), url: x.url, source: x.domain, date: x.seendate, lang: x.language }));
+    return items.length ? { label: ageLabel(items), items } : null;
+  } catch (err) {
+    console.warn('GDELT query failed:', q, err.message);
+    return null;
+  } finally {
+    await sleep(6000);
   }
-  return null;
 }
 
 async function getNews(c) {
   const fips = c.fips ?? [];
   const local = fips.length > 1 ? `(${fips.map((f) => `sourcecountry:${f}`).join(' OR ')})` : `sourcecountry:${fips[0]}`;
-  const localNews = fips.length ? await firstWithResults([
-    { q: `${local} sourcelang:english`, span: '1d', label: 'In English, last 24 hours' },
-    { q: local, span: '1d', label: 'Last 24 hours' },
-    { q: local, span: '7d', label: 'Last 7 days' },
-    { q: local, span: '3months', label: 'Last 3 months' },
-  ]) : undefined;
+  const localNews = fips.length ? await newest(local, '3months') : undefined;
   const notLocal = fips.map((f) => ` -sourcecountry:${f}`).join('');
-  const intlNews = await firstWithResults([
-    { q: `"${c.name}" sourcelang:english${notLocal}`, span: '1d', label: 'Last 24 hours' },
-    { q: `"${c.name}" sourcelang:english${notLocal}`, span: '7d', label: 'Last 7 days' },
-  ], new Set(localNews?.items.map((x) => x.url)));
+  const intlNews = await newest(`"${c.name}" sourcelang:english${notLocal}`, '7d', new Set(localNews?.items.map((x) => x.url)));
   // undefined: GDELT has no outlets for this place; null: nothing found this time.
   return { local: localNews, international: intlNews };
 }
