@@ -1,6 +1,6 @@
 {
   "date": "2026-10-31",
-  "updated": "2026-10-31T17:54:30.285Z",
+  "updated": "2026-10-31T18:10:15.190Z",
   "qid": "Q117",
   "name": "Ghana",
   "status": "UN member state",
@@ -16,7 +16,7 @@
     "Area": "238,535 km²",
     "Languages": "English",
     "Currency": "Ghana cedi",
-    "Time zones": "UTC+00:00, Africa/Accra",
+    "Time zones": "Africa/Accra, UTC+00:00",
     "Calling code": "+233"
   },
   "map": "https://www.openstreetmap.org/?mlat=7.9465&mlon=-1.0232#map=5/7.9465/-1.0232",
