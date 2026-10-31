@@ -1,0 +1,113 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>The Daily Geographer</title>
+<meta name="description" content="A different country every day: today's news, flag and essential facts.">
+<style>
+  :root {
+    --bg: #f6f4ef; --card: #ffffff; --text: #1c1b19; --muted: #6b675f; --line: #e3dfd6; --accent: #1f5f8b;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root { --bg: #141412; --card: #1e1d1b; --text: #ece9e2; --muted: #a29d93; --line: #33312d; --accent: #7fb6dc; }
+  }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--bg); color: var(--text); font: 16px/1.5 system-ui, -apple-system, "Segoe UI", sans-serif; }
+  main { max-width: 760px; margin: 0 auto; padding: 16px; }
+  header.site { display: flex; justify-content: space-between; align-items: baseline; gap: 12px; padding: 4px 0 16px; border-bottom: 1px solid var(--line); }
+  .brand { font: 700 1.05rem/1.2 Georgia, serif; letter-spacing: .02em; }
+  .date { color: var(--muted); font-size: .85rem; }
+  .hero { display: flex; gap: 16px; align-items: center; padding: 20px 0; }
+  .hero img { width: 96px; height: auto; border-radius: 4px; border: 1px solid var(--line); flex: none; }
+  h1 { font: 700 clamp(1.8rem, 7vw, 2.6rem)/1.1 Georgia, serif; margin: 0; }
+  .official { color: var(--muted); margin: 4px 0 0; font-size: .95rem; }
+  section { background: var(--card); border: 1px solid var(--line); border-radius: 12px; padding: 16px; margin-bottom: 16px; }
+  h2 { font-size: .8rem; text-transform: uppercase; letter-spacing: .08em; color: var(--muted); margin: 0 0 4px; }
+  .note { color: var(--muted); font-size: .85rem; margin: 0 0 8px; }
+  ol.news { list-style: none; margin: 0; padding: 0; }
+  ol.news li { padding: 12px 0; border-top: 1px solid var(--line); }
+  ol.news li:first-child { border-top: 0; }
+  ol.news a { color: var(--text); text-decoration: none; font-weight: 600; }
+  ol.news a:hover { color: var(--accent); text-decoration: underline; }
+  .meta { color: var(--muted); font-size: .8rem; margin-top: 2px; }
+  dl { display: grid; grid-template-columns: max-content 1fr; gap: 8px 16px; margin: 8px 0 0; }
+  dt { color: var(--muted); }
+  dd { margin: 0; overflow-wrap: anywhere; }
+  a { color: var(--accent); }
+  footer { color: var(--muted); font-size: .8rem; padding: 8px 0 32px; }
+  .status { padding: 48px 0; text-align: center; color: var(--muted); }
+  @media (min-width: 640px) { .hero img { width: 140px; } }
+</style>
+</head>
+<body>
+<main>
+  <header class="site"><span class="brand">The Daily Geographer</span><span class="date" id="date"></span></header>
+  <div id="app"><p class="status">Loading today's country…</p></div>
+  <footer>
+    A new country every day at 00:00 UTC. Facts and flag from <a href="https://www.wikidata.org">Wikidata</a> (CC0);
+    summary from <a href="https://en.wikipedia.org">Wikipedia</a> (CC BY-SA); headlines via
+    <a href="https://www.gdeltproject.org">GDELT</a>, linking to their publishers.
+  </footer>
+</main>
+<script>
+const app = document.getElementById('app');
+const el = (tag, props = {}, ...kids) => {
+  const n = Object.assign(document.createElement(tag), props);
+  n.append(...kids.filter((k) => k != null));
+  return n;
+};
+const utcDate = (offsetDays = 0) => new Date(Date.now() + offsetDays * 86400000).toISOString().slice(0, 10);
+// GDELT dates look like 20261031T120000Z
+const newsDate = (s) => s ? new Date(s.replace(/^(\d{4})(\d\d)(\d\d)T(\d\d)(\d\d)(\d\d)Z$/, '$1-$2-$3T$4:$5:$6Z'))
+  .toLocaleString(undefined, { month: 'short', day: 'numeric', hour: 'numeric', minute: '2-digit' }) : '';
+
+async function load() {
+  for (const day of [utcDate(0), utcDate(-1)]) {
+    try {
+      const res = await fetch(`data/${day}.json`, { cache: 'no-cache' });
+      if (res.ok) return res.json();
+    } catch {}
+  }
+  throw new Error('No data');
+}
+
+function render(d) {
+  document.title = `${d.name} · The Daily Geographer`;
+  document.getElementById('date').textContent =
+    new Date(d.date + 'T00:00:00Z').toLocaleDateString(undefined, { timeZone: 'UTC', weekday: 'long', month: 'long', day: 'numeric' });
+
+  const news = el('section', {},
+    el('h2', { textContent: `News from ${d.name}` }),
+    el('p', { className: 'note', textContent: d.news.label }),
+    d.news.items.length
+      ? el('ol', { className: 'news' }, ...d.news.items.map((n) => el('li', {},
+          el('a', { href: n.url, textContent: n.title, target: '_blank', rel: 'noopener' }),
+          el('div', { className: 'meta', textContent: [n.source, newsDate(n.date), n.lang !== 'English' ? n.lang : null].filter(Boolean).join(' · ') }))))
+      : el('p', { textContent: 'No recent headlines were found for this country.' }));
+
+  const facts = el('section', {}, el('h2', { textContent: 'At a glance' }),
+    el('dl', {}, ...Object.entries(d.facts).filter(([, v]) => v).flatMap(([k, v]) => [el('dt', { textContent: k }), el('dd', { textContent: v })])),
+    d.map ? el('p', {}, el('a', { href: d.map, textContent: 'View on map', target: '_blank', rel: 'noopener' })) : null);
+
+  const about = d.summary?.extract ? el('section', {}, el('h2', { textContent: 'About' }),
+    el('p', { textContent: d.summary.extract }),
+    d.summary.url ? el('a', { href: d.summary.url, textContent: 'Read more on Wikipedia', target: '_blank', rel: 'noopener' }) : null) : null;
+
+  app.replaceChildren(
+    el('div', { className: 'hero' },
+      d.flag.svg || d.flag.png ? el('img', { src: d.flag.svg || d.flag.png, alt: d.flag.alt }) : null,
+      el('div', {}, el('h1', { textContent: d.name }), d.officialName !== d.name ? el('p', { className: 'official', textContent: d.officialName }) : null)),
+    news, facts, about);
+}
+
+load().then(render).catch(() => {
+  app.replaceChildren(el('p', { className: 'status', textContent: "Today's country isn't ready yet. Please check back shortly." }));
+});
+
+// Reload just after the next UTC midnight so open tabs switch to the new country.
+const msToMidnight = 86400000 - (Date.now() % 86400000) + 60000;
+setTimeout(() => location.reload(), msToMidnight);
+</script>
+</body>
+</html>

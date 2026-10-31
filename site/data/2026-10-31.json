@@ -1,0 +1,72 @@
+{
+  "date": "2026-10-31",
+  "updated": "2026-10-31T16:50:40.844Z",
+  "name": "Ghana",
+  "officialName": "Ghana",
+  "flag": {
+    "svg": "https://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Ghana.svg",
+    "alt": "Flag of Ghana"
+  },
+  "facts": {
+    "Capital": "Accra",
+    "Continent": "Africa",
+    "Population": "32,833,031",
+    "Area": "238,535 km²",
+    "Languages": "English",
+    "Currency": "Ghana cedi",
+    "Time zones": "Africa/Accra, UTC+00:00",
+    "Calling code": "+233"
+  },
+  "map": "https://www.openstreetmap.org/?mlat=7.9465&mlon=-1.0232#map=5/7.9465/-1.0232",
+  "summary": {
+    "extract": "Ghana, officially the Republic of Ghana, is a country in West Africa. It is situated with the Gulf of Guinea and the Atlantic Ocean to the south, and shares borders with Ivory Coast to the west, Burkina Faso to the north, and Togo to the east. Ghana covers an area of 239,567 km2 (92,497 sq mi), spanning various ecologies, from coastal savannas to tropical rainforests. With over 35 million inhabitants, Ghana is the thirteenth-most populous country in Africa, and the second-most populous country in West Africa. The capital and most populous city is Accra.",
+    "url": "https://en.wikipedia.org/wiki/Ghana"
+  },
+  "news": {
+    "label": "International coverage, last 7 days",
+    "items": [
+      {
+        "title": "King begins tour of Caribbean as calls grow for slavery apology",
+        "url": "https://www.keighleynews.co.uk/news/national/26672176.king-begins-tour-caribbean-calls-grow-slavery-apology/",
+        "source": "keighleynews.co.uk",
+        "date": "20261027T051500Z",
+        "lang": "English"
+      },
+      {
+        "title": "Ghanaian midfielder Enoch Akuffo rejoins AC Torrellano – Ghanamma . com",
+        "url": "https://www.ghanamma.com/2026/10/27/ghanaian-midfielder-enoch-akuffo-rejoins-ac-torrellano/",
+        "source": "ghanamma.com",
+        "date": "20261027T051500Z",
+        "lang": "English"
+      },
+      {
+        "title": "Poultry Farmers Warn of At Least 15 % Price Increase Ahead of Christmas – Ghanamma . com",
+        "url": "https://www.ghanamma.com/2026/10/27/poultry-farmers-warn-of-at-least-15-price-increase-ahead-of-christmas/",
+        "source": "ghanamma.com",
+        "date": "20261027T051500Z",
+        "lang": "English"
+      },
+      {
+        "title": "Kopa Trophy 2026 : Yan Diomande leads African contenders as Yamal makes history – Ghanamma . com",
+        "url": "https://www.ghanamma.com/2026/10/27/kopa-trophy-2026-yan-diomande-leads-african-contenders-as-yamal-makes-history/",
+        "source": "ghanamma.com",
+        "date": "20261027T051500Z",
+        "lang": "English"
+      },
+      {
+        "title": "2026 / 27 Ghana Colts season to begin on 31 October – Ghanamma . com",
+        "url": "https://www.ghanamma.com/2026/10/27/2026-27-ghana-colts-season-to-begin-on-31-october/",
+        "source": "ghanamma.com",
+        "date": "20261027T051500Z",
+        "lang": "English"
+      },
+      {
+        "title": "Asamoah Gyan Linked With Possible Bid for GFA Presidency – Ghanamma . com",
+        "url": "https://www.ghanamma.com/2026/10/27/asamoah-gyan-linked-with-possible-bid-for-gfa-presidency/",
+        "source": "ghanamma.com",
+        "date": "20261027T051500Z",
+        "lang": "English"
+      }
+    ]
+  }
+}
