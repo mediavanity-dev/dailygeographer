@@ -107,7 +107,8 @@
     "fips": [
       "AR"
     ],
-    "history": "History of Argentina"
+    "history": "History of Argentina",
+    "google": "AR:es-419"
   },
   {
     "code": "AM",
@@ -140,7 +141,8 @@
     "fips": [
       "AS"
     ],
-    "history": "History of Australia"
+    "history": "History of Australia",
+    "google": "AU:en"
   },
   {
     "code": "AT",
@@ -151,7 +153,8 @@
     "fips": [
       "AU"
     ],
-    "history": "History of Austria"
+    "history": "History of Austria",
+    "google": "AT:de"
   },
   {
     "code": "AZ",
@@ -184,7 +187,8 @@
     "fips": [
       "BG"
     ],
-    "history": "History of Bangladesh"
+    "history": "History of Bangladesh",
+    "google": "BD:bn"
   },
   {
     "code": "BB",
@@ -217,7 +221,8 @@
     "fips": [
       "BE"
     ],
-    "history": "History of Belgium"
+    "history": "History of Belgium",
+    "google": "BE:fr"
   },
   {
     "code": "BZ",
@@ -294,7 +299,8 @@
     "fips": [
       "BC"
     ],
-    "history": "History of Botswana"
+    "history": "History of Botswana",
+    "google": "BW:en"
   },
   {
     "code": "BR",
@@ -305,7 +311,8 @@
     "fips": [
       "BR"
     ],
-    "history": "History of Brazil"
+    "history": "History of Brazil",
+    "google": "BR:pt-419"
   },
   {
     "code": "VG",
@@ -338,7 +345,8 @@
     "fips": [
       "BU"
     ],
-    "history": "History of Bulgaria"
+    "history": "History of Bulgaria",
+    "google": "BG:bg"
   },
   {
     "code": "BF",
@@ -393,7 +401,8 @@
     "fips": [
       "CA"
     ],
-    "history": "History of Canada"
+    "history": "History of Canada",
+    "google": "CA:en"
   },
   {
     "code": "CV",
@@ -457,7 +466,8 @@
     "fips": [
       "CI"
     ],
-    "history": "History of Chile"
+    "history": "History of Chile",
+    "google": "CL:es-419"
   },
   {
     "code": "CN",
@@ -468,7 +478,8 @@
     "fips": [
       "CH"
     ],
-    "history": "History of China"
+    "history": "History of China",
+    "google": "CN:zh-Hans"
   },
   {
     "code": "CX",
@@ -501,7 +512,8 @@
     "fips": [
       "CO"
     ],
-    "history": "History of Colombia"
+    "history": "History of Colombia",
+    "google": "CO:es-419"
   },
   {
     "code": "KM",
@@ -556,7 +568,8 @@
     "fips": [
       "CU"
     ],
-    "history": "History of Cuba"
+    "history": "History of Cuba",
+    "google": "CU:es-419"
   },
   {
     "code": "CW",
@@ -589,7 +602,8 @@
     "fips": [
       "EZ"
     ],
-    "history": "History of the Czech lands"
+    "history": "History of the Czech lands",
+    "google": "CZ:cs"
   },
   {
     "code": "CD",
@@ -666,7 +680,8 @@
     "fips": [
       "EG"
     ],
-    "history": "History of Egypt"
+    "history": "History of Egypt",
+    "google": "EG:ar"
   },
   {
     "code": "SV",
@@ -710,7 +725,8 @@
     "fips": [
       "EN"
     ],
-    "history": "History of Estonia"
+    "history": "History of Estonia",
+    "google": "EE:et"
   },
   {
     "code": "SZ",
@@ -732,7 +748,8 @@
     "fips": [
       "ET"
     ],
-    "history": "History of Ethiopia"
+    "history": "History of Ethiopia",
+    "google": "ET:en"
   },
   {
     "code": "FK",
@@ -787,7 +804,8 @@
     "fips": [
       "FI"
     ],
-    "history": "History of Finland"
+    "history": "History of Finland",
+    "google": "FI:fi"
   },
   {
     "code": "FR",
@@ -798,7 +816,8 @@
     "fips": [
       "FR"
     ],
-    "history": "History of France"
+    "history": "History of France",
+    "google": "FR:fr"
   },
   {
     "code": "GF",
@@ -853,7 +872,8 @@
     "fips": [
       "GM"
     ],
-    "history": "History of Germany"
+    "history": "History of Germany",
+    "google": "DE:de"
   },
   {
     "code": "GH",
@@ -864,7 +884,8 @@
     "fips": [
       "GH"
     ],
-    "history": "History of Ghana"
+    "history": "History of Ghana",
+    "google": "GH:en"
   },
   {
     "code": "GI",
@@ -1018,7 +1039,8 @@
     "fips": [
       "HK"
     ],
-    "history": "History of Hong Kong"
+    "history": "History of Hong Kong",
+    "google": "HK:zh-Hant"
   },
   {
     "code": "HU",
@@ -1029,7 +1051,8 @@
     "fips": [
       "HU"
     ],
-    "history": "History of Hungary"
+    "history": "History of Hungary",
+    "google": "HU:hu"
   },
   {
     "code": "IS",
@@ -1051,7 +1074,8 @@
     "fips": [
       "IN"
     ],
-    "history": "History of India"
+    "history": "History of India",
+    "google": "IN:en"
   },
   {
     "code": "ID",
@@ -1062,7 +1086,8 @@
     "fips": [
       "ID"
     ],
-    "history": "History of Indonesia"
+    "history": "History of Indonesia",
+    "google": "ID:en"
   },
   {
     "code": "IR",
@@ -1095,7 +1120,8 @@
     "fips": [
       "EI"
     ],
-    "history": "History of the Republic of Ireland"
+    "history": "History of the Republic of Ireland",
+    "google": "IE:en"
   },
   {
     "code": "IM",
@@ -1117,7 +1143,8 @@
     "fips": [
       "IS"
     ],
-    "history": "History of Israel"
+    "history": "History of Israel",
+    "google": "IL:en"
   },
   {
     "code": "IT",
@@ -1128,7 +1155,8 @@
     "fips": [
       "IT"
     ],
-    "history": "History of Italy"
+    "history": "History of Italy",
+    "google": "IT:it"
   },
   {
     "code": "CI",
@@ -1161,7 +1189,8 @@
     "fips": [
       "JA"
     ],
-    "history": "History of Japan"
+    "history": "History of Japan",
+    "google": "JP:ja"
   },
   {
     "code": "JE",
@@ -1205,7 +1234,8 @@
     "fips": [
       "KE"
     ],
-    "history": "History of Kenya"
+    "history": "History of Kenya",
+    "google": "KE:en"
   },
   {
     "code": "KI",
@@ -1271,7 +1301,8 @@
     "fips": [
       "LG"
     ],
-    "history": "History of Latvia"
+    "history": "History of Latvia",
+    "google": "LV:en"
   },
   {
     "code": "LB",
@@ -1282,7 +1313,8 @@
     "fips": [
       "LE"
     ],
-    "history": "History of Lebanon"
+    "history": "History of Lebanon",
+    "google": "LB:ar"
   },
   {
     "code": "LS",
@@ -1337,7 +1369,8 @@
     "fips": [
       "LH"
     ],
-    "history": "History of Lithuania"
+    "history": "History of Lithuania",
+    "google": "LT:lt"
   },
   {
     "code": "LU",
@@ -1392,7 +1425,8 @@
     "fips": [
       "MY"
     ],
-    "history": "History of Malaysia"
+    "history": "History of Malaysia",
+    "google": "MY:en"
   },
   {
     "code": "MV",
@@ -1491,7 +1525,8 @@
     "fips": [
       "MX"
     ],
-    "history": "History of Mexico"
+    "history": "History of Mexico",
+    "google": "MX:es-419"
   },
   {
     "code": "MD",
@@ -1590,7 +1625,8 @@
     "fips": [
       "WA"
     ],
-    "history": "History of Namibia"
+    "history": "History of Namibia",
+    "google": "NA:en"
   },
   {
     "code": "NR",
@@ -1623,7 +1659,8 @@
     "fips": [
       "NL"
     ],
-    "history": "History of the Netherlands"
+    "history": "History of the Netherlands",
+    "google": "NL:nl"
   },
   {
     "code": "NC",
@@ -1645,7 +1682,8 @@
     "fips": [
       "NZ"
     ],
-    "history": "History of New Zealand"
+    "history": "History of New Zealand",
+    "google": "NZ:en"
   },
   {
     "code": "NI",
@@ -1678,7 +1716,8 @@
     "fips": [
       "NI"
     ],
-    "history": "History of Nigeria"
+    "history": "History of Nigeria",
+    "google": "NG:en"
   },
   {
     "code": "NU",
@@ -1744,7 +1783,8 @@
     "fips": [
       "NO"
     ],
-    "history": "History of Norway"
+    "history": "History of Norway",
+    "google": "NO:no"
   },
   {
     "code": "OM",
@@ -1766,7 +1806,8 @@
     "fips": [
       "PK"
     ],
-    "history": "History of Pakistan"
+    "history": "History of Pakistan",
+    "google": "PK:en"
   },
   {
     "code": "PW",
@@ -1833,7 +1874,8 @@
     "fips": [
       "PE"
     ],
-    "history": "History of Peru"
+    "history": "History of Peru",
+    "google": "PE:es-419"
   },
   {
     "code": "PH",
@@ -1844,7 +1886,8 @@
     "fips": [
       "RP"
     ],
-    "history": "History of the Philippines"
+    "history": "History of the Philippines",
+    "google": "PH:en"
   },
   {
     "code": "PN",
@@ -1866,7 +1909,8 @@
     "fips": [
       "PL"
     ],
-    "history": "History of Poland"
+    "history": "History of Poland",
+    "google": "PL:pl"
   },
   {
     "code": "PT",
@@ -1877,7 +1921,8 @@
     "fips": [
       "PO"
     ],
-    "history": "History of Portugal"
+    "history": "History of Portugal",
+    "google": "PT:pt-150"
   },
   {
     "code": "PR",
@@ -1932,7 +1977,8 @@
     "fips": [
       "RO"
     ],
-    "history": "History of Romania"
+    "history": "History of Romania",
+    "google": "RO:ro"
   },
   {
     "code": "RU",
@@ -1943,7 +1989,8 @@
     "fips": [
       "RS"
     ],
-    "history": "History of Russia"
+    "history": "History of Russia",
+    "google": "RU:ru"
   },
   {
     "code": "RW",
@@ -2075,7 +2122,8 @@
     "fips": [
       "SA"
     ],
-    "history": "History of Saudi Arabia"
+    "history": "History of Saudi Arabia",
+    "google": "SA:ar"
   },
   {
     "code": "SN",
@@ -2086,7 +2134,8 @@
     "fips": [
       "SG"
     ],
-    "history": "History of Senegal"
+    "history": "History of Senegal",
+    "google": "SN:fr"
   },
   {
     "code": "RS",
@@ -2097,7 +2146,8 @@
     "fips": [
       "RI"
     ],
-    "history": "History of Serbia"
+    "history": "History of Serbia",
+    "google": "RS:sr"
   },
   {
     "code": "SC",
@@ -2130,7 +2180,8 @@
     "fips": [
       "SN"
     ],
-    "history": "History of Singapore"
+    "history": "History of Singapore",
+    "google": "SG:en"
   },
   {
     "code": "SX",
@@ -2152,7 +2203,8 @@
     "fips": [
       "LO"
     ],
-    "history": "History of Slovakia"
+    "history": "History of Slovakia",
+    "google": "SK:sk"
   },
   {
     "code": "SI",
@@ -2163,7 +2215,8 @@
     "fips": [
       "SI"
     ],
-    "history": "History of Slovenia"
+    "history": "History of Slovenia",
+    "google": "SI:sl"
   },
   {
     "code": "SB",
@@ -2196,7 +2249,8 @@
     "fips": [
       "SF"
     ],
-    "history": "History of South Africa"
+    "history": "History of South Africa",
+    "google": "ZA:en"
   },
   {
     "code": "KR",
@@ -2207,7 +2261,8 @@
     "fips": [
       "KS"
     ],
-    "history": "History of South Korea"
+    "history": "History of South Korea",
+    "google": "KR:ko"
   },
   {
     "code": "SS",
@@ -2229,7 +2284,8 @@
     "fips": [
       "SP"
     ],
-    "history": "History of Spain"
+    "history": "History of Spain",
+    "google": "ES:es"
   },
   {
     "code": "LK",
@@ -2285,7 +2341,8 @@
     "fips": [
       "SW"
     ],
-    "history": "History of Sweden"
+    "history": "History of Sweden",
+    "google": "SE:sv"
   },
   {
     "code": "CH",
@@ -2296,7 +2353,8 @@
     "fips": [
       "SZ"
     ],
-    "history": "History of Switzerland"
+    "history": "History of Switzerland",
+    "google": "CH:de"
   },
   {
     "code": "SY",
@@ -2318,7 +2376,8 @@
     "fips": [
       "TW"
     ],
-    "history": "History of Taiwan"
+    "history": "History of Taiwan",
+    "google": "TW:zh-Hant"
   },
   {
     "code": "TJ",
@@ -2340,7 +2399,8 @@
     "fips": [
       "TZ"
     ],
-    "history": "History of Tanzania"
+    "history": "History of Tanzania",
+    "google": "TZ:en"
   },
   {
     "code": "TH",
@@ -2351,7 +2411,8 @@
     "fips": [
       "TH"
     ],
-    "history": "History of Thailand"
+    "history": "History of Thailand",
+    "google": "TH:th"
   },
   {
     "code": "BS",
@@ -2450,7 +2511,8 @@
     "fips": [
       "TU"
     ],
-    "history": "History of Turkey"
+    "history": "History of Turkey",
+    "google": "TR:tr"
   },
   {
     "code": "TM",
@@ -2494,7 +2556,8 @@
     "fips": [
       "UG"
     ],
-    "history": "History of Uganda"
+    "history": "History of Uganda",
+    "google": "UG:en"
   },
   {
     "code": "UA",
@@ -2505,7 +2568,8 @@
     "fips": [
       "UP"
     ],
-    "history": "History of Ukraine"
+    "history": "History of Ukraine",
+    "google": "UA:uk"
   },
   {
     "code": "AE",
@@ -2516,7 +2580,8 @@
     "fips": [
       "AE"
     ],
-    "history": "History of the United Arab Emirates"
+    "history": "History of the United Arab Emirates",
+    "google": "AE:ar"
   },
   {
     "code": "GB",
@@ -2527,7 +2592,8 @@
     "fips": [
       "UK"
     ],
-    "history": "History of the United Kingdom"
+    "history": "History of the United Kingdom",
+    "google": "GB:en"
   },
   {
     "code": "US",
@@ -2538,7 +2604,8 @@
     "fips": [
       "US"
     ],
-    "history": "History of the United States"
+    "history": "History of the United States",
+    "google": "US:en"
   },
   {
     "code": "VI",
@@ -2604,7 +2671,8 @@
     "fips": [
       "VE"
     ],
-    "history": "History of Venezuela"
+    "history": "History of Venezuela",
+    "google": "VE:es-419"
   },
   {
     "code": "VN",
@@ -2615,7 +2683,8 @@
     "fips": [
       "VM"
     ],
-    "history": "History of Vietnam"
+    "history": "History of Vietnam",
+    "google": "VN:vi"
   },
   {
     "code": "WF",
@@ -2670,6 +2739,7 @@
     "fips": [
       "ZI"
     ],
-    "history": "History of Zimbabwe"
+    "history": "History of Zimbabwe",
+    "google": "ZW:en"
   }
 ]

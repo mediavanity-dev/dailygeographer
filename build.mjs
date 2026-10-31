@@ -78,6 +78,33 @@ async function getFips(list) {
   return (x) => FIPS[x.code] ?? byQid[x.qid]?.sort() ?? [];
 }
 
+// Google News country editions, tried in English and then each official language. Google silently redirects a
+// missing edition to another country's (usually the US), so only editions it serves under the same country code are kept.
+const GOOGLE_LANG = { es: ['es-419', 'es'], pt: ['pt-419', 'pt-PT', 'pt-BR'], zh: ['zh-Hans', 'zh-Hant'] };
+const EXTRA_LANG = { CN: ['zh-Hans'], TW: ['zh-Hant'], HK: ['zh-Hant'], MO: ['zh-Hant'] }; // Wikidata gives no ISO 639-1 code here
+
+async function getGoogleEditions(list) {
+  const rows = await sparql(`SELECT ?c ?l WHERE { VALUES ?c { ${list.map((x) => `wd:${x.qid}`).join(' ')} } ?c wdt:P37/wdt:P218 ?l }`);
+  const langs = {};
+  for (const r of rows) (langs[r.c.value.split('/').pop()] ??= []).push(r.l.value);
+  const editions = {};
+  for (const x of list) {
+    for (const lang of [...new Set(['en', ...(EXTRA_LANG[x.code] ?? []), ...(langs[x.qid] ?? []).sort().flatMap((l) => GOOGLE_LANG[l] ?? [l])])]) {
+      const hl = lang === 'en' ? `en-${x.code}` : lang;
+      try {
+        const res = await fetch(`https://news.google.com/rss?hl=${hl}&gl=${x.code}&ceid=${x.code}:${lang}`, { headers: UA, signal: AbortSignal.timeout(20000) });
+        await res.body?.cancel();
+        // Keep the edition Google lands on: asking for Peru in Aymara serves its Spanish edition, PE:es-419.
+        const final = new URL(res.url).searchParams;
+        if (res.ok && final.get('gl') === x.code) { editions[x.code] = final.get('ceid'); break; }
+      } catch (err) {
+        console.warn('Google News probe failed:', x.code, lang, err.message);
+      }
+    }
+  }
+  return (x) => editions[x.code];
+}
+
 // Each place's history comes from the lead of its Wikipedia "History of …" article, found by trying the usual titles.
 // Places without one use the History section of their main article ("Aruba#History").
 const HISTORY = { SH: 'History of Saint Helena', SJ: 'History of Svalbard' };
@@ -120,11 +147,12 @@ async function refreshCountries() {
     const name = NAMES[code] ?? title.replace(/_/g, ' ').replace(/\s*\(.*\)$/, '');
     return { code, qid, title, name, status };
   }).sort((a, b) => a.name.localeCompare(b.name));
-  const [fips, history] = [await getFips(list), await getHistoryTitles(list)];
-  for (const x of list) Object.assign(x, { fips: fips(x), history: history(x) });
+  const [fips, history, google] = [await getFips(list), await getHistoryTitles(list), await getGoogleEditions(list)];
+  for (const x of list) Object.assign(x, { fips: fips(x), history: history(x), google: google(x) });
   await writeFile(COUNTRIES_FILE, JSON.stringify(list, null, 2) + '\n');
   console.log(`Wrote countries.json: ${list.length} countries and territories (${list.filter((x) => x.status === 'UN member state').length} UN members)`);
   console.log('No GDELT code:', list.filter((x) => !x.fips.length).map((x) => x.name).join(', ') || 'none');
+  console.log(`Google News editions: ${list.filter((x) => x.google).length}`);
   console.log('History from a section:', list.filter((x) => x.history.includes('#')).map((x) => x.name).join(', ') || 'none');
 }
 
@@ -246,8 +274,35 @@ async function getNews(c) {
   const localNews = fips.length ? await newest(local, '3months') : undefined;
   const notLocal = fips.map((f) => ` -sourcecountry:${f}`).join('');
   const intlNews = await newest(`"${c.name}" sourcelang:english${notLocal}`, '7d', new Set(localNews?.items.map((x) => x.url)));
-  // undefined: GDELT has no outlets for this place; null: nothing found this time.
-  return { local: localNews, international: intlNews };
+  // undefined: no source covers this place; null: nothing found this time.
+  return { local: localNews, international: intlNews, google: c.google ? await getGoogleNews(c.google) : undefined };
+}
+
+const decode = (s) => s.replace(/<!\[CDATA\[([\s\S]*?)\]\]>/g, '$1')
+  .replace(/&#(\d+);/g, (_, n) => String.fromCodePoint(n)).replace(/&quot;/g, '"').replace(/&apos;/g, "'")
+  .replace(/&lt;/g, '<').replace(/&gt;/g, '>').replace(/&amp;/g, '&');
+
+// Top stories of the place's Google News edition (e.g. "GH:en"). Google's ranking picks these, so they are shown apart.
+async function getGoogleNews(edition) {
+  const [gl, lang] = edition.split(':');
+  try {
+    const hl = lang === 'en' ? `en-${gl}` : lang;
+    const res = await fetch(`https://news.google.com/rss?hl=${hl}&gl=${gl}&ceid=${edition}`, { headers: UA, signal: AbortSignal.timeout(30000) });
+    if (!res.ok || new URL(res.url).searchParams.get('gl') !== gl) throw new Error(`HTTP ${res.status} ${res.url}`);
+    const xml = await res.text(), perSource = {};
+    const language = new Intl.DisplayNames(['en'], { type: 'language' }).of(lang); // matches GDELT's "English", "Spanish", …
+    const tag = (item, t) => decode(item.match(new RegExp(`<${t}[^>]*>([\\s\\S]*?)</${t}>`))?.[1] ?? '');
+    const items = [...xml.matchAll(/<item>([\s\S]*?)<\/item>/g)].map(([, item]) => {
+      const source = tag(item, 'source'), host = item.match(/<source url="https?:\/\/(?:www\.)?([^/"]+)/)?.[1];
+      // Titles end with " - Source"; the source is shown separately.
+      const title = tag(item, 'title').replace(new RegExp(`\\s+-\\s+${source.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')}$`), '');
+      return { title, url: tag(item, 'link'), source: host ?? source, date: new Date(tag(item, 'pubDate')).toISOString(), lang: language };
+    }).filter((x) => (perSource[x.source] = (perSource[x.source] ?? 0) + 1) <= PER_SOURCE).slice(0, NEWS_PER_LIST);
+    return items.length ? { label: `Top stories, Google News ${edition} edition`, items } : null;
+  } catch (err) {
+    console.warn('Google News failed:', edition, err.message);
+    return null;
+  }
 }
 
 async function readExisting(file) {
@@ -264,6 +319,7 @@ async function build(date) {
   const news = {
     local: fresh.local === undefined ? null : fresh.local ?? previous?.news?.local ?? { label: 'No recent headlines found', items: [] },
     international: fresh.international ?? previous?.news?.international ?? { label: 'No recent headlines found', items: [] },
+    google: fresh.google === undefined ? undefined : fresh.google ?? previous?.news?.google ?? { label: 'No recent headlines found', items: [] },
   };
   const data = {
     date: isoDate(date),
@@ -290,7 +346,7 @@ async function build(date) {
   };
   await writeFile(file, JSON.stringify(data, null, 2) + '\n');
   const count = (l) => (l ? `${l.items.length} (${l.label})` : 'n/a');
-  console.log(`Wrote ${isoDate(date)}.json: ${data.name}; local ${count(news.local)}, international ${count(news.international)}`);
+  console.log(`Wrote ${isoDate(date)}.json: ${data.name}; local ${count(news.local)}, international ${count(news.international)}, Google ${count(news.google)}`);
 }
 
 if (process.argv.includes('--refresh-countries')) {

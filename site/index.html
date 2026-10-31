@@ -38,6 +38,8 @@
   footer { color: var(--muted); font-size: .8rem; padding: 8px 0 32px; }
   .status { padding: 48px 0; text-align: center; color: var(--muted); }
   .feeds { display: grid; gap: 8px 24px; }
+  .google { margin-top: 16px; padding-top: 12px; border-top: 1px solid var(--line); }
+  .google h3 { margin-top: 0; }
   h3 { font-size: .95rem; margin: 12px 0 0; }
   details.history summary { cursor: pointer; font-weight: 600; color: var(--accent); list-style: none; display: flex; align-items: center; gap: 8px; }
   details.history summary::-webkit-details-marker { display: none; }
@@ -102,7 +104,10 @@ function render(d) {
     el('p', { className: 'note', textContent: 'Collected automatically from GDELT and not checked by us. Local outlets can include state-run media.' }),
     el('div', { className: 'feeds' },
       feed('Local outlets', lists.local, lists.local === null ? `GDELT doesn't track outlets based in ${d.name}.` : 'No recent headlines found.'),
-      lists.international !== undefined ? feed('International coverage', lists.international, 'No recent headlines found.') : null));
+      lists.international !== undefined ? feed('International coverage', lists.international, 'No recent headlines found.') : null),
+    lists.google ? el('div', { className: 'google' },
+      el('p', { className: 'note', textContent: "Local news from Google News. Google's algorithm picks and ranks these headlines, which adds its own bias." }),
+      feed('Google News', lists.google, 'No recent headlines found.')) : null);
 
   const facts = el('section', {}, el('h2', { textContent: 'At a glance' }),
     el('dl', {}, ...Object.entries(d.facts).filter(([, v]) => v).flatMap(([k, v]) => [el('dt', { textContent: k }), el('dd', { textContent: v })])),
