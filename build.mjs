@@ -1,5 +1,6 @@
 // Builds site/data/YYYY-MM-DD.json for today's country (and tomorrow's, late in the UTC day).
 // Run by GitHub Actions; needs Node 20+ (built-in fetch). No dependencies.
+import { createHash } from 'node:crypto';
 import { mkdir, readFile, writeFile } from 'node:fs/promises';
 
 const DATA_DIR = new URL('./site/data/', import.meta.url);
@@ -26,7 +27,7 @@ const cleanTitle = (t) => t
   .trim();
 
 const isoDate = (d) => d.toISOString().slice(0, 10);
-const dayNumber = (d) => Math.floor(d.getTime() / 86400000);
+const chunks = (a, n) => Array.from({ length: Math.ceil(a.length / n) }, (_, i) => a.slice(i * n, i * n + n));
 
 // Country facts come from Wikidata (CC0, no API key).
 const sparql = async (query) =>
@@ -67,6 +68,36 @@ const STATUS = {
   TK: 'Territory of New Zealand', CX: AU, CC: AU, NF: AU,
 };
 
+// GDELT tags outlets with FIPS 10-4 codes, taken from Wikidata; these fill its gaps. An empty list means GDELT has no code.
+const FIPS = { NL: ['NL'], PS: ['WE', 'GZ'], SJ: ['SV', 'JN'], BQ: [] };
+
+async function getFips(list) {
+  const rows = await sparql(`SELECT ?c ?f WHERE { VALUES ?c { ${list.map((x) => `wd:${x.qid}`).join(' ')} } ?c wdt:P901 ?f }`);
+  const byQid = {};
+  for (const r of rows) (byQid[r.c.value.split('/').pop()] ??= []).push(r.f.value);
+  return (x) => FIPS[x.code] ?? byQid[x.qid]?.sort() ?? [];
+}
+
+// Each place's history comes from the lead of its Wikipedia "History of …" article, found by trying the usual titles.
+// Places without one use the History section of their main article ("Aruba#History").
+const HISTORY = { SH: 'History of Saint Helena', SJ: 'History of Svalbard' };
+
+async function getHistoryTitles(list) {
+  const candidates = (x) => [...new Set([x.title.replace(/_/g, ' '), x.name].flatMap((t) => [`History of ${t}`, `History of the ${t}`]))];
+  const resolved = new Map();
+  for (const batch of chunks([...new Set(list.flatMap(candidates))], 50)) {
+    const { query } = await getJSON(`https://en.wikipedia.org/w/api.php?action=query&format=json&formatversion=2&redirects=1&prop=pageprops&ppprop=disambiguation&titles=${encodeURIComponent(batch.join('|'))}`);
+    const step = new Map([...(query.normalized ?? []), ...(query.redirects ?? [])].map((r) => [r.from, r]));
+    const ok = new Set(query.pages.filter((p) => !p.missing && !p.pageprops?.disambiguation).map((p) => p.title));
+    for (const t of batch) {
+      let to = t, hop;
+      while ((hop = step.get(to)) && hop.to !== to) to = hop.to;
+      if (ok.has(to) && to.startsWith('History')) resolved.set(t, to);
+    }
+  }
+  return (x) => HISTORY[x.code] ?? candidates(x).map((t) => resolved.get(t)).find(Boolean) ?? `${x.title.replace(/_/g, ' ')}#History`;
+}
+
 async function refreshCountries() {
   const rows = await sparql(`SELECT ?c ?code ?article ?un WHERE {
     ?c p:P297 ?s. ?s ps:P297 ?code. FILTER NOT EXISTS { ?s pq:P582 [] } MINUS { ?s wikibase:rank wikibase:DeprecatedRank }
@@ -89,15 +120,32 @@ async function refreshCountries() {
     const name = NAMES[code] ?? title.replace(/_/g, ' ').replace(/\s*\(.*\)$/, '');
     return { code, qid, title, name, status };
   }).sort((a, b) => a.name.localeCompare(b.name));
+  const [fips, history] = [await getFips(list), await getHistoryTitles(list)];
+  for (const x of list) Object.assign(x, { fips: fips(x), history: history(x) });
   await writeFile(COUNTRIES_FILE, JSON.stringify(list, null, 2) + '\n');
   console.log(`Wrote countries.json: ${list.length} countries and territories (${list.filter((x) => x.status === 'UN member state').length} UN members)`);
+  console.log('No GDELT code:', list.filter((x) => !x.fips.length).map((x) => x.name).join(', ') || 'none');
+  console.log('History from a section:', list.filter((x) => x.history.includes('#')).map((x) => x.name).join(', ') || 'none');
 }
+
+// rotation.json records who has appeared this cycle, so every place gets one day per cycle even when the list changes:
+// new entries join the current cycle and removed ones simply drop out.
+const ROTATION_FILE = new URL('./rotation.json', import.meta.url);
 
 async function pickCountry(date, previousQid) {
   const members = JSON.parse(await readFile(COUNTRIES_FILE, 'utf8'));
-  // Stepping by 37 visits every entry once per cycle in a less predictable order, as long as the count isn't a multiple of 37.
   // A day that already has a file keeps its country, so list changes never switch a country mid-day.
-  const pick = members.find((m) => m.qid === previousQid) ?? members[(dayNumber(date) * 37) % members.length];
+  let pick = members.find((m) => m.qid === previousQid);
+  if (!pick) {
+    const rotation = (await readExisting(ROTATION_FILE)) ?? { cycle: 1, shown: [] };
+    let left = members.filter((m) => !rotation.shown.includes(m.qid));
+    if (!left.length) [rotation.cycle, rotation.shown, left] = [rotation.cycle + 1, [], members];
+    // Each cycle gets its own fixed shuffle, derived from the cycle number.
+    const rank = (m) => createHash('sha256').update(`${rotation.cycle}:${m.qid}`).digest('hex');
+    pick = left.sort((a, b) => rank(a).localeCompare(rank(b)))[0];
+    rotation.shown.push(pick.qid);
+    await writeFile(ROTATION_FILE, JSON.stringify(rotation, null, 2) + '\n');
+  }
   console.log(`${members.length} countries and territories; ${isoDate(date)} is ${pick.name}`);
   return { ...pick, ...(await getDetails(pick.qid)) };
 }
@@ -138,32 +186,69 @@ async function getSummary(title) {
   }
 }
 
+// "History of X" gives that article's lead; "X#History" gives the opening paragraphs of the section (headings dropped).
+async function getHistory(ref) {
+  if (!ref) return null;
+  const [title, section] = ref.split('#');
+  try {
+    const { query } = await getJSON(`https://en.wikipedia.org/w/api.php?action=query&format=json&formatversion=2&redirects=1&prop=extracts&explaintext=1&exsectionformat=wiki${section ? '' : '&exintro=1'}&titles=${encodeURIComponent(title)}`);
+    const page = query.pages[0];
+    let text = page.extract ?? '';
+    if (section) {
+      const m = text.match(new RegExp(`^== ${section} ==$([\\s\\S]*?)(?=^== [^=]|(?![\\s\\S]))`, 'm'));
+      text = m ? m[1].replace(/^=+ .* =+$/gm, '') : '';
+    }
+    const paragraphs = text.split('\n').map((p) => p.trim()).filter(Boolean).slice(0, section ? 4 : undefined);
+    const url = `https://en.wikipedia.org/wiki/${encodeURIComponent(page.title.replace(/ /g, '_'))}${section ? `#${section}` : ''}`;
+    return paragraphs.length ? { title: section ? `${page.title}: ${section}` : page.title, paragraphs, url } : null;
+  } catch (err) {
+    console.warn('Wikipedia history failed:', err.message);
+    return null;
+  }
+}
+
+// Headlines come in two lists, local outlets and international coverage, so neither view replaces the other.
 // GDELT allows roughly one request per 5 seconds, so attempts are spaced out.
-async function getNews(name) {
-  const src = name.toLowerCase().replace(/[^a-z]/g, '');
-  const attempts = [
-    { q: `sourcecountry:${src} sourcelang:english`, span: '1d', label: 'From local outlets, last 24 hours' },
-    { q: `sourcecountry:${src}`, span: '1d', label: 'From local outlets, last 24 hours' },
-    { q: `sourcecountry:${src}`, span: '7d', label: 'From local outlets, last 7 days' },
-    { q: `"${name}" sourcelang:english`, span: '7d', label: 'International coverage, last 7 days' },
-    { q: `sourcecountry:${src}`, span: '3months', label: 'From local outlets, last 3 months' },
-  ];
+const NEWS_PER_LIST = 8, PER_SOURCE = 2;
+
+async function firstWithResults(attempts, exclude = new Set()) {
   for (const a of attempts) {
-    const url = `https://api.gdeltproject.org/api/v2/doc/doc?query=${encodeURIComponent(a.q)}&mode=artlist&format=json&maxrecords=15&sort=datedesc&timespan=${a.span}`;
+    const url = `https://api.gdeltproject.org/api/v2/doc/doc?query=${encodeURIComponent(a.q)}&mode=artlist&format=json&maxrecords=40&sort=datedesc&timespan=${a.span}`;
     try {
       const { articles = [] } = await getJSON(url, 3, 15000);
-      const seen = new Set();
+      const seen = new Set(), perSource = {};
+      // A cap per outlet keeps one prolific site from filling the list.
       const items = articles
-        .filter((x) => x.title && !seen.has(x.title) && seen.add(x.title))
-        .slice(0, 12)
+        .filter((x) => x.title && !exclude.has(x.url) && !seen.has(x.title) && seen.add(x.title)
+          && (perSource[x.domain] = (perSource[x.domain] ?? 0) + 1) <= PER_SOURCE)
+        .slice(0, NEWS_PER_LIST)
         .map((x) => ({ title: cleanTitle(x.title), url: x.url, source: x.domain, date: x.seendate, lang: x.language }));
+      await sleep(6000);
       if (items.length >= 3) return { label: a.label, items };
     } catch (err) {
       console.warn('GDELT attempt failed:', a.q, a.span, err.message);
+      await sleep(6000);
     }
-    await sleep(6000);
   }
   return null;
+}
+
+async function getNews(c) {
+  const fips = c.fips ?? [];
+  const local = fips.length > 1 ? `(${fips.map((f) => `sourcecountry:${f}`).join(' OR ')})` : `sourcecountry:${fips[0]}`;
+  const localNews = fips.length ? await firstWithResults([
+    { q: `${local} sourcelang:english`, span: '1d', label: 'In English, last 24 hours' },
+    { q: local, span: '1d', label: 'Last 24 hours' },
+    { q: local, span: '7d', label: 'Last 7 days' },
+    { q: local, span: '3months', label: 'Last 3 months' },
+  ]) : undefined;
+  const notLocal = fips.map((f) => ` -sourcecountry:${f}`).join('');
+  const intlNews = await firstWithResults([
+    { q: `"${c.name}" sourcelang:english${notLocal}`, span: '1d', label: 'Last 24 hours' },
+    { q: `"${c.name}" sourcelang:english${notLocal}`, span: '7d', label: 'Last 7 days' },
+  ], new Set(localNews?.items.map((x) => x.url)));
+  // undefined: GDELT has no outlets for this place; null: nothing found this time.
+  return { local: localNews, international: intlNews };
 }
 
 async function readExisting(file) {
@@ -175,7 +260,12 @@ async function build(date) {
   const previous = await readExisting(file);
   const c = await pickCountry(date, previous?.qid);
   const name = c.name;
-  const news = (await getNews(name)) ?? previous?.news ?? { label: 'No recent headlines found', items: [] };
+  const fresh = await getNews(c);
+  // Keep earlier headlines for a list that came back empty this time.
+  const news = {
+    local: fresh.local === undefined ? null : fresh.local ?? previous?.news?.local ?? { label: 'No recent headlines found', items: [] },
+    international: fresh.international ?? previous?.news?.international ?? { label: 'No recent headlines found', items: [] },
+  };
   const data = {
     date: isoDate(date),
     updated: new Date().toISOString(),
@@ -196,10 +286,12 @@ async function build(date) {
     },
     map: c.lat ? `https://www.openstreetmap.org/?mlat=${c.lat}&mlon=${c.lon}#map=5/${c.lat}/${c.lon}` : undefined,
     summary: await getSummary(c.title),
+    history: await getHistory(c.history),
     news,
   };
   await writeFile(file, JSON.stringify(data, null, 2) + '\n');
-  console.log(`Wrote ${isoDate(date)}.json: ${data.name}, ${news.items.length} headlines (${news.label})`);
+  const count = (l) => (l ? `${l.items.length} (${l.label})` : 'n/a');
+  console.log(`Wrote ${isoDate(date)}.json: ${data.name}; local ${count(news.local)}, international ${count(news.international)}`);
 }
 
 if (process.argv.includes('--refresh-countries')) {

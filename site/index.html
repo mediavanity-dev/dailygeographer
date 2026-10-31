@@ -37,6 +37,15 @@
   a { color: var(--accent); }
   footer { color: var(--muted); font-size: .8rem; padding: 8px 0 32px; }
   .status { padding: 48px 0; text-align: center; color: var(--muted); }
+  .feeds { display: grid; gap: 8px 24px; }
+  h3 { font-size: .95rem; margin: 12px 0 0; }
+  details.history summary { cursor: pointer; font-weight: 600; color: var(--accent); list-style: none; display: flex; align-items: center; gap: 8px; }
+  details.history summary::-webkit-details-marker { display: none; }
+  details.history summary::before { content: ""; width: .45em; height: .45em; border: solid currentColor; border-width: 0 2px 2px 0;
+    transform: rotate(-45deg); transition: transform .15s; }
+  details.history[open] summary::before { transform: rotate(45deg); }
+  details.history p { margin: 12px 0 0; }
+  @media (min-width: 720px) { .feeds { grid-template-columns: 1fr 1fr; } }
   .standing { display: inline-block; margin: 4px 0 4px; padding: 3px 10px; border: 1px solid var(--line); border-radius: 999px;
     color: var(--muted); font-size: .8rem; line-height: 1.4; }
   @media (min-width: 640px) { .hero img { width: 140px; } }
@@ -80,14 +89,20 @@ function render(d) {
   document.getElementById('date').textContent =
     new Date(d.date + 'T00:00:00Z').toLocaleDateString(undefined, { timeZone: 'UTC', weekday: 'long', month: 'long', day: 'numeric' });
 
+  // Older data files hold a single list.
+  const lists = d.news.items ? { local: d.news } : d.news;
+  const feed = (heading, list, missing) => el('div', {},
+    el('h3', { textContent: heading }),
+    el('p', { className: 'note', textContent: list?.items.length ? list.label : missing }),
+    list?.items.length ? el('ol', { className: 'news' }, ...list.items.map((n) => el('li', {},
+      el('a', { href: n.url, textContent: n.title, target: '_blank', rel: 'noopener' }),
+      el('div', { className: 'meta', textContent: [n.source, newsDate(n.date), n.lang !== 'English' ? n.lang : null].filter(Boolean).join(' · ') })))) : null);
   const news = el('section', {},
     el('h2', { textContent: `News from ${d.name}` }),
-    el('p', { className: 'note', textContent: d.news.label }),
-    d.news.items.length
-      ? el('ol', { className: 'news' }, ...d.news.items.map((n) => el('li', {},
-          el('a', { href: n.url, textContent: n.title, target: '_blank', rel: 'noopener' }),
-          el('div', { className: 'meta', textContent: [n.source, newsDate(n.date), n.lang !== 'English' ? n.lang : null].filter(Boolean).join(' · ') }))))
-      : el('p', { textContent: `No recent headlines were found for ${d.name}.` }));
+    el('p', { className: 'note', textContent: 'Collected automatically from GDELT and not checked by us. Local outlets can include state-run media.' }),
+    el('div', { className: 'feeds' },
+      feed('Local outlets', lists.local, lists.local === null ? `GDELT doesn't track outlets based in ${d.name}.` : 'No recent headlines found.'),
+      lists.international !== undefined ? feed('International coverage', lists.international, 'No recent headlines found.') : null));
 
   const facts = el('section', {}, el('h2', { textContent: 'At a glance' }),
     el('dl', {}, ...Object.entries(d.facts).filter(([, v]) => v).flatMap(([k, v]) => [el('dt', { textContent: k }), el('dd', { textContent: v })])),
@@ -98,11 +113,18 @@ function render(d) {
     d.summary?.extract ? el('p', { textContent: d.summary.extract }) : null,
     d.summary?.url ? el('a', { href: d.summary.url, textContent: 'Read more on Wikipedia', target: '_blank', rel: 'noopener' }) : null) : null;
 
+  // History is Wikipedia's own overview (an article lead, or the opening of a History section), shown as written.
+  const history = d.history ? el('section', {}, el('details', { className: 'history' },
+    el('summary', { textContent: `See the history of ${d.name}` }),
+    ...d.history.paragraphs.map((p) => el('p', { textContent: p })),
+    el('p', { className: 'note' }, 'From ', el('a', { href: d.history.url, textContent: d.history.title, target: '_blank', rel: 'noopener' }),
+      ' on Wikipedia, written collaboratively under its neutral-point-of-view policy.'))) : null;
+
   app.replaceChildren(
     el('div', { className: 'hero' },
       d.flag.svg || d.flag.png ? el('img', { src: d.flag.svg || d.flag.png, alt: d.flag.alt }) : null,
       el('div', {}, el('h1', { textContent: d.name }), d.officialName !== d.name ? el('p', { className: 'official', textContent: d.officialName }) : null)),
-    news, facts, about);
+    news, facts, about, history);
 }
 
 load().then(render).catch(() => {

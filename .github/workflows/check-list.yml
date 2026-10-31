@@ -1,0 +1,49 @@
+name: Weekly list check
+
+# Rebuilds countries.json from Wikidata and Wikipedia and opens an issue if anything differs.
+# It never commits: changes to the list (and the hand-written statuses) are reviewed first.
+on:
+  schedule:
+    - cron: '0 6 * * 1'   # Mondays 06:00 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  issues: write
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Rebuild the list
+        id: refresh
+        continue-on-error: true
+        run: node build.mjs --refresh-countries 2>&1 | tee refresh.log; exit ${PIPESTATUS[0]}
+      - name: Open an issue if the list changed
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          TITLE="Country list needs review"
+          if [ "${{ steps.refresh.outcome }}" = "success" ] && git diff --quiet countries.json; then
+            echo "No changes."; exit 0
+          fi
+          if [ -n "$(gh issue list --state open --search "in:title \"$TITLE\"" --json number --jq '.[].number')" ]; then
+            echo "An open issue already covers this."; exit 0
+          fi
+          {
+            echo "The weekly check found differences between \`countries.json\` and the current Wikidata/Wikipedia data."
+            echo
+            echo "To apply them: run \`node build.mjs --refresh-countries\`, check any new entries' status wording, then commit."
+            echo "Statuses are hand-written in \`build.mjs\`, so real-world changes in status (recognition, sovereignty) still need a manual look."
+            echo
+            echo "### Refresh output"
+            echo '```'; tail -n 40 refresh.log; echo '```'
+            echo
+            echo "### Changes"
+            echo '```diff'; git diff countries.json | head -n 300; echo '```'
+          } > body.md
+          gh issue create --title "$TITLE" --body-file body.md

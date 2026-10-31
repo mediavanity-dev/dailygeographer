@@ -4,1700 +4,2672 @@
     "qid": "Q889",
     "title": "Afghanistan",
     "name": "Afghanistan",
-    "status": "UN member state"
+    "status": "UN member state",
+    "fips": [
+      "AF"
+    ],
+    "history": "History of Afghanistan"
   },
   {
     "code": "AX",
     "qid": "Q5689",
     "title": "Åland",
     "name": "Åland",
-    "status": "Autonomous region of Finland"
+    "status": "Autonomous region of Finland",
+    "fips": [
+      "FI01"
+    ],
+    "history": "History of Åland"
   },
   {
     "code": "AL",
     "qid": "Q222",
     "title": "Albania",
     "name": "Albania",
-    "status": "UN member state"
+    "status": "UN member state",
+    "fips": [
+      "AL"
+    ],
+    "history": "History of Albania"
   },
   {
     "code": "DZ",
     "qid": "Q262",
     "title": "Algeria",
     "name": "Algeria",
-    "status": "UN member state"
+    "status": "UN member state",
+    "fips": [
+      "AG"
+    ],
+    "history": "History of Algeria"
   },
   {
     "code": "AS",
     "qid": "Q16641",
     "title": "American_Samoa",
     "name": "American Samoa",
-    "status": "Unincorporated territory of the United States"
+    "status": "Unincorporated territory of the United States",
+    "fips": [
+      "AQ"
+    ],
+    "history": "History of American Samoa"
   },
   {
     "code": "AD",
     "qid": "Q228",
     "title": "Andorra",
     "name": "Andorra",
-    "status": "UN member state"
+    "status": "UN member state",
+    "fips": [
+      "AN"
+    ],
+    "history": "History of Andorra"
   },
   {
     "code": "AO",
     "qid": "Q916",
     "title": "Angola",
     "name": "Angola",
-    "status": "UN member state"
+    "status": "UN member state",
+    "fips": [
+      "AO"
+    ],
+    "history": "History of Angola"
   },
   {
     "code": "AI",
     "qid": "Q25228",
     "title": "Anguilla",
     "name": "Anguilla",
-    "status": "British Overseas Territory"
+    "status": "British Overseas Territory",
+    "fips": [
+      "AV"
+    ],
+    "history": "History of Anguilla"
   },
   {
     "code": "AG",
     "qid": "Q781",
     "title": "Antigua_and_Barbuda",
     "name": "Antigua and Barbuda",
-    "status": "UN member state"
+    "status": "UN member state",
+    "fips": [
+      "AC"
+    ],
+    "history": "History of Antigua and Barbuda"
   },
   {
     "code": "AR",
     "qid": "Q414",
     "title": "Argentina",
     "name": "Argentina",
-    "status": "UN member state"
+    "status": "UN member state",
+    "fips": [
+      "AR"
+    ],
+    "history": "History of Argentina"
   },
   {
     "code": "AM",
     "qid": "Q399",
     "title": "Armenia",
     "name": "Armenia",
-    "status": "UN member state"
+    "status": "UN member state",
+    "fips": [
+      "AM"
+    ],
+    "history": "History of Armenia"
   },
   {
     "code": "AW",
     "qid": "Q21203",
     "title": "Aruba",
     "name": "Aruba",
-    "status": "Constituent country of the Kingdom of the Netherlands"
+    "status": "Constituent country of the Kingdom of the Netherlands",
+    "fips": [
+      "AA"
+    ],
+    "history": "Aruba#History"
   },
   {
     "code": "AU",
     "qid": "Q408",
     "title": "Australia",
     "name": "Australia",
-    "status": "UN member state"
+    "status": "UN member state",
+    "fips": [
+      "AS"
+    ],
+    "history": "History of Australia"
   },
   {
     "code": "AT",
     "qid": "Q40",
     "title": "Austria",
     "name": "Austria",
-    "status": "UN member state"
+    "status": "UN member state",
+    "fips": [
+      "AU"
+    ],
+    "history": "History of Austria"
   },
   {
     "code": "AZ",
     "qid": "Q227",
     "title": "Azerbaijan",
     "name": "Azerbaijan",
-    "status": "UN member state"
+    "status": "UN member state",
+    "fips": [
+      "AJ"
+    ],
+    "history": "History of Azerbaijan"
   },
   {
     "code": "BH",
     "qid": "Q398",
     "title": "Bahrain",
     "name": "Bahrain",
-    "status": "UN member state"
+    "status": "UN member state",
+    "fips": [
+      "BA"
+    ],
+    "history": "History of Bahrain"
   },
   {
     "code": "BD",
     "qid": "Q902",
     "title": "Bangladesh",
     "name": "Bangladesh",
-    "status": "UN member state"
+    "status": "UN member state",
+    "fips": [
+      "BG"
+    ],
+    "history": "History of Bangladesh"
   },
   {
     "code": "BB",
     "qid": "Q244",
     "title": "Barbados",
     "name": "Barbados",
-    "status": "UN member state"
+    "status": "UN member state",
+    "fips": [
+      "BB"
+    ],
+    "history": "History of Barbados"
   },
   {
     "code": "BY",
     "qid": "Q184",
     "title": "Belarus",
     "name": "Belarus",
-    "status": "UN member state"
+    "status": "UN member state",
+    "fips": [
+      "BO"
+    ],
+    "history": "History of Belarus"
   },
   {
     "code": "BE",
     "qid": "Q31",
     "title": "Belgium",
     "name": "Belgium",
-    "status": "UN member state"
+    "status": "UN member state",
+    "fips": [
+      "BE"
+    ],
+    "history": "History of Belgium"
   },
   {
     "code": "BZ",
     "qid": "Q242",
     "title": "Belize",
     "name": "Belize",
-    "status": "UN member state"
+    "status": "UN member state",
+    "fips": [
+      "BH"
+    ],
+    "history": "History of Belize"
   },
   {
     "code": "BJ",
     "qid": "Q962",
     "title": "Benin",
     "name": "Benin",
-    "status": "UN member state"
+    "status": "UN member state",
+    "fips": [
+      "BN"
+    ],
+    "history": "History of Benin"
   },
   {
     "code": "BM",
     "qid": "Q23635",
     "title": "Bermuda",
     "name": "Bermuda",
-    "status": "British Overseas Territory"
+    "status": "British Overseas Territory",
+    "fips": [
+      "BD"
+    ],
+    "history": "History of Bermuda"
   },
   {
     "code": "BT",
     "qid": "Q917",
     "title": "Bhutan",
     "name": "Bhutan",
-    "status": "UN member state"
+    "status": "UN member state",
+    "fips": [
+      "BT"
+    ],
+    "history": "History of Bhutan"
   },
   {
     "code": "BO",
     "qid": "Q750",
     "title": "Bolivia",
     "name": "Bolivia",
-    "status": "UN member state"
+    "status": "UN member state",
+    "fips": [
+      "BL"
+    ],
+    "history": "History of Bolivia"
   },
   {
     "code": "BA",
     "qid": "Q225",
     "title": "Bosnia_and_Herzegovina",
     "name": "Bosnia and Herzegovina",
-    "status": "UN member state"
+    "status": "UN member state",
+    "fips": [
+      "BK"
+    ],
+    "history": "History of Bosnia and Herzegovina"
   },
   {
     "code": "BW",
     "qid": "Q963",
     "title": "Botswana",
     "name": "Botswana",
-    "status": "UN member state"
+    "status": "UN member state",
+    "fips": [
+      "BC"
+    ],
+    "history": "History of Botswana"
   },
   {
     "code": "BR",
     "qid": "Q155",
     "title": "Brazil",
     "name": "Brazil",
-    "status": "UN member state"
+    "status": "UN member state",
+    "fips": [
+      "BR"
+    ],
+    "history": "History of Brazil"
   },
   {
     "code": "VG",
     "qid": "Q25305",
     "title": "British_Virgin_Islands",
     "name": "British Virgin Islands",
-    "status": "British Overseas Territory"
+    "status": "British Overseas Territory",
+    "fips": [
+      "VI"
+    ],
+    "history": "History of the British Virgin Islands"
   },
   {
     "code": "BN",
     "qid": "Q921",
     "title": "Brunei",
     "name": "Brunei",
-    "status": "UN member state"
+    "status": "UN member state",
+    "fips": [
+      "BX"
+    ],
+    "history": "History of Brunei"
   },
   {
     "code": "BG",
     "qid": "Q219",
     "title": "Bulgaria",
     "name": "Bulgaria",
-    "status": "UN member state"
+    "status": "UN member state",
+    "fips": [
+      "BU"
+    ],
+    "history": "History of Bulgaria"
   },
   {
     "code": "BF",
     "qid": "Q965",
     "title": "Burkina_Faso",
     "name": "Burkina Faso",
-    "status": "UN member state"
+    "status": "UN member state",
+    "fips": [
+      "UV"
+    ],
+    "history": "History of Burkina Faso"
   },
   {
     "code": "BI",
     "qid": "Q967",
     "title": "Burundi",
     "name": "Burundi",
-    "status": "UN member state"
+    "status": "UN member state",
+    "fips": [
+      "BY"
+    ],
+    "history": "History of Burundi"
   },
   {
     "code": "KH",
     "qid": "Q424",
     "title": "Cambodia",
     "name": "Cambodia",
-    "status": "UN member state"
+    "status": "UN member state",
+    "fips": [
+      "CB"
+    ],
+    "history": "History of Cambodia"
   },
   {
     "code": "CM",
     "qid": "Q1009",
     "title": "Cameroon",
     "name": "Cameroon",
-    "status": "UN member state"
+    "status": "UN member state",
+    "fips": [
+      "CM"
+    ],
+    "history": "History of Cameroon"
   },
   {
     "code": "CA",
     "qid": "Q16",
     "title": "Canada",
     "name": "Canada",
-    "status": "UN member state"
+    "status": "UN member state",
+    "fips": [
+      "CA"
+    ],
+    "history": "History of Canada"
   },
   {
     "code": "CV",
     "qid": "Q1011",
     "title": "Cape_Verde",
     "name": "Cape Verde",
-    "status": "UN member state"
+    "status": "UN member state",
+    "fips": [
+      "CV"
+    ],
+    "history": "History of Cape Verde"
   },
   {
     "code": "BQ",
     "qid": "Q27561",
     "title": "Caribbean_Netherlands",
     "name": "Caribbean Netherlands",
-    "status": "Special municipalities of the Netherlands"
+    "status": "Special municipalities of the Netherlands",
+    "fips": [],
+    "history": "Caribbean Netherlands#History"
   },
   {
     "code": "KY",
     "qid": "Q5785",
     "title": "Cayman_Islands",
     "name": "Cayman Islands",
-    "status": "British Overseas Territory"
+    "status": "British Overseas Territory",
+    "fips": [
+      "CJ"
+    ],
+    "history": "History of the Cayman Islands"
   },
   {
     "code": "CF",
     "qid": "Q929",
     "title": "Central_African_Republic",
     "name": "Central African Republic",
-    "status": "UN member state"
+    "status": "UN member state",
+    "fips": [
+      "CT"
+    ],
+    "history": "History of the Central African Republic"
   },
   {
     "code": "TD",
     "qid": "Q657",
     "title": "Chad",
     "name": "Chad",
-    "status": "UN member state"
+    "status": "UN member state",
+    "fips": [
+      "CD"
+    ],
+    "history": "History of Chad"
   },
   {
     "code": "CL",
     "qid": "Q298",
     "title": "Chile",
     "name": "Chile",
-    "status": "UN member state"
+    "status": "UN member state",
+    "fips": [
+      "CI"
+    ],
+    "history": "History of Chile"
   },
   {
     "code": "CN",
     "qid": "Q148",
     "title": "China",
     "name": "China",
-    "status": "UN member state"
+    "status": "UN member state",
+    "fips": [
+      "CH"
+    ],
+    "history": "History of China"
   },
   {
     "code": "CX",
     "qid": "Q31063",
     "title": "Christmas_Island",
     "name": "Christmas Island",
-    "status": "External territory of Australia"
+    "status": "External territory of Australia",
+    "fips": [
+      "KT"
+    ],
+    "history": "Christmas Island#History"
   },
   {
     "code": "CC",
     "qid": "Q36004",
     "title": "Cocos_(Keeling)_Islands",
     "name": "Cocos (Keeling) Islands",
-    "status": "External territory of Australia"
+    "status": "External territory of Australia",
+    "fips": [
+      "CK"
+    ],
+    "history": "Cocos (Keeling) Islands#History"
   },
   {
     "code": "CO",
     "qid": "Q739",
     "title": "Colombia",
     "name": "Colombia",
-    "status": "UN member state"
+    "status": "UN member state",
+    "fips": [
+      "CO"
+    ],
+    "history": "History of Colombia"
   },
   {
     "code": "KM",
     "qid": "Q970",
     "title": "Comoros",
     "name": "Comoros",
-    "status": "UN member state"
+    "status": "UN member state",
+    "fips": [
+      "CN"
+    ],
+    "history": "History of the Comoros"
   },
   {
     "code": "CK",
     "qid": "Q26988",
     "title": "Cook_Islands",
     "name": "Cook Islands",
-    "status": "Self-governing in free association with New Zealand"
+    "status": "Self-governing in free association with New Zealand",
+    "fips": [
+      "CW"
+    ],
+    "history": "History of the Cook Islands"
   },
   {
     "code": "CR",
     "qid": "Q800",
     "title": "Costa_Rica",
     "name": "Costa Rica",
-    "status": "UN member state"
+    "status": "UN member state",
+    "fips": [
+      "CS"
+    ],
+    "history": "History of Costa Rica"
   },
   {
     "code": "HR",
     "qid": "Q224",
     "title": "Croatia",
     "name": "Croatia",
-    "status": "UN member state"
+    "status": "UN member state",
+    "fips": [
+      "HR"
+    ],
+    "history": "History of Croatia"
   },
   {
     "code": "CU",
     "qid": "Q241",
     "title": "Cuba",
     "name": "Cuba",
-    "status": "UN member state"
+    "status": "UN member state",
+    "fips": [
+      "CU"
+    ],
+    "history": "History of Cuba"
   },
   {
     "code": "CW",
     "qid": "Q25279",
     "title": "Curaçao",
     "name": "Curaçao",
-    "status": "Constituent country of the Kingdom of the Netherlands"
+    "status": "Constituent country of the Kingdom of the Netherlands",
+    "fips": [
+      "UC"
+    ],
+    "history": "History of Curaçao"
   },
   {
     "code": "CY",
     "qid": "Q229",
     "title": "Cyprus",
     "name": "Cyprus",
-    "status": "UN member state"
+    "status": "UN member state",
+    "fips": [
+      "CY"
+    ],
+    "history": "History of Cyprus"
   },
   {
     "code": "CZ",
     "qid": "Q213",
     "title": "Czech_Republic",
     "name": "Czech Republic",
-    "status": "UN member state"
+    "status": "UN member state",
+    "fips": [
+      "EZ"
+    ],
+    "history": "History of the Czech lands"
   },
   {
     "code": "CD",
     "qid": "Q974",
     "title": "Democratic_Republic_of_the_Congo",
     "name": "Democratic Republic of the Congo",
-    "status": "UN member state"
+    "status": "UN member state",
+    "fips": [
+      "CG"
+    ],
+    "history": "History of the Democratic Republic of the Congo"
   },
   {
     "code": "DK",
     "qid": "Q35",
     "title": "Denmark",
     "name": "Denmark",
-    "status": "UN member state"
+    "status": "UN member state",
+    "fips": [
+      "DA"
+    ],
+    "history": "History of Denmark"
   },
   {
     "code": "DJ",
     "qid": "Q977",
     "title": "Djibouti",
     "name": "Djibouti",
-    "status": "UN member state"
+    "status": "UN member state",
+    "fips": [
+      "DJ"
+    ],
+    "history": "History of Djibouti"
   },
   {
     "code": "DM",
     "qid": "Q784",
     "title": "Dominica",
     "name": "Dominica",
-    "status": "UN member state"
+    "status": "UN member state",
+    "fips": [
+      "DO"
+    ],
+    "history": "History of Dominica"
   },
   {
     "code": "DO",
     "qid": "Q786",
     "title": "Dominican_Republic",
     "name": "Dominican Republic",
-    "status": "UN member state"
+    "status": "UN member state",
+    "fips": [
+      "DR"
+    ],
+    "history": "History of the Dominican Republic"
   },
   {
     "code": "EC",
     "qid": "Q736",
     "title": "Ecuador",
     "name": "Ecuador",
-    "status": "UN member state"
+    "status": "UN member state",
+    "fips": [
+      "EC"
+    ],
+    "history": "History of Ecuador"
   },
   {
     "code": "EG",
     "qid": "Q79",
     "title": "Egypt",
     "name": "Egypt",
-    "status": "UN member state"
+    "status": "UN member state",
+    "fips": [
+      "EG"
+    ],
+    "history": "History of Egypt"
   },
   {
     "code": "SV",
     "qid": "Q792",
     "title": "El_Salvador",
     "name": "El Salvador",
-    "status": "UN member state"
+    "status": "UN member state",
+    "fips": [
+      "ES"
+    ],
+    "history": "History of El Salvador"
   },
   {
     "code": "GQ",
     "qid": "Q983",
     "title": "Equatorial_Guinea",
     "name": "Equatorial Guinea",
-    "status": "UN member state"
+    "status": "UN member state",
+    "fips": [
+      "EK"
+    ],
+    "history": "History of Equatorial Guinea"
   },
   {
     "code": "ER",
     "qid": "Q986",
     "title": "Eritrea",
     "name": "Eritrea",
-    "status": "UN member state"
+    "status": "UN member state",
+    "fips": [
+      "ER"
+    ],
+    "history": "History of Eritrea"
   },
   {
     "code": "EE",
     "qid": "Q191",
     "title": "Estonia",
     "name": "Estonia",
-    "status": "UN member state"
+    "status": "UN member state",
+    "fips": [
+      "EN"
+    ],
+    "history": "History of Estonia"
   },
   {
     "code": "SZ",
     "qid": "Q1050",
     "title": "Eswatini",
     "name": "Eswatini",
-    "status": "UN member state"
+    "status": "UN member state",
+    "fips": [
+      "WZ"
+    ],
+    "history": "History of Eswatini"
   },
   {
     "code": "ET",
     "qid": "Q115",
     "title": "Ethiopia",
     "name": "Ethiopia",
-    "status": "UN member state"
+    "status": "UN member state",
+    "fips": [
+      "ET"
+    ],
+    "history": "History of Ethiopia"
   },
   {
     "code": "FK",
     "qid": "Q9648",
     "title": "Falkland_Islands",
     "name": "Falkland Islands",
-    "status": "British Overseas Territory; claimed by Argentina"
+    "status": "British Overseas Territory; claimed by Argentina",
+    "fips": [
+      "FK"
+    ],
+    "history": "History of the Falkland Islands"
   },
   {
     "code": "FO",
     "qid": "Q4628",
     "title": "Faroe_Islands",
     "name": "Faroe Islands",
-    "status": "Autonomous territory of Denmark"
+    "status": "Autonomous territory of Denmark",
+    "fips": [
+      "FO"
+    ],
+    "history": "History of the Faroe Islands"
   },
   {
     "code": "FM",
     "qid": "Q702",
     "title": "Federated_States_of_Micronesia",
     "name": "Federated States of Micronesia",
-    "status": "UN member state"
+    "status": "UN member state",
+    "fips": [
+      "FM"
+    ],
+    "history": "History of the Federated States of Micronesia"
   },
   {
     "code": "FJ",
     "qid": "Q712",
     "title": "Fiji",
     "name": "Fiji",
-    "status": "UN member state"
+    "status": "UN member state",
+    "fips": [
+      "FJ"
+    ],
+    "history": "History of Fiji"
   },
   {
     "code": "FI",
     "qid": "Q33",
     "title": "Finland",
     "name": "Finland",
-    "status": "UN member state"
+    "status": "UN member state",
+    "fips": [
+      "FI"
+    ],
+    "history": "History of Finland"
   },
   {
     "code": "FR",
     "qid": "Q142",
     "title": "France",
     "name": "France",
-    "status": "UN member state"
+    "status": "UN member state",
+    "fips": [
+      "FR"
+    ],
+    "history": "History of France"
   },
   {
     "code": "GF",
     "qid": "Q3769",
     "title": "French_Guiana",
     "name": "French Guiana",
-    "status": "Overseas department of France"
+    "status": "Overseas department of France",
+    "fips": [
+      "FG"
+    ],
+    "history": "History of French Guiana"
   },
   {
     "code": "PF",
     "qid": "Q30971",
     "title": "French_Polynesia",
     "name": "French Polynesia",
-    "status": "Overseas collectivity of France"
+    "status": "Overseas collectivity of France",
+    "fips": [
+      "FP"
+    ],
+    "history": "French Polynesia#History"
   },
   {
     "code": "GA",
     "qid": "Q1000",
     "title": "Gabon",
     "name": "Gabon",
-    "status": "UN member state"
+    "status": "UN member state",
+    "fips": [
+      "GB"
+    ],
+    "history": "History of Gabon"
   },
   {
     "code": "GE",
     "qid": "Q230",
     "title": "Georgia_(country)",
     "name": "Georgia",
-    "status": "UN member state"
+    "status": "UN member state",
+    "fips": [
+      "GG"
+    ],
+    "history": "History of Georgia (country)"
   },
   {
     "code": "DE",
     "qid": "Q183",
     "title": "Germany",
     "name": "Germany",
-    "status": "UN member state"
+    "status": "UN member state",
+    "fips": [
+      "GM"
+    ],
+    "history": "History of Germany"
   },
   {
     "code": "GH",
     "qid": "Q117",
     "title": "Ghana",
     "name": "Ghana",
-    "status": "UN member state"
+    "status": "UN member state",
+    "fips": [
+      "GH"
+    ],
+    "history": "History of Ghana"
   },
   {
     "code": "GI",
     "qid": "Q1410",
     "title": "Gibraltar",
     "name": "Gibraltar",
-    "status": "British Overseas Territory; claimed by Spain"
+    "status": "British Overseas Territory; claimed by Spain",
+    "fips": [
+      "GI"
+    ],
+    "history": "History of Gibraltar"
   },
   {
     "code": "GR",
     "qid": "Q41",
     "title": "Greece",
     "name": "Greece",
-    "status": "UN member state"
+    "status": "UN member state",
+    "fips": [
+      "GR"
+    ],
+    "history": "History of Greece"
   },
   {
     "code": "GL",
     "qid": "Q223",
     "title": "Greenland",
     "name": "Greenland",
-    "status": "Autonomous territory of Denmark"
+    "status": "Autonomous territory of Denmark",
+    "fips": [
+      "GL"
+    ],
+    "history": "History of Greenland"
   },
   {
     "code": "GD",
     "qid": "Q769",
     "title": "Grenada",
     "name": "Grenada",
-    "status": "UN member state"
+    "status": "UN member state",
+    "fips": [
+      "GJ"
+    ],
+    "history": "History of Grenada"
   },
   {
     "code": "GP",
     "qid": "Q17012",
     "title": "Guadeloupe",
     "name": "Guadeloupe",
-    "status": "Overseas department of France"
+    "status": "Overseas department of France",
+    "fips": [
+      "GP"
+    ],
+    "history": "Guadeloupe#History"
   },
   {
     "code": "GU",
     "qid": "Q16635",
     "title": "Guam",
     "name": "Guam",
-    "status": "Unincorporated territory of the United States"
+    "status": "Unincorporated territory of the United States",
+    "fips": [
+      "GQ"
+    ],
+    "history": "History of Guam"
   },
   {
     "code": "GT",
     "qid": "Q774",
     "title": "Guatemala",
     "name": "Guatemala",
-    "status": "UN member state"
+    "status": "UN member state",
+    "fips": [
+      "GT"
+    ],
+    "history": "History of Guatemala"
   },
   {
     "code": "GG",
     "qid": "Q25230",
     "title": "Bailiwick_of_Guernsey",
     "name": "Guernsey",
-    "status": "British Crown Dependency"
+    "status": "British Crown Dependency",
+    "fips": [
+      "GK"
+    ],
+    "history": "History of Guernsey"
   },
   {
     "code": "GN",
     "qid": "Q1006",
     "title": "Guinea",
     "name": "Guinea",
-    "status": "UN member state"
+    "status": "UN member state",
+    "fips": [
+      "GV"
+    ],
+    "history": "History of Guinea"
   },
   {
     "code": "GW",
     "qid": "Q1007",
     "title": "Guinea-Bissau",
     "name": "Guinea-Bissau",
-    "status": "UN member state"
+    "status": "UN member state",
+    "fips": [
+      "PU"
+    ],
+    "history": "History of Guinea-Bissau"
   },
   {
     "code": "GY",
     "qid": "Q734",
     "title": "Guyana",
     "name": "Guyana",
-    "status": "UN member state"
+    "status": "UN member state",
+    "fips": [
+      "GY"
+    ],
+    "history": "History of Guyana"
   },
   {
     "code": "HT",
     "qid": "Q790",
     "title": "Haiti",
     "name": "Haiti",
-    "status": "UN member state"
+    "status": "UN member state",
+    "fips": [
+      "HA"
+    ],
+    "history": "History of Haiti"
   },
   {
     "code": "HN",
     "qid": "Q783",
     "title": "Honduras",
     "name": "Honduras",
-    "status": "UN member state"
+    "status": "UN member state",
+    "fips": [
+      "HO"
+    ],
+    "history": "History of Honduras"
   },
   {
     "code": "HK",
     "qid": "Q8646",
     "title": "Hong_Kong",
     "name": "Hong Kong",
-    "status": "Special administrative region of China"
+    "status": "Special administrative region of China",
+    "fips": [
+      "HK"
+    ],
+    "history": "History of Hong Kong"
   },
   {
     "code": "HU",
     "qid": "Q28",
     "title": "Hungary",
     "name": "Hungary",
-    "status": "UN member state"
+    "status": "UN member state",
+    "fips": [
+      "HU"
+    ],
+    "history": "History of Hungary"
   },
   {
     "code": "IS",
     "qid": "Q189",
     "title": "Iceland",
     "name": "Iceland",
-    "status": "UN member state"
+    "status": "UN member state",
+    "fips": [
+      "IC"
+    ],
+    "history": "History of Iceland"
   },
   {
     "code": "IN",
     "qid": "Q668",
     "title": "India",
     "name": "India",
-    "status": "UN member state"
+    "status": "UN member state",
+    "fips": [
+      "IN"
+    ],
+    "history": "History of India"
   },
   {
     "code": "ID",
     "qid": "Q252",
     "title": "Indonesia",
     "name": "Indonesia",
-    "status": "UN member state"
+    "status": "UN member state",
+    "fips": [
+      "ID"
+    ],
+    "history": "History of Indonesia"
   },
   {
     "code": "IR",
     "qid": "Q794",
     "title": "Iran",
     "name": "Iran",
-    "status": "UN member state"
+    "status": "UN member state",
+    "fips": [
+      "IR"
+    ],
+    "history": "History of Iran"
   },
   {
     "code": "IQ",
     "qid": "Q796",
     "title": "Iraq",
     "name": "Iraq",
-    "status": "UN member state"
+    "status": "UN member state",
+    "fips": [
+      "IZ"
+    ],
+    "history": "History of Iraq"
   },
   {
     "code": "IE",
     "qid": "Q27",
     "title": "Republic_of_Ireland",
     "name": "Ireland",
-    "status": "UN member state"
+    "status": "UN member state",
+    "fips": [
+      "EI"
+    ],
+    "history": "History of the Republic of Ireland"
   },
   {
     "code": "IM",
     "qid": "Q9676",
     "title": "Isle_of_Man",
     "name": "Isle of Man",
-    "status": "British Crown Dependency"
+    "status": "British Crown Dependency",
+    "fips": [
+      "IM"
+    ],
+    "history": "History of the Isle of Man"
   },
   {
     "code": "IL",
     "qid": "Q801",
     "title": "Israel",
     "name": "Israel",
-    "status": "UN member state"
+    "status": "UN member state",
+    "fips": [
+      "IS"
+    ],
+    "history": "History of Israel"
   },
   {
     "code": "IT",
     "qid": "Q38",
     "title": "Italy",
     "name": "Italy",
-    "status": "UN member state"
+    "status": "UN member state",
+    "fips": [
+      "IT"
+    ],
+    "history": "History of Italy"
   },
   {
     "code": "CI",
     "qid": "Q1008",
     "title": "Ivory_Coast",
     "name": "Ivory Coast",
-    "status": "UN member state"
+    "status": "UN member state",
+    "fips": [
+      "IV"
+    ],
+    "history": "History of Ivory Coast"
   },
   {
     "code": "JM",
     "qid": "Q766",
     "title": "Jamaica",
     "name": "Jamaica",
-    "status": "UN member state"
+    "status": "UN member state",
+    "fips": [
+      "JM"
+    ],
+    "history": "History of Jamaica"
   },
   {
     "code": "JP",
     "qid": "Q17",
     "title": "Japan",
     "name": "Japan",
-    "status": "UN member state"
+    "status": "UN member state",
+    "fips": [
+      "JA"
+    ],
+    "history": "History of Japan"
   },
   {
     "code": "JE",
     "qid": "Q785",
     "title": "Jersey",
     "name": "Jersey",
-    "status": "British Crown Dependency"
+    "status": "British Crown Dependency",
+    "fips": [
+      "JE"
+    ],
+    "history": "History of Jersey"
   },
   {
     "code": "JO",
     "qid": "Q810",
     "title": "Jordan",
     "name": "Jordan",
-    "status": "UN member state"
+    "status": "UN member state",
+    "fips": [
+      "JO"
+    ],
+    "history": "History of Jordan"
   },
   {
     "code": "KZ",
     "qid": "Q232",
     "title": "Kazakhstan",
     "name": "Kazakhstan",
-    "status": "UN member state"
+    "status": "UN member state",
+    "fips": [
+      "KZ"
+    ],
+    "history": "History of Kazakhstan"
   },
   {
     "code": "KE",
     "qid": "Q114",
     "title": "Kenya",
     "name": "Kenya",
-    "status": "UN member state"
+    "status": "UN member state",
+    "fips": [
+      "KE"
+    ],
+    "history": "History of Kenya"
   },
   {
     "code": "KI",
     "qid": "Q710",
     "title": "Kiribati",
     "name": "Kiribati",
-    "status": "UN member state"
+    "status": "UN member state",
+    "fips": [
+      "KR"
+    ],
+    "history": "History of Kiribati"
   },
   {
     "code": "XK",
     "qid": "Q1246",
     "title": "Kosovo",
     "name": "Kosovo",
-    "status": "Partially recognised state; claimed by Serbia"
+    "status": "Partially recognised state; claimed by Serbia",
+    "fips": [
+      "KV"
+    ],
+    "history": "History of Kosovo"
   },
   {
     "code": "KW",
     "qid": "Q817",
     "title": "Kuwait",
     "name": "Kuwait",
-    "status": "UN member state"
+    "status": "UN member state",
+    "fips": [
+      "KU"
+    ],
+    "history": "History of Kuwait"
   },
   {
     "code": "KG",
     "qid": "Q813",
     "title": "Kyrgyzstan",
     "name": "Kyrgyzstan",
-    "status": "UN member state"
+    "status": "UN member state",
+    "fips": [
+      "KG"
+    ],
+    "history": "History of Kyrgyzstan"
   },
   {
     "code": "LA",
     "qid": "Q819",
     "title": "Laos",
     "name": "Laos",
-    "status": "UN member state"
+    "status": "UN member state",
+    "fips": [
+      "LA"
+    ],
+    "history": "History of Laos"
   },
   {
     "code": "LV",
     "qid": "Q211",
     "title": "Latvia",
     "name": "Latvia",
-    "status": "UN member state"
+    "status": "UN member state",
+    "fips": [
+      "LG"
+    ],
+    "history": "History of Latvia"
   },
   {
     "code": "LB",
     "qid": "Q822",
     "title": "Lebanon",
     "name": "Lebanon",
-    "status": "UN member state"
+    "status": "UN member state",
+    "fips": [
+      "LE"
+    ],
+    "history": "History of Lebanon"
   },
   {
     "code": "LS",
     "qid": "Q1013",
     "title": "Lesotho",
     "name": "Lesotho",
-    "status": "UN member state"
+    "status": "UN member state",
+    "fips": [
+      "LT"
+    ],
+    "history": "History of Lesotho"
   },
   {
     "code": "LR",
     "qid": "Q1014",
     "title": "Liberia",
     "name": "Liberia",
-    "status": "UN member state"
+    "status": "UN member state",
+    "fips": [
+      "LI"
+    ],
+    "history": "History of Liberia"
   },
   {
     "code": "LY",
     "qid": "Q1016",
     "title": "Libya",
     "name": "Libya",
-    "status": "UN member state"
+    "status": "UN member state",
+    "fips": [
+      "LY"
+    ],
+    "history": "History of Libya"
   },
   {
     "code": "LI",
     "qid": "Q347",
     "title": "Liechtenstein",
     "name": "Liechtenstein",
-    "status": "UN member state"
+    "status": "UN member state",
+    "fips": [
+      "LS"
+    ],
+    "history": "History of Liechtenstein"
   },
   {
     "code": "LT",
     "qid": "Q37",
     "title": "Lithuania",
     "name": "Lithuania",
-    "status": "UN member state"
+    "status": "UN member state",
+    "fips": [
+      "LH"
+    ],
+    "history": "History of Lithuania"
   },
   {
     "code": "LU",
     "qid": "Q32",
     "title": "Luxembourg",
     "name": "Luxembourg",
-    "status": "UN member state"
+    "status": "UN member state",
+    "fips": [
+      "LU"
+    ],
+    "history": "History of Luxembourg"
   },
   {
     "code": "MO",
     "qid": "Q14773",
     "title": "Macau",
     "name": "Macau",
-    "status": "Special administrative region of China"
+    "status": "Special administrative region of China",
+    "fips": [
+      "MC"
+    ],
+    "history": "History of Macau"
   },
   {
     "code": "MG",
     "qid": "Q1019",
     "title": "Madagascar",
     "name": "Madagascar",
-    "status": "UN member state"
+    "status": "UN member state",
+    "fips": [
+      "MA"
+    ],
+    "history": "History of Madagascar"
   },
   {
     "code": "MW",
     "qid": "Q1020",
     "title": "Malawi",
     "name": "Malawi",
-    "status": "UN member state"
+    "status": "UN member state",
+    "fips": [
+      "MI"
+    ],
+    "history": "History of Malawi"
   },
   {
     "code": "MY",
     "qid": "Q833",
     "title": "Malaysia",
     "name": "Malaysia",
-    "status": "UN member state"
+    "status": "UN member state",
+    "fips": [
+      "MY"
+    ],
+    "history": "History of Malaysia"
   },
   {
     "code": "MV",
     "qid": "Q826",
     "title": "Maldives",
     "name": "Maldives",
-    "status": "UN member state"
+    "status": "UN member state",
+    "fips": [
+      "MV"
+    ],
+    "history": "History of the Maldives"
   },
   {
     "code": "ML",
     "qid": "Q912",
     "title": "Mali",
     "name": "Mali",
-    "status": "UN member state"
+    "status": "UN member state",
+    "fips": [
+      "ML"
+    ],
+    "history": "History of Mali"
   },
   {
     "code": "MT",
     "qid": "Q233",
     "title": "Malta",
     "name": "Malta",
-    "status": "UN member state"
+    "status": "UN member state",
+    "fips": [
+      "MT"
+    ],
+    "history": "History of Malta"
   },
   {
     "code": "MH",
     "qid": "Q709",
     "title": "Marshall_Islands",
     "name": "Marshall Islands",
-    "status": "UN member state"
+    "status": "UN member state",
+    "fips": [
+      "RM"
+    ],
+    "history": "History of the Marshall Islands"
   },
   {
     "code": "MQ",
     "qid": "Q17054",
     "title": "Martinique",
     "name": "Martinique",
-    "status": "Overseas department of France"
+    "status": "Overseas department of France",
+    "fips": [
+      "MB"
+    ],
+    "history": "History of Martinique"
   },
   {
     "code": "MR",
     "qid": "Q1025",
     "title": "Mauritania",
     "name": "Mauritania",
-    "status": "UN member state"
+    "status": "UN member state",
+    "fips": [
+      "MR"
+    ],
+    "history": "History of Mauritania"
   },
   {
     "code": "MU",
     "qid": "Q1027",
     "title": "Mauritius",
     "name": "Mauritius",
-    "status": "UN member state"
+    "status": "UN member state",
+    "fips": [
+      "MP"
+    ],
+    "history": "History of Mauritius"
   },
   {
     "code": "YT",
     "qid": "Q17063",
     "title": "Mayotte",
     "name": "Mayotte",
-    "status": "Overseas department of France"
+    "status": "Overseas department of France",
+    "fips": [
+      "MF"
+    ],
+    "history": "Mayotte#History"
   },
   {
     "code": "MX",
     "qid": "Q96",
     "title": "Mexico",
     "name": "Mexico",
-    "status": "UN member state"
+    "status": "UN member state",
+    "fips": [
+      "MX"
+    ],
+    "history": "History of Mexico"
   },
   {
     "code": "MD",
     "qid": "Q217",
     "title": "Moldova",
     "name": "Moldova",
-    "status": "UN member state"
+    "status": "UN member state",
+    "fips": [
+      "MD"
+    ],
+    "history": "History of Moldova"
   },
   {
     "code": "MC",
     "qid": "Q235",
     "title": "Monaco",
     "name": "Monaco",
-    "status": "UN member state"
+    "status": "UN member state",
+    "fips": [
+      "MN"
+    ],
+    "history": "History of Monaco"
   },
   {
     "code": "MN",
     "qid": "Q711",
     "title": "Mongolia",
     "name": "Mongolia",
-    "status": "UN member state"
+    "status": "UN member state",
+    "fips": [
+      "MG"
+    ],
+    "history": "History of Mongolia"
   },
   {
     "code": "ME",
     "qid": "Q236",
     "title": "Montenegro",
     "name": "Montenegro",
-    "status": "UN member state"
+    "status": "UN member state",
+    "fips": [
+      "MJ"
+    ],
+    "history": "History of Montenegro"
   },
   {
     "code": "MS",
     "qid": "Q13353",
     "title": "Montserrat",
     "name": "Montserrat",
-    "status": "British Overseas Territory"
+    "status": "British Overseas Territory",
+    "fips": [
+      "MH"
+    ],
+    "history": "Montserrat#History"
   },
   {
     "code": "MA",
     "qid": "Q1028",
     "title": "Morocco",
     "name": "Morocco",
-    "status": "UN member state"
+    "status": "UN member state",
+    "fips": [
+      "MO"
+    ],
+    "history": "History of Morocco"
   },
   {
     "code": "MZ",
     "qid": "Q1029",
     "title": "Mozambique",
     "name": "Mozambique",
-    "status": "UN member state"
+    "status": "UN member state",
+    "fips": [
+      "MZ"
+    ],
+    "history": "History of Mozambique"
   },
   {
     "code": "MM",
     "qid": "Q836",
     "title": "Myanmar",
     "name": "Myanmar",
-    "status": "UN member state"
+    "status": "UN member state",
+    "fips": [
+      "BM"
+    ],
+    "history": "History of Myanmar"
   },
   {
     "code": "NA",
     "qid": "Q1030",
     "title": "Namibia",
     "name": "Namibia",
-    "status": "UN member state"
+    "status": "UN member state",
+    "fips": [
+      "WA"
+    ],
+    "history": "History of Namibia"
   },
   {
     "code": "NR",
     "qid": "Q697",
     "title": "Nauru",
     "name": "Nauru",
-    "status": "UN member state"
+    "status": "UN member state",
+    "fips": [
+      "NR"
+    ],
+    "history": "History of Nauru"
   },
   {
     "code": "NP",
     "qid": "Q837",
     "title": "Nepal",
     "name": "Nepal",
-    "status": "UN member state"
+    "status": "UN member state",
+    "fips": [
+      "NP"
+    ],
+    "history": "History of Nepal"
   },
   {
     "code": "NL",
     "qid": "Q29999",
     "title": "Kingdom_of_the_Netherlands",
     "name": "Netherlands",
-    "status": "UN member state"
+    "status": "UN member state",
+    "fips": [
+      "NL"
+    ],
+    "history": "History of the Netherlands"
   },
   {
     "code": "NC",
     "qid": "Q33788",
     "title": "New_Caledonia",
     "name": "New Caledonia",
-    "status": "Special collectivity of France"
+    "status": "Special collectivity of France",
+    "fips": [
+      "NC"
+    ],
+    "history": "New Caledonia#History"
   },
   {
     "code": "NZ",
     "qid": "Q664",
     "title": "New_Zealand",
     "name": "New Zealand",
-    "status": "UN member state"
+    "status": "UN member state",
+    "fips": [
+      "NZ"
+    ],
+    "history": "History of New Zealand"
   },
   {
     "code": "NI",
     "qid": "Q811",
     "title": "Nicaragua",
     "name": "Nicaragua",
-    "status": "UN member state"
+    "status": "UN member state",
+    "fips": [
+      "NU"
+    ],
+    "history": "History of Nicaragua"
   },
   {
     "code": "NE",
     "qid": "Q1032",
     "title": "Niger",
     "name": "Niger",
-    "status": "UN member state"
+    "status": "UN member state",
+    "fips": [
+      "NG"
+    ],
+    "history": "History of Niger"
   },
   {
     "code": "NG",
     "qid": "Q1033",
     "title": "Nigeria",
     "name": "Nigeria",
-    "status": "UN member state"
+    "status": "UN member state",
+    "fips": [
+      "NI"
+    ],
+    "history": "History of Nigeria"
   },
   {
     "code": "NU",
     "qid": "Q34020",
     "title": "Niue",
     "name": "Niue",
-    "status": "Self-governing in free association with New Zealand"
+    "status": "Self-governing in free association with New Zealand",
+    "fips": [
+      "NE"
+    ],
+    "history": "History of Niue"
   },
   {
     "code": "NF",
     "qid": "Q31057",
     "title": "Norfolk_Island",
     "name": "Norfolk Island",
-    "status": "External territory of Australia"
+    "status": "External territory of Australia",
+    "fips": [
+      "NF"
+    ],
+    "history": "History of Norfolk Island"
   },
   {
     "code": "KP",
     "qid": "Q423",
     "title": "North_Korea",
     "name": "North Korea",
-    "status": "UN member state"
+    "status": "UN member state",
+    "fips": [
+      "KN"
+    ],
+    "history": "History of North Korea"
   },
   {
     "code": "MK",
     "qid": "Q221",
     "title": "North_Macedonia",
     "name": "North Macedonia",
-    "status": "UN member state"
+    "status": "UN member state",
+    "fips": [
+      "MK"
+    ],
+    "history": "History of North Macedonia"
   },
   {
     "code": "MP",
     "qid": "Q16644",
     "title": "Northern_Mariana_Islands",
     "name": "Northern Mariana Islands",
-    "status": "Unincorporated territory of the United States"
+    "status": "Unincorporated territory of the United States",
+    "fips": [
+      "CQ"
+    ],
+    "history": "Northern Mariana Islands#History"
   },
   {
     "code": "NO",
     "qid": "Q20",
     "title": "Norway",
     "name": "Norway",
-    "status": "UN member state"
+    "status": "UN member state",
+    "fips": [
+      "NO"
+    ],
+    "history": "History of Norway"
   },
   {
     "code": "OM",
     "qid": "Q842",
     "title": "Oman",
     "name": "Oman",
-    "status": "UN member state"
+    "status": "UN member state",
+    "fips": [
+      "MU"
+    ],
+    "history": "History of Oman"
   },
   {
     "code": "PK",
     "qid": "Q843",
     "title": "Pakistan",
     "name": "Pakistan",
-    "status": "UN member state"
+    "status": "UN member state",
+    "fips": [
+      "PK"
+    ],
+    "history": "History of Pakistan"
   },
   {
     "code": "PW",
     "qid": "Q695",
     "title": "Palau",
     "name": "Palau",
-    "status": "UN member state"
+    "status": "UN member state",
+    "fips": [
+      "PS"
+    ],
+    "history": "History of Palau"
   },
   {
     "code": "PS",
     "qid": "Q219060",
     "title": "Palestine",
     "name": "Palestine",
-    "status": "UN observer state, recognised by most UN members"
+    "status": "UN observer state, recognised by most UN members",
+    "fips": [
+      "WE",
+      "GZ"
+    ],
+    "history": "History of Palestine"
   },
   {
     "code": "PA",
     "qid": "Q804",
     "title": "Panama",
     "name": "Panama",
-    "status": "UN member state"
+    "status": "UN member state",
+    "fips": [
+      "PM"
+    ],
+    "history": "History of Panama"
   },
   {
     "code": "PG",
     "qid": "Q691",
     "title": "Papua_New_Guinea",
     "name": "Papua New Guinea",
-    "status": "UN member state"
+    "status": "UN member state",
+    "fips": [
+      "PP"
+    ],
+    "history": "History of Papua New Guinea"
   },
   {
     "code": "PY",
     "qid": "Q733",
     "title": "Paraguay",
     "name": "Paraguay",
-    "status": "UN member state"
+    "status": "UN member state",
+    "fips": [
+      "PA"
+    ],
+    "history": "History of Paraguay"
   },
   {
     "code": "PE",
     "qid": "Q419",
     "title": "Peru",
     "name": "Peru",
-    "status": "UN member state"
+    "status": "UN member state",
+    "fips": [
+      "PE"
+    ],
+    "history": "History of Peru"
   },
   {
     "code": "PH",
     "qid": "Q928",
     "title": "Philippines",
     "name": "Philippines",
-    "status": "UN member state"
+    "status": "UN member state",
+    "fips": [
+      "RP"
+    ],
+    "history": "History of the Philippines"
   },
   {
     "code": "PN",
     "qid": "Q35672",
     "title": "Pitcairn_Islands",
     "name": "Pitcairn Islands",
-    "status": "British Overseas Territory"
+    "status": "British Overseas Territory",
+    "fips": [
+      "PC"
+    ],
+    "history": "History of the Pitcairn Islands"
   },
   {
     "code": "PL",
     "qid": "Q36",
     "title": "Poland",
     "name": "Poland",
-    "status": "UN member state"
+    "status": "UN member state",
+    "fips": [
+      "PL"
+    ],
+    "history": "History of Poland"
   },
   {
     "code": "PT",
     "qid": "Q45",
     "title": "Portugal",
     "name": "Portugal",
-    "status": "UN member state"
+    "status": "UN member state",
+    "fips": [
+      "PO"
+    ],
+    "history": "History of Portugal"
   },
   {
     "code": "PR",
     "qid": "Q1183",
     "title": "Puerto_Rico",
     "name": "Puerto Rico",
-    "status": "Unincorporated territory of the United States"
+    "status": "Unincorporated territory of the United States",
+    "fips": [
+      "RQ"
+    ],
+    "history": "History of Puerto Rico"
   },
   {
     "code": "QA",
     "qid": "Q846",
     "title": "Qatar",
     "name": "Qatar",
-    "status": "UN member state"
+    "status": "UN member state",
+    "fips": [
+      "QA"
+    ],
+    "history": "History of Qatar"
   },
   {
     "code": "CG",
     "qid": "Q971",
     "title": "Republic_of_the_Congo",
     "name": "Republic of the Congo",
-    "status": "UN member state"
+    "status": "UN member state",
+    "fips": [
+      "CF"
+    ],
+    "history": "History of the Republic of the Congo"
   },
   {
     "code": "RE",
     "qid": "Q17070",
     "title": "Réunion",
     "name": "Réunion",
-    "status": "Overseas department of France"
+    "status": "Overseas department of France",
+    "fips": [
+      "RE"
+    ],
+    "history": "Réunion#History"
   },
   {
     "code": "RO",
     "qid": "Q218",
     "title": "Romania",
     "name": "Romania",
-    "status": "UN member state"
+    "status": "UN member state",
+    "fips": [
+      "RO"
+    ],
+    "history": "History of Romania"
   },
   {
     "code": "RU",
     "qid": "Q159",
     "title": "Russia",
     "name": "Russia",
-    "status": "UN member state"
+    "status": "UN member state",
+    "fips": [
+      "RS"
+    ],
+    "history": "History of Russia"
   },
   {
     "code": "RW",
     "qid": "Q1037",
     "title": "Rwanda",
     "name": "Rwanda",
-    "status": "UN member state"
+    "status": "UN member state",
+    "fips": [
+      "RW"
+    ],
+    "history": "History of Rwanda"
   },
   {
     "code": "BL",
     "qid": "Q25362",
     "title": "Saint_Barthélemy",
     "name": "Saint Barthélemy",
-    "status": "Overseas collectivity of France"
+    "status": "Overseas collectivity of France",
+    "fips": [
+      "TB"
+    ],
+    "history": "Saint Barthélemy#History"
   },
   {
     "code": "SH",
     "qid": "Q192184",
     "title": "Saint_Helena,_Ascension_and_Tristan_da_Cunha",
     "name": "Saint Helena, Ascension and Tristan da Cunha",
-    "status": "British Overseas Territory"
+    "status": "British Overseas Territory",
+    "fips": [
+      "SH"
+    ],
+    "history": "History of Saint Helena"
   },
   {
     "code": "KN",
     "qid": "Q763",
     "title": "Saint_Kitts_and_Nevis",
     "name": "Saint Kitts and Nevis",
-    "status": "UN member state"
+    "status": "UN member state",
+    "fips": [
+      "SC"
+    ],
+    "history": "History of Saint Kitts and Nevis"
   },
   {
     "code": "LC",
     "qid": "Q760",
     "title": "Saint_Lucia",
     "name": "Saint Lucia",
-    "status": "UN member state"
+    "status": "UN member state",
+    "fips": [
+      "ST"
+    ],
+    "history": "History of Saint Lucia"
   },
   {
     "code": "MF",
     "qid": "Q126125",
     "title": "Collectivity_of_Saint_Martin",
     "name": "Saint Martin",
-    "status": "Overseas collectivity of France"
+    "status": "Overseas collectivity of France",
+    "fips": [
+      "RN"
+    ],
+    "history": "History of Saint Martin"
   },
   {
     "code": "PM",
     "qid": "Q34617",
     "title": "Saint_Pierre_and_Miquelon",
     "name": "Saint Pierre and Miquelon",
-    "status": "Overseas collectivity of France"
+    "status": "Overseas collectivity of France",
+    "fips": [
+      "SB"
+    ],
+    "history": "History of Saint Pierre and Miquelon"
   },
   {
     "code": "VC",
     "qid": "Q757",
     "title": "Saint_Vincent_and_the_Grenadines",
     "name": "Saint Vincent and the Grenadines",
-    "status": "UN member state"
+    "status": "UN member state",
+    "fips": [
+      "VC"
+    ],
+    "history": "History of Saint Vincent and the Grenadines"
   },
   {
     "code": "WS",
     "qid": "Q683",
     "title": "Samoa",
     "name": "Samoa",
-    "status": "UN member state"
+    "status": "UN member state",
+    "fips": [
+      "WS"
+    ],
+    "history": "History of Samoa"
   },
   {
     "code": "SM",
     "qid": "Q238",
     "title": "San_Marino",
     "name": "San Marino",
-    "status": "UN member state"
+    "status": "UN member state",
+    "fips": [
+      "SM"
+    ],
+    "history": "History of San Marino"
   },
   {
     "code": "ST",
     "qid": "Q1039",
     "title": "São_Tomé_and_Príncipe",
     "name": "São Tomé and Príncipe",
-    "status": "UN member state"
+    "status": "UN member state",
+    "fips": [
+      "TP"
+    ],
+    "history": "History of São Tomé and Príncipe"
   },
   {
     "code": "SA",
     "qid": "Q851",
     "title": "Saudi_Arabia",
     "name": "Saudi Arabia",
-    "status": "UN member state"
+    "status": "UN member state",
+    "fips": [
+      "SA"
+    ],
+    "history": "History of Saudi Arabia"
   },
   {
     "code": "SN",
     "qid": "Q1041",
     "title": "Senegal",
     "name": "Senegal",
-    "status": "UN member state"
+    "status": "UN member state",
+    "fips": [
+      "SG"
+    ],
+    "history": "History of Senegal"
   },
   {
     "code": "RS",
     "qid": "Q403",
     "title": "Serbia",
     "name": "Serbia",
-    "status": "UN member state"
+    "status": "UN member state",
+    "fips": [
+      "RI"
+    ],
+    "history": "History of Serbia"
   },
   {
     "code": "SC",
     "qid": "Q1042",
     "title": "Seychelles",
     "name": "Seychelles",
-    "status": "UN member state"
+    "status": "UN member state",
+    "fips": [
+      "SE"
+    ],
+    "history": "History of Seychelles"
   },
   {
     "code": "SL",
     "qid": "Q1044",
     "title": "Sierra_Leone",
     "name": "Sierra Leone",
-    "status": "UN member state"
+    "status": "UN member state",
+    "fips": [
+      "SL"
+    ],
+    "history": "History of Sierra Leone"
   },
   {
     "code": "SG",
     "qid": "Q334",
     "title": "Singapore",
     "name": "Singapore",
-    "status": "UN member state"
+    "status": "UN member state",
+    "fips": [
+      "SN"
+    ],
+    "history": "History of Singapore"
   },
   {
     "code": "SX",
     "qid": "Q26273",
     "title": "Sint_Maarten",
     "name": "Sint Maarten",
-    "status": "Constituent country of the Kingdom of the Netherlands"
+    "status": "Constituent country of the Kingdom of the Netherlands",
+    "fips": [
+      "NN"
+    ],
+    "history": "Sint Maarten#History"
   },
   {
     "code": "SK",
     "qid": "Q214",
     "title": "Slovakia",
     "name": "Slovakia",
-    "status": "UN member state"
+    "status": "UN member state",
+    "fips": [
+      "LO"
+    ],
+    "history": "History of Slovakia"
   },
   {
     "code": "SI",
     "qid": "Q215",
     "title": "Slovenia",
     "name": "Slovenia",
-    "status": "UN member state"
+    "status": "UN member state",
+    "fips": [
+      "SI"
+    ],
+    "history": "History of Slovenia"
   },
   {
     "code": "SB",
     "qid": "Q685",
     "title": "Solomon_Islands",
     "name": "Solomon Islands",
-    "status": "UN member state"
+    "status": "UN member state",
+    "fips": [
+      "BP"
+    ],
+    "history": "History of Solomon Islands"
   },
   {
     "code": "SO",
     "qid": "Q1045",
     "title": "Somalia",
     "name": "Somalia",
-    "status": "UN member state"
+    "status": "UN member state",
+    "fips": [
+      "SO"
+    ],
+    "history": "History of Somalia"
   },
   {
     "code": "ZA",
     "qid": "Q258",
     "title": "South_Africa",
     "name": "South Africa",
-    "status": "UN member state"
+    "status": "UN member state",
+    "fips": [
+      "SF"
+    ],
+    "history": "History of South Africa"
   },
   {
     "code": "KR",
     "qid": "Q884",
     "title": "South_Korea",
     "name": "South Korea",
-    "status": "UN member state"
+    "status": "UN member state",
+    "fips": [
+      "KS"
+    ],
+    "history": "History of South Korea"
   },
   {
     "code": "SS",
     "qid": "Q958",
     "title": "South_Sudan",
     "name": "South Sudan",
-    "status": "UN member state"
+    "status": "UN member state",
+    "fips": [
+      "OD"
+    ],
+    "history": "History of South Sudan"
   },
   {
     "code": "ES",
     "qid": "Q29",
     "title": "Spain",
     "name": "Spain",
-    "status": "UN member state"
+    "status": "UN member state",
+    "fips": [
+      "SP"
+    ],
+    "history": "History of Spain"
   },
   {
     "code": "LK",
     "qid": "Q854",
     "title": "Sri_Lanka",
     "name": "Sri Lanka",
-    "status": "UN member state"
+    "status": "UN member state",
+    "fips": [
+      "CE"
+    ],
+    "history": "History of Sri Lanka"
   },
   {
     "code": "SD",
     "qid": "Q1049",
     "title": "Sudan",
     "name": "Sudan",
-    "status": "UN member state"
+    "status": "UN member state",
+    "fips": [
+      "SU"
+    ],
+    "history": "History of Sudan"
   },
   {
     "code": "SR",
     "qid": "Q730",
     "title": "Suriname",
     "name": "Suriname",
-    "status": "UN member state"
+    "status": "UN member state",
+    "fips": [
+      "NS"
+    ],
+    "history": "History of Suriname"
   },
   {
     "code": "SJ",
     "qid": "Q842829",
     "title": "Svalbard_and_Jan_Mayen",
     "name": "Svalbard and Jan Mayen",
-    "status": "Part of Norway"
+    "status": "Part of Norway",
+    "fips": [
+      "SV",
+      "JN"
+    ],
+    "history": "History of Svalbard"
   },
   {
     "code": "SE",
     "qid": "Q34",
     "title": "Sweden",
     "name": "Sweden",
-    "status": "UN member state"
+    "status": "UN member state",
+    "fips": [
+      "SW"
+    ],
+    "history": "History of Sweden"
   },
   {
     "code": "CH",
     "qid": "Q39",
     "title": "Switzerland",
     "name": "Switzerland",
-    "status": "UN member state"
+    "status": "UN member state",
+    "fips": [
+      "SZ"
+    ],
+    "history": "History of Switzerland"
   },
   {
     "code": "SY",
     "qid": "Q858",
     "title": "Syria",
     "name": "Syria",
-    "status": "UN member state"
+    "status": "UN member state",
+    "fips": [
+      "SY"
+    ],
+    "history": "History of Syria"
   },
   {
     "code": "TW",
     "qid": "Q865",
     "title": "Taiwan",
     "name": "Taiwan",
-    "status": "Partially recognised state; claimed by the People's Republic of China"
+    "status": "Partially recognised state; claimed by the People's Republic of China",
+    "fips": [
+      "TW"
+    ],
+    "history": "History of Taiwan"
   },
   {
     "code": "TJ",
     "qid": "Q863",
     "title": "Tajikistan",
     "name": "Tajikistan",
-    "status": "UN member state"
+    "status": "UN member state",
+    "fips": [
+      "TI"
+    ],
+    "history": "History of Tajikistan"
   },
   {
     "code": "TZ",
     "qid": "Q924",
     "title": "Tanzania",
     "name": "Tanzania",
-    "status": "UN member state"
+    "status": "UN member state",
+    "fips": [
+      "TZ"
+    ],
+    "history": "History of Tanzania"
   },
   {
     "code": "TH",
     "qid": "Q869",
     "title": "Thailand",
     "name": "Thailand",
-    "status": "UN member state"
+    "status": "UN member state",
+    "fips": [
+      "TH"
+    ],
+    "history": "History of Thailand"
   },
   {
     "code": "BS",
     "qid": "Q778",
     "title": "The_Bahamas",
     "name": "The Bahamas",
-    "status": "UN member state"
+    "status": "UN member state",
+    "fips": [
+      "BF"
+    ],
+    "history": "History of the Bahamas"
   },
   {
     "code": "GM",
     "qid": "Q1005",
     "title": "The_Gambia",
     "name": "The Gambia",
-    "status": "UN member state"
+    "status": "UN member state",
+    "fips": [
+      "GA"
+    ],
+    "history": "History of the Gambia"
   },
   {
     "code": "TL",
     "qid": "Q574",
     "title": "Timor-Leste",
     "name": "Timor-Leste",
-    "status": "UN member state"
+    "status": "UN member state",
+    "fips": [
+      "TT"
+    ],
+    "history": "History of Timor-Leste"
   },
   {
     "code": "TG",
     "qid": "Q945",
     "title": "Togo",
     "name": "Togo",
-    "status": "UN member state"
+    "status": "UN member state",
+    "fips": [
+      "TO"
+    ],
+    "history": "History of Togo"
   },
   {
     "code": "TK",
     "qid": "Q36823",
     "title": "Tokelau",
     "name": "Tokelau",
-    "status": "Territory of New Zealand"
+    "status": "Territory of New Zealand",
+    "fips": [
+      "TL"
+    ],
+    "history": "Tokelau#History"
   },
   {
     "code": "TO",
     "qid": "Q678",
     "title": "Tonga",
     "name": "Tonga",
-    "status": "UN member state"
+    "status": "UN member state",
+    "fips": [
+      "TN"
+    ],
+    "history": "History of Tonga"
   },
   {
     "code": "TT",
     "qid": "Q754",
     "title": "Trinidad_and_Tobago",
     "name": "Trinidad and Tobago",
-    "status": "UN member state"
+    "status": "UN member state",
+    "fips": [
+      "TD"
+    ],
+    "history": "History of Trinidad and Tobago"
   },
   {
     "code": "TN",
     "qid": "Q948",
     "title": "Tunisia",
     "name": "Tunisia",
-    "status": "UN member state"
+    "status": "UN member state",
+    "fips": [
+      "TS"
+    ],
+    "history": "History of Tunisia"
   },
   {
     "code": "TR",
     "qid": "Q43",
     "title": "Turkey",
     "name": "Turkey",
-    "status": "UN member state"
+    "status": "UN member state",
+    "fips": [
+      "TU"
+    ],
+    "history": "History of Turkey"
   },
   {
     "code": "TM",
     "qid": "Q874",
     "title": "Turkmenistan",
     "name": "Turkmenistan",
-    "status": "UN member state"
+    "status": "UN member state",
+    "fips": [
+      "TX"
+    ],
+    "history": "History of Turkmenistan"
   },
   {
     "code": "TC",
     "qid": "Q18221",
     "title": "Turks_and_Caicos_Islands",
     "name": "Turks and Caicos Islands",
-    "status": "British Overseas Territory"
+    "status": "British Overseas Territory",
+    "fips": [
+      "TK"
+    ],
+    "history": "History of the Turks and Caicos Islands"
   },
   {
     "code": "TV",
     "qid": "Q672",
     "title": "Tuvalu",
     "name": "Tuvalu",
-    "status": "UN member state"
+    "status": "UN member state",
+    "fips": [
+      "TV"
+    ],
+    "history": "History of Tuvalu"
   },
   {
     "code": "UG",
     "qid": "Q1036",
     "title": "Uganda",
     "name": "Uganda",
-    "status": "UN member state"
+    "status": "UN member state",
+    "fips": [
+      "UG"
+    ],
+    "history": "History of Uganda"
   },
   {
     "code": "UA",
     "qid": "Q212",
     "title": "Ukraine",
     "name": "Ukraine",
-    "status": "UN member state"
+    "status": "UN member state",
+    "fips": [
+      "UP"
+    ],
+    "history": "History of Ukraine"
   },
   {
     "code": "AE",
     "qid": "Q878",
     "title": "United_Arab_Emirates",
     "name": "United Arab Emirates",
-    "status": "UN member state"
+    "status": "UN member state",
+    "fips": [
+      "AE"
+    ],
+    "history": "History of the United Arab Emirates"
   },
   {
     "code": "GB",
     "qid": "Q145",
     "title": "United_Kingdom",
     "name": "United Kingdom",
-    "status": "UN member state"
+    "status": "UN member state",
+    "fips": [
+      "UK"
+    ],
+    "history": "History of the United Kingdom"
   },
   {
     "code": "US",
     "qid": "Q30",
     "title": "United_States",
     "name": "United States",
-    "status": "UN member state"
+    "status": "UN member state",
+    "fips": [
+      "US"
+    ],
+    "history": "History of the United States"
   },
   {
     "code": "VI",
     "qid": "Q11703",
     "title": "United_States_Virgin_Islands",
     "name": "United States Virgin Islands",
-    "status": "Unincorporated territory of the United States"
+    "status": "Unincorporated territory of the United States",
+    "fips": [
+      "VQ"
+    ],
+    "history": "History of the United States Virgin Islands"
   },
   {
     "code": "UY",
     "qid": "Q77",
     "title": "Uruguay",
     "name": "Uruguay",
-    "status": "UN member state"
+    "status": "UN member state",
+    "fips": [
+      "UY"
+    ],
+    "history": "History of Uruguay"
   },
   {
     "code": "UZ",
     "qid": "Q265",
     "title": "Uzbekistan",
     "name": "Uzbekistan",
-    "status": "UN member state"
+    "status": "UN member state",
+    "fips": [
+      "UZ"
+    ],
+    "history": "History of Uzbekistan"
   },
   {
     "code": "VU",
     "qid": "Q686",
     "title": "Vanuatu",
     "name": "Vanuatu",
-    "status": "UN member state"
+    "status": "UN member state",
+    "fips": [
+      "NH"
+    ],
+    "history": "History of Vanuatu"
   },
   {
     "code": "VA",
     "qid": "Q237",
     "title": "Vatican_City",
     "name": "Vatican City",
-    "status": "UN observer state"
+    "status": "UN observer state",
+    "fips": [
+      "VT"
+    ],
+    "history": "Vatican City#History"
   },
   {
     "code": "VE",
     "qid": "Q717",
     "title": "Venezuela",
     "name": "Venezuela",
-    "status": "UN member state"
+    "status": "UN member state",
+    "fips": [
+      "VE"
+    ],
+    "history": "History of Venezuela"
   },
   {
     "code": "VN",
     "qid": "Q881",
     "title": "Vietnam",
     "name": "Vietnam",
-    "status": "UN member state"
+    "status": "UN member state",
+    "fips": [
+      "VM"
+    ],
+    "history": "History of Vietnam"
   },
   {
     "code": "WF",
     "qid": "Q35555",
     "title": "Wallis_and_Futuna",
     "name": "Wallis and Futuna",
-    "status": "Overseas collectivity of France"
+    "status": "Overseas collectivity of France",
+    "fips": [
+      "WF"
+    ],
+    "history": "Wallis and Futuna#History"
   },
   {
     "code": "EH",
     "qid": "Q6250",
     "title": "Western_Sahara",
     "name": "Western Sahara",
-    "status": "Non-self-governing territory (UN list); disputed between Morocco and the Sahrawi Republic"
+    "status": "Non-self-governing territory (UN list); disputed between Morocco and the Sahrawi Republic",
+    "fips": [
+      "WI"
+    ],
+    "history": "History of Western Sahara"
   },
   {
     "code": "YE",
     "qid": "Q805",
     "title": "Yemen",
     "name": "Yemen",
-    "status": "UN member state"
+    "status": "UN member state",
+    "fips": [
+      "YM"
+    ],
+    "history": "History of Yemen"
   },
   {
     "code": "ZM",
     "qid": "Q953",
     "title": "Zambia",
     "name": "Zambia",
-    "status": "UN member state"
+    "status": "UN member state",
+    "fips": [
+      "ZA"
+    ],
+    "history": "History of Zambia"
   },
   {
     "code": "ZW",
     "qid": "Q954",
     "title": "Zimbabwe",
     "name": "Zimbabwe",
-    "status": "UN member state"
+    "status": "UN member state",
+    "fips": [
+      "ZI"
+    ],
+    "history": "History of Zimbabwe"
   }
 ]
