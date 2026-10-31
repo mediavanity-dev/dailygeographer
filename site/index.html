@@ -101,7 +101,7 @@ function render(d) {
       el('div', { className: 'meta', textContent: [n.source, newsDate(n.date), n.lang !== 'English' ? n.lang : null].filter(Boolean).join(' · ') })))) : null);
   const news = el('section', {},
     el('h2', { textContent: `News from ${d.name}` }),
-    el('p', { className: 'note', textContent: 'Collected automatically from GDELT and not checked by us. Local outlets can include state-run media.' }),
+    el('p', { className: 'note', textContent: 'Collected automatically from GDELT. Local outlets can include state-run media.' }),
     el('div', { className: 'feeds' },
       feed('Local outlets', lists.local, lists.local === null ? `GDELT doesn't track outlets based in ${d.name}.` : 'No recent headlines found.'),
       lists.international !== undefined ? feed('International coverage', lists.international, 'No recent headlines found.') : null),
