@@ -1,6 +1,6 @@
 {
   "date": "2026-10-31",
-  "updated": "2026-10-31T17:08:14.891Z",
+  "updated": "2026-10-31T17:54:30.285Z",
   "qid": "Q117",
   "name": "Ghana",
   "status": "UN member state",
@@ -16,7 +16,7 @@
     "Area": "238,535 km²",
     "Languages": "English",
     "Currency": "Ghana cedi",
-    "Time zones": "Africa/Accra, UTC+00:00",
+    "Time zones": "UTC+00:00, Africa/Accra",
     "Calling code": "+233"
   },
   "map": "https://www.openstreetmap.org/?mlat=7.9465&mlon=-1.0232#map=5/7.9465/-1.0232",
@@ -24,51 +24,79 @@
     "extract": "Ghana, officially the Republic of Ghana, is a country in West Africa. It is situated with the Gulf of Guinea and the Atlantic Ocean to the south, and shares borders with Ivory Coast to the west, Burkina Faso to the north, and Togo to the east. Ghana covers an area of 239,567 km2 (92,497 sq mi), spanning various ecologies, from coastal savannas to tropical rainforests. With over 35 million inhabitants, Ghana is the thirteenth-most populous country in Africa, and the second-most populous country in West Africa. The capital and most populous city is Accra.",
     "url": "https://en.wikipedia.org/wiki/Ghana"
   },
+  "history": {
+    "title": "History of Ghana",
+    "paragraphs": [
+      "The area of the Republic of Ghana (the then Gold Coast) became known in Europe and Arabia as the Ghana Empire after the title of its Emperor, the Ghana. Geographically, the ancient Ghana Empire was approximately 500 miles (800 km) north and west of the modern state of Ghana, and controlled territories in the area of the Sénégal River and east towards the Niger rivers, in modern Senegal, Mauritania and Mali. The empire appears to have broken up following the 1076 conquest by the Almoravid General Abu-Bakr Ibn-Umar. A reduced kingdom continued to exist after Almoravid rule ended, and the kingdom was later incorporated into subsequent Sahelian empires, such as the Mali Empire. Around the same time, south of the Mali empire in present-day northern Ghana, the Kingdom of Dagbon emerged. The decentralised states ruled by the tindaamba were unified into a kingdom. Many sub-kingdoms would later arise from Dagbon including the Mossi Kingdoms of Burkina Faso and Bouna Kingdom of Ivory Coast. Dagbon pioneered Ghana's earliest learning institutions, including a university town, and a writing system prior to European arrival.",
+      "Toward the end of the classical era, larger regional kingdoms had formed in West Africa, one of which was the Kingdom of Ghana, north of what is today the nation of Ghana. Before its fall at the beginning of the 10th century, Akans migrated southward and founded several nation-states around their matriclans, including the first empire of Bono state founded in the 11th century and for which the Brong-Ahafo (Bono Ahafo) region is named. The Mole-Dagbon people, who founded the earliest centralised political kingdoms of Ghana, migrated from Lake Chad to present-day Ghana. Later, Akan ethnic groups such as the Ashanti, Akwamu, Akyem, Fante state and others are thought to possibly have roots in the original Bono state settlement at Bono Manso. The Ashanti kingdom's government operated first as a loose network and eventually as a centralized empire-kingdom with an advanced, highly specialized bureaucracy centred on the capital Kumasi."
+    ],
+    "url": "https://en.wikipedia.org/wiki/History_of_Ghana"
+  },
   "news": {
-    "label": "International coverage, last 7 days",
-    "items": [
-      {
-        "title": "King begins tour of Caribbean as calls grow for slavery apology",
-        "url": "https://www.keighleynews.co.uk/news/national/26672176.king-begins-tour-caribbean-calls-grow-slavery-apology/",
-        "source": "keighleynews.co.uk",
-        "date": "20261027T051500Z",
-        "lang": "English"
-      },
-      {
-        "title": "Ghanaian midfielder Enoch Akuffo rejoins AC Torrellano",
-        "url": "https://www.ghanamma.com/2026/10/27/ghanaian-midfielder-enoch-akuffo-rejoins-ac-torrellano/",
-        "source": "ghanamma.com",
-        "date": "20261027T051500Z",
-        "lang": "English"
-      },
-      {
-        "title": "Poultry Farmers Warn of At Least 15% Price Increase Ahead of Christmas",
-        "url": "https://www.ghanamma.com/2026/10/27/poultry-farmers-warn-of-at-least-15-price-increase-ahead-of-christmas/",
-        "source": "ghanamma.com",
-        "date": "20261027T051500Z",
-        "lang": "English"
-      },
-      {
-        "title": "Kopa Trophy 2026: Yan Diomande leads African contenders as Yamal makes history",
-        "url": "https://www.ghanamma.com/2026/10/27/kopa-trophy-2026-yan-diomande-leads-african-contenders-as-yamal-makes-history/",
-        "source": "ghanamma.com",
-        "date": "20261027T051500Z",
-        "lang": "English"
-      },
-      {
-        "title": "2026 / 27 Ghana Colts season to begin on 31 October",
-        "url": "https://www.ghanamma.com/2026/10/27/2026-27-ghana-colts-season-to-begin-on-31-october/",
-        "source": "ghanamma.com",
-        "date": "20261027T051500Z",
-        "lang": "English"
-      },
-      {
-        "title": "Asamoah Gyan Linked With Possible Bid for GFA Presidency",
-        "url": "https://www.ghanamma.com/2026/10/27/asamoah-gyan-linked-with-possible-bid-for-gfa-presidency/",
-        "source": "ghanamma.com",
-        "date": "20261027T051500Z",
-        "lang": "English"
-      }
-    ]
+    "local": {
+      "label": "No recent headlines found",
+      "items": []
+    },
+    "international": {
+      "label": "Last 7 days",
+      "items": [
+        {
+          "title": "King begins tour of Caribbean as calls grow for slavery apology",
+          "url": "https://www.keighleynews.co.uk/news/national/26672176.king-begins-tour-caribbean-calls-grow-slavery-apology/",
+          "source": "keighleynews.co.uk",
+          "date": "20261027T051500Z",
+          "lang": "English"
+        },
+        {
+          "title": "Under The Patronage And Leadership Of Latifa Bint Mohammed Dubai Future Solutions – Prototypes For Humanity Summit To Showcase 100 Innovative Projects From Leading Universities Worldwide # Dubai",
+          "url": "https://www.dubaicityguide.com/site/news/news-details.asp?newsid=80156",
+          "source": "dubaicityguide.com",
+          "date": "20261026T071500Z",
+          "lang": "English"
+        },
+        {
+          "title": "As the US and China form AI blocs, countries are increasingly torn between them",
+          "url": "https://isp.netscape.com:443/pf/story/0001/20261026/9974a3e5dc955a93935d131a4aeb8886",
+          "source": "isp.netscape.com",
+          "date": "20261026T050000Z",
+          "lang": "English"
+        },
+        {
+          "title": "National Troupe serenades with choral, music and folklores",
+          "url": "https://thenationonlineng.net/national-troupe-serenades-with-choral-music-and-folklores/",
+          "source": "thenationonlineng.net",
+          "date": "20261025T113000Z",
+          "lang": "English"
+        },
+        {
+          "title": "From Consumption to Production: Daniel Ayodele MEEI Summit Sets New Agenda for African Business Leaders in China – THISDAYLIVE",
+          "url": "https://www.thisdaylive.com/2026/10/25/from-consumption-to-production-daniel-ayodeles-meei-summit-sets-new-agenda-for-african-business-leaders-in-china/",
+          "source": "thisdaylive.com",
+          "date": "20261025T111500Z",
+          "lang": "English"
+        },
+        {
+          "title": "Iran prepares to plunge the planet into the 19th century with a 37T dollar weapon",
+          "url": "https://www.bankingnews.gr/diethni/articles/907041/iran-prepares-to-plunge-the-planet-into-the-19th-century-with-a-37t-dollar-weapon",
+          "source": "bankingnews.gr",
+          "date": "20261025T104500Z",
+          "lang": "English"
+        },
+        {
+          "title": "Russia faces backlash over dead, missing recruits ahead of summit",
+          "url": "https://www.standardmedia.co.ke/national/article/2001560827/russia-faces-backlash-over-dead-missing-recruits-ahead-of-summit",
+          "source": "standardmedia.co.ke",
+          "date": "20261025T104500Z",
+          "lang": "English"
+        },
+        {
+          "title": "Ghana and Nigeria Secure U - 17 Women World Cup Knockout Spots",
+          "url": "https://zalebs.com/business/ghana-and-nigeria-secure-u-17-womens-world-cup-knockout-spots/",
+          "source": "zalebs.com",
+          "date": "20261025T103000Z",
+          "lang": "English"
+        }
+      ]
+    }
   }
 }
