@@ -35,6 +35,8 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add site/data rotation.json
           git diff --cached --quiet || git commit -m "Update data $(date -u +%F\ %H:%M)"
+          # Someone may have pushed while the build ran; replay on top, keeping this run's data if both touched it.
+          git pull --rebase -X theirs
           git push
       - uses: actions/upload-pages-artifact@v3
         with:
