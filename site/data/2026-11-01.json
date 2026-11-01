@@ -1,6 +1,6 @@
 {
   "date": "2026-11-01",
-  "updated": "2026-11-01T18:51:05.857Z",
+  "updated": "2026-11-01T23:25:06.917Z",
   "qid": "Q902",
   "name": "Bangladesh",
   "status": "UN member state",
@@ -69,6 +69,20 @@
       "label": "Top stories, Google News BD:bn edition",
       "items": [
         {
+          "title": "‘জ্ঞানেশ জেলে যাবেন, মোদী-শাহ পালাতে পারবেন না’, দিল্লির সমাবেশে রাহুল",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5oeVluZVNraHRfek1xaFZqODVlWmVNeUxOcnpMckFDQ214aFpDTXMyMEYwTlhxMmlmTnQ5TW1JTWhORTdoTTVxdFhraDBYTmhKeTVMbndEQQ?oc=5",
+          "source": "bangla.bdnews24.com",
+          "date": "2026-11-01T15:24:00.000Z",
+          "lang": "Bangla"
+        },
+        {
+          "title": "নেতানিয়াহুকে হটাতে আরব দলগুলোকে সঙ্গে চান ইয়ার গোলান, নেতাদের সঙ্গে বৈঠকও করছেন",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBJZHdZUFVFRGJ0UTk1c2Q3M3BTRl9KRlE0YXBqOHNSRjJlbXNfODRTTUxBMkhka3hUNVRuWEVucFh3ZENDYzRzYVkwRTVLRWhyZ2FEVVR6YVBIU2V4TGdrQ1ZRR1VJd9IBc0FVX3lxTFBOZHdxZlkxWUcyNkttVTFGMTZxUDl1UkJncGNoeWx2N1ZXWm5Yd2lhbHFJNk5SLUhEbjIxWGZQWTJ1TmhCMVBnNE94Nl9DbkdCTmRmMmJjLW5lZFp5Q0hoMUlrcU5LQlVVU3VhTGF1QjhnRDg?oc=5",
+          "source": "prothomalo.com",
+          "date": "2026-11-01T17:04:43.000Z",
+          "lang": "Bangla"
+        },
+        {
           "title": "সিসিটিভি ফুটেজে তাহসিফের সঙ্গে দেখা তরুণী গ্রেপ্তার, ৪ দিনের রিমান্ড মঞ্জুর",
           "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1lS2VXTWRaTDY0dWI5LXVfOWdja3VUS3VwSFhvQXd2NHIxYVl4WTVJYTFtemhVV2N6dDhmekdmeGdiVjNCUlN6TjlkYkljdHNYc2puNFZORHlVTW1kdXhZT2xRUXjSAXJBVV95cUxPOXZyNkpXdWdWQjlhZjZIODhjc1F3XzNJMGZsS3BjbmQtdFlxZDhCMmM3bTJNNE5LcWJ6ZHhydzNMUmpKZmNyRzdJek9SUXdKQ3ZMT2txWlFJUURZRXA5c2VEV2ZuWnNNU1h5WlM4WjhtZFE?oc=5",
           "source": "prothomalo.com",
@@ -76,10 +90,10 @@
           "lang": "Bangla"
         },
         {
-          "title": "‘জ্ঞানেশ জেলে যাবেন, মোদী-শাহ পালাতে পারবেন না’, দিল্লির সমাবেশে রাহুল",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5oeVluZVNraHRfek1xaFZqODVlWmVNeUxOcnpMckFDQ214aFpDTXMyMEYwTlhxMmlmTnQ5TW1JTWhORTdoTTVxdFhraDBYTmhKeTVMbndEQQ?oc=5",
-          "source": "bangla.bdnews24.com",
-          "date": "2026-11-01T15:24:00.000Z",
+          "title": "গাজীপুরে বিজিবি মোতায়েন",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE43UVV3WHB5MVZvY3ZZeExmMWVnWFVCbGtwLThpeFp0cG5rTXVjWWpNVGpTbVd1LU9SMG1ZTEhIaTItZUZOaWM1MDZWSzE3RlFRSU9sWjZIak1KVjFkakVJVy10OU4wRGtRNVNTZmxR?oc=5",
+          "source": "banglanews24.com",
+          "date": "2026-11-01T04:54:51.000Z",
           "lang": "Bangla"
         },
         {
@@ -90,38 +104,24 @@
           "lang": "Bangla"
         },
         {
-          "title": "শ্রমিকেরা কাজে না ফিরলে পোশাক কারখানা বন্ধের সিদ্ধান্ত মালিকদের",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1Qb1Yzc3NZZE5mZl9PMWRXVFNfN0pUalM1MzhDMklmSl9mTG5mcUtEc1RIeEJDZ01yMGxGV21WV3FrcGFzYmw1c0tacVdFdFBuMG81dFFVSW9BR1BwUW9RZ3NNcG8wZ9IBc0FVX3lxTE5tQW10bkM4TXhZZTZMeTBKWTZ5UzBSMElwam53YVdSbnlpcV83eTl2MWpOeUxXZE5fR0VzSnJ1TnZ5Vm1SS0tSZXc2ME9rc29RRnFXc1ZjRjRwUFUyeE93dFN6VE5GLV9kTkZHQkFfQjJsS1k?oc=5",
-          "source": "prothomalo.com",
-          "date": "2026-11-01T16:30:00.000Z",
-          "lang": "Bangla"
-        },
-        {
-          "title": "ইরানে হামলা চালাতে ‘১০ মিনিট লাগবে’: ট্রাম্প",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE02RTl4Q2k1Q1B2cnp4MHEzdWlYTmtLOXJSaWhkaUdZZ0FjRmR3Z1N4X1Rzak9JbzRhLXM4UmF1eXBoWnlOWHhoVHFmVFZFVGFCX2dDWVdUaw?oc=5",
+          "title": "এইচএসসির ফল বিপর্যয় নয়, পাসের হার ১০ শতাংশ বাড়তে পারে: জাতীয় বিশ্ববিদ্যালয়ের উপাচার্য",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA1Wk45ckNOaG1fTGFIMmRBVkR2RVlucTFWMnY1Z29VdkVKMWN2ZWloXzlQN3JOZFlrVFY2eXE4ejRTczllX3I0aElMcEVDSFBCWEJIRnVXRGpPTENJQWc?oc=5",
           "source": "bangla.bdnews24.com",
-          "date": "2026-11-01T13:54:00.000Z",
+          "date": "2026-11-01T15:57:00.000Z",
           "lang": "Bangla"
         },
         {
-          "title": "নতুন মজুরি বোর্ড গঠনের সিদ্ধান্তকে স্বাগত জানালো বিকেএমইএ",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBrR2RETXp6MTRpcXBGMFJHVzJDUFZwSUc1TlE2TzNPRXJfY1JNb0hiNlpINHQxUWhrZ09hbWpXQkdEOXVEY1FybkI2dkxvWkRvUEJtTUVLUGswd2cwVXgzRFZkc1JwVUNpRkc4RzhqM2FDbXFXZmp6SldVYw?oc=5",
-          "source": "banglanews24.com",
-          "date": "2026-11-01T14:56:14.000Z",
+          "title": "চিংড়ির পিঠে থেকে ইলিশ, খাসি! শুভেন্দুর জন্য নিজে হাতে রাঁধলেন মতুয়া ঠাকুরবাড়ির বধূ এবং বিধায়ক, কী কী খেলেন মুখ্যমন্ত্রী?",
+          "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPcFFpUXAzcmlPZjhmWTRKNTRRMlNjbm1Rc195WkNENHZDZk1Rd0tHOUFKVGdqSko1alB0eFBFaWlEbkt4X0pub2pGNDdyaENDMlpXVWZ3S3dLdmpuZy0zbVVBaEh4ZERoeU04MWkycHV4WExBOW9xSDhCSW9tZDNqMUE0bk9GdXFIWE9OQk1tdGZfc2g3aWpCRmlicEp1ZnYzemdjWUFsOGFwN0hPY3o0QUplaXRaZFBpQ1p1aXY2bmdCU1RDNzNvMzZ6STRSZW0yRkNrWGVtM3BrM3R1eFdSQmpMWks3SGJJTlgwYVZ6dGVFUHRrcHMtRFBGRHcyU0gzbEHSAYcCQVVfeXFMT2ZYZ2VUV0pERjd0V1pqRE1kbWhIdUVJQXFJbk1lR19jX3JiS1UtSlhxYWdUamRGQ1RkMTB4SzF4YkJub3NkTlBpVENpbC0yLV9WUG5rTnBKSE1IS3VPWGNZRHU4blFIRjNQc1d5cl9JZmhjQTdqRVkxSUpialpscDNXRTAyNFFPMUxPZWpVUnZwMkk5OUdFc0NIZVRHdW5NaktqYjFKODh6RXI2Qm5jTkdFNDhsX3VkSm41UEVVVFFLSjNCd1hmTl9XQnNuTHhSMGhxNlg2NldSYVQ5RGprTUd4SHRYWlpuVXEwbEpKN0NsZUJKX3lvZnRZTUFZYTlRNGFiTk9kS1U?oc=5",
+          "source": "anandabazar.com",
+          "date": "2026-11-01T11:01:44.000Z",
           "lang": "Bangla"
         },
         {
-          "title": "এমপিও শিক্ষকদের নতুন পে-স্কেলে বেতন দিতে শিক্ষা মন্ত্রণালয়ের চিঠি",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBLNmxtSmZMbTJBcUY0dVhaZHh1M0wyWlB4ZE95OUJzZjV1dllmQ3VYdmMxVlFzNndfaXVLLV80UlZwMHpoSWs4ZHNGaHVkS1hMZXZUc3VpLXo5cDlLaXc?oc=5",
-          "source": "jagonews24.com",
-          "date": "2026-11-01T14:25:32.000Z",
-          "lang": "Bangla"
-        },
-        {
-          "title": "ঠাকুরবাড়িতে শুভেন্দুর পাতে চিংড়ি পিঠে, মাত্র ১৫ মিনিটে কীভাবে এই সুস্বাদু পদ রাঁধবেন?",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPNmoyYUVMQTFOYjdGVnRCU0NDbENwRmJxRHdOVGFfY29UOUxsVDlRWTJQLTFKVGF4M3hVOVRzYWduSk5hYjBFN0RUZEM3THBLXzlVYTBUMzE3UGxnLXdfT0tpSS1qcGZlUWdHNnhKYkV2MWpqT3hfQ0hQbTliUkhZaVdzZkNTU0JpTWJ1Tk8xMVBwaFVqdU5HYlhOR21Jdw?oc=5",
-          "source": "sangbadpratidin.in",
-          "date": "2026-11-01T12:00:32.000Z",
+          "title": "Suvendu Targets CPM-TMC: ‘দিল্লিতে বেবি আর আন্টি...দু’জনের এখন ভাব-ভালবাসা হয়ে গিয়েছে’, একযোগে",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNMm5FZ3kzNDdGU05EODNLQnBJd0dzcGVTS0N1MmFLR252aUFsMFdGX2NCbkNDSktCRnB4TjZUVkczVV83N0hmLVg0RkJ1cnU2bVM4WXB1LUVzUDFpMkZreGc2LTg1bU53VVZBVUh0NjZBcHJLMHp2XzY1MlhUcmJ3ZWJONlVrOThmT3B4d21PSjFhTUZlWlpvR0s1dkFFWXJsU2szcnlyTVdqdUpVcEdmdGg1UFJpZ2lhT1ppRDkzY2FaSFhFM2fSAcsBQVVfeXFMTVlXUUVQeWhjWXlrM2NHbk1raW9rUU1NSlV0T1FlMnVqSGtEWloySnJVSXZnRi0yT2RfSWRJYlFVc21KZzV6dWlEeXdXTDN1MlBTdm11cHFKWUJGcGV5REFveHRNSWlFbkZkRUhhZDVDYmo1NEpFSDgzZF80eGVlQXNEUDRLZllrS2gwNTZESUpwVWNJLUx1ZzY5R0VTUTFnaHBwU0FQYnpXeVNMV1Y5Y2ZrVUh4MzFZWE9kWjBNNVUwS1JOajluVjRBN3M?oc=5",
+          "source": "bengali.abplive.com",
+          "date": "2026-10-31T12:19:34.000Z",
           "lang": "Bangla"
         }
       ]
