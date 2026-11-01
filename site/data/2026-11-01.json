@@ -1,6 +1,6 @@
 {
   "date": "2026-11-01",
-  "updated": "2026-10-31T23:23:29.006Z",
+  "updated": "2026-11-01T01:15:24.780Z",
   "qid": "Q902",
   "name": "Bangladesh",
   "status": "UN member state",
@@ -16,7 +16,7 @@
     "Area": "147,570 km²",
     "Languages": "Bangla",
     "Currency": "Bangladeshi taka",
-    "Time zones": "Bangladesh Standard Time, Asia/Dhaka, UTC+06:00",
+    "Time zones": "UTC+06:00, Bangladesh Standard Time, Asia/Dhaka",
     "Calling code": "+880"
   },
   "map": "https://www.openstreetmap.org/?mlat=24.016666666&mlon=89.866666666#map=5/24.016666666/89.866666666",
@@ -118,6 +118,13 @@
           "lang": "Bangla"
         },
         {
+          "title": "ইসরায়েলের রাস্তায় হাজারো মানুষ, ইহুদি-আরব সরকার গঠনের দাবি",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5qY1RmNVBCVEFQZ2doeXQ5cTdTSGRIa013Wkx1NTF6NEpmZXBrOVJJWmRxWExVblhkTTF4ODZsUVdVZjJCZ05YdlpOM0V6RHAxbzJyUi02UHo3WjRVeDBWSF9hTzlkUdIBc0FVX3lxTE5uRW1ITUJ6Nnc4V0JnVnFQcWlpOVNRLVZjRV80NGh6NFd6UzkzcDF1Y1FRWmlMNmxHcW9LV0h4TWgtOWRHU3FZWWtRcnlxeENjVk0tQVZFZng2RGNib21paEkzZF9RX3BlNzl1X1pNekMwR2s?oc=5",
+          "source": "prothomalo.com",
+          "date": "2026-10-31T23:23:46.000Z",
+          "lang": "Bangla"
+        },
+        {
           "title": "এইচএসসিতে ২২ বছরের মধ্যে পাসের হার কম, কিন্তু কেন এই বিপর্যয়",
           "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1UU2g0LXliU3ZXT2JKVm5ERWY4UTNCYUFIV2NCVzF2VlZzWWZFS1M3Vk51WWFxeFg5WlhkbjROU1lGNm9VY1VNTEFHLUE5X0dJT0JGSkVzU0dRNFYwbmtnWUJaZTV0WEU1ZVlV0gF4QVVfeXFMT2puMlpVZWJxQzZ0SDI0S0tEanFnZ1dTc1Uwb3JpemRKd1Z3ajFEQ3dnQmJocHlnREIzTzFlX3Z6U2dVY3F4LVdzYTNibHhkYVp5YjUxOUdaa2tWSDRBRkFiMUhVTU90V3g1SnBMTHJ6bkMzSVZoM3kw?oc=5",
           "source": "prothomalo.com",
@@ -125,17 +132,17 @@
           "lang": "Bangla"
         },
         {
-          "title": "ইহুদি-আরব জোট সরকার গঠনের পক্ষে ইসরায়েলজুড়ে বিক্ষোভের প্রস্তুতি",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE94emVVcTdCZFdvVmcyX01KYmZ1ODBpZ3lUN05ORGMtd1U0RXBxQ0ZmMTJxc3lobFlXemt0blpnd2N0ejFGT2tuVmQ0QXZYcTR1N091T1BnU1JJTkxTMXhNNGVTelN2QdIBc0FVX3lxTE9zQU9RMnBvcHEzQXFwY1M0cFZNX3pjbjNaalIwYVdXREhnRVpJOTc5NzNIWlQ0WmxGQ3c1ckdxZlRyQy14NnFJdjJLSjd0SnZraFVSbUtZd2xyY1RkX2VzSmtqSnA1WVFIcjJpMVp0bjBQSGc?oc=5",
-          "source": "prothomalo.com",
-          "date": "2026-10-31T12:13:30.000Z",
+          "title": "দীপের সাত দিন রিমান্ড আবেদন পুলিশের",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5hT3lnQnRlMXIzbGQ3aGZfUjZ0MnJSVGpkYnRoOUZtUUpyTlQxOHh4M3NVNEJvLWxHbGNUeHZVVE9JN1dnU05VMmtSWXh1cDJmRUgyLTBNX1RLMjMtcGZfMm1VTGNyTWdmeFJN?oc=5",
+          "source": "kalerkantho.com",
+          "date": "2026-10-31T09:28:07.000Z",
           "lang": "Bangla"
         },
         {
-          "title": "তাহসিফের মৃত্যু: দীপকে নৌ পুলিশের কাছে দিল পিবিআই",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1PUTF6Q2FXTldfYXVFeEl1RkJRSmpmNVBmS3ZSZFJqVVUzUHI0ckNEMEo2MnhSeUNpQTJNZHNwMjhGZjJxM3AzZzl4X0luOHVXNDNrVVNZN0V2MEV4dTJhOGZKX3FmNXI0TWs2ckJB?oc=5",
+          "title": "আলোচনার জন্য ইরানকে চিঠি দিয়েছে যুক্তরাষ্ট্র",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBWODFnOG5XcklUaUcySDFDR3RRTkZEdVcwTEJqR2tYTVlVcXJYMThQVWRlcGFTT01HaUFCMkdOb3RqMEdDU2J4Ni1YN3BIN1BLcF9KMGNDXzlaYktlRXN2MVg4R0dLS1ZNRVRIeUJFZ1dUUE9Z?oc=5",
           "source": "banglanews24.com",
-          "date": "2026-10-30T20:43:17.000Z",
+          "date": "2026-10-31T19:29:37.000Z",
           "lang": "Bangla"
         },
         {
@@ -150,13 +157,6 @@
           "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5BODdRSjNZMEZPV2R0MTRYNFlYOGZfTVNBVmM0VXZFY0hNOHVmS0xGaEVvazdqSV9sYjFwZG85dDJidlo3SEx2U0pzLUZKWmFTekI0c3I4a2pmWk9wNHRya2hWdW1BYnc?oc=5",
           "source": "bangla.bdnews24.com",
           "date": "2026-10-31T12:42:00.000Z",
-          "lang": "Bangla"
-        },
-        {
-          "title": "ঢাকায় বাস রুট ৯৮ থেকে কমে ৩২ হচ্ছে",
-          "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBIVW80Ql9qdC0zV2lwSVE3QksyM2ZPbFBUZDJWWGhuNXExV1RiLXprUUxTUHk2ZHNqSExaOUpyYUZZaTY2WjhrYW1B?oc=5",
-          "source": "desh.tv",
-          "date": "2026-10-31T12:54:54.000Z",
           "lang": "Bangla"
         }
       ]
