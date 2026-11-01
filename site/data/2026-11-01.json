@@ -1,6 +1,6 @@
 {
   "date": "2026-11-01",
-  "updated": "2026-11-01T01:15:24.780Z",
+  "updated": "2026-11-01T07:06:00.728Z",
   "qid": "Q902",
   "name": "Bangladesh",
   "status": "UN member state",
@@ -16,7 +16,7 @@
     "Area": "147,570 km²",
     "Languages": "Bangla",
     "Currency": "Bangladeshi taka",
-    "Time zones": "UTC+06:00, Bangladesh Standard Time, Asia/Dhaka",
+    "Time zones": "Bangladesh Standard Time, Asia/Dhaka, UTC+06:00",
     "Calling code": "+880"
   },
   "map": "https://www.openstreetmap.org/?mlat=24.016666666&mlon=89.866666666#map=5/24.016666666/89.866666666",
@@ -104,17 +104,24 @@
       "label": "Top stories, Google News BD:bn edition",
       "items": [
         {
-          "title": "বঙ্গোপসাগরের আরেকটি ঘূর্ণিঝড়ের আশঙ্কা",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9aYW9rOFRidFJ2bVlCRy1Ec3l6NDBSZ1prN3R0ak5IalBKNkw3ZWZkY3hIVlJzSEVmZ3d3V0Q5eWtsempZcjNVZFlVMzY2RVNsUUs4ekQ1anAwcDFDaXdVNFF4SzJBWUdLeFk0YU96VjVaQnBqbWc?oc=5",
-          "source": "banglanews24.com",
-          "date": "2026-10-31T13:21:15.000Z",
+          "title": "গাজীপুরে ফের পোশাক শ্রমিকদের মহাসড়ক অবরোধ",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBqcEJhM2dNOE1tT3FpMUFlQkJ4dWtGSzczUzBxYkJ1MzJZaUl5T0pONGllYlZiVUFFTHhrU3V5dVhURldCSm5PV21faFBwMU9xZW53aTRQc1ZmUEtRQ2phaWFKaFdnekU?oc=5",
+          "source": "bangla.bdnews24.com",
+          "date": "2026-11-01T05:11:00.000Z",
           "lang": "Bangla"
         },
         {
-          "title": "SIR Row: মক পার্লামেন্টে জ্ঞানেশ কুমারকে ‘ইমপিচ’ করল বিরোধীরা, রাষ্ট্রদ্রোহের মামলা",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNWXhBRHJqQ0otMmttVTIzaHJNN180NmpLQVZNXzhaTm1lSm9KdjZCTU9uLWQ4dFJkcDl6d0FzbjVLYnR3eWRraTVpYXdNSC1SbWVEek03WTRHRGlUbU04VG1xbG9TZ1dmQkhjT09DVlNPQ2huNkd1bF9XYjctaUlEbmNQRl9xR240Uy1oN081aUVmSHdGbjd3TDRKY0p1RTFtaHFfbnhVUXpoWGduYkNCWDFSSkJKLXN5alHSAb8BQVVfeXFMTTI1c1IwdWEtQlNWaS1kdWxpTkFuVkNIbzFKNmxVbnJFQkVFck9LbFlnV3VLajQ2WGdrdUNubVZOalVJV3I2V3VfLVMzRTYwN05OWWV3Nm9rZFgtREE5QVdLSm1fbmVWeV9LSFBIUkYxUXBPbUNTUHBIZUNIWWNUNjBjMTlNTnFTQS1HaTh3VHR0OHpZNWJySExZZmxma2VocGJDeGE0ZFZZbmZYcXo2U080X0ZwZG5VdFZVV0JjOVU?oc=5",
-          "source": "bengali.abplive.com",
-          "date": "2026-10-31T16:03:21.000Z",
+          "title": "পোশাক খাতে নতুন মজুরি বোর্ড গঠনের সিদ্ধান্ত আজ",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5OOVFkSVFSS1pWOUMtNjVjSE9EY3ZITi1Dc21hdzNEXzV6aHNzZHZHeU1qMDNFc1pkLVozZ25TcF9PaC1SLUZvMktTYkdCNXBib25pZ0xpOEIyNjJBMURJTUNoWGtBSFppVzVzTmU2MA?oc=5",
+          "source": "kalerkantho.com",
+          "date": "2026-11-01T03:56:59.000Z",
+          "lang": "Bangla"
+        },
+        {
+          "title": "জামায়াত নেতা আখতারুজ্জামানের হাই কোর্টে জামিন",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1lNDlDMjlKVlJTQlY2WDZER1FtVXhFd2lhX1JNOUZOa3htekJyemRqOTRSZzVqdXVzMXlBaUw2QWpQb2pVSmZWX2ZMWFBOTElaMjAxUUVIY0FmTTNtaFE?oc=5",
+          "source": "bangla.bdnews24.com",
+          "date": "2026-11-01T06:41:00.000Z",
           "lang": "Bangla"
         },
         {
@@ -125,38 +132,31 @@
           "lang": "Bangla"
         },
         {
-          "title": "এইচএসসিতে ২২ বছরের মধ্যে পাসের হার কম, কিন্তু কেন এই বিপর্যয়",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1UU2g0LXliU3ZXT2JKVm5ERWY4UTNCYUFIV2NCVzF2VlZzWWZFS1M3Vk51WWFxeFg5WlhkbjROU1lGNm9VY1VNTEFHLUE5X0dJT0JGSkVzU0dRNFYwbmtnWUJaZTV0WEU1ZVlV0gF4QVVfeXFMT2puMlpVZWJxQzZ0SDI0S0tEanFnZ1dTc1Uwb3JpemRKd1Z3ajFEQ3dnQmJocHlnREIzTzFlX3Z6U2dVY3F4LVdzYTNibHhkYVp5YjUxOUdaa2tWSDRBRkFiMUhVTU90V3g1SnBMTHJ6bkMzSVZoM3kw?oc=5",
-          "source": "prothomalo.com",
-          "date": "2026-10-31T10:50:00.000Z",
-          "lang": "Bangla"
-        },
-        {
-          "title": "দীপের সাত দিন রিমান্ড আবেদন পুলিশের",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5hT3lnQnRlMXIzbGQ3aGZfUjZ0MnJSVGpkYnRoOUZtUUpyTlQxOHh4M3NVNEJvLWxHbGNUeHZVVE9JN1dnU05VMmtSWXh1cDJmRUgyLTBNX1RLMjMtcGZfMm1VTGNyTWdmeFJN?oc=5",
-          "source": "kalerkantho.com",
-          "date": "2026-10-31T09:28:07.000Z",
-          "lang": "Bangla"
-        },
-        {
-          "title": "আলোচনার জন্য ইরানকে চিঠি দিয়েছে যুক্তরাষ্ট্র",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBWODFnOG5XcklUaUcySDFDR3RRTkZEdVcwTEJqR2tYTVlVcXJYMThQVWRlcGFTT01HaUFCMkdOb3RqMEdDU2J4Ni1YN3BIN1BLcF9KMGNDXzlaYktlRXN2MVg4R0dLS1ZNRVRIeUJFZ1dUUE9Z?oc=5",
-          "source": "banglanews24.com",
-          "date": "2026-10-31T19:29:37.000Z",
-          "lang": "Bangla"
-        },
-        {
-          "title": "Gold Price Today: ধনতেরসের আগেই সুখবর সোনার বাজারে? দীপাবলির আগে সোনা-রুপোর দামে আজ চমক?",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQa0tZekE0ekhWaVBMdXIzcVRISXRUZjQ2b0lVUnZMU1VvdjBXMFNfTENPMm5wT09lSndoNVlHZHIyMGlqZWp3WnI5Ml92eEZ4X3N3eW5EbkFQc3daZ181MFY2RkJGdFJfcGFRVGxFdTRUX3h4SHExYXktNGdTRElfbFNLc1M5eG9hSlcwcFBUZDJ0MjFKY2N6cnB3cTZaN3pWVDExZTlUSGl3eHRBLWlnWmVLeGNYNVBURWdOYm1YQkxaZ9IBxwFBVV95cUxQakdRU000TllZbGJmM21lUW1TdkxKN3BhQWY1bjZidmRTaUZNNS1Bc2dIYWVCbjdGc0JFNV90VWdlS3M4elM1QjFWeTcyb0RxX0VjLVMtV3JCVVJYOHU1b2dFNWRxM28yNjBKRGVzcU1rZ1FyUzR1aTc1V1ROWGFQVkdXUDVJbE1Rcm9UZG5GdzJ2S2dDU1JHY1c4elUzQW9ZM2RYLW02Z2ZlVG8xV1dCUjdlekdsa1FabEZHRms4QVBrMnRnejdB?oc=5",
+          "title": "Cyclone Update: আবারও চোখ রাঙাচ্ছে ঘূর্ণিঝড়, সাগরে তৈরি হচ্ছে মুরাসু এই রাজ্যে ঝড়বৃষ্টির",
+          "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOUFVZU2syS0NKaTlSaXhramI2ZWd1S2UybFg2eW1qNkdHRGFaWmlSY2Z1aXduLThxMlhSZDNMOUFOLXdOMl9IMzV1bnp2b3ZoSy0zbUUwRmxtTmpYNU9yWlV3bm5ReHRBVlVkNTBFbkJoUWs5N05wR0VXV1ZiTXk3TEJ6Mzdycl9XVzdGeGJ4RndxQ2dXV3dFTnJWbFZTem1SRXV4MW5xem52NDFYdkpldlVNTk5jMUVTODdyUXUxODctZFNLYUhnM3k3RkRSRmx3MjROUE1SYVc3emg1VlgzOGJhdXpUUG1sMWFISDU5aFY4cFExeFHSAfsBQVVfeXFMT3MtYVYzMDFOYmNxOWd1NUxRRnludU04dDZzZ3ZrR2VRQ3ZWT2g1NlFEbEdGd1ZJcWRSSEVLMDVCS2M0Y1dzeGRYWkQxZjdBdFVwSG5ZTGpRTkdkaTZLN2pCeERJMDRjV0ZSZGN5SFBqejZIN3RoOHJZdVQtU21LM19oazIwWGhBd2Y1Wk9tUHczNUJsZDBQU3lWaFF5c05ZTHBuSFpleXlrWENnWUdiVnVXaXo2WXZHUVB4WkZvbkRoWU5xZDNxOGIxZWt1dGRXQzNfXzUzekVpTW5pYkVicVJLMGl4T0loSzh6MUZLRGVrOUN4NXpRYngzSGM?oc=5",
           "source": "bengali.abplive.com",
-          "date": "2026-10-31T06:38:00.000Z",
+          "date": "2026-11-01T02:32:20.000Z",
           "lang": "Bangla"
         },
         {
-          "title": "সাজেকে ইউপিডিএফ ও জেএসএসের মধ্যে গোলাগুলি: পুলিশ",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5BODdRSjNZMEZPV2R0MTRYNFlYOGZfTVNBVmM0VXZFY0hNOHVmS0xGaEVvazdqSV9sYjFwZG85dDJidlo3SEx2U0pzLUZKWmFTekI0c3I4a2pmWk9wNHRya2hWdW1BYnc?oc=5",
-          "source": "bangla.bdnews24.com",
-          "date": "2026-10-31T12:42:00.000Z",
+          "title": "Gyanesh Kumar Case: জ্ঞানেশকাণ্ডে আন্দোলনের ঝাঁঝ বাড়িয়ে বিরোধীদের পাবলিক ইমপিচমেন্ট",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQdFhmbWJMZFp4bXNCc3pzZEtQWmR4ZEhVNGFNT0FfblpHdzV6b2dOWVpUbWRTVlN3S0lOUDlMYWtVcVNEMFFuOFIyUFRoOGJvYzYtcjVaanpSVUhiUUo4LTFOZXFCa00wQVRSN1FzSFA5aEhfZzZnZ1BkVHVFWnMyU3BleWxoblI0M3FISUlhOUZYUzRZanVNT2duWGpBQVN2N2lzWTg1eTNqNXd5SGk2cUhZUF9aeWlPX2k2aXBXVk9wcS1D0gHKAUFVX3lxTE9JWUI3WHp2bzd0dnB6MHdSYkk0a0t3cnFpSm9Ua1dnZVh4b3BXUjNCTmdXN1lXUE14RkdhMG44SnVJcVdib0NUTU5xc2tNNTJuLUdiNkJ4LXhNbS1zZVJ3aGhoZ1FpejhFRjZuUm9pSWNFUXRzd2JEYzZjSEh6LVFuenhfVGI4X19adXQ1T3pxWUV6cFQxX0pHd0lXN1RfZmJwUmVISGpJWDRoX1MwMWdzN2dITzRCWUxUTU5ub1dxWFpvZ0t6Vm5qeEE?oc=5",
+          "source": "bengali.abplive.com",
+          "date": "2026-11-01T05:20:59.000Z",
+          "lang": "Bangla"
+        },
+        {
+          "title": "এইচএসসির ফল পুনর্নিরীক্ষণের আবেদন শুরু, মানতে হবে যে যে নিয়ম",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE94bmwyM1JHVHRkcUNEZ3VLY05Td0xVN1V5eUs2dWVMakd5MVBSbWJ5dTRNcTNESzZNWmNGanhWeWxKOFVqdWp5N3BKZFJwVnk1b3M0SkY2R0pycDlkay1SV3RyVnFKQ1Z6TmpV0gF4QVVfeXFMT2N5ZGtTVGctQUZmN1IzeUZ2a1BNZUtFdzNHQ2VwMzRiYk5GbHV5Z2xXZFFuYTVETi13Nk1XLVpINTRxQ2RZdVpPUzBXOTRsU09CNlpUV292SXBwX3BOR1lYaW1ub2ZEVFZBemdYMTY1YnhkeEVkQWgy?oc=5",
+          "source": "prothomalo.com",
+          "date": "2026-11-01T02:10:43.000Z",
+          "lang": "Bangla"
+        },
+        {
+          "title": "এআইয়ের ধাক্কায় একদিনে ৫০০ বিলিয়ন ডলার হারাল গুগল!",
+          "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1BcXZXRG9lNkUzOVU1NXBVVE9nOTBCMUFlZzRWbDVHWUJSbFlkYzIxVXdvazB6NUpUZzBhSzFReS05WmNpbnlTaVpR?oc=5",
+          "source": "dbcnews.tv",
+          "date": "2026-10-31T10:01:08.000Z",
           "lang": "Bangla"
         }
       ]
