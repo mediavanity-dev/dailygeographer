@@ -1,6 +1,6 @@
 {
   "date": "2026-11-02",
-  "updated": "2026-11-01T23:28:34.723Z",
+  "updated": "2026-11-02T01:13:45.204Z",
   "qid": "Q155",
   "name": "Brazil",
   "status": "UN member state",
@@ -16,7 +16,7 @@
     "Area": "8,515,767 km²",
     "Languages": "Portuguese",
     "Currency": "Brazilian real",
-    "Time zones": "UTC−04:00, UTC−02:00, UTC−03:00",
+    "Time zones": "UTC−03:00, UTC−04:00, UTC−02:00",
     "Calling code": "+55"
   },
   "map": "https://www.openstreetmap.org/?mlat=-14.0&mlon=-53.0#map=5/-14.0/-53.0",
@@ -103,13 +103,6 @@
       "label": "Top stories, Google News BR:pt-419 edition",
       "items": [
         {
-          "title": "Kimi Antonelli é o campeão da Fórmula 1 mais jovem da história",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZHI3TzNhM2IyWkdMb2dlLUlvRll2RTZ5cFZSaTR6eF9hMHBVLXlMT2xsX3V4cl96cDFCdjQ0YnJybVQzdkN3M2w1RnRtMjRUWnNXUmQ1ZE5VMVJRUVFFUDAtUGREMXdLTW9XNGo0U0JjS1k0c0hEQkc0MWxuaEhzcXYwNzRVSHprR2xQLXlwV28zaDlqT2Z4eEZiY0xXdHZaX3ZnMnBFc3JxQlhSZE1WMWlZWmV3UQ?oc=5",
-          "source": "cnnbrasil.com.br",
-          "date": "2026-11-01T22:26:57.000Z",
-          "lang": "Portuguese (Latin America)"
-        },
-        {
           "title": "VÍDEO: Jatinho cai em área residencial e deixa nove mortos nos EUA",
           "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1oY2lEMlNrdWJOcE45V3o2VHpKOUFuQWo5U2hjY0tzb0hiSl9XOWg0NUdFSGZsTUNuVWpfM1ZxcjRWS1Fja0huNDlyMWRnODdTRjhxVHFkVE9YekVYNW83aXdtY2NlMWFrZ3dCNWtWWXprTU9pVTJR0gGGAUFVX3lxTE9PaDR0ZGxpcmFhOTRQVnotRFBIcXIxVGtjQ2w4QmIxdlhMd282eUFPN1lwcWFGd2VOdG9ERHN4UnpwRlhmM1NsclJ4SWpuYTdxZjdZN1hhaGtYVFMzTjROU3ZJdmFrb3hrNkdyQjdvemJYSWctWUE5eENkZGI0a2ZCUFlWUDhR?oc=5",
           "source": "g1.globo.com",
@@ -117,10 +110,24 @@
           "lang": "Portuguese (Latin America)"
         },
         {
-          "title": "Apoiadores do PT celebram vitória do presidente Lula no Eixão Norte",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNY3Vic0RFWWFqcHgzVWs3NW42QUx3OHZMVnNUdEZuUjkyNlFpRWR5aEpibElXd1R3RHRtazFjWnREdzkyMm9ETGpfb1FEN0libU1Ea2EzenMzekFpVmQ1d3lNR3lZdTVyMHBIbzh4bXQ0a3lxUkRVZGt0SmlFYThLWVdtYS1HaEVyOXJUT3JCcUpLY2s3aGtfQ0FBRkFLTlBwdy1mbnJxN1l0ZWxWV1RBQU1DQlZ3VkhDYXZTWjIzbVYzU3R2Ym52NGR2a9IB0AFBVV95cUxQa1ZEbFBhT05YcS1nVmZxS0NoNEpsS3RYdVFwekF5NERGNlB5bmNXMU9wVUFSWWR3d3ZuUzd3bElKdkJCQ2lHeGRiUWdNRzhRZ0ZmQ1dxSV9Dc19VRnItVEI5eXk5eUY5QnA4ZkZwNVJpSnh1YWhwaVRBZzVYb0dHQmZyOU9xOWxzTE9oWlhmSTl0UUNuZDdDX2JMdEdUTVo3ZGlxbDRKV0tjTXJjbURGa0pGTnNNaEQtSl9IR1VEeGVGTmJieXNqanBtdlBPUF9q?oc=5",
-          "source": "correiobraziliense.com.br",
-          "date": "2026-11-01T18:51:00.000Z",
+          "title": "\"Globo\" recusa entrevista sem cortes porque tem medo, diz Flávio",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNbmgtbTJ6NHlwZGwwY05aUjdJT0JJS0EwOGJCcG5VTk1TMEx1aUV3N3hEOHM5b2U2M0pHNmtfd1k4cjd1NVB2UTNkWXhFTGdranA4R1dlanlONEJfcEFoeWU5by1WNjhVbk5DdVlIVm1yZC1KbW56RVJqenpOQVFYc2lMZnQtTjV6RExuWTdNdnNSUElEYVNQcW9NV0N4ZnpleHpNOEJubGNGVDllbzQw?oc=5",
+          "source": "poder360.com.br",
+          "date": "2026-11-01T23:27:52.000Z",
+          "lang": "Portuguese (Latin America)"
+        },
+        {
+          "title": "Lula publica vídeo desmentindo fim de programas sociais: \"Tudo o que foi prometido na campanha será cumprido\"",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOWXNBdUdoazh0VEZaN1BJZmJhSVZZNTRINTZJNTdBR2VjVkpKeGptSDlLOTBoeTNpNlYwazd0dDlkS0VEQnhvbDRSVEJOUERLWS1HVGZhaE45MHgzTDVXVzJPU1Z4aktFX3RVRVZWMjM3aTBZZ1JHUVU1Znd0S25LNG56UGoxam9YNk03Rks3VDNtQnJMY0NqeW1HUWxaaDN6OXdjVDdWbS1lNHhUQW9odXgzU2xFblJpYUtmMWl5bHVoZmxHUkVEQTJXX3p4bUVkOTYwZVU4cTJoM0k?oc=5",
+          "source": "nsctotal.com.br",
+          "date": "2026-11-01T20:22:45.000Z",
+          "lang": "Portuguese (Latin America)"
+        },
+        {
+          "title": "Fuvest 2027: cursinho aponta erro em questão de matemática",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQOGI1cElPaXg3Z3ZEVTFBanFTb2lmb003Z1hsRElIUV8wUktDV1lQV19MUzRycVRPM3FhLXhuWUJxdGlPZURyUmlJZDFhelJRdUlIVjJVanp3dFhRRkRRMWhhUU5XNVBsbzcwcFRGd1BUdWVTbU9hLTk3NjB3MVdNUDB1QTlGSjMtZVRGQl9HQVdnVjdNNkU0RVpUS3BQTXd2a0FBNkZ6SUNKZGl2OVVpa1hkYXl6MlZQUC1jVGc1UXRpNEHSAdIBQVVfeXFMTjNOSGw4LUtNU1Jjcl9DTXlUVzlyakdleXBRUGVzMm1lUThJM1pXYVJSUnNYWVFHd1huYVFYUWlUT3dQNEhNSW9wWk1RRjZnM25icko4SGw3bFhtV01Mem5FdXVyME5aeGN3YVUyT3JDa2NISlROMmZLWm9JRk51cFhnVFRubzNnX3JhblVJbDIySmVscllhVEhvUGlHaXdZY1dQQVdPYVNYenZ0NTZOeVFBSERmcUdUcm1ENVNKc1QzMkx5ZDc2UXFqS1I4dWp2OVF3?oc=5",
+          "source": "g1.globo.com",
+          "date": "2026-11-01T21:55:19.000Z",
           "lang": "Portuguese (Latin America)"
         },
         {
@@ -131,17 +138,17 @@
           "lang": "Portuguese (Latin America)"
         },
         {
-          "title": "Agentes dos EUA 'tomaram o controle' de parte de aeroporto na Argentina para viabilizar fuga de Flávio, diz jornal",
-          "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOMEFkMEFoVkhveV9iYk4tZ2NXc1dWd0tTVzdUZzJHU1JsZl84T200NklGRjNoeERnRnZNckg4OTRUVUR2aElmeXNkc2R0YTd1MFJQRkxXVEVIT1NrRGFJcEdFLThpSjJadVdpclJYcTRNTWFuemNfLTJOa3pEaEZRZ2h1NlEwYlRqVGhtdDJseFJhSVBOdHgxQnJOZFVSZERzTlNZVWlXT09uTHVuTVdPVzB5Vm5OeU9oeHM2SS1pMS14MmFEclJfZDVCc3VONUZ2RVgwVnZWWUhuZWN6bzZmQl9MTEFNc19mSHU4dkcyRjlHZmZpWnBuODRkZU02QdIBjAJBVV95cUxNNVdMNHFhVmlEUXk5ZlM4UkQzSHlGbVFYUWh3OUdaZHNjNXBycmtwOW9oQVFidVItbC1wMHYwWEYyQUFXQ2FhR1hUQWxZT1hnaW5EaWRDcFN2SzRYbkpYaEdGRU1RMk43YnoxZVBiZTlBWXFvSEh2Vy14bzNEaUE5blhZSGo0dWdYZkNrVXJsR09tMVI1Y081UEJ6TDJQVDhKRl9yeGQ4OWpTRWZVaThjVWdjMTl1dkVsSTJ5T0l1T00yVzFaWmkyVTc1Ylc1NkVfUXRkQ1ViRXpyMnJiMzNVbTV6LUNVZWxBRGRhVWhPMnJnb2RfQkZ6eFM0LWRNLVlHNUljMFBNVkpZMzF3?oc=5",
-          "source": "oglobo.globo.com",
-          "date": "2026-11-01T19:42:49.000Z",
+          "title": "Apoiadores do PT celebram vitória do presidente Lula no Eixão Norte",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNY3Vic0RFWWFqcHgzVWs3NW42QUx3OHZMVnNUdEZuUjkyNlFpRWR5aEpibElXd1R3RHRtazFjWnREdzkyMm9ETGpfb1FEN0libU1Ea2EzenMzekFpVmQ1d3lNR3lZdTVyMHBIbzh4bXQ0a3lxUkRVZGt0SmlFYThLWVdtYS1HaEVyOXJUT3JCcUpLY2s3aGtfQ0FBRkFLTlBwdy1mbnJxN1l0ZWxWV1RBQU1DQlZ3VkhDYXZTWjIzbVYzU3R2Ym52NGR2a9IB0AFBVV95cUxQa1ZEbFBhT05YcS1nVmZxS0NoNEpsS3RYdVFwekF5NERGNlB5bmNXMU9wVUFSWWR3d3ZuUzd3bElKdkJCQ2lHeGRiUWdNRzhRZ0ZmQ1dxSV9Dc19VRnItVEI5eXk5eUY5QnA4ZkZwNVJpSnh1YWhwaVRBZzVYb0dHQmZyOU9xOWxzTE9oWlhmSTl0UUNuZDdDX2JMdEdUTVo3ZGlxbDRKV0tjTXJjbURGa0pGTnNNaEQtSl9IR1VEeGVGTmJieXNqanBtdlBPUF9q?oc=5",
+          "source": "correiobraziliense.com.br",
+          "date": "2026-11-01T18:51:00.000Z",
           "lang": "Portuguese (Latin America)"
         },
         {
-          "title": "Gabarito oficial da Fuvest 2027 é divulgado; veja respostas da 1ª fase",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPd0g4OHo1MjJNM3hZaTR1YmVOWTd1OXVVbkdLQXZ2NUVHNDJ1aG9nWmNLazZhZ0pWTjZHVVZMUmJMQ3FLcmNoNkpzM0pwcEJPVi1wUjRyQVI0UHZtSlJ0YW1IUHhPanhWOHJQaTFSRzM0Y0lpSDhnaC1ackkwWnN6QnhQZG5sOEQxZzZ0aUpwNVM4dlp3WHZFRDRGVlBzRHRIT3c0M1hGcnJnaVBRU1lueFozNWw5aFFnT0JzVFF5bw?oc=5",
-          "source": "www1.folha.uol.com.br",
-          "date": "2026-11-01T21:45:00.000Z",
+          "title": "Derrota de Flávio abre caminho para Tarcísio disputar a Presidência em 2030",
+          "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNSE1hc29BMEVkTlZpY1pXTFV5dnR0VkM3ZGNZWWtfTndxUDlxcTQwQzB3a0pJb0JVU2Q2clpIazlxWEdiZlFPWF8zdElIcW8ycjRLM29lblR1MHhBN2prS25pamRyTmh3dVNxT2hfT2lBelNjaVM0SnFHSldMemdWY01tUFRHWXJEVGhfZDg0SDB1VXhjSHI5LWtFdEY4bG1RbzhpUWJMZ3V2djNzZERnX19Ea0lLX2ZER1duUkQ3dWZLZHBzWHFhZVUwazFkWUNuYkE4Ym1ObWp5N3F2REFQU041RVJkUnBzRXZkMmpxUm5PSHlfaE1z?oc=5",
+          "source": "terra.com.br",
+          "date": "2026-11-01T08:00:00.000Z",
           "lang": "Portuguese (Latin America)"
         },
         {
@@ -149,13 +156,6 @@
           "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQYk1UdDA4THBGZThJaHZQODM2emNJejdTYnVmZHkxY2o0d0dpMGlGZFZ4NjRsejJhci1wd2NZaF9XSTJtTksxT0dQdGRKbzJJVjZFUDItcGF0ZTJpM0d2VmYyRU1OWVJFOS1mZ194YjhPYzFvd0padVpOTG8xMGNhcWF2UDVTVXpzX1hUVi1jVEZOVk8wdm1xMll0SXgxS0JaMWQweWtkbw?oc=5",
           "source": "jovempan.com.br",
           "date": "2026-11-01T18:16:56.000Z",
-          "lang": "Portuguese (Latin America)"
-        },
-        {
-          "title": "Chef Julio Ritta rebate Nikolas e defende ação social em vídeo",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOQWFISGFmVzQ3ZVc0WWduQ2liRUctY292QTVZMVBLbkFOYXFIb1kxNHV6NVZxX1RQaXhFMzFoZXJ5NGRWdl9RX0syYmZQa01XV1Qxc0RTVzQ5SGQyc2FhckpCZUpxRXlOYjN0UG5lRjd3dWxuODdjc3VQRy1kX1BybVF5R2hDcXpjNmtvR08wTmVmSnRESjdILW1kZmZTN0lGN2xfTmFCWDJmeUxCbFgzYg?oc=5",
-          "source": "poder360.com.br",
-          "date": "2026-11-01T20:17:08.000Z",
           "lang": "Portuguese (Latin America)"
         }
       ]
