@@ -1,6 +1,6 @@
 {
   "date": "2026-11-02",
-  "updated": "2026-11-02T01:13:45.204Z",
+  "updated": "2026-11-02T01:51:07.359Z",
   "qid": "Q155",
   "name": "Brazil",
   "status": "UN member state",
@@ -16,7 +16,7 @@
     "Area": "8,515,767 km²",
     "Languages": "Portuguese",
     "Currency": "Brazilian real",
-    "Time zones": "UTC−03:00, UTC−04:00, UTC−02:00",
+    "Time zones": "UTC−03:00, UTC−02:00, UTC−04:00",
     "Calling code": "+55"
   },
   "map": "https://www.openstreetmap.org/?mlat=-14.0&mlon=-53.0#map=5/-14.0/-53.0",
@@ -100,8 +100,22 @@
       ]
     },
     "google": {
-      "label": "Top stories, Google News BR:pt-419 edition",
+      "label": "Top stories, BR:pt-419 edition",
       "items": [
+        {
+          "title": "Com ataque 'cirúrgico', Grêmio vence Atlético-MG e sai na frente por final",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOaEZkeE1yQlBoN19yNm5yZV9sNGV6c19NeTNjVlVmQjdpQ3NTQWtsWkdKMVdudC10SklQNy1oeUw4RU5IMV9ZQ0loRDlJZHRVd052SXExcWpFTW5qQmwwSnk5RjczRkpUUnJ0RWF2VXVJLVcyN0Z4cjd6ckxvR0ZubUxBajFaSVJxazJKNnhTMjF4OU5PMng3WllZU3BBWjN4RXJZYWxGV0l4UmxISmRwYXRleVc1VTFF?oc=5",
+          "source": "uol.com.br",
+          "date": "2026-11-01T23:32:33.000Z",
+          "lang": "Portuguese (Latin America)"
+        },
+        {
+          "title": "Agentes dos EUA 'tomaram o controle' de parte de aeroporto na Argentina para viabilizar fuga de Flávio, diz jornal",
+          "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOMEFkMEFoVkhveV9iYk4tZ2NXc1dWd0tTVzdUZzJHU1JsZl84T200NklGRjNoeERnRnZNckg4OTRUVUR2aElmeXNkc2R0YTd1MFJQRkxXVEVIT1NrRGFJcEdFLThpSjJadVdpclJYcTRNTWFuemNfLTJOa3pEaEZRZ2h1NlEwYlRqVGhtdDJseFJhSVBOdHgxQnJOZFVSZERzTlNZVWlXT09uTHVuTVdPVzB5Vm5OeU9oeHM2SS1pMS14MmFEclJfZDVCc3VONUZ2RVgwVnZWWUhuZWN6bzZmQl9MTEFNc19mSHU4dkcyRjlHZmZpWnBuODRkZU02QdIBjAJBVV95cUxNNVdMNHFhVmlEUXk5ZlM4UkQzSHlGbVFYUWh3OUdaZHNjNXBycmtwOW9oQVFidVItbC1wMHYwWEYyQUFXQ2FhR1hUQWxZT1hnaW5EaWRDcFN2SzRYbkpYaEdGRU1RMk43YnoxZVBiZTlBWXFvSEh2Vy14bzNEaUE5blhZSGo0dWdYZkNrVXJsR09tMVI1Y081UEJ6TDJQVDhKRl9yeGQ4OWpTRWZVaThjVWdjMTl1dkVsSTJ5T0l1T00yVzFaWmkyVTc1Ylc1NkVfUXRkQ1ViRXpyMnJiMzNVbTV6LUNVZWxBRGRhVWhPMnJnb2RfQkZ6eFM0LWRNLVlHNUljMFBNVkpZMzF3?oc=5",
+          "source": "oglobo.globo.com",
+          "date": "2026-11-01T19:42:49.000Z",
+          "lang": "Portuguese (Latin America)"
+        },
         {
           "title": "VÍDEO: Jatinho cai em área residencial e deixa nove mortos nos EUA",
           "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1oY2lEMlNrdWJOcE45V3o2VHpKOUFuQWo5U2hjY0tzb0hiSl9XOWg0NUdFSGZsTUNuVWpfM1ZxcjRWS1Fja0huNDlyMWRnODdTRjhxVHFkVE9YekVYNW83aXdtY2NlMWFrZ3dCNWtWWXprTU9pVTJR0gGGAUFVX3lxTE9PaDR0ZGxpcmFhOTRQVnotRFBIcXIxVGtjQ2w4QmIxdlhMd282eUFPN1lwcWFGd2VOdG9ERHN4UnpwRlhmM1NsclJ4SWpuYTdxZjdZN1hhaGtYVFMzTjROU3ZJdmFrb3hrNkdyQjdvemJYSWctWUE5eENkZGI0a2ZCUFlWUDhR?oc=5",
@@ -110,17 +124,17 @@
           "lang": "Portuguese (Latin America)"
         },
         {
-          "title": "\"Globo\" recusa entrevista sem cortes porque tem medo, diz Flávio",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNbmgtbTJ6NHlwZGwwY05aUjdJT0JJS0EwOGJCcG5VTk1TMEx1aUV3N3hEOHM5b2U2M0pHNmtfd1k4cjd1NVB2UTNkWXhFTGdranA4R1dlanlONEJfcEFoeWU5by1WNjhVbk5DdVlIVm1yZC1KbW56RVJqenpOQVFYc2lMZnQtTjV6RExuWTdNdnNSUElEYVNQcW9NV0N4ZnpleHpNOEJubGNGVDllbzQw?oc=5",
-          "source": "poder360.com.br",
-          "date": "2026-11-01T23:27:52.000Z",
+          "title": "Lula garante que programas sociais serão mantidos",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcUxiU3VLX2xCZURiVmpOck1iUFd5ai1xdVRkY2NnTVZUWThFQklhb0dYNFoxaUg3RGZwd29wbkRPSnZYbzVqTXFNTmhveWY2QTBvME90cWZNMk1MZFBMRld3RS1KQVVCbWdnV3Z1S1BWeTFacjI5UzlJS1NxOVUwSUZ4VDBFQmZydFRzYzAwNHE0R3N5MjFuOTlSMXB2YlBQN3NjSlVNUS03S2s?oc=5",
+          "source": "agenciabrasil.ebc.com.br",
+          "date": "2026-11-01T21:48:00.000Z",
           "lang": "Portuguese (Latin America)"
         },
         {
-          "title": "Lula publica vídeo desmentindo fim de programas sociais: \"Tudo o que foi prometido na campanha será cumprido\"",
-          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOWXNBdUdoazh0VEZaN1BJZmJhSVZZNTRINTZJNTdBR2VjVkpKeGptSDlLOTBoeTNpNlYwazd0dDlkS0VEQnhvbDRSVEJOUERLWS1HVGZhaE45MHgzTDVXVzJPU1Z4aktFX3RVRVZWMjM3aTBZZ1JHUVU1Znd0S25LNG56UGoxam9YNk03Rks3VDNtQnJMY0NqeW1HUWxaaDN6OXdjVDdWbS1lNHhUQW9odXgzU2xFblJpYUtmMWl5bHVoZmxHUkVEQTJXX3p4bUVkOTYwZVU4cTJoM0k?oc=5",
-          "source": "nsctotal.com.br",
-          "date": "2026-11-01T20:22:45.000Z",
+          "title": "Democratas superam republicanos em pesquisas a 2 dias de pleito nos EUA",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOd2xWQVdQMFo3U2pTbWFic3pTejBnb09QMUt6MFBiWWtXd2hPM1FUejhYTzllWTFUZVgzNFUwaTBkWWFIajJZNFpsWEJwR3dlbnNlN0ctRGpEVDJteV9BM1hTa0dtZVphM2lQd1YyeUo1X09YN0ZrVG9Nei1QZnVZU28xcTZVU1g0emxhaWhVWGk3UWRVdmdnZTRVTlJ4OGMtMGRoS1U4eTlaRFQwbnFtYmRELWQ4OGJIckFWMg?oc=5",
+          "source": "poder360.com.br",
+          "date": "2026-11-01T14:15:33.000Z",
           "lang": "Portuguese (Latin America)"
         },
         {
@@ -128,20 +142,6 @@
           "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQOGI1cElPaXg3Z3ZEVTFBanFTb2lmb003Z1hsRElIUV8wUktDV1lQV19MUzRycVRPM3FhLXhuWUJxdGlPZURyUmlJZDFhelJRdUlIVjJVanp3dFhRRkRRMWhhUU5XNVBsbzcwcFRGd1BUdWVTbU9hLTk3NjB3MVdNUDB1QTlGSjMtZVRGQl9HQVdnVjdNNkU0RVpUS3BQTXd2a0FBNkZ6SUNKZGl2OVVpa1hkYXl6MlZQUC1jVGc1UXRpNEHSAdIBQVVfeXFMTjNOSGw4LUtNU1Jjcl9DTXlUVzlyakdleXBRUGVzMm1lUThJM1pXYVJSUnNYWVFHd1huYVFYUWlUT3dQNEhNSW9wWk1RRjZnM25icko4SGw3bFhtV01Mem5FdXVyME5aeGN3YVUyT3JDa2NISlROMmZLWm9JRk51cFhnVFRubzNnX3JhblVJbDIySmVscllhVEhvUGlHaXdZY1dQQVdPYVNYenZ0NTZOeVFBSERmcUdUcm1ENVNKc1QzMkx5ZDc2UXFqS1I4dWp2OVF3?oc=5",
           "source": "g1.globo.com",
           "date": "2026-11-01T21:55:19.000Z",
-          "lang": "Portuguese (Latin America)"
-        },
-        {
-          "title": "Eleição nos Estados Unidos define futuro de Trump nesta terça-feira",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNd0VwM2lYNWx5WUJ2U2xxS3NaVE9xVnJDUl9ZbnRScmtBRWtTWnhESWt4UEFBa2ZUcU1XbTBxTm1oenhPZGNLNndDNXlpelRGeVY1QW1rcmhOSm1iNWpkbG9IREw3b3ppb1d4anNaMU03MHNUb2VvZ2N4R2VDQk81cnhkT25acDhORGFjSGdwb3RjZUFEcGpXLVhzMnNGVmJGWkJpWTVibHc5dUhFQlJPSTZWSm9Ib3VlNU1Sc0RodVMxaS1aX2U0RFRB?oc=5",
-          "source": "agenciabrasil.ebc.com.br",
-          "date": "2026-11-01T17:44:00.000Z",
-          "lang": "Portuguese (Latin America)"
-        },
-        {
-          "title": "Apoiadores do PT celebram vitória do presidente Lula no Eixão Norte",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNY3Vic0RFWWFqcHgzVWs3NW42QUx3OHZMVnNUdEZuUjkyNlFpRWR5aEpibElXd1R3RHRtazFjWnREdzkyMm9ETGpfb1FEN0libU1Ea2EzenMzekFpVmQ1d3lNR3lZdTVyMHBIbzh4bXQ0a3lxUkRVZGt0SmlFYThLWVdtYS1HaEVyOXJUT3JCcUpLY2s3aGtfQ0FBRkFLTlBwdy1mbnJxN1l0ZWxWV1RBQU1DQlZ3VkhDYXZTWjIzbVYzU3R2Ym52NGR2a9IB0AFBVV95cUxQa1ZEbFBhT05YcS1nVmZxS0NoNEpsS3RYdVFwekF5NERGNlB5bmNXMU9wVUFSWWR3d3ZuUzd3bElKdkJCQ2lHeGRiUWdNRzhRZ0ZmQ1dxSV9Dc19VRnItVEI5eXk5eUY5QnA4ZkZwNVJpSnh1YWhwaVRBZzVYb0dHQmZyOU9xOWxzTE9oWlhmSTl0UUNuZDdDX2JMdEdUTVo3ZGlxbDRKV0tjTXJjbURGa0pGTnNNaEQtSl9IR1VEeGVGTmJieXNqanBtdlBPUF9q?oc=5",
-          "source": "correiobraziliense.com.br",
-          "date": "2026-11-01T18:51:00.000Z",
           "lang": "Portuguese (Latin America)"
         },
         {
