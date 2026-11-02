@@ -49,7 +49,7 @@
     transform: rotate(-45deg); transition: transform .15s; }
   details.history[open] summary::before { transform: rotate(45deg); }
   details.history p { margin: 12px 0 0; }
-  @media (min-width: 720px) { .feeds { grid-template-columns: 1fr 1fr; } }
+  @media (min-width: 720px) { .feeds.two { grid-template-columns: 1fr 1fr; } }
   .standing { display: inline-block; margin: 4px 0 4px; padding: 3px 10px; border: 1px solid var(--line); border-radius: 999px;
     color: var(--muted); font-size: .8rem; line-height: 1.4; }
   @media (min-width: 640px) { .hero img { width: 140px; } }
@@ -105,9 +105,13 @@ function render(d) {
   const news = el('section', {},
     el('h2', { textContent: `News from ${d.name}` }),
     el('p', { className: 'note', textContent: 'Collected automatically. Local outlets can include state-run media.' }),
-    el('div', { className: 'feeds' },
-      feed('Local outlets', 'GDELT', lists.local, lists.local === null ? `GDELT doesn't track outlets based in ${d.name}.` : 'No recent headlines found via GDELT.'),
-      lists.international !== undefined ? feed('International coverage', 'GDELT', lists.international, 'No recent headlines found via GDELT.') : null),
+    // Show GDELT's local list only when it has headlines or Google News has no list to stand in for it,
+    // so the page never shows two "Local outlets" sections with one of them empty.
+    ...[[
+      lists.local?.items.length || !lists.google
+        ? feed('Local outlets', 'GDELT', lists.local, lists.local === null ? `GDELT doesn't track outlets based in ${d.name}.` : 'No recent headlines found via GDELT.') : null,
+      lists.international !== undefined ? feed('International coverage', 'GDELT', lists.international, 'No recent headlines found via GDELT.') : null,
+    ].filter(Boolean)].map((kids) => el('div', { className: kids.length > 1 ? 'feeds two' : 'feeds' }, ...kids)),
     lists.google ? el('div', { className: 'google' },
       el('p', { className: 'note', textContent: "Google's algorithm picks and ranks the headlines below, which adds its own bias." }),
       feed('Local outlets, ranked by Google News', 'Google News', lists.google, 'No recent headlines found via Google News.')) : null);
