@@ -1,6 +1,6 @@
 {
   "date": "2026-11-02",
-  "updated": "2026-11-02T19:04:21.820Z",
+  "updated": "2026-11-02T23:26:41.241Z",
   "qid": "Q155",
   "name": "Brazil",
   "status": "UN member state",
@@ -16,7 +16,7 @@
     "Area": "8,515,767 km²",
     "Languages": "Portuguese",
     "Currency": "Brazilian real",
-    "Time zones": "UTC−03:00, UTC−02:00, UTC−04:00",
+    "Time zones": "UTC−02:00, UTC−03:00, UTC−04:00",
     "Calling code": "+55"
   },
   "map": "https://www.openstreetmap.org/?mlat=-14.0&mlon=-53.0#map=5/-14.0/-53.0",
@@ -103,17 +103,17 @@
       "label": "Top stories, BR:pt-419 edition",
       "items": [
         {
-          "title": "Como eleições nos EUA devem selar destino de Trump e futuro da relação com o Brasil em 4º mandato de Lula",
-          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE01UTlvOHYwYmNnakNabkpPa3c0NVRsQU54UXdoR1V5YnJMTktMbEQ2d1dJUi1mN19CZVNaajJ3bDk2SDlZbGgzc0k4TnBzeWZyRV9nOWFWSENjRE1rQzliOVdVONIBaEFVX3lxTE5Td0lhWkRpRFJfQ25wTnVGMG1CS2hYWVFOaGRvOGRERFB4ME1rWUVHaU5jTEZKX3o0YTVXWTcxSnFmV09JLTBSRFl5VHRXYUlvVUhNek9pbzZiUEFBT09qVVRXdzYycFNh?oc=5",
+          "title": "Nathalia Gadelha: filha de brasileiros era copilota do avião que caiu na Flórida e deixou 9 mortos; o que se sabe",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE93Y2hMa1ctOHFOM2ZCUGY4RTljWmNKSkFyYjRxZG9ZVjVVeE5lS0Fod0I0dnJzekFaS2VObFg3Zl80N1cwT2p0YUx1dmw1SWlhTEp5dm1mLUhNcHZXMVJZZV9SNNIBaEFVX3lxTE1Pb2IwLWh3REJ2Y0dqR2NNUEFVdVVSaGhva3g3amlGZnh2WGhBNEtZWGc0WVdDeVFFSmNvbWRUZ0ZBRndrbnJZVjdwc1lidnJMQlBxNFNyWmJrSWRpMmJ4MGx2T0ZZbnlu?oc=5",
           "source": "bbc.com",
-          "date": "2026-11-02T10:44:19.000Z",
+          "date": "2026-11-02T21:02:34.000Z",
           "lang": "Portuguese (Latin America)"
         },
         {
-          "title": "Filha de brasileiros era copiloto de avião que caiu na Flórida e deixou 9 mortos",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTDl6TzhBcTQ0c3VMVUhnaXkyUTllRjJOY05wbDF0Y1NfM240QVlTUjg2a2lDaGdQSzNyVExpUm9KSU1oOUtwVS1PSXNrYjRVaVVPdEQ3dllQVFN4bTNKVF9BUHdRb1hpZ0hfZldKeDQ5TXcyS3hYUVozTzRNcHhVc1VwM1phSGdaT0RLamhlOUNsZmtnY2ZfT1h30gGoAUFVX3lxTE1JODV3OXFkWlZzSV9JcF9yc3gybTljVml4d1BzVXlYbENPblUyRDZzclJGaHppZnU1enc0UU8xamxiaFlXYnRzRmNIOU03VGFMZEJYenU5WkJoQmo0dUp2OFc4VmlMYUNKTnF4M0J1VTQyN0NPdldNUnQ1MnE3Wmg2aTVCS2NmN1ZSbzlDcWlNUmZ1TFJ3OV9nSlo4ek96MjZnYXRQak1DUQ?oc=5",
-          "source": "g1.globo.com",
-          "date": "2026-11-02T16:29:43.000Z",
+          "title": "Com 53 milhões de votos antecipados, partidos encerram campanha, e democratas temem que Trump conteste o resultado das eleições",
+          "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPVGxMSUxTN0J3bmVKVzFidzZpR0FZR2NrQnYzY0JENXBoT3hCbDA2LUR1QjA4UXd3amZxLTVoVDBvdVphdW1KWjNCb2pqWjh0clhicXZUSEEtZnVvWEQwYUR6YUxLczcybFdDbzN6MjFibGRBMUJsb19HTkJGMVJqejVVUVNOaG96eXItc0ZQQmJoampqRnlHM05ObURIY09JVUtyM3BGUUhaUGRlN1pMY1MtOTluVEhKR2FRaEpndkFlZHdsSzBNckVYcDRwNlN1MWpzdnBZUDBDRlhESzNmNTlJTGtwYTE5eW5MMm5vV05nTElkVS15MW1FbVVVbTlhWEYxV09KRkY3QdIBmAJBVV95cUxNQndwS3M3TDNnTXkyX3FMbmRyWEIxSnhwOWY2TUhIblItd2FURGhBQWhjMFNPNXFBOEFmdHRqNlEwUXZNc1E1eWx6eTRiYTJTRjFwUzV5VVp2aFZTVktFT2RnSDFDTmxFTHk0cEtrZGtZV0YxLW5CbWpsMzdEaTg3UzZabDQ2UE12dE9odmVrVm1hVm85NnJ6TjJ5c1ZMY0pNZktFZ21rdE9kUnRwQVM5blN3WHRpZWpiWnZjcDNuRmhjMDlkbEswekFYMFZ1U3QxbDZncVRhWkNDWjJBZWQtX3BKYmZsT1VZNTNEZ1JiaUhUdWx1Z3dHY2VsSWFpeU1yNFN3ajNyNGNnazI2UUtOckVVQWpSLUZk?oc=5",
+          "source": "oglobo.globo.com",
+          "date": "2026-11-02T22:06:00.000Z",
           "lang": "Portuguese (Latin America)"
         },
         {
@@ -124,10 +124,17 @@
           "lang": "Portuguese (Latin America)"
         },
         {
-          "title": "Eleição nos EUA: Musk testa o que quase meio bilhão de dólares pode fazer na corrida eleitoral americana",
-          "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQUnA4Q1plYTJxLXJ5MlNVQWpNNjlmWVE0VDFSUEVsTXJBTW5feGw4cUhQUGR3MzRhQ2RyXy0wdlRoVURtcEkySWVsck9wdHF6UWlYTk04NS1xYkU0Zy1UbE1FekdCdDVxX0JuNjZ6T3luREx3LWtCaHNOT1pyUDFTTnlFVGhnaDZ1a2FYN2RiQ2tyMEo4VGV2ZHhKZHgtSG9CQWNfM09BYkdMTE5xUmRSNjBnLTJneXJSUjVnT1BQbEF2WFdtNUdFRmxfUmZONkQ1aS04Z0d6OGduUzFITVp0aHkwelc1MGNydzExWTJiXzc?oc=5",
-          "source": "oglobo.globo.com",
-          "date": "2026-11-02T11:41:03.000Z",
+          "title": "Quem vai comandar a economia de Lula em 2027? O que o mercado espera",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPLURFejlrdkNoMUhZUHZrQ0FoTjl4UF9NUkZBOXI2NFE0TU1Cb3RzZWc3SUFwM0Mzc1Z1eGxfWFg1aEZxNEhqd253UHJPeUpPSjBKYzN3dnRWMFN3T29yNDRoWTB0UjRWY0RTQzItOEVaLVJsVVZqYnJTSmkxd0ZPcElua0ZmY3VOOGN0UTcxQjZsbjlRdVRBeVAxSGlpYndxaEdnS0NLREN5QdIBrwFBVV95cUxQQW94UUdHam11X2UyX3FyazJtNV9PVldHQnBJMW9QUHB4dGJvVS1Sd2lWWm92aUx0QThvMHpFU05WRUpPaWdiOURZcXVNemd3S2daTGFtcUhJUUdPMjBITTJBeEZ4N25TYWpzUVM4YzE2ZmNycG1Jei1nR2NLM1ZnRm9aRWxWcmdUdk9XOWNOZUVROEYyd3hQeVhtN1RmUXNkN0ZWLVdtS1lyTmpfZm00?oc=5",
+          "source": "infomoney.com.br",
+          "date": "2026-11-01T20:21:22.000Z",
+          "lang": "Portuguese (Latin America)"
+        },
+        {
+          "title": "Defesa de Flávio Bolsonaro pede afastamento de Moraes e troca por Mendonça em inquérito",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPT05QYW50eU1MTm12Mk5KN25taUl1SXZoMzBlSThhdVBoZU5aa3lldkdDZjhScnQ5ZnVyRWJNeGJNc3FBMnlWaF9aZHBPNGkteVFxcUNBOEJaSXd0OVdySzI5ZkpGX1BqYlU5ZFR0WU9sM2ZqTDd6bXBtSmlfXzNaell2Q2dtblZEZENXc2ZRM3N6RWhTUXFTYUxXY2Z0Z1dvYTNjbTlR?oc=5",
+          "source": "diariodocentrodomundo.com.br",
+          "date": "2026-11-02T02:55:00.000Z",
           "lang": "Portuguese (Latin America)"
         },
         {
@@ -138,24 +145,17 @@
           "lang": "Portuguese (Latin America)"
         },
         {
+          "title": "Caso Master: Vorcaro aciona a Comissão Interamericana de Direitos Humanos e alega violações em prisão preventiva",
+          "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPdHhiR1JLZkFkM184YTIzQThxV3lTNzI3aEtMNG01Y0Fnb0gzSElwRzFZMTFrMXhWMkpNV3BvWkZmc19BUmZJcTBfX2Jsem5STllhbms2WXFEUy01Ri1nZkVLalB6dV9acTN2a3ZsdGhXMEdJVGJrVTBqOUdoSXlmWkJTZm5NQWNaSU1pM0Z3NU90Nkk4a3g5bDdkdEp2ZXFEQlRsOFNRdHRoejhBZXpTcFN4d1c2Y1pUSEN6dVEyVjJXMVpYZGh3aUhjNE1nU0FWblVFSjkyaFJlX0U3b0V5b1VtM21ZUmo3dFlsMzJZWUI3WXpDc0htdHNOQURQdVXSAY4CQVVfeXFMUFN4N01fTS1KRnRjQjhQaGdjaUx0THZhRzhpVTktSEloNmVzaUUxc01VYVh2azYwWmhzNmxxaUk0aWZUemJ2dElKOFVyRDN1X3JlX0Z3OThFelhJWEdQVVhja3NQc2M2ajZ5UGFQNWRYZTFVUVltYzR0bTJCY0N3RWd0aXUwclN1T3VTM0ZNOGNnWkp4YmNpcGR3OTM3Sl9fcndrYWJDUUNiMXlVbTAtRTNiYTdXT2IxNUM4a2tkTFFnUkFtcUxyc2QzV1l0c2xpZnUyalA2WDBYNU5zWHlNV296eUNHYkJ0N09sSUxNUWxNLTlSMWZXTlB5U0tQeXNZNGs4THBYS3lLam9KcTlR?oc=5",
+          "source": "oglobo.globo.com",
+          "date": "2026-11-02T21:16:47.000Z",
+          "lang": "Portuguese (Latin America)"
+        },
+        {
           "title": "Fuvest anula questão de matemática após identificar erro em coordenada geográfica",
           "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxObVRSUFZQb2x6MWx2V2RweEpSem5qWVJDR2RlN1VrZ3cyMGwwcjFqYmcwUVBxeUh0ZkRjZWJJZF96R0xqejRjNjg5V0MtZ2xBUTc1M3BOLVlOTDdCaEhQa2YwMmFsTlk5NTNiV3pLU2ZPdzhQT1hucjU0UERXUzduT2lxWjBybXJGbDRRYUNCMXBDZTE1ckZOUjRZNkV1YWp6bW5mdUNicmU0eGlmM0c4U2dFNGlMUGhuMGRTU0pnR1pKQmhGUlN3NzlrMDFRdTRiTm1QYUVRUW1KTms3LUxyQ3JqQdIB8gFBVV95cUxQS0s1VmlOdC15V3hEaEZNZW9nckxLTFVCV2tsRVBTekh2X2hnazhkU0NVWC1GMER4ODNSUDRGaHZGWE1RUmtxbEdyenNjN0NiaUNVcV83MXhOcHJiV01JNlJkdGZrT2t5aFdmUk5YdUN2Z29vcTVtZUpuRmtQeU9VUjJXUUhBR2JvYU5GVmRqU3JIRFBCZ1N4dWdBSmZQXzZXWkE0QmlEYm5zajRvODhsSU8wVEEwWFR2SGpiWUlxdEtvd2Y0a253VWgtU3A4TncwTENJa2VObVNnRms5cjdLYXpvUXBwN3pQTWwwWmYydkJsdw?oc=5",
           "source": "g1.globo.com",
           "date": "2026-11-02T12:55:44.000Z",
-          "lang": "Portuguese (Latin America)"
-        },
-        {
-          "title": "Vorcaro aciona Comissão Interamericana de Direitos Humanos contra prisão",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWFhuZ1dsa0RkVG0tTl9GWDFQNF9tc0psMzk2a25icGN0Ulpyc2NGUWhiU216QzM2dnNXSFN0ODJyVVFJNjk1R3NaTUcteUNGY2o1em53SWhZbXZGMDdNVEUyUmJxUGYwZ3FIaG5RbVd5VkRGU1VWMTlZUHhia09GdDJsRjRKbmV0ZFFNQ2wtcVFWdWtFMWtSVGxnUnJVUHVfRTdZX09McHZmX1NoblFRSFVpMFNZdw?oc=5",
-          "source": "poder360.com.br",
-          "date": "2026-11-02T16:13:24.000Z",
-          "lang": "Portuguese (Latin America)"
-        },
-        {
-          "title": "Chef Julio Ritta rebate Nikolas e defende ação social em vídeo",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOQWFISGFmVzQ3ZVc0WWduQ2liRUctY292QTVZMVBLbkFOYXFIb1kxNHV6NVZxX1RQaXhFMzFoZXJ5NGRWdl9RX0syYmZQa01XV1Qxc0RTVzQ5SGQyc2FhckpCZUpxRXlOYjN0UG5lRjd3dWxuODdjc3VQRy1kX1BybVF5R2hDcXpjNmtvR08wTmVmSnRESjdILW1kZmZTN0lGN2xfTmFCWDJmeUxCbFgzYg?oc=5",
-          "source": "poder360.com.br",
-          "date": "2026-11-01T20:17:08.000Z",
           "lang": "Portuguese (Latin America)"
         }
       ]
