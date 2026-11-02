@@ -43,12 +43,18 @@
   .google { margin-top: 16px; padding-top: 12px; border-top: 1px solid var(--line); }
   .google h3 { margin-top: 0; }
   h3 { font-size: .95rem; margin: 12px 0 0; }
-  details.history summary { cursor: pointer; font-weight: 600; color: var(--accent); list-style: none; display: flex; align-items: center; gap: 8px; }
-  details.history summary::-webkit-details-marker { display: none; }
-  details.history summary::before { content: ""; width: .45em; height: .45em; border: solid currentColor; border-width: 0 2px 2px 0;
-    transform: rotate(-45deg); transition: transform .15s; }
-  details.history[open] summary::before { transform: rotate(45deg); }
-  details.history p { margin: 12px 0 0; }
+  section.panel { padding: 0; }
+  .panel summary { cursor: pointer; list-style: none; display: flex; align-items: center; justify-content: space-between; gap: 12px;
+    padding: 16px; border-radius: 12px; }
+  .panel summary::-webkit-details-marker { display: none; }
+  .panel summary:focus-visible { outline: 2px solid var(--accent); outline-offset: -2px; }
+  .panel summary h2 { margin: 0; }
+  .panel summary::after { content: ""; flex: none; width: .5em; height: .5em; border: solid var(--muted); border-width: 0 2px 2px 0;
+    transform: translateY(-25%) rotate(45deg); transition: transform .15s; }
+  .panel details[open] > summary::after { transform: translateY(25%) rotate(-135deg); }
+  .panel .body { padding: 0 16px 16px; }
+  .panel .body > :first-child { margin-top: 0; }
+  .history p { margin: 12px 0 0; }
   @media (min-width: 720px) { .feeds.two { grid-template-columns: 1fr 1fr; } }
   .standing { display: inline-block; margin: 4px 0 4px; padding: 3px 10px; border: 1px solid var(--line); border-radius: 999px;
     color: var(--muted); font-size: .8rem; line-height: 1.4; }
@@ -95,6 +101,10 @@ function render(d) {
 
   // Older data files hold a single list.
   const lists = d.news.items ? { local: d.news } : d.news;
+  // Every section is a collapsible panel; only "At a glance" starts open.
+  const panel = (title, open, ...kids) => el('section', { className: 'panel' },
+    el('details', { open }, el('summary', {}, el('h2', { textContent: title })), el('div', { className: 'body' }, ...kids)));
+
   // Each list names its own source; the note at the top of the pane applies to all of them.
   const feed = (heading, via, list, missing) => el('div', {},
     el('h3', { textContent: heading }),
@@ -102,8 +112,7 @@ function render(d) {
     list?.items.length ? el('ol', { className: 'news' }, ...list.items.map((n) => el('li', {},
       el('a', { href: n.url, textContent: n.title, target: '_blank', rel: 'noopener' }),
       el('div', { className: 'meta', textContent: [n.source, newsDate(n.date), n.lang !== 'English' ? n.lang : null].filter(Boolean).join(' · ') })))) : null);
-  const news = el('section', {},
-    el('h2', { textContent: `News from ${d.name}` }),
+  const news = panel(`News from ${d.name}`, false,
     el('p', { className: 'note', textContent: 'Collected automatically. Local outlets can include state-run media.' }),
     // Show GDELT's local list only when it has headlines or Google News has no list to stand in for it,
     // so the page never shows two "Local outlets" sections with one of them empty.
@@ -116,18 +125,17 @@ function render(d) {
       el('p', { className: 'note', textContent: "Google's algorithm picks and ranks the headlines below, which adds its own bias." }),
       feed('Local outlets, ranked by Google News', 'Google News', lists.google, 'No recent headlines found via Google News.')) : null);
 
-  const facts = el('section', {}, el('h2', { textContent: 'At a glance' }),
+  const facts = panel('At a glance', true,
     el('dl', {}, ...Object.entries(d.facts).filter(([, v]) => v).flatMap(([k, v]) => [el('dt', { textContent: k }), el('dd', { textContent: v })])),
     d.map ? el('p', {}, el('a', { href: d.map, textContent: 'View on map', target: '_blank', rel: 'noopener' })) : null);
 
-  const about = d.summary?.extract || d.status ? el('section', {}, el('h2', { textContent: 'About' }),
+  const about = d.summary?.extract || d.status ? panel('About', false,
     d.status ? el('span', { className: 'standing', textContent: d.status, title: 'Political status' }) : null,
     d.summary?.extract ? el('p', { textContent: d.summary.extract }) : null,
     d.summary?.url ? el('a', { href: d.summary.url, textContent: 'Read more on Wikipedia', target: '_blank', rel: 'noopener' }) : null) : null;
 
   // History is Wikipedia's own overview (an article lead, or the opening of a History section), shown as written.
-  const history = d.history ? el('section', {}, el('details', { className: 'history' },
-    el('summary', { textContent: `See the history of ${d.name}` }),
+  const history = d.history ? panel('History', false, el('div', { className: 'history' },
     ...d.history.paragraphs.map((p) => el('p', { textContent: p })),
     el('p', { className: 'note' }, 'From ', el('a', { href: d.history.url, textContent: d.history.title, target: '_blank', rel: 'noopener' }),
       ' on Wikipedia, written collaboratively under its neutral-point-of-view policy.'))) : null;
@@ -136,7 +144,7 @@ function render(d) {
     el('div', { className: 'hero' },
       d.flag.svg || d.flag.png ? el('img', { src: d.flag.svg || d.flag.png, alt: d.flag.alt }) : null,
       el('div', {}, el('h1', { textContent: d.name }), d.officialName !== d.name ? el('p', { className: 'official', textContent: d.officialName }) : null)),
-    news, facts, about, history);
+    facts, about, news, history);
 }
 
 load().then(render).catch(() => {
