@@ -269,10 +269,12 @@ async function newest(q, span, exclude = new Set()) {
 }
 
 async function getNews(c) {
-  const fips = c.fips ?? [];
-  const local = fips.length > 1 ? `(${fips.map((f) => `sourcecountry:${f}`).join(' OR ')})` : `sourcecountry:${fips[0]}`;
-  const localNews = fips.length ? await newest(local, '3months') : undefined;
-  const notLocal = fips.map((f) => ` -sourcecountry:${f}`).join('');
+  // GDELT matches sourcecountry by name without spaces or accents ("costarica"), not by code; queries with FIPS codes
+  // returned nothing. An empty FIPS list still marks a place GDELT doesn't track.
+  const tracked = (c.fips ?? []).length > 0;
+  const src = c.name.normalize('NFD').toLowerCase().replace(/[^a-z]/g, '');
+  const localNews = tracked ? await newest(`sourcecountry:${src}`, '3months') : undefined;
+  const notLocal = tracked ? ` -sourcecountry:${src}` : '';
   const intlNews = await newest(`"${c.name}" sourcelang:english${notLocal}`, '7d', new Set(localNews?.items.map((x) => x.url)));
   // undefined: no source covers this place; null: nothing found this time.
   return { local: localNews, international: intlNews, google: c.google ? await getGoogleNews(c.google) : undefined };
@@ -298,7 +300,7 @@ async function getGoogleNews(edition) {
       const title = tag(item, 'title').replace(new RegExp(`\\s+-\\s+${source.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')}$`), '');
       return { title, url: tag(item, 'link'), source: host ?? source, date: new Date(tag(item, 'pubDate')).toISOString(), lang: language };
     }).filter((x) => (perSource[x.source] = (perSource[x.source] ?? 0) + 1) <= PER_SOURCE).slice(0, NEWS_PER_LIST);
-    return items.length ? { label: `Top stories, Google News ${edition} edition`, items } : null;
+    return items.length ? { label: `Top stories, ${edition} edition`, items } : null;
   } catch (err) {
     console.warn('Google News failed:', edition, err.message);
     return null;

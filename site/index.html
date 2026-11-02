@@ -93,21 +93,22 @@ function render(d) {
 
   // Older data files hold a single list.
   const lists = d.news.items ? { local: d.news } : d.news;
-  const feed = (heading, list, missing) => el('div', {},
+  // Each list names its own source; the note at the top of the pane applies to all of them.
+  const feed = (heading, via, list, missing) => el('div', {},
     el('h3', { textContent: heading }),
-    el('p', { className: 'note', textContent: list?.items.length ? list.label : missing }),
+    el('p', { className: 'note', textContent: list?.items.length ? `Via ${via} · ${list.label}` : missing }),
     list?.items.length ? el('ol', { className: 'news' }, ...list.items.map((n) => el('li', {},
       el('a', { href: n.url, textContent: n.title, target: '_blank', rel: 'noopener' }),
       el('div', { className: 'meta', textContent: [n.source, newsDate(n.date), n.lang !== 'English' ? n.lang : null].filter(Boolean).join(' · ') })))) : null);
   const news = el('section', {},
     el('h2', { textContent: `News from ${d.name}` }),
-    el('p', { className: 'note', textContent: 'Collected automatically from GDELT. Local outlets can include state-run media.' }),
+    el('p', { className: 'note', textContent: 'Collected automatically. Local outlets can include state-run media.' }),
     el('div', { className: 'feeds' },
-      feed('Local outlets', lists.local, lists.local === null ? `GDELT doesn't track outlets based in ${d.name}.` : 'No recent headlines found.'),
-      lists.international !== undefined ? feed('International coverage', lists.international, 'No recent headlines found.') : null),
+      feed('Local outlets', 'GDELT', lists.local, lists.local === null ? `GDELT doesn't track outlets based in ${d.name}.` : 'No recent headlines found via GDELT.'),
+      lists.international !== undefined ? feed('International coverage', 'GDELT', lists.international, 'No recent headlines found via GDELT.') : null),
     lists.google ? el('div', { className: 'google' },
-      el('p', { className: 'note', textContent: "Local news from Google News. Google's algorithm picks and ranks these headlines, which adds its own bias." }),
-      feed('Google News', lists.google, 'No recent headlines found.')) : null);
+      el('p', { className: 'note', textContent: "Google's algorithm picks and ranks the headlines below, which adds its own bias." }),
+      feed('Local outlets, ranked by Google News', 'Google News', lists.google, 'No recent headlines found via Google News.')) : null);
 
   const facts = el('section', {}, el('h2', { textContent: 'At a glance' }),
     el('dl', {}, ...Object.entries(d.facts).filter(([, v]) => v).flatMap(([k, v]) => [el('dt', { textContent: k }), el('dd', { textContent: v })])),
