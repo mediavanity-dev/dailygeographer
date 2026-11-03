@@ -1,6 +1,6 @@
 {
   "date": "2026-11-03",
-  "updated": "2026-11-03T13:11:35.750Z",
+  "updated": "2026-11-03T18:59:30.356Z",
   "qid": "Q1049",
   "name": "Sudan",
   "status": "UN member state",
@@ -14,7 +14,7 @@
     "Continent": "Africa",
     "Population": "40,533,330",
     "Area": "1,886,068 km²",
-    "Languages": "Arabic, English",
+    "Languages": "English, Arabic",
     "Currency": "Sudanese pound",
     "Time zones": "UTC+02:00",
     "Calling code": "+249"
@@ -43,6 +43,13 @@
     "international": {
       "label": "Last 24 hours",
       "items": [
+        {
+          "title": "Deadly RSF drone attacks reveal deep divisions between Sudan and Ethiopia",
+          "url": "https://www.aljazeera.com/news/2026/11/3/deadly-rsf-drone-strikes-reveal-deep-divisions-between-sudan-and-ethiopia",
+          "source": "aljazeera.com",
+          "date": "20261103T111500Z",
+          "lang": "English"
+        },
         {
           "title": "Vision Action Fund Awards 24 Governments $10M+ to Transform Basic Eye Care and Expand Reading Glasses Access",
           "url": "https://www.saultstar.com/press-releases/globe-newswire/vision-action-fund-awards-24-governments-10m-to-transform-basic-eye-care-and-expand-reading-glasses-access/",
