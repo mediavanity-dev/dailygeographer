@@ -1,0 +1,59 @@
+{
+  "date": "2026-11-04",
+  "updated": "2026-11-03T23:38:13.497Z",
+  "qid": "Q710",
+  "name": "Kiribati",
+  "status": "UN member state",
+  "officialName": "Republic of Kiribati",
+  "flag": {
+    "svg": "https://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Kiribati.svg",
+    "alt": "Flag of Kiribati"
+  },
+  "facts": {
+    "Capital": "South Tarawa",
+    "Continent": "Oceania, Insular Oceania",
+    "Population": "134,518",
+    "Area": "811 km²",
+    "Languages": "Gilbertese, English",
+    "Currency": "Australian dollar, Kiribati dollar",
+    "Time zones": "Pacific/Kiritimati, Pacific/Tarawa, Pacific/Kanton, UTC+13:00, UTC+14:00, UTC+12:00",
+    "Calling code": "+686"
+  },
+  "map": "https://www.openstreetmap.org/?mlat=1.466666666&mlon=173.033333333#map=5/1.466666666/173.033333333",
+  "summary": {
+    "extract": "Kiribati, officially the Republic of Kiribati, is an archipelagic country spanning the Micronesia and Polynesia sub-regions of Oceania in the central Pacific Ocean. The state comprises 32 atolls and other islands and one remote raised coral island, Banaba. Its total land area is 811 km2 (313 sq mi) dispersed over 3,441,810 km2 (1,328,890 sq mi) of ocean. The spread of the country's islands, from Banaba in the west to Kiritimati in the east, straddles the equator and the 180th meridian. The International Date Line goes around Kiribati and swings far to the east, almost reaching 150°W. This brings Kiribati's easternmost islands, the southern Line Islands south of Hawaii, into the same day as the Gilbert Islands and places them in the most advanced time zone on Earth: UTC+14.",
+    "url": "https://en.wikipedia.org/wiki/Kiribati"
+  },
+  "history": {
+    "title": "History of Kiribati",
+    "paragraphs": [
+      "The islands which now form the Republic of Kiribati have been inhabited variously. The Gilbert Islands may have been inhabited for three or four millennia, and certainly for several hundred years. The Phoenix and Line islands, in contrast, seem to have only been inhabited intermittently, because any intended long-lived human inhabitations have been thwarted by droughts and such like. Regarding the Gilberts, the initial Austronesian peoples’ population, which remains the overwhelming majority today, was visited by Polynesian and Melanesian invaders before the first European sailors visited the islands in the 17th century. For much of the subsequent period, the islands were ruled as part of the British Empire.  The country gained its independence in 1979 and has since been known as Kiribati."
+    ],
+    "url": "https://en.wikipedia.org/wiki/History_of_Kiribati"
+  },
+  "news": {
+    "local": {
+      "label": "No recent headlines found",
+      "items": []
+    },
+    "international": {
+      "label": "Last 24 hours",
+      "items": [
+        {
+          "title": "Five people saved after months at sea on small boat",
+          "url": "https://www.newcastleherald.com.au/story/9385432/five-people-saved-after-months-at-sea-on-small-boat/",
+          "source": "newcastleherald.com.au",
+          "date": "20261103T111500Z",
+          "lang": "English"
+        },
+        {
+          "title": "After months lost at sea, 5 people are rescued in the South Pacific – NBC New York",
+          "url": "https://www.nbcnewyork.com/news/national-international/after-months-lost-at-sea-5-people-rescued-island-nation-kiribati/6566592/",
+          "source": "nbcnewyork.com",
+          "date": "20261103T111500Z",
+          "lang": "English"
+        }
+      ]
+    }
+  }
+}
