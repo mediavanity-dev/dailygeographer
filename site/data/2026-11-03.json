@@ -1,6 +1,6 @@
 {
   "date": "2026-11-03",
-  "updated": "2026-11-03T01:06:20.360Z",
+  "updated": "2026-11-03T07:17:37.307Z",
   "qid": "Q1049",
   "name": "Sudan",
   "status": "UN member state",
@@ -14,7 +14,7 @@
     "Continent": "Africa",
     "Population": "40,533,330",
     "Area": "1,886,068 km²",
-    "Languages": "Arabic, English",
+    "Languages": "English, Arabic",
     "Currency": "Sudanese pound",
     "Time zones": "UTC+02:00",
     "Calling code": "+249"
@@ -41,8 +41,16 @@
       "items": []
     },
     "international": {
-      "label": "No recent headlines found",
-      "items": []
+      "label": "Last 24 hours",
+      "items": [
+        {
+          "title": "Vision Action Fund Awards 24 Governments $10M+ to Transform Basic Eye Care and Expand Reading Glasses Access",
+          "url": "https://www.saultstar.com/press-releases/globe-newswire/vision-action-fund-awards-24-governments-10m-to-transform-basic-eye-care-and-expand-reading-glasses-access/",
+          "source": "saultstar.com",
+          "date": "20261103T021500Z",
+          "lang": "English"
+        }
+      ]
     }
   }
 }
