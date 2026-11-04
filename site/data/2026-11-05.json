@@ -1,0 +1,45 @@
+{
+  "date": "2026-11-05",
+  "updated": "2026-11-04T23:37:51.689Z",
+  "qid": "Q819",
+  "name": "Laos",
+  "status": "UN member state",
+  "officialName": "Laos",
+  "flag": {
+    "svg": "https://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Laos.svg",
+    "alt": "Flag of Laos"
+  },
+  "facts": {
+    "Capital": "Vientiane",
+    "Continent": "Asia",
+    "Population": "6,858,160",
+    "Area": "236,800 km²",
+    "Languages": "Lao",
+    "Currency": "Lao kip",
+    "Time zones": "Asia/Vientiane, UTC+07:00",
+    "Calling code": "+856"
+  },
+  "map": "https://www.openstreetmap.org/?mlat=18.2&mlon=104.1#map=5/18.2/104.1",
+  "summary": {
+    "extract": "Laos, officially the Lao People's Democratic Republic (LPDR), is a country in Mainland Southeast Asia; it is the only landlocked country in Southeast Asia. It is bordered by Myanmar and China to the northwest, Vietnam to the east, Cambodia to the southeast, and Thailand to the west and southwest. Laos has a population of more than 8 million, and its capital and most populous city is Vientiane. It has three UNESCO World Heritage Sites: the town of Luang Prabang, the temple complex of Vat Phou, and the Plain of Jars. Laos participates in the Greater Mekong Subregion economic cooperation programme and is a member of ASEAN, the Asia-Pacific Trade Agreement, East Asia Summit, La Francophonie, and the World Trade Organization.",
+    "url": "https://en.wikipedia.org/wiki/Laos"
+  },
+  "history": {
+    "title": "History of Laos",
+    "paragraphs": [
+      "Evidence of modern human presence in the northern and central highlands of Indochina, which constitute the territories of what later is Laos, dates back to the Lower Paleolithic. These earliest human migrants are Austronesians—associated with the Hoabinhian culture—and have populated the highlands and the interior, less accessible regions of Laos and all of Southeast Asia. The subsequent Austroasiatic and Austronesian marine migration waves affected landlocked Laos, and direct Chinese and Indian cultural contact had a greater impact on the country.",
+      "Laos exists in truncated form from the thirteenth-century Lao kingdom of Lan Xang, which existed as a unified kingdom from 1357 to 1707, divided into the three rival kingdoms of Luang Prabang, Vientiane, and Champasak, from 1707 to 1779. It fell to Siamese suzerainty from 1779 to 1893 and was reunified under the French Protectorate of Laos in 1893. The borders of Laos were established by the French colonial government in the 19th and 20th centuries."
+    ],
+    "url": "https://en.wikipedia.org/wiki/History_of_Laos"
+  },
+  "news": {
+    "local": {
+      "label": "No recent headlines found",
+      "items": []
+    },
+    "international": {
+      "label": "No recent headlines found",
+      "items": []
+    }
+  }
+}

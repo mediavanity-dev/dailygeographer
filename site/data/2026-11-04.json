@@ -1,6 +1,6 @@
 {
   "date": "2026-11-04",
-  "updated": "2026-11-04T19:05:25.745Z",
+  "updated": "2026-11-04T23:32:11.474Z",
   "qid": "Q710",
   "name": "Kiribati",
   "status": "UN member state",
@@ -37,7 +37,7 @@
       "items": []
     },
     "international": {
-      "label": "Last 24 hours",
+      "label": "Last 7 days",
       "items": [
         {
           "title": "Five people saved after months at sea on small boat",
