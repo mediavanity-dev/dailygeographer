@@ -54,6 +54,7 @@ The custom domain and **Enforce HTTPS** are set in GitHub: repository → Settin
 
 ## Known issues
 
+- **"Some jobs were not successful" emails:** usually GitHub's Pages publishing step timing out on GitHub's side. A single one needs no action, because the next scheduled run publishes everything. If they repeat, check https://www.githubstatus.com, or open the run in Actions and click "Re-run failed jobs".
 - **GDELT local news is usually empty.** GDELT often rate-limits GitHub's servers (HTTP 429), and its local-outlet search hasn't returned results here. The page hides the empty list when Google News covers local headlines. Next step if revisited: test GDELT query forms in a one-off GitHub workflow, or drop GDELT's local list.
 - **Editing on github.com:** commits made there can carry your personal email. In GitHub → Settings → Emails, turn on "Keep my email addresses private".
 - **Node 20 warnings:** GitHub warns that `actions/checkout@v4` and `actions/setup-node@v4` target Node 20. They still run; bump the versions when newer ones are required.
