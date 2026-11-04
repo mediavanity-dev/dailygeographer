@@ -1,6 +1,6 @@
 {
   "date": "2026-11-04",
-  "updated": "2026-11-03T23:38:13.497Z",
+  "updated": "2026-11-04T01:12:30.195Z",
   "qid": "Q710",
   "name": "Kiribati",
   "status": "UN member state",
@@ -14,9 +14,9 @@
     "Continent": "Oceania, Insular Oceania",
     "Population": "134,518",
     "Area": "811 km²",
-    "Languages": "Gilbertese, English",
+    "Languages": "English, Gilbertese",
     "Currency": "Australian dollar, Kiribati dollar",
-    "Time zones": "Pacific/Kiritimati, Pacific/Tarawa, Pacific/Kanton, UTC+13:00, UTC+14:00, UTC+12:00",
+    "Time zones": "UTC+12:00, UTC+13:00, UTC+14:00, Pacific/Kiritimati, Pacific/Tarawa, Pacific/Kanton",
     "Calling code": "+686"
   },
   "map": "https://www.openstreetmap.org/?mlat=1.466666666&mlon=173.033333333#map=5/1.466666666/173.033333333",
