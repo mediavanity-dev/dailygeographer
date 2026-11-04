@@ -1,6 +1,6 @@
 {
   "date": "2026-11-04",
-  "updated": "2026-11-04T01:12:30.195Z",
+  "updated": "2026-11-04T07:23:21.132Z",
   "qid": "Q710",
   "name": "Kiribati",
   "status": "UN member state",
@@ -11,11 +11,11 @@
   },
   "facts": {
     "Capital": "South Tarawa",
-    "Continent": "Oceania, Insular Oceania",
+    "Continent": "Insular Oceania, Oceania",
     "Population": "134,518",
     "Area": "811 km²",
     "Languages": "English, Gilbertese",
-    "Currency": "Australian dollar, Kiribati dollar",
+    "Currency": "Kiribati dollar, Australian dollar",
     "Time zones": "UTC+12:00, UTC+13:00, UTC+14:00, Pacific/Kiritimati, Pacific/Tarawa, Pacific/Kanton",
     "Calling code": "+686"
   },
