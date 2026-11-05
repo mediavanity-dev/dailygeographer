@@ -1,0 +1,44 @@
+{
+  "date": "2026-11-06",
+  "updated": "2026-11-05T22:16:57.030Z",
+  "qid": "Q25228",
+  "name": "Anguilla",
+  "status": "British Overseas Territory",
+  "officialName": "Anguilla",
+  "flag": {
+    "svg": "https://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Anguilla.svg",
+    "alt": "Flag of Anguilla"
+  },
+  "facts": {
+    "Capital": "The Valley",
+    "Continent": "North America",
+    "Population": "19,079",
+    "Area": "91 km²",
+    "Languages": "English",
+    "Currency": "Eastern Caribbean dollar",
+    "Time zones": "UTC−04:00",
+    "Calling code": "+1264"
+  },
+  "map": "https://www.openstreetmap.org/?mlat=18.227222222&mlon=-63.048888888#map=5/18.227222222/-63.048888888",
+  "summary": {
+    "extract": "Anguilla is a British Overseas Territory of the Caribbean region in the North Atlantic Ocean. It is one of the most northerly of the Leeward Islands in the Lesser Antilles, lying east of Puerto Rico and the Virgin Islands and directly north of Saint Martin. The territory consists of the main island of Anguilla, approximately 16 miles long by 3 miles (5 km) wide at its widest point, together with a number of much smaller islands and cays with no permanent population. The territory's capital is The Valley. The total land area of the territory is 35 square miles (91 km2), with a population of approximately 15,753 in 2021.",
+    "url": "https://en.wikipedia.org/wiki/Anguilla"
+  },
+  "history": {
+    "title": "History of Anguilla",
+    "paragraphs": [
+      "The history of Anguilla runs from the beginning of human habitation, probably via settlement from South America. Following a series of rebellions against white occupiers and a short-lived period as an independent republic during the 1960s, Anguilla has been a separate British overseas territory since 1980."
+    ],
+    "url": "https://en.wikipedia.org/wiki/History_of_Anguilla"
+  },
+  "news": {
+    "local": {
+      "label": "No recent headlines found",
+      "items": []
+    },
+    "international": {
+      "label": "No recent headlines found",
+      "items": []
+    }
+  }
+}
