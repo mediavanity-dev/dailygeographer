@@ -1,6 +1,6 @@
 {
   "date": "2026-11-05",
-  "updated": "2026-11-05T22:11:42.009Z",
+  "updated": "2026-11-05T23:35:50.629Z",
   "qid": "Q819",
   "name": "Laos",
   "status": "UN member state",
@@ -41,6 +41,13 @@
       "label": "Last 7 days",
       "items": [
         {
+          "title": "Uncontained Wildfires in Chiang Mai Affecting Tourism",
+          "url": "https://www.chiangraitimes.com/chiang-mai/wildfires-in-chiang-mai/",
+          "source": "chiangraitimes.com",
+          "date": "20261105T230000Z",
+          "lang": "English"
+        },
+        {
           "title": "Chandigarh - based couple, their firms face  US sanctions over Iran oil links",
           "url": "https://www.dailyexcelsior.com/chandigarh-based-couple-their-firms-face-us-sanctions-over-iran-oil-links/",
           "source": "dailyexcelsior.com",
@@ -55,16 +62,16 @@
           "lang": "English"
         },
         {
-          "title": "Philippines leads Southeast Asia best companies to work for list, Punto! Central Luzon",
-          "url": "https://punto.com.ph/philippines-leads-southeast-asias-best-companies-to-work-for-list/",
-          "source": "punto.com.ph",
+          "title": "War, tariffs and China: What the US midterms mean for the Asia - Pacific - Dominican Republic Post – Caribbean News, Business, Travel & Culture",
+          "url": "https://dominicanrepublicpost.com/war-tariffs-and-china-what-the-us-midterms-mean-for-the-asia-pacific/",
+          "source": "dominicanrepublicpost.com",
           "date": "20261103T021500Z",
           "lang": "English"
         },
         {
-          "title": "War, tariffs and China: What the US midterms mean for the Asia - Pacific - Dominican Republic Post – Caribbean News, Business, Travel & Culture",
-          "url": "https://dominicanrepublicpost.com/war-tariffs-and-china-what-the-us-midterms-mean-for-the-asia-pacific/",
-          "source": "dominicanrepublicpost.com",
+          "title": "Philippines leads Southeast Asia best companies to work for list, Punto! Central Luzon",
+          "url": "https://punto.com.ph/philippines-leads-southeast-asias-best-companies-to-work-for-list/",
+          "source": "punto.com.ph",
           "date": "20261103T021500Z",
           "lang": "English"
         }
