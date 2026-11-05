@@ -7,14 +7,24 @@ const DATA_DIR = new URL('./site/data/', import.meta.url);
 const UA = { 'User-Agent': 'dailygeographer.com build (https://dailygeographer.com)' };
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
 
+// A reply that will never succeed however often it's retried (e.g. GDELT's "The specified phrase is too short").
+class FinalError extends Error {}
+
 async function getJSON(url, tries = 3, backoff = 5000) {
   for (let i = 1; ; i++) {
     try {
       const res = await fetch(url, { headers: UA, signal: AbortSignal.timeout(30000) });
       if (!res.ok) throw new Error(`HTTP ${res.status}`);
-      return JSON.parse(await res.text());
+      const text = await res.text();
+      try { return JSON.parse(text); } catch {
+        // GDELT answers some requests with a plain-text sentence instead of JSON. Its "slow down" message is worth
+        // retrying; anything else (a malformed query) is final, so report GDELT's own words straight away.
+        const said = text.trim().replace(/\s+/g, ' ').slice(0, 160);
+        if (/limit requests/i.test(said)) throw new Error(`rate limited: ${said}`);
+        throw new (url.includes('gdeltproject.org') ? FinalError : Error)(`not JSON: ${said}`);
+      }
     } catch (err) {
-      if (i >= tries) throw new Error(`${url}: ${err.message}`);
+      if (err instanceof FinalError || i >= tries) throw new Error(`${url}: ${err.message}`);
       await sleep(backoff * i);
     }
   }
@@ -273,9 +283,14 @@ async function getNews(c) {
   // returned nothing. An empty FIPS list still marks a place GDELT doesn't track.
   const tracked = (c.fips ?? []).length > 0;
   const src = c.name.normalize('NFD').toLowerCase().replace(/[^a-z]/g, '');
-  const localNews = tracked ? await newest(`sourcecountry:${src}`, '3months') : undefined;
+  // A sourcecountry-only query over '3months' always came back empty, while the same query over '7d' returns
+  // full lists (checked 2026-11-05: 75 Brazilian articles). Quiet places get one wider try before giving up.
+  const localNews = tracked ? (await newest(`sourcecountry:${src}`, '7d')) ?? (await newest(`sourcecountry:${src}`, '30d')) : undefined;
   const notLocal = tracked ? ` -sourcecountry:${src}` : '';
-  const intlNews = await newest(`"${c.name}" sourcelang:english${notLocal}`, '7d', new Set(localNews?.items.map((x) => x.url)));
+  // GDELT refuses quoted phrases of four letters or fewer ("The specified phrase is too short": Laos, Cuba, Fiji, Peru…),
+  // so short one-word names are searched as a plain keyword; longer or multi-word names stay an exact phrase.
+  const term = c.name.length <= 4 && !/\s/.test(c.name) ? c.name : `"${c.name}"`;
+  const intlNews = await newest(`${term} sourcelang:english${notLocal}`, '7d', new Set(localNews?.items.map((x) => x.url)));
   // undefined: no source covers this place; null: nothing found this time.
   return { local: localNews, international: intlNews, google: c.google ? await getGoogleNews(c.google) : undefined };
 }
