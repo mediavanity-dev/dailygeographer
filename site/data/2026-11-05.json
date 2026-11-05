@@ -1,6 +1,6 @@
 {
   "date": "2026-11-05",
-  "updated": "2026-11-05T07:27:39.944Z",
+  "updated": "2026-11-05T13:18:11.657Z",
   "qid": "Q819",
   "name": "Laos",
   "status": "UN member state",
@@ -16,7 +16,7 @@
     "Area": "236,800 km²",
     "Languages": "Lao",
     "Currency": "Lao kip",
-    "Time zones": "Asia/Vientiane, UTC+07:00",
+    "Time zones": "UTC+07:00, Asia/Vientiane",
     "Calling code": "+856"
   },
   "map": "https://www.openstreetmap.org/?mlat=18.2&mlon=104.1#map=5/18.2/104.1",
