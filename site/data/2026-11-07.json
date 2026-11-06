@@ -1,0 +1,166 @@
+{
+  "date": "2026-11-07",
+  "updated": "2026-11-06T23:35:50.313Z",
+  "qid": "Q39",
+  "name": "Switzerland",
+  "status": "UN member state",
+  "officialName": "Swiss Confederation",
+  "flag": {
+    "svg": "https://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Switzerland.svg",
+    "alt": "Flag of Switzerland"
+  },
+  "facts": {
+    "Capital": "Bern",
+    "Continent": "Europe",
+    "Population": "9,104,063",
+    "Area": "41,291 km²",
+    "Languages": "French, Italian, German, Romansh",
+    "Currency": "Swiss franc",
+    "Time zones": "UTC+01:00",
+    "Calling code": "+41"
+  },
+  "map": "https://www.openstreetmap.org/?mlat=46.798562&mlon=8.231973#map=5/46.798562/8.231973",
+  "summary": {
+    "extract": "Switzerland, officially the Swiss Confederation, is a landlocked country located at the intersection of Central, Western, and Southern Europe. It is bordered by Germany to the north, France to the west, Austria and Liechtenstein to the east, and Italy to the south. Switzerland is geographically divided among the Swiss Alps, the Swiss Plateau, and the Jura Mountains; the Alps cover most of the country's territory, whereas the majority of its 9 million people are concentrated on the plateau, which hosts many of the largest cities and economic centres, including Zurich, Geneva, Basel, Bern, Lausanne, Winterthur, and Lucerne.",
+    "url": "https://en.wikipedia.org/wiki/Switzerland"
+  },
+  "history": {
+    "title": "History of Switzerland",
+    "paragraphs": [
+      "Since 1848, the Swiss Confederation has been a federal republic of relatively autonomous cantons, some of which have a history of federation that goes back more than 700 years, putting them among the world's oldest surviving republics.",
+      "The early history of the region is tied to that of Alpine culture. Switzerland was inhabited by the Helvetii, and it came under Roman rule in the 1st century BC. The Gallo-Roman culture was amalgamated with Germanic influence during late antiquity, with the eastern part of Switzerland becoming Alemannic territory. The area of Switzerland was incorporated into the Frankish Empire in the 6th century. In the High Middle Ages, the eastern German-speaking part belonged to the Duchy of Swabia within the Holy Roman Empire, while the western French-speaking part was part of Burgundy.",
+      "The Old Swiss Confederacy in the Late Middle Ages (the Eight Cantons) established its independence from the House of Habsburg and the Duchy of Burgundy, and in the Italian Wars gained territory south of the Alps from the Duchy of Milan. The Swiss Reformation divided the Confederacy and resulted in a drawn-out history of internal strife between the Thirteen Cantons in the Early Modern period. In the wake of the French Revolution, Switzerland fell to a French invasion in 1798 and was reformed into the Helvetic Republic, a French client state. Napoleon's Act of Mediation in 1803 restored the status of Switzerland as a confederation, and after the end of the Napoleonic period, the Swiss Confederation underwent a period of turmoil culminating in a brief civil war in 1847 and the creation of a federal constitution in 1848.",
+      "The history of Switzerland since 1848 has been largely one of success and prosperity. Industrialisation transformed the traditional agricultural economy, and Swiss neutrality during the World Wars and the success of the banking industry furthered the ascent of Switzerland to its status as one of the world's most stable economies.",
+      "Switzerland signed a free-trade agreement with the European Economic Community in 1972 and has participated in the process of European integration by way of bilateral treaties, but it has notably resisted accession to the European Union (EU) even though its territory almost completely (except for the microstate Liechtenstein) has been surrounded by EU member states since 1995. In 2002, Switzerland joined the United Nations."
+    ],
+    "url": "https://en.wikipedia.org/wiki/History_of_Switzerland"
+  },
+  "news": {
+    "local": {
+      "label": "No recent headlines found",
+      "items": []
+    },
+    "international": {
+      "label": "Last 24 hours",
+      "items": [
+        {
+          "title": "Coca - Cola HBC rebounds as Russia risk overshadows growth",
+          "url": "https://finchannel.com/coca-cola-hbc-rebounds-as-russia-risk-overshadows-growth/140763/american-business-trends/2026/11/",
+          "source": "finchannel.com",
+          "date": "20261106T123000Z",
+          "lang": "English"
+        },
+        {
+          "title": "The latest twist in the saga between UBS and Swiss regulators involves bank New York business",
+          "url": "https://nypost.com/2026/11/06/business/the-latest-twist-in-the-saga-between-ubs-and-swiss-regulators-involves-banks-new-york-business/",
+          "source": "nypost.com",
+          "date": "20261106T123000Z",
+          "lang": "English"
+        },
+        {
+          "title": "The 71 most eligible young women in Britain revealed: Tatler list includes F1 star Lando Norris sister,  grumpy  bridesmaid at Kate and William wedding and Andy Burnham daughter alongside fellow nepo babies",
+          "url": "https://www.dailymail.com/lifestyle/article-16267649/Tatler-eligible-young-women-Britain.html",
+          "source": "dailymail.com",
+          "date": "20261106T120000Z",
+          "lang": "English"
+        },
+        {
+          "title": "Swiss Consumer Confidence Weakest Since November 2023",
+          "url": "https://www.rttnews.com/3711195/swiss-consumer-confidence-weakest-since-november-2023.aspx",
+          "source": "rttnews.com",
+          "date": "20261106T113000Z",
+          "lang": "English"
+        },
+        {
+          "title": "Balochistan human rights record exposed at UN as Baloch National Movement demands accountability",
+          "url": "http://www.southeastasiapost.com/news/279415653/balochistan-human-rights-record-exposed-at-un-as-baloch-national-movement-demands-accountability",
+          "source": "southeastasiapost.com",
+          "date": "20261106T113000Z",
+          "lang": "English"
+        },
+        {
+          "title": "Explainer: Why are refrigeration systems becoming a new frontier for cyberattacks?",
+          "url": "http://www.bignewsnetwork.com/news/279415885/explainer-why-are-refrigeration-systems-becoming-a-new-frontier-for-cyberattacks",
+          "source": "bignewsnetwork.com",
+          "date": "20261106T113000Z",
+          "lang": "English"
+        },
+        {
+          "title": "Arab News | How Europe can capitalize on its bright future",
+          "url": "https://www.arabnews.com/opinion/how-europe-can-capitalize-on-its-bright-future-3009930",
+          "source": "arabnews.com",
+          "date": "20261106T113000Z",
+          "lang": "English"
+        },
+        {
+          "title": "Andy Worthington | Countercurrents",
+          "url": "https://countercurrents.org/author/andy-worthington/",
+          "source": "countercurrents.org",
+          "date": "20261106T113000Z",
+          "lang": "English"
+        }
+      ]
+    },
+    "google": {
+      "label": "Top stories, CH:de edition",
+      "items": [
+        {
+          "title": "Politisches Erdbeben im Weissen Haus: Trumps Stabschefin Wiles tritt ab",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOR004X1dnNmRINzZQc1YtZmlkUE4zRHlfcWFRNlMxM1Q5NjBqV3dKSkUycEhvTFFhTlBpMnVQLW1Rb3FnMHhjLW5hd3lLVGhoMnpsN2FwQ1A1bF9kQWhOVTJJUmlIbFkyOTRlZWpBWkNXbnoteHZnRWF3QTV1elQwT3RkN3Y3TmpLOTJLNXJuQ0E5cjdtMGFZVDFvQQ?oc=5",
+          "source": "tagesanzeiger.ch",
+          "date": "2026-11-06T19:23:04.000Z",
+          "lang": "German"
+        },
+        {
+          "title": "US-Midterms: Demokraten holen Unterhaus und Senat",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNRUxjTE1Oa0JoWTNOaVlWVmRiVFdvSFppczhHdXFNb0ZFbWFhbTZjaGd3SHRuRS1tNjZ1eWQ0QkFrWnBZamJNbV9TeFpWS1hvZHdJclF1N1cwWmx6YjNSQVpwOVpCdkNJMzRWcklFU0w3czIxZlpNUWx0QTNyWkFXZjVqVF8zam8tVUg1cHBDanpIcFNZb3FjLTBncm14cVEtUUlCNVd3?oc=5",
+          "source": "20min.ch",
+          "date": "2026-11-06T02:02:00.000Z",
+          "lang": "German"
+        },
+        {
+          "title": "US-Innenpolitik im Ticker: Aktuelle Beschlüsse und Debatten",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOU2dvSVFveXVWUzFGaXQyS01xSDRuU0NwY0V2VnNUNGwzNWRFTDQzN3QxUGVib1g0eHdiMTNtTVNBM2hxUGFvdkNMbTBfa1JEQ29velZMaG9nenJfU18xbHBtazNwZzhZY0NmOXVpNW1PY1JMb19EM2V5OHQ3NnduVVFtRjNNTzVRRER3LXFQcFRqdkJKeG5lXw?oc=5",
+          "source": "nzz.ch",
+          "date": "2026-11-06T19:19:18.000Z",
+          "lang": "German"
+        },
+        {
+          "title": "Liebspaar am Bundesgericht wird abgestraft",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQZVZhbk9qTFdHRFVnMXo3UzNBQjJSU2ttU3l4dld3ZFpXcGUzeU5qWTdESVVtc3RLRGNaNEM0enBmbXl3cVcwMTBSWDRZakZyS0NrbXJEcmVtV1dkRjA4MmN3VmNiYktqSGNtX2J4UzVxRkZBR1FkNUlhZkJ0ckhEMGV6M2t2QQ?oc=5",
+          "source": "blick.ch",
+          "date": "2026-11-05T20:57:00.000Z",
+          "lang": "German"
+        },
+        {
+          "title": "«Macron, du bist erledigt»: In Frankreich protestieren Hunderttausende",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOWVBjNEpwTGFMNWw0QnF5XzB0ZkZQRUs0WmRSbTgxTXRLNEQwaDRGUGhsWHdwdzZWemRXdzhEM0MzTmZJQkFKanZFbnlzSUEwTHRIUVY4UlFMUzNGeGFDMmlkRTh4dC1jazdHSmtVVUJUQmszejlQczVwSGVneGgzUjJnWVdjX01JdHNnZXZSQlY3UEFCdjN6ek5lWQ?oc=5",
+          "source": "tagesanzeiger.ch",
+          "date": "2026-11-05T18:58:17.000Z",
+          "lang": "German"
+        },
+        {
+          "title": "Börsen in den USA und Asien brechen ein: Sorge vor KI-Regulierung",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRGVCQTcxVjJoM0J0LWJXb28wRmc0cm5NSkNyaEdpWkluTEZfSzNUNEhHVEJpT2F4eWNadzd6X3pSU1VsZlB1NHpxZ20zNFFzc2dzMG9wUGdyX011ZERwYzZjSmJfYzlPLXdNT0FkOUxGR00zS2pTY3Q1dHM1ZDVYcVlTbGx4X1BfVWEyVzFDTFNXV2V3ZmpnMWp2cVFlV1hlQVBuZGpRcEtGOERPdGdHNDliM1o?oc=5",
+          "source": "srf.ch",
+          "date": "2026-11-06T06:11:00.000Z",
+          "lang": "German"
+        },
+        {
+          "title": "Polizeieinsatz am Bahnhof Schaffhausen: Keine Züge fahren, Passagiere berichten von Bombendrohung",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPTmFfdUxPQ2IySjQ2aTNmbEFfMFV3VjBCZ2ZaSUpQb294dnpzUm9QTTBEWl9ZTEJxUUpOUEVXVl9hcW1DWTN0MTY0MnZOTXBEZGlNXzVoekRhRmlMLXlDYmE2eWNuQXlOY2M2bi1Cd1FBX3MyOWJ0QkxlRDVWaUtaNlZRTUJ5ZWVBSElOLTJyQW5GblVuM2hPTTdLLTB3VVFfUXB4V2pqRQ?oc=5",
+          "source": "20min.ch",
+          "date": "2026-11-06T18:31:06.000Z",
+          "lang": "German"
+        },
+        {
+          "title": "Erste 13. AHV-Rente: Wie viel Geld können Rentner ab dem 3. Dezember erwarten?",
+          "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxORmFOWExEMTJibVNucVAxbG4yYklKTVBOTVdvZHRwV1prczU5dlBXUGNES3QtMFVlMUlsZHRod2NMYWJmbWllcFRERG8tcmExWUZqZWVvamFsa2tNRU04VVZiZTVqV2JYX1ZjeFBWck5sYV9ZT05BclkycGdNeGlLVU1MUlJ2RnhmdG0ySGVqX2FKc3pvMHVERHRmZEdUYW9Ua1hsYV9GNnBhbXpUOTFBaGxuMTh2dE1WeGk3QlMwT09KUEdCQUhHdGNHdmh5eFhoQlhVWXlVaXNHbUU1ZXhHZGo4OXpNZTVtaWJiSWttNThQckN5b1lfMGV3?oc=5",
+          "source": "nzz.ch",
+          "date": "2026-11-06T04:30:00.000Z",
+          "lang": "German"
+        }
+      ]
+    }
+  }
+}
