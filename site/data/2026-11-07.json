@@ -1,6 +1,6 @@
 {
   "date": "2026-11-07",
-  "updated": "2026-11-07T18:53:50.073Z",
+  "updated": "2026-11-07T23:27:03.468Z",
   "qid": "Q39",
   "name": "Switzerland",
   "status": "UN member state",
@@ -14,7 +14,7 @@
     "Continent": "Europe",
     "Population": "9,104,063",
     "Area": "41,291 km²",
-    "Languages": "German, French, Italian, Romansh",
+    "Languages": "German, Italian, French, Romansh",
     "Currency": "Swiss franc",
     "Time zones": "UTC+01:00",
     "Calling code": "+41"
@@ -40,66 +40,73 @@
       "label": "Last 24 hours",
       "items": [
         {
-          "title": "Grosse Menge Diesel gelangt in Weiher: Zwei Feuerwehren errichten Ölsperren vor Ort",
-          "url": "https://www.polizeinews.ch/2026/11/07/grosse-menge-diesel-gelangt-in-weiher-zwei-feuerwehren-errichten-oelsperren-vor-ort/",
-          "source": "polizeinews.ch",
-          "date": "20261107T183000Z",
-          "lang": "German"
-        },
-        {
-          "title": "Alors que les passionnés de tous bords ont la cote, le philosophe Eric Fiat rappelle les côtés obscurs de la passion",
-          "url": "https://www.letemps.ch/societe/alors-que-les-passionnes-de-tous-bords-ont-la-cote-le-philosophe-eric-fiat-rappelle-les-cotes-obscurs-de-la-passion",
-          "source": "letemps.ch",
-          "date": "20261107T183000Z",
+          "title": "Laura Kasischke: « Nimporte quoi peut arriver à tout moment »",
+          "url": "https://www.24heures.ch/laura-kasischke-nimporte-quoi-peut-arriver-a-tout-moment-525758528723",
+          "source": "24heures.ch",
+          "date": "20261107T220000Z",
           "lang": "French"
         },
         {
-          "title": "« Donner des raisons aux jeunes générations de rester vivre au village »: Prakriti Gautam, diconoclaste à icône de lagriculture népalaise",
-          "url": "https://www.letemps.ch/societe/donner-des-raisons-aux-jeunes-generations-de-rester-vivre-au-village-prakriti-gautam-d-iconoclaste-a-icone-de-l-agriculture-nepalaise",
-          "source": "letemps.ch",
-          "date": "20261107T183000Z",
+          "title": "Israël: Eisenkot, principal opposant de Benyamin Nétanyahou, est chargé de former un gouvernement dimanche",
+          "url": "https://www.tdg.ch/gadi-eisenkot-le-general-sobre-qui-veut-rassembler-israel-912512270122",
+          "source": "tdg.ch",
+          "date": "20261107T220000Z",
           "lang": "French"
         },
         {
-          "title": "Marius Borg Høiby soll von Mann angegriffen worden sein",
-          "url": "https://www.gmx.ch/magazine/unterhaltung/adel/marius-borg-hiby-angegriffen-worden-42922996",
-          "source": "gmx.ch",
-          "date": "20261107T183000Z",
+          "title": "Trump: Dana White, patron de lUFC, proposé porte - parole",
+          "url": "https://www.24heures.ch/trump-dana-white-patron-de-lufc-propose-porte-parole-741799562964",
+          "source": "24heures.ch",
+          "date": "20261107T220000Z",
+          "lang": "French"
+        },
+        {
+          "title": "Polen - Sechs Tote und über ein Dutzend Verletzte bei Schüssen in Krakau",
+          "url": "https://www.srf.ch/news/international/polen-sechs-tote-und-ueber-ein-dutzend-verletzte-bei-schuessen-in-krakau",
+          "source": "srf.ch",
+          "date": "20261107T220000Z",
           "lang": "German"
         },
         {
-          "title": "Siebenjährige bei Kollision mit Auto verletzt: Unbekannter fährt einfach weiter ( Zeugenaufruf )",
-          "url": "https://www.polizeinews.ch/2026/11/07/siebenjaehrige-bei-kollision-mit-auto-verletzt-unbekannter-faehrt-einfach-weiter-zeugenaufruf/",
-          "source": "polizeinews.ch",
-          "date": "20261107T183000Z",
+          "title": "France: les émeutes révèlent la fragilité de la civilisation",
+          "url": "https://www.tdg.ch/france-les-emeutes-revelent-la-fragilite-de-la-civilisation-250433846546",
+          "source": "tdg.ch",
+          "date": "20261107T220000Z",
+          "lang": "French"
+        },
+        {
+          "title": "Neuer Schweizer « Tatort » - « Ich bin meist textsicher, manchmal stottere ich ein bisschen »",
+          "url": "https://www.srf.ch/radio-srf-1/neuer-schweizer-tatort-ich-bin-meist-textsicher-manchmal-stottere-ich-ein-bisschen",
+          "source": "srf.ch",
+          "date": "20261107T220000Z",
           "lang": "German"
         },
         {
-          "title": "Zahl der Toten nach Schüssen in Krakau auf sechs gestiegen",
-          "url": "https://www.gmx.ch/magazine/panorama/verbrechen-vermisste/zahl-toten-schuessen-krakau-gestiegen-42922894",
-          "source": "gmx.ch",
-          "date": "20261107T183000Z",
-          "lang": "German"
+          "title": "Salon du design: le rendez - vous de Sicli fait son retour",
+          "url": "https://www.bilan.ch/story/salon-du-design-le-rendez-vous-de-sicli-fait-son-retour-531383994436",
+          "source": "bilan.ch",
+          "date": "20261107T220000Z",
+          "lang": "French"
         },
         {
-          "title": "La protesta continua, ma diminuisce il numero dei manifestanti",
-          "url": "https://www.tio.ch/dal-mondo/attualita/1961539/manifestanti-numero-controlli-arresti-vita",
-          "source": "tio.ch",
-          "date": "20261107T180000Z",
-          "lang": "Italian"
-        },
-        {
-          "title": "Schloss Brestenberg: Centurion - Panzer rollt ins Museum",
-          "url": "https://www.bazonline.ch/schloss-brestenberg-centurion-panzer-rollt-ins-museum-519715815371",
-          "source": "bazonline.ch",
-          "date": "20261107T180000Z",
-          "lang": "German"
+          "title": "En Uruguay, le pape appelle à",
+          "url": "https://www.rtn.ch/rtn/Actualite/Monde/20261107-En-Uruguay-le-pape-appelle-a-transmettre-la-joie-de-la-foi.html",
+          "source": "rtn.ch",
+          "date": "20261107T190000Z",
+          "lang": "French"
         }
       ]
     },
     "international": {
       "label": "Last 24 hours",
       "items": [
+        {
+          "title": "STREAM: Statin Discontinuation Noninferior in Older Adults Without CVD",
+          "url": "https://www.hcplive.com/view/stream-statin-discontinuation-noninferior-in-older-adults-without-cvd",
+          "source": "hcplive.com",
+          "date": "20261107T220000Z",
+          "lang": "English"
+        },
         {
           "title": "Monfils to captain France at Davis Cup",
           "url": "https://cyprus-mail.com/2026/11/07/monfils-to-captain-france-at-davis-cup",
@@ -148,13 +155,6 @@
           "source": "economictimes.indiatimes.com",
           "date": "20261107T160000Z",
           "lang": "English"
-        },
-        {
-          "title": "FIFA partially upholds AFA appeal against post World Cup sanctions; Nahuel suspension reduced",
-          "url": "http://www.bignewsnetwork.com/news/279418336/fifa-partially-upholds-afa-appeal-against-post-world-cup-sanctions-nahuel-suspension-reduced",
-          "source": "bignewsnetwork.com",
-          "date": "20261107T113000Z",
-          "lang": "English"
         }
       ]
     },
@@ -162,17 +162,31 @@
       "label": "Top stories, CH:de edition",
       "items": [
         {
-          "title": "Wie sich die zerstrittenen Lager am Bundesgericht bekämpfen",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNejFkWTlKajNqdnBzOWgyQTNkcFdOVzZQTUFGZGxGNXp0TnZQb0N6Y3JFQm9lNzlsOXRpNVdCT2ZtQU5YMkRZRFFwZUs0dGF4clE1OFVOcEpTRFl2TS1tdHAxdzJkOGJoeUExSkhhM2p6S2xQWFh6a292TFJvWU1nV2xzcnRPMkRQM2dvMnJ1MkxwZEVabWkxNHg1SGFmUGRjby1B?oc=5",
-          "source": "blick.ch",
-          "date": "2026-11-07T16:44:12.000Z",
+          "title": "Mehrere Tote nach Schüssen in Krakau",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQYk1SUjBCVUl2cV93bGZvSkRGSHBXcGcya3BfWTE0WFFyZmpBTHFnM05fNHBqTVhiQXNxbnhfeDRsekF2SW1RX0xmQWNJRGxfZkhGREdGU2xOeEc5cF8wRlYzZUZDQjFCSldGUEhQcmkwSVlBeWtGeDI0OElHbV9IaHAtOTAwcTJnUkplNTI1b1lGQlhMVTZjVUdRSVNmUHBodm9CQXQ3Y0l3dw?oc=5",
+          "source": "20min.ch",
+          "date": "2026-11-07T21:06:00.000Z",
           "lang": "German"
         },
         {
-          "title": "Panik bei Touristen-Hotspot: Schiesserei in Krakau – Zahl der Toten steigt weiter an",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNeHhtUzlLb0NScGc2MUk5UGt4cFVFWTVfSC1tR1UwVFp3TkhwQWszWEZKQkNiREhUX2JEbEE4LXlIZER1QzJtVHg1clFGUjRsdGM0UndweWpFaDVPZ2F4Vktha3FrNzZ5dy13c1JmRjQyT1lrV01XVk04YzVoTjVERGF4Y3k2NzJ6dnl0WExwbk1GQQ?oc=5",
-          "source": "tagesanzeiger.ch",
-          "date": "2026-11-07T15:18:06.000Z",
+          "title": "Ein russischer Sieg in der Ukraine – und Deutschland zahlt die Rechnung",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQMnlEQ1N4alc4dDhhREkwd0ptYUtOTkVrUWVhNGZVSTNFdDlHRGVZVHNVWUZGZ3NyUTZVSEt6TzNBWjdoVGpiMUxQengwMmc4UGgycVZGSXVkSktXbnQ0MjRNQ0c3V1VBNmRfcDR4alZnNHNBUGZ3Z1ZtMmZSQ3RkVXZhMTlnMTh6ZGZaTW85N2VlTXM3OFZNOTRxdGp5cEdRdDBaRg?oc=5",
+          "source": "nzz.ch",
+          "date": "2026-11-06T04:30:00.000Z",
+          "lang": "German"
+        },
+        {
+          "title": "Wie sich die zerstrittenen Lager am Bundesgericht bekämpfen",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNejFkWTlKajNqdnBzOWgyQTNkcFdOVzZQTUFGZGxGNXp0TnZQb0N6Y3JFQm9lNzlsOXRpNVdCT2ZtQU5YMkRZRFFwZUs0dGF4clE1OFVOcEpTRFl2TS1tdHAxdzJkOGJoeUExSkhhM2p6S2xQWFh6a292TFJvWU1nV2xzcnRPMkRQM2dvMnJ1MkxwZEVabWkxNHg1SGFmUGRjby1B?oc=5",
+          "source": "blick.ch",
+          "date": "2026-11-07T17:05:44.000Z",
+          "lang": "German"
+        },
+        {
+          "title": "Israelischer Präsident beauftragt Netanyahu-Gegner Eisenkot mit Regierungsbildung",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQMmpkMnYtdkxua0NGZE9FZXduSE5SQkc1QnNjaFhhTGZzc0p6UmpUY1JvMURRSk5BVnJpZmNaVVJGcWU5eXBiY29FQ0FJZnZCd05mX3VaaHp3STVQTzNma3pjWm5QWVpYMThxaWE0VUpBeWE0YWFJUHliWjhrakJpQmZPNjNQS1NjdUFaY2hsVE5fbFNwR3YwSWZhVnFwNGkxNVlNQw?oc=5",
+          "source": "blick.ch",
+          "date": "2026-11-07T19:54:59.000Z",
           "lang": "German"
         },
         {
@@ -183,17 +197,10 @@
           "lang": "German"
         },
         {
-          "title": "Mitte-Chef stichelt nach IV-Entscheid gegen FDP und SVP",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOX0lkZ0lFUjB4YUJpXzlFSmhtOEh1bzVrWW9YOG9wb21DMXRCZWNTNnpGenF3MGJPb3phOEd3RVRITS0yb3Z1RUFKbmZwaHN6WTF0WTdGZ1NfZS0xTVNlbHNKM0NadnBQQXNjMW5YZUprcGpzajJCSVlsem9lS1VIeklqbXlUR0VnYnJmVDdtWGplWVMzbDRDV3RndmV3YXpNTC0w?oc=5",
-          "source": "blick.ch",
-          "date": "2026-11-07T14:12:12.000Z",
-          "lang": "German"
-        },
-        {
-          "title": "Autofahrer flüchtet vor Polizeikontrolle – und kracht in ein Haus in Andwil",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNenluQmY4eGNXdWhIa1J1a19Xc2NYYlNqaHNIRHhraUJ0WThFdDhfWmx2cjIzN2VaSFFiNkpieHhZbll2Y3padU9EWlJBZ1UyQUlMT2ttVU4zWGk2TGR4S2RINGV2RGpTd3J3Tk1GYkxHXzRZd0tqNkZGY1NHT3ZfTWk2a293WkVRZHVPa0t1MDhmMXJ0TUo4VDZIQm9VdXVpNlV0VzhaY2JTbzhoZzJvUnZZaTRVa3pIZ0ZSZHB5aXJQS2MxNGpj?oc=5",
-          "source": "tagblatt.ch",
-          "date": "2026-11-07T09:12:14.000Z",
+          "title": "Andwil SG: 21-Jähriger kracht auf Flucht vor der Polizei in Küche",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOQ0UxS2ZsRERaNU1PVi1KNFpDUXhMY1RmeGQ2MERiLUw1TEVTa3J0T1VPQ0NGelVJOGpSZ3d2a2p6TjRrX1MwRFRwNEJ6RGJfeXp5YURKbWtiaEFyZkVUYk55d1JCR0U5SHVhMTdGU2cxTFcwS3B6TG5wQkR0ZnJhMFh3SFJHdHlRSnF0QkZ4NElDNnlFWWc?oc=5",
+          "source": "tagesanzeiger.ch",
+          "date": "2026-11-07T09:11:26.000Z",
           "lang": "German"
         },
         {
@@ -204,17 +211,10 @@
           "lang": "German"
         },
         {
-          "title": "Erste 13. AHV-Rente: Wie viel Geld können Rentner ab dem 3. Dezember erwarten?",
-          "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxORmFOWExEMTJibVNucVAxbG4yYklKTVBOTVdvZHRwV1prczU5dlBXUGNES3QtMFVlMUlsZHRod2NMYWJmbWllcFRERG8tcmExWUZqZWVvamFsa2tNRU04VVZiZTVqV2JYX1ZjeFBWck5sYV9ZT05BclkycGdNeGlLVU1MUlJ2RnhmdG0ySGVqX2FKc3pvMHVERHRmZEdUYW9Ua1hsYV9GNnBhbXpUOTFBaGxuMTh2dE1WeGk3QlMwT09KUEdCQUhHdGNHdmh5eFhoQlhVWXlVaXNHbUU1ZXhHZGo4OXpNZTVtaWJiSWttNThQckN5b1lfMGV3?oc=5",
-          "source": "nzz.ch",
-          "date": "2026-11-06T04:30:00.000Z",
-          "lang": "German"
-        },
-        {
-          "title": "«Keiner wusste, ob sie überlebt»: Brandtragödie von Crans-Montana trifft Laden hart",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOUNNNHJiUXRyUHN5TDJNTllJUFJBakxFU3NQZFltT1EwZl9wa0VwZUliN0VRQWhpd3FkX2ljSkliSnIzQ3hoVGxreWdxM1lQYV9WTFBhMS1sRGJyOUs0c1FGX2RRLTk3ZDUzMUdiRVpULVkwcEhzZHJfVndkdFZsWHYxVGozRmRnY2NEYkprV0I5MHphQUQ0NnpzT1hHY1FTNkkwVjFiTkpJZFk?oc=5",
-          "source": "20min.ch",
-          "date": "2026-11-07T12:14:05.000Z",
+          "title": "Papst ruft in Uruguay zu weltweitem Gebet und Fasten für Berufungen auf",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNdzZMVVNYd003UlpxQmRxQUx5TEpfVEZSaHhscmYzZXhCZkxfeTRLcmJxNzRJMEpuSnhCOVFoZ2RVRjFyVDVteXpXbWllak0yQ003QW1HMHhTTDV6R0xjWVdBMlg5Qkc3TzRYekRFYktqVW9xNEdBMFZxX2ZMRVFUVDNNTkc1REEwWkdDQVhIaEkyZzhIdmtCVm9nTQ?oc=5",
+          "source": "vaticannews.va",
+          "date": "2026-11-07T00:11:09.000Z",
           "lang": "German"
         }
       ]

@@ -1,0 +1,44 @@
+{
+  "date": "2026-11-08",
+  "updated": "2026-11-07T23:31:43.950Z",
+  "qid": "Q970",
+  "name": "Comoros",
+  "status": "UN member state",
+  "officialName": "Union of the Comoros",
+  "flag": {
+    "svg": "https://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20Comoros.svg",
+    "alt": "Flag of Comoros"
+  },
+  "facts": {
+    "Capital": "Moroni",
+    "Continent": "Africa",
+    "Population": "902,348",
+    "Area": "2,034 km²",
+    "Languages": "French, Arabic, Comorian",
+    "Currency": "Comorian franc",
+    "Time zones": "Indian/Comoro, UTC+03:00",
+    "Calling code": "+269"
+  },
+  "map": "https://www.openstreetmap.org/?mlat=-12.3&mlon=43.7#map=5/-12.3/43.7",
+  "summary": {
+    "extract": "The Comoros, officially the Union of the Comoros, is an archipelagic country made up of three islands in Southeast Africa, located at the northern end of the Mozambique Channel in the Indian Ocean. Its capital and largest city is Moroni. The predominant religion of the population—and the official state religion—is Islam. Comoros proclaimed its independence from France on 6 July 1975. The country has three official languages: Comorian, French and Arabic. The Comoros is the only country of the Arab League which is entirely in the Southern Hemisphere. It is also a member state of the African Union, the Organisation internationale de la Francophonie, the Organisation of Islamic Cooperation, and the Indian Ocean Commission.",
+    "url": "https://en.wikipedia.org/wiki/Comoros"
+  },
+  "history": {
+    "title": "History of the Comoros",
+    "paragraphs": [
+      "The history of the Comoros extends back to about 800–1000 AD when the archipelago was first inhabited. The Comoros have been inhabited by various groups and sultanates throughout this time. France colonised the islands in the 19th century, and they became independent in 1975."
+    ],
+    "url": "https://en.wikipedia.org/wiki/History_of_the_Comoros"
+  },
+  "news": {
+    "local": {
+      "label": "No recent headlines found",
+      "items": []
+    },
+    "international": {
+      "label": "No recent headlines found",
+      "items": []
+    }
+  }
+}
