@@ -1,6 +1,6 @@
 {
   "date": "2026-11-07",
-  "updated": "2026-11-06T23:35:50.313Z",
+  "updated": "2026-11-07T01:10:31.507Z",
   "qid": "Q39",
   "name": "Switzerland",
   "status": "UN member state",
@@ -14,7 +14,7 @@
     "Continent": "Europe",
     "Population": "9,104,063",
     "Area": "41,291 km²",
-    "Languages": "French, Italian, German, Romansh",
+    "Languages": "French, German, Italian, Romansh",
     "Currency": "Swiss franc",
     "Time zones": "UTC+01:00",
     "Calling code": "+41"
@@ -140,17 +140,10 @@
           "lang": "German"
         },
         {
-          "title": "Börsen in den USA und Asien brechen ein: Sorge vor KI-Regulierung",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRGVCQTcxVjJoM0J0LWJXb28wRmc0cm5NSkNyaEdpWkluTEZfSzNUNEhHVEJpT2F4eWNadzd6X3pSU1VsZlB1NHpxZ20zNFFzc2dzMG9wUGdyX011ZERwYzZjSmJfYzlPLXdNT0FkOUxGR00zS2pTY3Q1dHM1ZDVYcVlTbGx4X1BfVWEyVzFDTFNXV2V3ZmpnMWp2cVFlV1hlQVBuZGpRcEtGOERPdGdHNDliM1o?oc=5",
-          "source": "srf.ch",
-          "date": "2026-11-06T06:11:00.000Z",
-          "lang": "German"
-        },
-        {
-          "title": "Polizeieinsatz am Bahnhof Schaffhausen: Keine Züge fahren, Passagiere berichten von Bombendrohung",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPTmFfdUxPQ2IySjQ2aTNmbEFfMFV3VjBCZ2ZaSUpQb294dnpzUm9QTTBEWl9ZTEJxUUpOUEVXVl9hcW1DWTN0MTY0MnZOTXBEZGlNXzVoekRhRmlMLXlDYmE2eWNuQXlOY2M2bi1Cd1FBX3MyOWJ0QkxlRDVWaUtaNlZRTUJ5ZWVBSElOLTJyQW5GblVuM2hPTTdLLTB3VVFfUXB4V2pqRQ?oc=5",
-          "source": "20min.ch",
-          "date": "2026-11-06T18:31:06.000Z",
+          "title": "Polizeieinsatz am Bahnhof Schaffhausen",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPS2kwX3FBWlV5WmFiVnZMc1NvX0F6VTJRRW5obGhXSGhoSXhBT01rRHhNTXdCNW9JQ2lZaEIyYU5pQ0VvenVJTDVSVEpHLTVqTVpGR0liMXpFQno4YjVneklReE5hYXZrY3d1VHJ3TXh5UmZxTHdhTjlRMUUyVFkxdHB0WGlSYUMzeGFUQmZjN2xyN0dMd0VmZmJTR3hBOUl3VlFjWlU2cjFQTWVXZUUw?oc=5",
+          "source": "blick.ch",
+          "date": "2026-11-06T23:59:07.000Z",
           "lang": "German"
         },
         {
@@ -158,6 +151,13 @@
           "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxORmFOWExEMTJibVNucVAxbG4yYklKTVBOTVdvZHRwV1prczU5dlBXUGNES3QtMFVlMUlsZHRod2NMYWJmbWllcFRERG8tcmExWUZqZWVvamFsa2tNRU04VVZiZTVqV2JYX1ZjeFBWck5sYV9ZT05BclkycGdNeGlLVU1MUlJ2RnhmdG0ySGVqX2FKc3pvMHVERHRmZEdUYW9Ua1hsYV9GNnBhbXpUOTFBaGxuMTh2dE1WeGk3QlMwT09KUEdCQUhHdGNHdmh5eFhoQlhVWXlVaXNHbUU1ZXhHZGo4OXpNZTVtaWJiSWttNThQckN5b1lfMGV3?oc=5",
           "source": "nzz.ch",
           "date": "2026-11-06T04:30:00.000Z",
+          "lang": "German"
+        },
+        {
+          "title": "«Herr Parmelin, liefern wir bald Waffen an kriegführende Länder?»",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNmM5U1gyWlotd2NKWndfUy1TQURWdW04V180ek5mLUdfZWI1UDlNcjhMQUk2VnFZTTVxSVJYVGM1VHhPZU8wbWpOWjQxamtXNVltQnNOSXZMSWdhRzRsLUlPZy10anlLLXNKU3k4NGRnZ1kwSWxMWTEtM3JISDUzR1FDZmJjV0pQRDRISy1zNTNNVGFhT2NkNS1yLWQwMHA0WU9IOUEzQ25YSURJaEcyS2hydUtyUQ?oc=5",
+          "source": "20min.ch",
+          "date": "2026-11-05T10:46:13.000Z",
           "lang": "German"
         }
       ]
