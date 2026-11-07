@@ -1,6 +1,6 @@
 {
   "date": "2026-11-07",
-  "updated": "2026-11-07T07:06:22.387Z",
+  "updated": "2026-11-07T12:58:24.302Z",
   "qid": "Q39",
   "name": "Switzerland",
   "status": "UN member state",
@@ -14,7 +14,7 @@
     "Continent": "Europe",
     "Population": "9,104,063",
     "Area": "41,291 km²",
-    "Languages": "French, Romansh, Italian, German",
+    "Languages": "German, French, Italian, Romansh",
     "Currency": "Swiss franc",
     "Time zones": "UTC+01:00",
     "Calling code": "+41"
@@ -40,59 +40,59 @@
       "label": "Last 24 hours",
       "items": [
         {
-          "title": "Banken - Kollaps stürzt Paraguay in die Krise: Präsident abgesetzt",
-          "url": "https://www.watson.ch/wirtschaft/international/607602349-banken-kollaps-stuerzt-paraguay-in-die-krise-praesident-abgesetzt",
-          "source": "watson.ch",
-          "date": "20261107T063000Z",
+          "title": "Gabi Elmer gewinnt mit ihrem Glarner Alpkäse AOP Gold bei den Swiss Cheese Awards",
+          "url": "https://www.bauernzeitung.ch/artikel/regionen/goldmedaille-fuer-glarner-alpkaese",
+          "source": "bauernzeitung.ch",
+          "date": "20261107T113000Z",
           "lang": "German"
         },
         {
-          "title": "Diese Städte will die SBB künftig bedienen – so stehts um den London - Zug",
-          "url": "https://www.watson.ch/schweiz/oev/847408582-diese-staedte-will-die-sbb-kuenftig-bedienen-so-stehts-um-den-london-zug",
-          "source": "watson.ch",
-          "date": "20261107T063000Z",
+          "title": "Zehn Jahre JunExBa in der Nordwestschweiz: Gut 150 Kühe und Rinder im Schauring",
+          "url": "https://www.bauernzeitung.ch/artikel/regionen/die-junexba-feiert-jubilaeum",
+          "source": "bauernzeitung.ch",
+          "date": "20261107T113000Z",
           "lang": "German"
         },
         {
-          "title": "Weltreise ohne Flieger: 25 Länder für 650 Euro im Monat",
-          "url": "https://www.tagesanzeiger.ch/weltreise-ohne-flieger-25-laender-fuer-650-euro-im-monat-763227909900",
-          "source": "tagesanzeiger.ch",
-          "date": "20261107T063000Z",
+          "title": "Dans « La Première Phrase du premier livre », Philippe Besson raconte sa « deuxième naissance » à l  écriture",
+          "url": "https://www.letemps.ch/culture/livres/dans-la-premiere-phrase-du-premier-livre-philippe-besson-raconte-sa-deuxieme-naissance-a-l-ecriture",
+          "source": "letemps.ch",
+          "date": "20261107T113000Z",
+          "lang": "French"
+        },
+        {
+          "title": "La rougeole flambe aux Etats - Unis, du jamais vu depuis 35 ans",
+          "url": "https://www.letemps.ch/monde/ameriques/la-rougeole-flambe-aux-etats-unis-du-jamais-vu-depuis-35-ans",
+          "source": "letemps.ch",
+          "date": "20261107T100000Z",
+          "lang": "French"
+        },
+        {
+          "title": "Lindsay Vonn: « Mon amoureux Matthieu Bailet est génial »",
+          "url": "https://www.lematin.ch/story/ski-lindsay-vonn-trouve-son-amoureux-francais-genial-103663544",
+          "source": "lematin.ch",
+          "date": "20261107T100000Z",
+          "lang": "French"
+        },
+        {
+          "title": "Claude - Alain Schmidhalter condamné: 12 mois de prison avec sursis pour gestion déloyale",
+          "url": "https://www.lematin.ch/story/valais-l-ex-patron-des-mondiaux-de-crans-montana-condamne-103663527",
+          "source": "lematin.ch",
+          "date": "20261107T100000Z",
+          "lang": "French"
+        },
+        {
+          "title": "Was sind die neuesten Trends in der Sehkorrektur?",
+          "url": "https://www.soaktuell.ch/post/was-sind-die-neuesten-trends-in-der-sehkorrektur",
+          "source": "soaktuell.ch",
+          "date": "20261107T093000Z",
           "lang": "German"
         },
         {
-          "title": "I Comuni fanno quadrato attorno alla Navigazione",
-          "url": "https://www.cdt.ch/news/ticino/i-comuni-fanno-quadrato-attorno-alla-navigazione-443891",
-          "source": "cdt.ch",
-          "date": "20261107T060000Z",
-          "lang": "Italian"
-        },
-        {
-          "title": "La fiducia nel franco svizzero c  è, ma ha un prezzo",
-          "url": "https://www.cdt.ch/news/economia/la-fiducia-nel-franco-svizzero-ce-ma-ha-un-prezzo-443907",
-          "source": "cdt.ch",
-          "date": "20261107T060000Z",
-          "lang": "Italian"
-        },
-        {
-          "title": "Crans - Montana: Wallis verweigert Trauma - Opfern Hilfe",
-          "url": "https://www.tagesanzeiger.ch/crans-montana-wallis-verweigert-trauma-opfern-hilfe-366704164187",
-          "source": "tagesanzeiger.ch",
-          "date": "20261107T060000Z",
-          "lang": "German"
-        },
-        {
-          "title": "Online statt Laden? Lebensmittel - Lieferdienste rüsten auf",
-          "url": "https://www.gmx.ch/magazine/wirtschaft/laden-lebensmittel-lieferdienste-ruesten-42921702",
-          "source": "gmx.ch",
-          "date": "20261107T050000Z",
-          "lang": "German"
-        },
-        {
-          "title": "Haus bekommt Risse: Italiener sammelt über eine Million Cents",
-          "url": "https://www.gmx.ch/magazine/panorama/aus-aller-welt/haus-bekommt-risse-italiener-sammelt-million-cents-42916554",
-          "source": "gmx.ch",
-          "date": "20261107T050000Z",
+          "title": "Tesla: Cybertruck - Produktion in Texas endet 2027",
+          "url": "https://www.derbund.ch/tesla-cybertruck-produktion-in-texas-endet-2027-156658207741",
+          "source": "derbund.ch",
+          "date": "20261107T093000Z",
           "lang": "German"
         }
       ]
@@ -101,10 +101,45 @@
       "label": "Last 24 hours",
       "items": [
         {
+          "title": "FIFA partially upholds AFA appeal against post World Cup sanctions; Nahuel suspension reduced",
+          "url": "http://www.bignewsnetwork.com/news/279418336/fifa-partially-upholds-afa-appeal-against-post-world-cup-sanctions-nahuel-suspension-reduced",
+          "source": "bignewsnetwork.com",
+          "date": "20261107T113000Z",
+          "lang": "English"
+        },
+        {
+          "title": "Trump midterm drubbing adds to the populist right losses . France Le Pen could still win",
+          "url": "https://www.durangoherald.com/articles/associated-press/trumps-midterm-rout-adds-to-the-populist-rights-losses-frances-le-pen-could-still-win/",
+          "source": "durangoherald.com",
+          "date": "20261107T113000Z",
+          "lang": "English"
+        },
+        {
           "title": "After the US midterm rout of Trumpism, the world struggles to trust America again",
-          "url": "http://www.dailyadvance.com/news/world/after-the-us-midterm-rout-of-trumpism-the-world-struggles-to-trust-america-again/article_335dfa6f-4d8e-5e77-8c57-492ccfd2be24.html",
-          "source": "dailyadvance.com",
-          "date": "20261107T063000Z",
+          "url": "https://www.durangoherald.com/articles/associated-press/after-the-us-midterm-rout-of-trumpism-the-world-struggles-to-trust-america-again/",
+          "source": "durangoherald.com",
+          "date": "20261107T113000Z",
+          "lang": "English"
+        },
+        {
+          "title": "Italy lured wealthy elites with low taxes . Now theyre in Meloni crosshairs",
+          "url": "https://www.aol.com/articles/italy-lured-wealthy-elites-low-110000000.html",
+          "source": "aol.com",
+          "date": "20261107T113000Z",
+          "lang": "English"
+        },
+        {
+          "title": "JD Vance leads behind - the - scenes push for new Iran deal amid war tensions: Report",
+          "url": "https://www.moneycontrol.com/world/jd-vance-leads-behind-the-scenes-push-for-new-iran-deal-amid-war-tensions-report-article-14074318.html",
+          "source": "moneycontrol.com",
+          "date": "20261107T100000Z",
+          "lang": "English"
+        },
+        {
+          "title": "Canada military is using Palantir software . What are the risks?",
+          "url": "https://www.cbc.ca/news/politics/palantir-canadian-military-9.7409099",
+          "source": "cbc.ca",
+          "date": "20261107T093000Z",
           "lang": "English"
         },
         {
@@ -120,41 +155,6 @@
           "source": "wsbradio.com",
           "date": "20261107T060000Z",
           "lang": "English"
-        },
-        {
-          "title": "ProSiebenSat . 1 Media ( ETR: PSM ) Shares Down 0 . 4% – Here What Happened",
-          "url": "https://www.tickerreport.com/banking-finance/13653293/prosiebensat-1-media-etrpsm-shares-down-0-4-heres-what-happened.html",
-          "source": "tickerreport.com",
-          "date": "20261107T020000Z",
-          "lang": "English"
-        },
-        {
-          "title": "Putin confirms date for trilateral Ukraine talks",
-          "url": "http://www.heraldglobe.com/news/279416816/putin-confirms-date-for-trilateral-ukraine-talks",
-          "source": "heraldglobe.com",
-          "date": "20261107T000000Z",
-          "lang": "English"
-        },
-        {
-          "title": "Star actor reveals truth of what Queen Elizabeth was like in her last months",
-          "url": "https://www.aol.co.uk/articles/star-actor-reveals-truth-queen-225100000.html",
-          "source": "aol.co.uk",
-          "date": "20261107T000000Z",
-          "lang": "English"
-        },
-        {
-          "title": "Coca - Cola HBC rebounds as Russia risk overshadows growth",
-          "url": "https://finchannel.com/coca-cola-hbc-rebounds-as-russia-risk-overshadows-growth/140763/american-business-trends/2026/11/",
-          "source": "finchannel.com",
-          "date": "20261106T123000Z",
-          "lang": "English"
-        },
-        {
-          "title": "The latest twist in the saga between UBS and Swiss regulators involves bank New York business",
-          "url": "https://nypost.com/2026/11/06/business/the-latest-twist-in-the-saga-between-ubs-and-swiss-regulators-involves-banks-new-york-business/",
-          "source": "nypost.com",
-          "date": "20261106T123000Z",
-          "lang": "English"
         }
       ]
     },
@@ -162,59 +162,59 @@
       "label": "Top stories, CH:de edition",
       "items": [
         {
-          "title": "US-Midterms: Demokraten holen Unterhaus und Senat",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNRUxjTE1Oa0JoWTNOaVlWVmRiVFdvSFppczhHdXFNb0ZFbWFhbTZjaGd3SHRuRS1tNjZ1eWQ0QkFrWnBZamJNbV9TeFpWS1hvZHdJclF1N1cwWmx6YjNSQVpwOVpCdkNJMzRWcklFU0w3czIxZlpNUWx0QTNyWkFXZjVqVF8zam8tVUg1cHBDanpIcFNZb3FjLTBncm14cVEtUUlCNVd3?oc=5",
+          "title": "96 Prozent Siege in den Vorwahlen, dann die Pleite: Warum Trumps Segen bei den Midterms nichts brachte",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbFpBaWJwdHA0eHYxMVhQN2c1bmZFUGxpUmRpRHREcVc4eTNqVW5SRmFhOXBSQzVoQ1c4R0xEbkV0SjlUMDBQMVd1X2tGck9UNUw4dm1DRnNEbWExTjU1VjdXbWU2bWc3bktUVFBOMVp5WnAwek9LNmEwMXlScEJSWEhNbXVsQmJVRzl1WXlPSERXZElpU2swRjNZM2RTNG5xVDdZVDY1cw?oc=5",
           "source": "20min.ch",
-          "date": "2026-11-05T21:38:03.000Z",
+          "date": "2026-11-06T03:48:11.000Z",
           "lang": "German"
         },
         {
-          "title": "US-Innenpolitik im Ticker: Aktuelle Beschlüsse und Debatten",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOU2dvSVFveXVWUzFGaXQyS01xSDRuU0NwY0V2VnNUNGwzNWRFTDQzN3QxUGVib1g0eHdiMTNtTVNBM2hxUGFvdkNMbTBfa1JEQ29velZMaG9nenJfU18xbHBtazNwZzhZY0NmOXVpNW1PY1JMb19EM2V5OHQ3NnduVVFtRjNNTzVRRER3LXFQcFRqdkJKeG5lXw?oc=5",
+          "title": "Die gemässigten Demokraten feiern ein Comeback – und treffen im Kongress auf Linke, die radikalen Wandel wollen",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPOGJlbVN3c3dBM3VZSzM0OWRrZXM2cEQ4enA2X3hxMnRZWThRN1dlSkNKQThObldQTHBmSWp1bUNRaWRGMGJSVjQzZGp4RzhZQ20yNzZsNGhsSG1vcVpBUXpxWEYtUHlIWDdrYlE2R1lVUWJrN0Q0V01OQzBEaVdWYTdSN3RVNjVBd05QVF85bGl2WVEwdTNPdENUZDdXTVB3cTBnWnVuVVZ0MWZERU4xRURzak9Xdw?oc=5",
           "source": "nzz.ch",
-          "date": "2026-11-06T19:19:18.000Z",
+          "date": "2026-11-07T04:30:00.000Z",
           "lang": "German"
         },
         {
-          "title": "Ein Hegseth-Abgang würde den Republikanern nichts bringen",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOYldXc2FPRThJWXhUSXg3TmFUMUtvQUM1Yk9jWWFZbEdiTlNTbE5QR0RtZm1mV1U4LUtpUnotRGUtSlNPUDVKNmlINm51cHN6cVlMelFDV1hyS2NWMjEtZ0FzVnlpeDktQ1hGUThvMDg1OHVKLVNUNzlOMHZmNFhDZ0JlTXZvWE4xRlNCTHhqd1JqRkNSaWUwMW1nYw?oc=5",
-          "source": "blick.ch",
-          "date": "2026-11-06T09:49:26.000Z",
-          "lang": "German"
-        },
-        {
-          "title": "Börsen in den USA und Asien brechen ein: Sorge vor KI-Regulierung",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRGVCQTcxVjJoM0J0LWJXb28wRmc0cm5NSkNyaEdpWkluTEZfSzNUNEhHVEJpT2F4eWNadzd6X3pSU1VsZlB1NHpxZ20zNFFzc2dzMG9wUGdyX011ZERwYzZjSmJfYzlPLXdNT0FkOUxGR00zS2pTY3Q1dHM1ZDVYcVlTbGx4X1BfVWEyVzFDTFNXV2V3ZmpnMWp2cVFlV1hlQVBuZGpRcEtGOERPdGdHNDliM1o?oc=5",
-          "source": "srf.ch",
-          "date": "2026-11-06T06:11:00.000Z",
-          "lang": "German"
-        },
-        {
-          "title": "Gerichtskommission ist gegen Wiederwahl des Richterpaars",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPcE5hS2plOXlHX0E4NHZWWmpGSVhhekx6MDIyZV9CUno5MDhxb0xJSmFlcW5TaHFaNU1NMjROZ3ZLbDBhSUJ4ZUNCTkR2LVZZRzlDQUNnMGFmNllZUFl5Tm5GX25WR2xGbHg0VHFNZ3A1NjVaTkhWcVhac0xBcmNJTGhVbHdsWmpHV3dPQXBaczhzaFUwanZZMg?oc=5",
-          "source": "blick.ch",
-          "date": "2026-11-06T14:09:09.000Z",
-          "lang": "German"
-        },
-        {
-          "title": "«Heute werden die Leute mit 65 zwangspensioniert» – «Nein, es sind die Arbeitgeber, die sie zwangs­pensionieren»",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSWRkNEt1S1F5M3RDcjRyWklYTFNteUJQcXFzMi1Qc0JVT1A3RVlLN2lUSjBGTzB6S3FJd1V3ZDA4UlZiTnVOVktfSHYtenVPT0xmRHVpdnE2OU5VYXBadkp1TC1uRkd3WWJ1N3hpMURMekxmNDRxbzVVcElMM21GalFaWXk5cG5Ra0QtcjA1QjJNV2pXanc?oc=5",
+          "title": "Erhöhung der Mehrwertsteuer: Die 13. AHV-Rente muss finanziert werden – und zwar jetzt",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZEZwOTM4bDlaMlluM1V4bGMwNTFNWTg5c1Z4emtDQ2JhNmZEM2lRbTJ3R2tSb3JFWlA2V3JrRzRWdnJKemVmTUdYc0FralZjVHUwNUZOTXdHVnpzbkV3NGI1MThiQjcweFMwam1PZVJIcEUwVnVBMmVrR2lSV1k5SWlaOVpXWFl4MWdaX0VheDNVQmRuTEFaUXhFbU5ZUW5lcm9rRkZB?oc=5",
           "source": "tagesanzeiger.ch",
-          "date": "2026-11-06T07:13:58.000Z",
+          "date": "2026-11-07T05:35:29.000Z",
           "lang": "German"
         },
         {
-          "title": "«Herr Parmelin, liefern wir bald Waffen an kriegführende Länder?»",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNmM5U1gyWlotd2NKWndfUy1TQURWdW04V180ek5mLUdfZWI1UDlNcjhMQUk2VnFZTTVxSVJYVGM1VHhPZU8wbWpOWjQxamtXNVltQnNOSXZMSWdhRzRsLUlPZy10anlLLXNKU3k4NGRnZ1kwSWxMWTEtM3JISDUzR1FDZmJjV0pQRDRISy1zNTNNVGFhT2NkNS1yLWQwMHA0WU9IOUEzQ25YSURJaEcyS2hydUtyUQ?oc=5",
-          "source": "20min.ch",
-          "date": "2026-11-05T10:46:13.000Z",
+          "title": "Unfall in Andwil SG: Auto kracht in Haus",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNm5YOW02RFBWVVptSlUxRHU0ZmF0Um9fNjlDNjRIZlpZQ1UtdmJWOGhjRE1xRERfNE1fdzRobEtGWVVrNFZSUHJXclAtQmpUWVpWdnhHYmhzZzYtR3lKbzB2NXU1ZEM2X0gtREV6Zkt1M29GTGdsbzlLRzMwZjhSZHB3MnVGa0xhdEtKWDd1aWs4NFkzS2tMZHI0U05DZw?oc=5",
+          "source": "blick.ch",
+          "date": "2026-11-07T09:11:06.000Z",
           "lang": "German"
         },
         {
-          "title": "Statt 407 Millionen Minus rechnet Zürich mit 1,34 Milliarden Franken Überschuss",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOOGRwOE9PV2J0MndnaFR0djhlMG5mMXRkOUJyZnItUHhTSkRTYVhXZVI2TnpvQ2FackYyUEloQnM1cHZwRTNuWERvVXpkV0ljNTk5RUVJY2hLZzNHVUYtRjBLLWtYdkp2WjlBZGZENUJqMFVURlJXd1M3YV9PelFra1RORHNNd2pvYkJSeE5VSHo4cnZPd0xKaVVfbmk?oc=5",
+          "title": "Trump befördert Hardliner Miller zum Stabschef – trotz Wahldebakel",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSGY4SDVfRkotNF85ODFGWkdETWNBQ244eGlPSlhWQ2VaUEtFYWI4dXBKbWtxbzVUY2VQVHZ2M2ZyLTBCdGVvRnQ2Q3Y0eGdoVHlfZmUyckxCZV9FWWJGUlFQajJ5dWYtNU9udTI1eGNwZ1FaSzZhbDNKdU1RdGRsOUVzWm9DZ1hyRnNEUk8yMU5QTl8zdEgzVW5R?oc=5",
           "source": "tagesanzeiger.ch",
-          "date": "2026-11-06T12:00:00.000Z",
+          "date": "2026-11-07T07:33:06.000Z",
+          "lang": "German"
+        },
+        {
+          "title": "Die Republikaner geben dem Iran-Krieg die Schuld für ihr Midterm-Debakel – und Präsident Trump",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNlBTNTB0S2R0dWdJRkQybDdlaV9vWkJNTGJvSXRjc0dxLWx6TURER0s2dlRuajlkOXJmTHp3ajAxVGtTeTU0VXRrMUVYQ3pkR2dXNkNfRmo5SFhVZ3U0dWpyeHFwUy0wQTdYN0xqbTJxeTJLaUE5V05aQWYwOWhlSWVtdTlhMDE0N2p3cm0zM0owU0VrNmJYMkhNTTU0QQ?oc=5",
+          "source": "nzz.ch",
+          "date": "2026-11-06T04:30:00.000Z",
+          "lang": "German"
+        },
+        {
+          "title": "Bundesrat Parmelin verrät in SRF-«Arena» fast ein Staatsgeheimnis",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQMGxzNjhoQnVSUmdiRFhQX3NJbjJueDFrVDZ4MklpbmtLcWtOYzh3NjZSUE5GYnhHcG9ZU2xURXNmM1Uzd0RMZmhadGl0Z3BuMkZRb0xZRzRIeTlWeFlJUUs0c0s5OHR1RGVnZ3Jhby11X2RBZTZIMHNGODA3VWFER0N5bDlac1VyamtqNlFueW1BeTF6Y0xHNW55WGxpcjFYc0Qw?oc=5",
+          "source": "blick.ch",
+          "date": "2026-11-07T10:35:20.000Z",
+          "lang": "German"
+        },
+        {
+          "title": "«Ich bin schockiert»: Richterin schlug Alarm – interner Aufstand am Bundesgericht",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMVVPU1BjY1ZqSVFCNkw4OThRQUVobWlpZmVWa1pya0ZWOWdadXRCTmluNjVaN3RlNjg2bUdaUk1DM2VWbllLN195TnVlSkV5by1SMFVqaVd2Y2JGQVRVT2tDcDg2TlIxZ3VSWi13VXBqbGNnYjRIWVVjYU1HcnB2a1p2bUxmdnNoN2xUd1diZjZkVjZxNUJnZUhPeG9kT3FDS3FUUlhuaVZWa0x3QUE?oc=5",
+          "source": "tagblatt.ch",
+          "date": "2026-11-07T04:00:00.000Z",
           "lang": "German"
         }
       ]
