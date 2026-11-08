@@ -1,0 +1,164 @@
+{
+  "date": "2026-11-09",
+  "updated": "2026-11-08T23:26:20.964Z",
+  "qid": "Q912",
+  "name": "Mali",
+  "status": "UN member state",
+  "officialName": "Mali",
+  "flag": {
+    "svg": "https://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Mali.svg",
+    "alt": "Flag of Mali"
+  },
+  "facts": {
+    "Capital": "Bamako",
+    "Continent": "Africa",
+    "Population": "22,395,489",
+    "Area": "1,240,192 km²",
+    "Languages": "Soninke, Kassonke, Hassaniya Arabic, Senufo, Songhay, Dogon, Bozo, Maninka, Minyanka, Bambara, Fula, Tamasheq, Bobo",
+    "Currency": "West African CFA franc",
+    "Time zones": "Africa/Bamako, UTC+00:00",
+    "Calling code": "+223"
+  },
+  "map": "https://www.openstreetmap.org/?mlat=17.0&mlon=-4.0#map=5/17.0/-4.0",
+  "summary": {
+    "extract": "Mali, officially the Republic of Mali, is a landlocked country in West Africa. It is the eighth-largest country in Africa and the 23rd largest country in the world, with an area of 1,240,192 square kilometres (478,841 sq mi). It is bordered to the north by Algeria, to the east by Niger, to the northwest by Mauritania, to the south by Burkina Faso and Ivory Coast, and to the west by Guinea and Senegal. The population is about 25.20 million, 47.19% of which are estimated to be under age 15 in 2024. Its capital and largest city is Bamako. French was the official language until 2022, when its official status was revoked to working language.",
+    "url": "https://en.wikipedia.org/wiki/Mali"
+  },
+  "history": {
+    "title": "History of Mali",
+    "paragraphs": [
+      "The history of Mali can be divided into several major periods:",
+      "Pre-Imperial Mali (before the 13th century)",
+      "The Mali Empire (13th–17th centuries)",
+      "The  Songhai Empire (15th–16th centuries)",
+      "The borders of Mali are those of French Sudan, drawn in 1891. They unite part of the larger Sudan region with parts of the Sahara. As a consequence, Mali is a multiethnic country, with a majority of its population consisting of Mandé peoples.",
+      "Mali's history is dominated by its role in trans-Saharan trade, connecting West Africa and the Maghreb. The Malian city Timbuktu is exemplary of this: situated on the southern fringe of the Sahara and close to the Niger River, it has played an important role in the trans-Saharan trade from the 13th century on, with the establishment of the Mali Empire.",
+      "This growth was particularly pronounced during the rise of the Mali Empire, followed by the expansion of the Songhai Empire, which emerged as a dominant power in West Africa."
+    ],
+    "url": "https://en.wikipedia.org/wiki/History_of_Mali"
+  },
+  "news": {
+    "local": {
+      "label": "Last month",
+      "items": [
+        {
+          "title": "Bamako - Aéroport: la Douane saisit 7 000 vignettes pour motos cachées dans des bagages",
+          "url": "https://malijet.com/les_faits_divers_au_mali/312730-bamako-aeroport-la-douane-saisit-7-000-vignettes-pour-moto.html",
+          "source": "malijet.com",
+          "date": "20261108T200000Z",
+          "lang": "French"
+        },
+        {
+          "title": "VISITE DU PREMIER MINISTRE DU SITE DES DÉPLACÉS DE KOUREMALÉ",
+          "url": "https://malijet.com/a_la_une_du_mali/312729-visite-du-premier-ministre-du-site-des-deplaces-de-kouremale.html",
+          "source": "malijet.com",
+          "date": "20261108T183000Z",
+          "lang": "French"
+        },
+        {
+          "title": "Gestion de la crise humanitaire à la frontière: Le Gouvernement malien mobilise de grands moyens pour l  évacuation",
+          "url": "https://bamada.net/gestion-de-la-crise-humanitaire-a-la-frontiere-le-gouvernement-malien-mobilise-de-grands-moyens-pour-levacuation",
+          "source": "bamada.net",
+          "date": "20261107T220000Z",
+          "lang": "French"
+        },
+        {
+          "title": "Urgence humanitaire: madame le ministre mobilise les acteurs humanitaires autour de la prise en charge des jeunes refoulés de guinée",
+          "url": "https://bamada.net/urgence-humanitaire-madame-le-ministre-mobilise-les-acteurs-humanitaires-autour-de-la-prise-en-charge-des-jeunes-refoules-de-guinee",
+          "source": "bamada.net",
+          "date": "20261107T220000Z",
+          "lang": "French"
+        },
+        {
+          "title": "Afrique: plus de 168 millions denfants vaccinés contre la polio en neuf mois en 2026 – Mali Actu",
+          "url": "https://maliactu.net/afrique-polio-168-millions-enfants-vaccines-neuf-mois-2026/",
+          "source": "maliactu.net",
+          "date": "20261025T123000Z",
+          "lang": "French"
+        },
+        {
+          "title": "Protection du domaine public au Mali: Le ministre Alhamdou Ag Ilyène déclare la guerre à laffichage publicitaire sauvage – Mali Actu",
+          "url": "https://maliactu.net/protection-du-domaine-public-au-mali-le-ministre-alhamdou-ag-ilyene-declare-la-guerre-a-laffichage-publicitaire-sauvage/",
+          "source": "maliactu.net",
+          "date": "20261025T123000Z",
+          "lang": "French"
+        },
+        {
+          "title": "PMU Mali:: LE PARI MUTUEL URBAIN DU MALI",
+          "url": "https://pmu.malijet.com/detail-du-programme-du-25_10_2026-2636.html",
+          "source": "pmu.malijet.com",
+          "date": "20261024T220000Z",
+          "lang": "French"
+        },
+        {
+          "title": "Ancien INA: quel avenir pour cet édifice classé au patrimoine national? - Studio Tamani - Informations, débats, magazines: toute lactualité du Mali, en 5 langues",
+          "url": "https://www.studiotamani.org/209411-ancien-ina-quel-avenir-pour-cet-edifice-classe-au-patrimoine-national",
+          "source": "studiotamani.org",
+          "date": "20261023T130000Z",
+          "lang": "French"
+        }
+      ]
+    },
+    "international": {
+      "label": "Last 7 days",
+      "items": [
+        {
+          "title": "NNPC pitches investors on Nigeria – Morocco gas pipeline, eyes Trans - Saharan FID talks in 2027",
+          "url": "https://www.zawya.com/en/projects/oil-gas/nnpc-pitches-investors-on-nigeriamorocco-gas-pipeline-eyes-trans-saharan-fid-talks-in-2027-2126344",
+          "source": "zawya.com",
+          "date": "20261108T203000Z",
+          "lang": "English"
+        },
+        {
+          "title": "Inside the Hurricane week: Miami loses Toney, then gets handed its first loss of the season – Winnipeg Free Press",
+          "url": "https://www.winnipegfreepress.com/uncategorized/2026/11/08/inside-the-hurricanes-week-miami-loses-toney-then-gets-handed-its-first-loss-of-the-season",
+          "source": "winnipegfreepress.com",
+          "date": "20261108T203000Z",
+          "lang": "English"
+        },
+        {
+          "title": "Brighton Jones LLC Sells 3, 353 Shares of Arm Holdings PLC Sponsored ADR $ARM",
+          "url": "https://www.themarketsdaily.com/2026/11/08/brighton-jones-llc-sells-3353-shares-of-arm-holdings-plc-sponsored-adr-arm.html",
+          "source": "themarketsdaily.com",
+          "date": "20261108T103000Z",
+          "lang": "English"
+        },
+        {
+          "title": "Uganda rises again on Africa elite refereeing stage through young star Kasalirwe Lucky Razake",
+          "url": "https://kawowo.com/2026/11/08/uganda-rises-again-on-africas-elite-refereeing-stage-through-young-star-kasalirwe-lucky-razake/",
+          "source": "kawowo.com",
+          "date": "20261108T090000Z",
+          "lang": "English"
+        },
+        {
+          "title": "MYIR Rockchip RK3576 - Based MYC - JR3576 SMARC SOM",
+          "url": "https://circuitcellar.com/newsletter/myir-rockchip-rk3576-based-myc-jr3576-smarc-som/",
+          "source": "circuitcellar.com",
+          "date": "20261107T220000Z",
+          "lang": "English"
+        },
+        {
+          "title": "India secures place in Cup of Nations, set to compete against 18 international teams",
+          "url": "http://www.indiagazette.com/news/279418476/india-secures-place-in-cup-of-nations-set-to-compete-against-18-international-teams",
+          "source": "indiagazette.com",
+          "date": "20261107T183000Z",
+          "lang": "English"
+        },
+        {
+          "title": "2027 AFCONQ: CAR referee to officiate Ghana v Somalia game at Essipong Stadium",
+          "url": "https://www.ghanamma.com/2026/11/07/2027-afconq-car-referee-to-officiate-ghana-v-somalia-game-at-essipong-stadium/",
+          "source": "ghanamma.com",
+          "date": "20261107T180000Z",
+          "lang": "English"
+        },
+        {
+          "title": "Final SSC, HSC exam schedules announced",
+          "url": "https://www.hindustantimes.com/cities/pune-news/final-ssc-hsc-exam-schedules-announced-101794071969180.html",
+          "source": "hindustantimes.com",
+          "date": "20261107T180000Z",
+          "lang": "English"
+        }
+      ]
+    }
+  }
+}
