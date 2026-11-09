@@ -1,6 +1,6 @@
 {
   "date": "2026-11-09",
-  "updated": "2026-11-09T01:16:31.663Z",
+  "updated": "2026-11-09T07:39:13.533Z",
   "qid": "Q912",
   "name": "Mali",
   "status": "UN member state",
@@ -14,9 +14,9 @@
     "Continent": "Africa",
     "Population": "22,395,489",
     "Area": "1,240,192 km²",
-    "Languages": "Bambara, Fula, Senufo, Bozo, Maninka, Minyanka, Tamasheq, Bobo, Songhay, Dogon, Soninke, Kassonke, Hassaniya Arabic",
+    "Languages": "Songhay, Dogon, Soninke, Kassonke, Hassaniya Arabic, Bozo, Maninka, Minyanka, Senufo, Tamasheq, Bobo, Bambara, Fula",
     "Currency": "West African CFA franc",
-    "Time zones": "Africa/Bamako, UTC+00:00",
+    "Time zones": "UTC+00:00, Africa/Bamako",
     "Calling code": "+223"
   },
   "map": "https://www.openstreetmap.org/?mlat=17.0&mlon=-4.0#map=5/17.0/-4.0",
@@ -75,6 +75,13 @@
       "label": "Last 7 days",
       "items": [
         {
+          "title": "UN Experts Condemn Personal Attacks And Intimidation Against Special Procedures Mandate Holders",
+          "url": "https://www.scoop.co.nz/stories/WO2611/S00060/un-experts-condemn-personal-attacks-and-intimidation-against-special-procedures-mandate-holders.htm",
+          "source": "scoop.co.nz",
+          "date": "20261109T010000Z",
+          "lang": "English"
+        },
+        {
           "title": "NNPC pitches investors on Nigeria – Morocco gas pipeline, eyes Trans - Saharan FID talks in 2027",
           "url": "https://www.zawya.com/en/projects/oil-gas/nnpc-pitches-investors-on-nigeriamorocco-gas-pipeline-eyes-trans-saharan-fid-talks-in-2027-2126344",
           "source": "zawya.com",
@@ -120,13 +127,6 @@
           "title": "2027 AFCONQ: CAR referee to officiate Ghana v Somalia game at Essipong Stadium",
           "url": "https://www.ghanamma.com/2026/11/07/2027-afconq-car-referee-to-officiate-ghana-v-somalia-game-at-essipong-stadium/",
           "source": "ghanamma.com",
-          "date": "20261107T180000Z",
-          "lang": "English"
-        },
-        {
-          "title": "Final SSC, HSC exam schedules announced",
-          "url": "https://www.hindustantimes.com/cities/pune-news/final-ssc-hsc-exam-schedules-announced-101794071969180.html",
-          "source": "hindustantimes.com",
           "date": "20261107T180000Z",
           "lang": "English"
         }
