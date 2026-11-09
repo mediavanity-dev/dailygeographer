@@ -1,0 +1,133 @@
+{
+  "date": "2026-11-10",
+  "updated": "2026-11-09T23:37:47.310Z",
+  "qid": "Q21203",
+  "name": "Aruba",
+  "status": "Constituent country of the Kingdom of the Netherlands",
+  "officialName": "Aruba",
+  "flag": {
+    "svg": "https://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Aruba.svg",
+    "alt": "Flag of Aruba"
+  },
+  "facts": {
+    "Capital": "Oranjestad",
+    "Continent": "North America",
+    "Population": "106,739",
+    "Area": "193 km²",
+    "Languages": "Dutch, Papiamento",
+    "Currency": "Aruban florin",
+    "Time zones": "UTC−04:00, Atlantic Time Zone, America/Aruba",
+    "Calling code": "+297"
+  },
+  "map": "https://www.openstreetmap.org/?mlat=12.515&mlon=-69.975#map=5/12.515/-69.975",
+  "summary": {
+    "extract": "Aruba, officially the Country of Aruba, is an island constituent country within the Kingdom of the Netherlands, in the southern Caribbean Sea 29 kilometres (18 mi) north of the Venezuelan peninsula of Paraguaná and 80 kilometres (50 mi) north-west of Curaçao. In 1986, Aruba became a constituent country within the Kingdom of the Netherlands and acquired the official name.",
+    "url": "https://en.wikipedia.org/wiki/Aruba"
+  },
+  "history": {
+    "title": "Aruba: History",
+    "paragraphs": [
+      "In Aruba's prehistoric era, there were distinct periods: the Archaic or Pre-Ceramic and the Neo-Indian or Ceramic (Dabajuroïd) period. The Archaic occupation of Aruba continued well into the first millennium AD, which is relatively late compared to other parts of the insular Caribbean. The archaic lifestyle revolved around a food economy based on fishing, hunting and gathering, with a strong emphasis on marine resources. Ceramics were absent, as was horticulture and agriculture. Weapons and tools were predominantly crafted from stone. Sharp-edged axe blades, chisels and knives were commonly used, with the knives distinguishable by their elongated shape and flat blades.",
+      "One notable site, Sero Muskita, yielded a tool that is older than other archaic age sites on the island. The finishing techniques and shape of this tool resembles one found at Arikok, suggesting a date before approximately 2000 BC. The presence of these tools on the island may be from occasional visits from the mainland. In total, 33 archaic age sites have been identified on Aruba.",
+      "During this period, the Leeward Islands maintained connections and engaged in trade with mainland South America, particularly with partners in the present-day Falcón-Zulia state in Venezuela and possibly the La Guajira Peninsula (Venezuela/Colombia). The specific language group to which they belonged remains uncertain. This theory is supported by the discovery of 60 to 70 Amerindian cemetery burial grounds in Malmok and Canashito. Burial sites at Canashito are dated between 100 BC to 100 AD. isotopic research revealed that one of the individuals buried there was not from Aruba and had a different diet compared to the other four individuals of Aruban origin. This finding suggests that early human migration and cultural exchange were already part of the cultural pattern of these archaic Indigenous people at an early stage.",
+      "The burial site in Malmok dates to between 450 and 1000 AD. The Arubans of that time had a short and stocky physique, with adult men averaging 1.57 metres (5 ft 2 in) in height and women averaging 1.49 metres (4 ft 11 in). The burial customs offer insight into the social dynamics of the archaic island inhabitants. Based on the burial patterns, it was deduced that they travelled in clans of 15 to 30 people. These groups were led by an adult man who was buried at the centre of the cluster. His elevated status was emphasised by the presence of several stones marking his grave. The rest of the family group was buried around him."
+    ],
+    "url": "https://en.wikipedia.org/wiki/Aruba#History"
+  },
+  "news": {
+    "local": {
+      "label": "Last month",
+      "items": [
+        {
+          "title": "Nos no por cambia nos pasado, pero nos por sana loke e pasado a laga atras",
+          "url": "https://diario.aw/categories/noticia/politica/nos-no-por-cambia-nos-pasado-pero-nos-por-sana-loke-e-pasado-a-laga-atras",
+          "source": "diario.aw",
+          "date": "20261023T050000Z",
+          "lang": "Spanish"
+        },
+        {
+          "title": "EZ Party Solutions lo forma parti di Panda Live Show di Fundacion Respeta Mi",
+          "url": "https://diario.aw/categories/noticia/general/ez-party-solutions-lo-forma-parti-di-panda-live-show-di-fundacion-respeta-mi",
+          "source": "diario.aw",
+          "date": "20261021T014500Z",
+          "lang": "Spanish"
+        },
+        {
+          "title": "Pastoor Marcel Balootje: Consecuencia di desobediencia na Dios | 24ora",
+          "url": "https://24ora.com/pastoor-marcel-balootje-consecuencia-di-desobediencia-na-dios/",
+          "source": "24ora.com",
+          "date": "20261020T150000Z",
+          "lang": "Spanish"
+        },
+        {
+          "title": "CBN hunto cu Fundacion Alimentashon Escuela Kohehe a organisa tayer di agricultura | 24ora",
+          "url": "https://24ora.com/cbn-hunto-cu-fundacion-alimentashon-escuela-kohehe-a-organisa-tayer-di-agricultura/",
+          "source": "24ora.com",
+          "date": "20261020T013000Z",
+          "lang": "Spanish"
+        }
+      ]
+    },
+    "international": {
+      "label": "Last 7 days",
+      "items": [
+        {
+          "title": "Best Airline Stocks To Follow Now – November 6th",
+          "url": "https://www.tickerreport.com/banking-finance/13655749/best-airline-stocks-to-follow-now-november-6th.html",
+          "source": "tickerreport.com",
+          "date": "20261109T003000Z",
+          "lang": "English"
+        },
+        {
+          "title": "Cuba travel crisis forcing Canadian tourists to pricier destinations",
+          "url": "https://www.ckom.com/2026/11/08/cuba-travel-crisis-forcing-canadian-tourists-to-pricier-destinations/",
+          "source": "ckom.com",
+          "date": "20261108T193000Z",
+          "lang": "English"
+        },
+        {
+          "title": "India IT Channel Market 2027: Biggest Growth Opportunities for Resellers and MSPs in Tier 2 and Tier 3 Cities",
+          "url": "https://infotechlead.com/channels/india-it-channel-market-2027-biggest-growth-opportunities-for-resellers-and-msps-in-tier-2-and-tier-3-cities-99476",
+          "source": "infotechlead.com",
+          "date": "20261108T183000Z",
+          "lang": "English"
+        },
+        {
+          "title": "SD - WAN vs SASE vs MPLS Costs in 2026: Enterprise Connectivity Pricing, Telecom Operators and Network Projects",
+          "url": "https://infotechlead.com/networking/sd-wan-vs-sase-vs-mpls-costs-in-2026-enterprise-connectivity-pricing-telecom-operators-and-network-projects-99463",
+          "source": "infotechlead.com",
+          "date": "20261108T140000Z",
+          "lang": "English"
+        },
+        {
+          "title": "Private 5G Network Costs in 2026: What Factories, Ports, Airports and Mines Pay for Enterprise Connectivity",
+          "url": "https://telecomlead.com/5g/private-5g-network-costs-in-2026-what-factories-ports-airports-and-mines-pay-for-enterprise-connectivity-128604",
+          "source": "telecomlead.com",
+          "date": "20261108T133000Z",
+          "lang": "English"
+        },
+        {
+          "title": "Canadians choosing pricier destinations over Cuba amid crisis: travel agents - National",
+          "url": "https://globalnews.ca/news/12141153/canadians-skipping-cuba-amid-crisis/",
+          "source": "globalnews.ca",
+          "date": "20261107T170000Z",
+          "lang": "English"
+        },
+        {
+          "title": "Digital revolutionarie unlock the potential of the digital workplace: Aruba 2018 study Networks Asia",
+          "url": "https://www.networksasia.net/article/digital-revolutionaries-unlock-potential-digital-workplace.1536489112",
+          "source": "networksasia.net",
+          "date": "20261107T050000Z",
+          "lang": "English"
+        },
+        {
+          "title": "3 excellent Netflix documentaries to binge - watch this weekend ( November 6 - 8 )",
+          "url": "https://www.howtogeek.com/netflix-documentaries-to-binge-watch-this-weekend-november-6/",
+          "source": "howtogeek.com",
+          "date": "20261107T000000Z",
+          "lang": "English"
+        }
+      ]
+    }
+  }
+}
