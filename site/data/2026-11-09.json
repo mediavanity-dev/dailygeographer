@@ -1,6 +1,6 @@
 {
   "date": "2026-11-09",
-  "updated": "2026-11-08T23:26:20.964Z",
+  "updated": "2026-11-09T01:16:31.663Z",
   "qid": "Q912",
   "name": "Mali",
   "status": "UN member state",
@@ -14,7 +14,7 @@
     "Continent": "Africa",
     "Population": "22,395,489",
     "Area": "1,240,192 km²",
-    "Languages": "Soninke, Kassonke, Hassaniya Arabic, Senufo, Songhay, Dogon, Bozo, Maninka, Minyanka, Bambara, Fula, Tamasheq, Bobo",
+    "Languages": "Bambara, Fula, Senufo, Bozo, Maninka, Minyanka, Tamasheq, Bobo, Songhay, Dogon, Soninke, Kassonke, Hassaniya Arabic",
     "Currency": "West African CFA franc",
     "Time zones": "Africa/Bamako, UTC+00:00",
     "Calling code": "+223"
@@ -39,7 +39,7 @@
   },
   "news": {
     "local": {
-      "label": "Last month",
+      "label": "Last 7 days",
       "items": [
         {
           "title": "Bamako - Aéroport: la Douane saisit 7 000 vignettes pour motos cachées dans des bagages",
@@ -67,34 +67,6 @@
           "url": "https://bamada.net/urgence-humanitaire-madame-le-ministre-mobilise-les-acteurs-humanitaires-autour-de-la-prise-en-charge-des-jeunes-refoules-de-guinee",
           "source": "bamada.net",
           "date": "20261107T220000Z",
-          "lang": "French"
-        },
-        {
-          "title": "Afrique: plus de 168 millions denfants vaccinés contre la polio en neuf mois en 2026 – Mali Actu",
-          "url": "https://maliactu.net/afrique-polio-168-millions-enfants-vaccines-neuf-mois-2026/",
-          "source": "maliactu.net",
-          "date": "20261025T123000Z",
-          "lang": "French"
-        },
-        {
-          "title": "Protection du domaine public au Mali: Le ministre Alhamdou Ag Ilyène déclare la guerre à laffichage publicitaire sauvage – Mali Actu",
-          "url": "https://maliactu.net/protection-du-domaine-public-au-mali-le-ministre-alhamdou-ag-ilyene-declare-la-guerre-a-laffichage-publicitaire-sauvage/",
-          "source": "maliactu.net",
-          "date": "20261025T123000Z",
-          "lang": "French"
-        },
-        {
-          "title": "PMU Mali:: LE PARI MUTUEL URBAIN DU MALI",
-          "url": "https://pmu.malijet.com/detail-du-programme-du-25_10_2026-2636.html",
-          "source": "pmu.malijet.com",
-          "date": "20261024T220000Z",
-          "lang": "French"
-        },
-        {
-          "title": "Ancien INA: quel avenir pour cet édifice classé au patrimoine national? - Studio Tamani - Informations, débats, magazines: toute lactualité du Mali, en 5 langues",
-          "url": "https://www.studiotamani.org/209411-ancien-ina-quel-avenir-pour-cet-edifice-classe-au-patrimoine-national",
-          "source": "studiotamani.org",
-          "date": "20261023T130000Z",
           "lang": "French"
         }
       ]
