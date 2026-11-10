@@ -1,0 +1,49 @@
+{
+  "date": "2026-11-11",
+  "updated": "2026-11-10T23:37:33.133Z",
+  "qid": "Q766",
+  "name": "Jamaica",
+  "status": "UN member state",
+  "officialName": "Jamaica",
+  "flag": {
+    "svg": "https://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Jamaica.svg",
+    "alt": "Flag of Jamaica"
+  },
+  "facts": {
+    "Capital": "Kingston",
+    "Continent": "North America",
+    "Population": "2,697,983",
+    "Area": "10,992 km²",
+    "Languages": "English, Jamaican Patois",
+    "Currency": "Jamaican dollar",
+    "Time zones": "America/Jamaica",
+    "Calling code": "+1876"
+  },
+  "map": "https://www.openstreetmap.org/?mlat=18.18&mlon=-77.4#map=5/18.18/-77.4",
+  "summary": {
+    "extract": "Jamaica is an island country in the Caribbean, covering 10,991 square kilometres (4,244 sq mi). It is the third-largest island in the Greater Antilles and the Caribbean, after Cuba and Hispaniola. Jamaica lies about 145 km (78 nmi) south of Cuba, 191 km (103 nmi) west of Hispaniola, and 215 km (116 nmi) southeast of the Cayman Islands. With 2.8 million people, Jamaica is the third-most populous Anglophone country in the Americas and the fourth-most populous country in the Caribbean. Kingston is the capital and largest city.",
+    "url": "https://en.wikipedia.org/wiki/Jamaica"
+  },
+  "history": {
+    "title": "History of Jamaica",
+    "paragraphs": [
+      "The Caribbean Island of Jamaica was initially inhabited in approximately 600 AD or 650 AD by the Redware people, often associated with redware pottery. By roughly 800 AD, a second wave of inhabitants occurred by the Arawak tribes, including the Tainos, prior to the arrival of Columbus in 1494. Early inhabitants of Jamaica named the land \"Xaymaca\", meaning \"land of wood and water\". The Spanish enslaved the Arawak, who were ravaged further by diseases that the Spanish brought with them. Early historians believe that by 1602, the Arawak-speaking Taino tribes were extinct. However, some of the Taino escaped into the forested mountains of the interior, where they mixed with runaway African slaves, and survived free from first Spanish, and then English, rule.",
+      "The Spanish also captured and transported hundreds of West African people to the island for the purpose of slavery. However, the majority of Africans were brought into Jamaica by the English.",
+      "In 1655, the English invaded Jamaica, and defeated the Spanish. Some African enslaved people took advantage of the political turmoil and escaped to the island's interior mountains, forming independent communities which became known as the Maroons. Meanwhile, on the coast, the English built the settlement of Port Royal, a base of operations where piracy flourished as so many European rebels had been rejected from their countries to serve sentences on the seas. Captain Henry Morgan, a Welsh plantation owner and privateer, raided settlements and shipping bases from Port Royal, earning him his reputation as one of the richest pirates in the Caribbean.",
+      "In the 18th century, sugar cane replaced piracy as British Jamaica's main source of income. The sugar industry was labour-intensive and the British brought hundreds of thousands of enslaved black Africans to the island. By 1850, the black and mulatto Jamaican population outnumbered the white population by a ratio of twenty to one. Enslaved Jamaicans mounted over a dozen major uprisings during the 18th century, including Tacky's Revolt in 1760. There were also periodic skirmishes between the British and the mountain communities of the Jamaican Maroons, culminating in the First Maroon War of the 1730s and the Second Maroon War of 1795–1796.",
+      "The aftermath of the Baptist War shone a light on the conditions of slaves which contributed greatly to the abolition movement and the passage of the Slavery Abolition Act 1833, which formally ended slavery in Jamaica in 1834. However, relations between the white and black community remained tense coming into the mid-19th century, with the most notable event being the Morant Bay Rebellion in 1865. The latter half of the 19th century saw economic decline, low crop prices, droughts, and disease. When sugar lost its importance, many former plantations went bankrupt, and land was sold to Jamaican peasants and cane fields were consolidated by dominant British producers.",
+      "Jamaica's first political parties emerged in the late 1920s, while workers association and trade unions emerged in the 1930s. The development of a new Constitution in 1944, universal male suffrage, and limited self-government eventually led to Jamaican Independence in 1962 with Alexander Bustamante serving as its first prime minister. The country saw an extensive period of postwar growth and a smaller reliance on the agricultural sector and a larger reliance on bauxite and mining in the 1950s, 1960s and 1970s. It was the world's number one bauxite produccer from 1957 to 1971. Political power changed hands between the two dominant parties, the JLP and PNP, from the 1970s to the present day. While Jamaica's murder rate fell by nearly half after the 2010 Tivoli Incursion, the country's murder rate remains one of the highest in the world. Economic troubles hit the country in 2013, the IMF agreed to a $1 billion loan to help Jamaica meet large debt payments, making Jamaica a highly indebted country that spends around half of its annual budget on debt repayments."
+    ],
+    "url": "https://en.wikipedia.org/wiki/History_of_Jamaica"
+  },
+  "news": {
+    "local": {
+      "label": "No recent headlines found",
+      "items": []
+    },
+    "international": {
+      "label": "No recent headlines found",
+      "items": []
+    }
+  }
+}
