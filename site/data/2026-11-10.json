@@ -1,6 +1,6 @@
 {
   "date": "2026-11-10",
-  "updated": "2026-11-10T01:14:03.190Z",
+  "updated": "2026-11-10T07:18:47.678Z",
   "qid": "Q21203",
   "name": "Aruba",
   "status": "Constituent country of the Kingdom of the Netherlands",
@@ -16,7 +16,7 @@
     "Area": "193 km²",
     "Languages": "Dutch, Papiamento",
     "Currency": "Aruban florin",
-    "Time zones": "UTC−04:00, Atlantic Time Zone, America/Aruba",
+    "Time zones": "Atlantic Time Zone, America/Aruba, UTC−04:00",
     "Calling code": "+297"
   },
   "map": "https://www.openstreetmap.org/?mlat=12.515&mlon=-69.975#map=5/12.515/-69.975",
