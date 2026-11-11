@@ -1,0 +1,102 @@
+{
+  "date": "2026-11-12",
+  "updated": "2026-11-11T23:45:38.357Z",
+  "qid": "Q35",
+  "name": "Denmark",
+  "status": "UN member state",
+  "officialName": "Denmark",
+  "flag": {
+    "svg": "https://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Denmark.svg",
+    "alt": "Flag of Denmark"
+  },
+  "facts": {
+    "Capital": "Copenhagen",
+    "Continent": "Europe",
+    "Population": "5,822,863",
+    "Area": "42,925 km²",
+    "Languages": "Danish",
+    "Currency": "Danish krone",
+    "Time zones": "UTC+01:00",
+    "Calling code": "+45"
+  },
+  "map": "https://www.openstreetmap.org/?mlat=56.0&mlon=10.0#map=5/56.0/10.0",
+  "summary": {
+    "extract": "Denmark is a Nordic country in Northern Europe. It is the metropole and most populous constituent of the Kingdom of Denmark, also known as the Danish Realm, a constitutionally unitary state that includes the autonomous territories of the Faroe Islands and Greenland in the north Atlantic Ocean. Metropolitan Denmark, also called \"continental Denmark\" or \"Denmark proper\", consists of the northern Jutland peninsula and an archipelago of 406 islands. It is the southernmost of the Scandinavian countries, lying southwest of Sweden, south of Norway, and north of Germany, with which it shares a short border. Metropolitan Denmark is situated between the North Sea to the west and the Baltic Sea to the east.",
+    "url": "https://en.wikipedia.org/wiki/Denmark"
+  },
+  "history": {
+    "title": "History of Denmark",
+    "paragraphs": [
+      "The history of Denmark as a unified kingdom began in the 8th century, but prehistoric cultures populated the area for about 12,000 years, since the end of the last ice age. Historic descriptions of the area and people from around 500 AD include writings by Jordanes and Procopius. The kingdom arose before the Christianization of the Danes c. 960 AD. The Viking kings Gorm the Old and Harald Bluetooth from that time are predecessors of today's king, Frederik X, thus the monarchy of Denmark is the oldest in Europe.",
+      "Denmark's history was shaped by its location between the North and Baltic seas and between Sweden and Germany. This location provided economic benefits and mutual struggles for control of the Baltic Sea (dominium maris baltici). For example, it had long disputes with Sweden over Skånelandene and with Germany over Schleswig (a Danish fief) and Holstein (a German fief). Eventually, Denmark lost these conflicts and ceded Skåneland to Sweden and later Schleswig-Holstein to the German Empire. After Norway seceded in 1814, Denmark retained control of the old Norwegian colonies of the Faroe Islands, Greenland and Iceland. During the 20th century, Iceland gained independence, Greenland and the Faroes became integral parts of the Kingdom of Denmark and North Schleswig reunited with Denmark in 1920 after a referendum. During World War II, Denmark was occupied by Nazi Germany, in 1940 April 9th the first sabatoge group in Denmark, the Churchill club was formed, five years later Denmark was liberated by British forces of the Allies  and soon joined the United Nations. With the emergence of the Cold War, Denmark was a founding member of the military alliance NATO in 1949."
+    ],
+    "url": "https://en.wikipedia.org/wiki/History_of_Denmark"
+  },
+  "news": {
+    "local": {
+      "label": "No recent headlines found",
+      "items": []
+    },
+    "international": {
+      "label": "Last 24 hours",
+      "items": [
+        {
+          "title": "Bone broth, sweets ban and acupuncture: Harry Kane road to record England cap",
+          "url": "https://www.aol.co.uk/articles/bone-broth-sweets-ban-acupuncture-060032000.html",
+          "source": "aol.co.uk",
+          "date": "20261111T063000Z",
+          "lang": "English"
+        },
+        {
+          "title": "As Greenland climate changes, a new project preserves memories of a fading past | World",
+          "url": "http://www.cecildaily.com/ap/world/as-greenland-s-climate-changes-a-new-project-preserves-memories-of-a-fading-past/article_87988c2b-8b66-57eb-a3d5-c6e7e312e37b.html",
+          "source": "cecildaily.com",
+          "date": "20261111T063000Z",
+          "lang": "English"
+        },
+        {
+          "title": "Foreign carriers upgrade services as competition heats up in Indian skies",
+          "url": "https://www.thehindubusinessline.com/economy/logistics/foreign-carriers-upgrade-services-as-competition-heats-up-in-indian-skies/article71688404.ece",
+          "source": "thehindubusinessline.com",
+          "date": "20261111T063000Z",
+          "lang": "English"
+        },
+        {
+          "title": "East Lancashire apprentice named among world best",
+          "url": "https://www.lancashiretelegraph.co.uk/news/26714536.east-lancashire-apprentice-named-among-worlds-best/",
+          "source": "lancashiretelegraph.co.uk",
+          "date": "20261111T053000Z",
+          "lang": "English"
+        },
+        {
+          "title": "As Greenland climate changes, a new project preserves memories of a fading past – Winnipeg Free Press",
+          "url": "https://www.winnipegfreepress.com/arts-and-life/life/greenpage/2026/11/11/as-greenlands-climate-changes-a-new-project-preserves-memories-of-a-fading-past",
+          "source": "winnipegfreepress.com",
+          "date": "20261111T053000Z",
+          "lang": "English"
+        },
+        {
+          "title": "CoreWeave ( CRWV ) Q3 2026 Earnings Call Transcript",
+          "url": "https://www.aol.com/articles/coreweave-crwv-q3-2026-earnings-031911000.html",
+          "source": "aol.com",
+          "date": "20261111T040000Z",
+          "lang": "English"
+        },
+        {
+          "title": "Ukraine and Russia discuss possible large - scale POW exchange - Zelenskyy",
+          "url": "https://www.trend.az/world/4244996.html",
+          "source": "trend.az",
+          "date": "20261111T030000Z",
+          "lang": "English"
+        },
+        {
+          "title": "Inside Cell Biotech 100 - quadrillion - a - day probiotics operation",
+          "url": "https://www.koreaherald.com/article/10933586",
+          "source": "koreaherald.com",
+          "date": "20261111T030000Z",
+          "lang": "English"
+        }
+      ]
+    }
+  }
+}
