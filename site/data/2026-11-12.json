@@ -1,6 +1,6 @@
 {
   "date": "2026-11-12",
-  "updated": "2026-11-11T23:45:38.357Z",
+  "updated": "2026-11-12T01:21:15.234Z",
   "qid": "Q35",
   "name": "Denmark",
   "status": "UN member state",
@@ -34,12 +34,97 @@
   },
   "news": {
     "local": {
-      "label": "No recent headlines found",
-      "items": []
+      "label": "Last 24 hours",
+      "items": [
+        {
+          "title": "Medier bringer bombe: Jensen Huang i ny storm – meldinger om endnu en affære",
+          "url": "https://www.bt.dk/virksomheder/medier-bringer-bombe-jensen-huang-i-ny-storm--meldinger-om-endnu-en-affaere",
+          "source": "bt.dk",
+          "date": "20261112T003000Z",
+          "lang": "Danish"
+        },
+        {
+          "title": "Flere meldes dræbt i israelsk angreb på hospital i Gaza",
+          "url": "https://www.bt.dk/udland/flere-meldes-draebt-i-israelsk-angreb-paa-hospital-i-gaza",
+          "source": "bt.dk",
+          "date": "20261112T003000Z",
+          "lang": "Danish"
+        },
+        {
+          "title": "Stort nedbrud: Dansk ø uden strøm",
+          "url": "https://ekstrabladet.dk/nyheder/samfund/stort-nedbrud-dansk-oe-uden-stroem/11351570",
+          "source": "ekstrabladet.dk",
+          "date": "20261112T003000Z",
+          "lang": "Danish"
+        },
+        {
+          "title": "Er det pylret eller sund fornuft? Spørgsmål fra far deler vandene blandt forældre",
+          "url": "https://www.dr.dk/det-bedste-fra-dr/er-det-pylret-eller-sund-fornuft-spoergsmaal-fra-far-deler-vandene-blandt-foraeldre",
+          "source": "dr.dk",
+          "date": "20261111T063000Z",
+          "lang": "Danish"
+        },
+        {
+          "title": "Onsdagen begynder med dryp og kan ende med sol",
+          "url": "https://www.tv2bornholm.dk/bornholm/onsdagen-begynder-med-dryp-og-kan-ende-med-sol-b73c2",
+          "source": "tv2bornholm.dk",
+          "date": "20261111T063000Z",
+          "lang": "Danish"
+        },
+        {
+          "title": "Bjørne er aflivet efter dødeligt angreb på mor og datter i C",
+          "url": "https://politiken.dk/internationalt/art11054827/Bj%C3%B8rne-er-aflivet-efter-d%C3%B8deligt-angreb-p%C3%A5-mor-og-datter-i-Canada",
+          "source": "politiken.dk",
+          "date": "20261111T063000Z",
+          "lang": "Danish"
+        },
+        {
+          "title": "Trump tager første stik i stort søgsmål mod BBC",
+          "url": "https://politiken.dk/kultur/medier/art11054832/Trump-tager-f%C3%B8rste-stik-i-stort-s%C3%B8gsm%C3%A5l-mod-BBC",
+          "source": "politiken.dk",
+          "date": "20261111T063000Z",
+          "lang": "Danish"
+        },
+        {
+          "title": "Politiet nødsaget til at bede borgere om hjælp:  Vi kan jo ikke være hverken øjne eller ører over hele kredsen",
+          "url": "https://www.dr.dk/nyheder/indland/politiet-noedsaget-til-bede-borgere-om-hjaelp-vi-kan-jo-ikke-vaere-hverken-oejne-eller-oerer-over",
+          "source": "dr.dk",
+          "date": "20261111T063000Z",
+          "lang": "Danish"
+        }
+      ]
     },
     "international": {
       "label": "Last 24 hours",
       "items": [
+        {
+          "title": "Hilary Knight hat trick powers united states women to win over Czechia at world championship",
+          "url": "https://www.channel3000.com/news/top-stories/hilary-knights-hat-trick-powers-usa-women-to-win-over-czechia-at-world-championship/article_1ad19486-d7e6-4761-ac00-d737aff0cb65.html",
+          "source": "channel3000.com",
+          "date": "20261112T003000Z",
+          "lang": "English"
+        },
+        {
+          "title": "Elvstrøm Sails Australia & New Zealand Brings the Game - Changing Blue Water Runner to Aussie & Kiwis",
+          "url": "https://www.sail-world.com/news/301493/Elvstr%C3%B8m-Sails-Game-Changing-Blue-Water-Runner",
+          "source": "sail-world.com",
+          "date": "20261112T003000Z",
+          "lang": "English"
+        },
+        {
+          "title": "EU to Blacklist 145 Russia - Linked Targets, Including 50 Banks, in New Round of Sanctions",
+          "url": "https://www.kyivpost.com/post/89847",
+          "source": "kyivpost.com",
+          "date": "20261112T003000Z",
+          "lang": "English"
+        },
+        {
+          "title": "Royalty at Moana Blue Pacific Pavilion, Queen Mary listens to Pacific leadership at COP31",
+          "url": "https://pina.com.fj/2026/11/12/royalty-at-moana-blue-pacific-pavilion-queen-mary-listens-to-pacific-leadership-at-cop31/",
+          "source": "pina.com.fj",
+          "date": "20261112T003000Z",
+          "lang": "English"
+        },
         {
           "title": "Bone broth, sweets ban and acupuncture: Harry Kane road to record England cap",
           "url": "https://www.aol.co.uk/articles/bone-broth-sweets-ban-acupuncture-060032000.html",
@@ -66,34 +151,6 @@
           "url": "https://www.lancashiretelegraph.co.uk/news/26714536.east-lancashire-apprentice-named-among-worlds-best/",
           "source": "lancashiretelegraph.co.uk",
           "date": "20261111T053000Z",
-          "lang": "English"
-        },
-        {
-          "title": "As Greenland climate changes, a new project preserves memories of a fading past – Winnipeg Free Press",
-          "url": "https://www.winnipegfreepress.com/arts-and-life/life/greenpage/2026/11/11/as-greenlands-climate-changes-a-new-project-preserves-memories-of-a-fading-past",
-          "source": "winnipegfreepress.com",
-          "date": "20261111T053000Z",
-          "lang": "English"
-        },
-        {
-          "title": "CoreWeave ( CRWV ) Q3 2026 Earnings Call Transcript",
-          "url": "https://www.aol.com/articles/coreweave-crwv-q3-2026-earnings-031911000.html",
-          "source": "aol.com",
-          "date": "20261111T040000Z",
-          "lang": "English"
-        },
-        {
-          "title": "Ukraine and Russia discuss possible large - scale POW exchange - Zelenskyy",
-          "url": "https://www.trend.az/world/4244996.html",
-          "source": "trend.az",
-          "date": "20261111T030000Z",
-          "lang": "English"
-        },
-        {
-          "title": "Inside Cell Biotech 100 - quadrillion - a - day probiotics operation",
-          "url": "https://www.koreaherald.com/article/10933586",
-          "source": "koreaherald.com",
-          "date": "20261111T030000Z",
           "lang": "English"
         }
       ]
