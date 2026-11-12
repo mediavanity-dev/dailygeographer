@@ -1,6 +1,6 @@
 {
   "date": "2026-11-12",
-  "updated": "2026-11-12T01:21:15.234Z",
+  "updated": "2026-11-12T07:27:30.479Z",
   "qid": "Q35",
   "name": "Denmark",
   "status": "UN member state",
@@ -37,59 +37,59 @@
       "label": "Last 24 hours",
       "items": [
         {
-          "title": "Medier bringer bombe: Jensen Huang i ny storm – meldinger om endnu en affære",
-          "url": "https://www.bt.dk/virksomheder/medier-bringer-bombe-jensen-huang-i-ny-storm--meldinger-om-endnu-en-affaere",
-          "source": "bt.dk",
-          "date": "20261112T003000Z",
+          "title": "Kraftig blæst tiltager i løbet af dagen: Her kan det nå helt op på stormstyrke",
+          "url": "https://www.tvsyd.dk/syd-og-soenderjylland/kraftig-blaest-tiltager-i-lobet-af-dagen-her-kan-det-na-helt-op-pa-stormstyrke-2306c",
+          "source": "tvsyd.dk",
+          "date": "20261112T070000Z",
           "lang": "Danish"
         },
         {
-          "title": "Flere meldes dræbt i israelsk angreb på hospital i Gaza",
-          "url": "https://www.bt.dk/udland/flere-meldes-draebt-i-israelsk-angreb-paa-hospital-i-gaza",
-          "source": "bt.dk",
-          "date": "20261112T003000Z",
+          "title": "600 husstande er stadig uden strøm",
+          "url": "https://www.tv2east.dk/kalundborg/600-husstande-er-stadig-uden-strom-4d36b",
+          "source": "tv2east.dk",
+          "date": "20261112T064500Z",
           "lang": "Danish"
         },
         {
-          "title": "Stort nedbrud: Dansk ø uden strøm",
-          "url": "https://ekstrabladet.dk/nyheder/samfund/stort-nedbrud-dansk-oe-uden-stroem/11351570",
+          "title": "Kirurg på Riget måtte gå midt i operation grundet manglende bemanding",
+          "url": "https://www.seoghoer.dk/nyheder/kirurg-paa-riget-maatte-gaa-midt-i-operation-grundet-manglende-bemanding",
+          "source": "seoghoer.dk",
+          "date": "20261112T064500Z",
+          "lang": "Danish"
+        },
+        {
+          "title": "Dommer afviser demokratisk søgsmål mod valgmyndighed i Alaska",
+          "url": "https://www.kristeligt-dagblad.dk/udland/dommer-afviser-demokratisk-soegsmaal-mod-valgmyndighed-i-alaska",
+          "source": "kristeligt-dagblad.dk",
+          "date": "20261112T064500Z",
+          "lang": "Danish"
+        },
+        {
+          "title": "Kirurg på Riget måtte gå midt i operation",
+          "url": "https://www.kristeligt-dagblad.dk/danmark/kirurg-paa-riget-maatte-gaa-midt-i-operation",
+          "source": "kristeligt-dagblad.dk",
+          "date": "20261112T064500Z",
+          "lang": "Danish"
+        },
+        {
+          "title": "Efter massiv kritik af  Robinson Ekspeditionen: Dét skriver deltagerne under på – Ekstra Bladet",
+          "url": "https://ekstrabladet.dk/underholdning/filmogtv/efter-massiv-kritik-af-robinson-ekspeditionen-det-skriver-deltagerne-under-paa/11336694",
           "source": "ekstrabladet.dk",
-          "date": "20261112T003000Z",
+          "date": "20261112T064500Z",
           "lang": "Danish"
         },
         {
-          "title": "Er det pylret eller sund fornuft? Spørgsmål fra far deler vandene blandt forældre",
-          "url": "https://www.dr.dk/det-bedste-fra-dr/er-det-pylret-eller-sund-fornuft-spoergsmaal-fra-far-deler-vandene-blandt-foraeldre",
-          "source": "dr.dk",
-          "date": "20261111T063000Z",
+          "title": "Ramt af lungebetændelse: Anthony Clark er død",
+          "url": "https://www.seoghoer.dk/hollywood/ramt-af-lungebetaendelse-anthony-clark-er-doed",
+          "source": "seoghoer.dk",
+          "date": "20261112T064500Z",
           "lang": "Danish"
         },
         {
-          "title": "Onsdagen begynder med dryp og kan ende med sol",
-          "url": "https://www.tv2bornholm.dk/bornholm/onsdagen-begynder-med-dryp-og-kan-ende-med-sol-b73c2",
-          "source": "tv2bornholm.dk",
-          "date": "20261111T063000Z",
-          "lang": "Danish"
-        },
-        {
-          "title": "Bjørne er aflivet efter dødeligt angreb på mor og datter i C",
-          "url": "https://politiken.dk/internationalt/art11054827/Bj%C3%B8rne-er-aflivet-efter-d%C3%B8deligt-angreb-p%C3%A5-mor-og-datter-i-Canada",
-          "source": "politiken.dk",
-          "date": "20261111T063000Z",
-          "lang": "Danish"
-        },
-        {
-          "title": "Trump tager første stik i stort søgsmål mod BBC",
-          "url": "https://politiken.dk/kultur/medier/art11054832/Trump-tager-f%C3%B8rste-stik-i-stort-s%C3%B8gsm%C3%A5l-mod-BBC",
-          "source": "politiken.dk",
-          "date": "20261111T063000Z",
-          "lang": "Danish"
-        },
-        {
-          "title": "Politiet nødsaget til at bede borgere om hjælp:  Vi kan jo ikke være hverken øjne eller ører over hele kredsen",
-          "url": "https://www.dr.dk/nyheder/indland/politiet-noedsaget-til-bede-borgere-om-hjaelp-vi-kan-jo-ikke-vaere-hverken-oejne-eller-oerer-over",
-          "source": "dr.dk",
-          "date": "20261111T063000Z",
+          "title": "Uheld på motorvej: Køen er flere kilometer lang",
+          "url": "https://www.bt.dk/trafik/uheld-paa-motorvej-koeen-er-flere-kilometer-lang",
+          "source": "bt.dk",
+          "date": "20261112T064500Z",
           "lang": "Danish"
         }
       ]
