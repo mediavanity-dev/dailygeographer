@@ -1,6 +1,6 @@
 {
   "date": "2026-11-13",
-  "updated": "2026-11-13T07:23:27.743Z",
+  "updated": "2026-11-13T13:17:08.649Z",
   "qid": "Q20",
   "name": "Norway",
   "status": "UN member state",
@@ -14,7 +14,7 @@
     "Continent": "Europe",
     "Population": "5,627,400",
     "Area": "385,207 km²",
-    "Languages": "Norwegian, Nynorsk, Bokmål, Sámi",
+    "Languages": "Norwegian, Nynorsk, Sámi, Bokmål",
     "Currency": "Norwegian krone",
     "Time zones": "UTC+01:00",
     "Calling code": "+47"
@@ -163,59 +163,59 @@
       "label": "Top stories, NO:no edition",
       "items": [
         {
-          "title": "Fullt kaos i togtrafikken på Oslo S",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE54dTBrRlNNQ3ZiWXd3eUJGb2xUMld2dUZOYTZzRXVIazZoVHdoM3BoUExfTDBYaHYxa2F3TnRpR1lOX0tNUnk0TExyZER2eXFlbFZzOF9KSzkyTG1OVWtudHMyNU9rOVRUbXdfYndWRmxNUXN2OEFiWS1hMA?oc=5",
-          "source": "vg.no",
-          "date": "2026-11-13T06:40:09.000Z",
-          "lang": "Norwegian"
-        },
-        {
-          "title": "Akershus med nytt forbud mot ansiktsdekkende plagg",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPSnYyVF9RS3JHUVQzZ1JpNDBqdmI3SExQX0tkUFZ0cW1ndjVDMWRKLVJYQmZBcW8xV2F2RTJQWlRKWWhZS2pCTkQ3QV9XZkJJMWlyZjBWWFlFMlZCd0c3SXFHd2N1TW5MbmhaWnNFVTl2Q0IyNk5mSDczWGZ4NlJRd1lkblhRWlBLeHhCSVNiQmJfUQ?oc=5",
-          "source": "nettavisen.no",
-          "date": "2026-11-13T06:02:08.000Z",
-          "lang": "Norwegian"
-        },
-        {
-          "title": "Ordfører: Over 100 droner skutt ned over Moskva",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNWjBtdWRWQ3p2LV9haUI0VDFDSC1rYlNVMjNlZGVPd2VTODJVRTlDSE00aVdMaENmMWdmWmZodFJUblJFZW43Wnp6M21mMGZxY2g0SXFNbWJGaXRHc2hWVFVCQWFFVHExX2JGQmtjblY0RThRZjJVcW9lb18yd193bXdicWdFemRKOTFVdXFJNUdqZw?oc=5",
-          "source": "abcnyheter.no",
-          "date": "2026-11-13T02:26:32.000Z",
-          "lang": "Norwegian"
-        },
-        {
-          "title": "Zelenskyj advarer Europa: – Må være våkne",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPUzFYclNlcHN4Z3pTOEEtX2hYRjMtWGRiQ0thMUxUTXgzQXNNTUJPX3lIZzV3OUxCaXo1cTRIU01fY1ZQeEdZaTBMZkFKQTZWaVp4amZlTXJTVGhOY3I3bkNEaHVyUW9LSG1hVUZQcjVrUi04RGZKQXBNbjJjUHhxMEZWZS12blBqaF9YOQ?oc=5",
+          "title": "Microsoft-problemene: Alle stortingsrepresentantene uten tilgang til e-post",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQU1NCaXpKM2xkQWdPaUN0d000SkE4emd2ekxpZi1RQzV3eGlXQnY5Y3Z3d2RCbHRIcHljQ0hxR24zeDY4Z0RPREdvOVd3ZE1PdmR3eno2TDI1dmdLS2pQVEFuYWRWYnpvaGdjcEc4MlpsVmRIZ1pxdi00ZEpFWkwxeVNtQW1FZ3RGalRLaEtyY1I3OURfUXd4eDl4Vk5ud0VrREtEQWE0V29KVnktMmNxcEVmejU?oc=5",
           "source": "aftenposten.no",
-          "date": "2026-11-12T17:48:44.000Z",
+          "date": "2026-11-13T09:38:11.000Z",
           "lang": "Norwegian"
         },
         {
-          "title": "Nye vinterdekk – samme snøkaos",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPUXpqcS1jVWdzTG4yOWkySWw3RGllLTRaOWdqOWdUZWFjMzkyRXNLcWpNRm5Ua2tVYWRadmU2enhMV3hJeEdJRXA0Qjd5RmdGbXpXZVVWQnE2bTY1eWhGaDdpeHRpMTNXOURLSUR4M0lVZm1WQ3M1dS1LVkdpUDRXTF9YSTg3ZFRVd0w2OXhnVW1wSDlKNFRjei1rUQ?oc=5",
-          "source": "vg.no",
-          "date": "2026-11-13T06:15:32.000Z",
+          "title": "Forsvaret undersøkte rusbruk: – Grunnløse rykter",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQRHd0Z0NDbWdBMmE4akRDSlMyYTNyclZFSGV2VDVwMnVDRDY5SHRwUXR2OWNZdjhPT0M0VkRJaTdmX3daYV94MTdDRjdoWmxTcWNsVl80U2cxNUJwLUM2SWFHYTVjUi1JaGoxOGpLYmhwQlllTEVYN1Izc0MtMmRyVmUyRlJtb2IyQTkxYXBIU3lZYW9EY0R1OUFTcHRPd05JRDdUdjlmcXpKeEZmWUdyOHMyeEExYXQ5LTZKbjcteDQtRk1JMlZodjVJWkZMV3hFSURv?oc=5",
+          "source": "aftenposten.no",
+          "date": "2026-11-13T09:00:02.000Z",
           "lang": "Norwegian"
         },
         {
-          "title": "Jomfruturen, Isak Dreyer | Reagerer etter NRKs jomfru-grep: – Gi NRK mindre penger",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOMkdLaTBKTHBsTThfMXpHYzJkZjBJb0JHczJrc3g3R2xXY1ZKOVJhX1Y3eHpkeU5FMTExS1JLMHVCRk4td3ZtbGpLa0hTMm5kMkJDellFQnhNVFZoOU9IYnVncDdwR2NvVE0wRkVJclhRYndObm1EOG5vTVNvSjhlSl9xcDBuRnJvSE84QVpLWGs4ckdhTk9iY3BKTF9oeG05TnhF?oc=5",
-          "source": "nettavisen.no",
-          "date": "2026-11-13T06:26:34.000Z",
-          "lang": "Norwegian"
-        },
-        {
-          "title": "Høgre med 25 milliardar i skattekutt: – Ny retning for landet",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNR2pkNXotUEFJcmZ4ZFRtMmNxME9LQ01KV25DTzd4U3hLMHRZUEY2S2ZuZDRTclg2SHJmNHgtM0V2ZDExTDEzM2xPR3FQSmZZcDYzYkllOFJyRldrYnJISm1GdjNPazJ2cXdwWHJSMnJtbDQtc0hQbUd1V0N0VXhFMzc1OGZMRVZRQlo1NmVZQVdmVVVpcG5YUXBB?oc=5",
+          "title": "Miljøorganisasjonene vant fram i klimasøksmål i Høyesterett",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxObVVhOVpvcWNBeHpESTgwbnpiVHgxVHp2RFJmLVVPNE43djVmb1RwT1ZkWDI1M2VPUVNfUGxqc1dMeDhUSVcyOGhUbF9tdFZBbGJwVENZWkdQSmRHOVZzSjMxQnNvQjlBRU5jeFBsazFKZHhKR05rNDBiV2h6UG9zcHJ2eUxsdjVKSzdVLW1mYWRyQkt6dWJMUVZEZw?oc=5",
           "source": "nrk.no",
-          "date": "2026-11-13T06:10:05.000Z",
+          "date": "2026-11-13T12:03:10.000Z",
           "lang": "Norwegian"
         },
         {
-          "title": "Advarer mot glatte veier: - Beregn ekstra god tid",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPbUlXT1V5VDJpWkdVZ2xVc3U2R3AtVzRTYnN0TDZRc0YtVmdWejZsYUhPZmVXX0I1S0dSV0RXTjlhX0Nkc2JMbDV6U3ZLX2RoYnUwaEZIbXZDa1MzRjd4WThkbmdKWTByeF9nWXhrOWNqSUJjR21laXpkbzUxS0dnbFFCYk5IbTAzSkhvQjEzdEtxZw?oc=5",
-          "source": "dagbladet.no",
-          "date": "2026-11-13T04:49:01.000Z",
+          "title": "Økokrim har ransaket Terje Rød-Larsens luksusvilla i Hellas",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNVmV3Y05lX0hBRzN1WmVEVEpMVW55N2MwQ2pLdm1KaVBOdXhnVUlUbFBDVEhmeFotc3VuTVdrcnd4aXFIVTNrbmNFZTFhMGZMLWZqOUtZQUY3ZkdkRG0wZVhuLW9ZdHkzVHk1SUttbjlIRmx6THVoRXBRbmc3bGhJM2RmejNubUpuOUhpN1pBRQ?oc=5",
+          "source": "vg.no",
+          "date": "2026-11-13T09:58:46.000Z",
+          "lang": "Norwegian"
+        },
+        {
+          "title": "Thore «Henki» Holm Hansen er død",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5ITU83RnBGYXZ0b191NkhObjdXdzYwbHF0NlZveTA2b3lPa21xcm41NnhmcFZ4RmNxZlQtaHhadzNVeFkxUmVhWXcteUZZYnZXTXoxS2c2YmhqeER1UWJoa3QyNVhNb1MyeDJRaGpwYXJsblpw?oc=5",
+          "source": "vg.no",
+          "date": "2026-11-13T12:22:22.000Z",
+          "lang": "Norwegian"
+        },
+        {
+          "title": "Mer sprell og sexy stunts, takk",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQc2VnLTFYMkhKS04yel9KSzFNY0o4TnNMTkRHTjVhU3NRTmppaWhWY1BRc1lqdmhkYklRWi1Db1BMV3FPZnFtVGN3YnMyT3F3ZDNFaHRxM01wQlhWZXFfOUtHZFhNYUlpblhIcjBYcHJRSUhWMlNoUW9yTGpITVhUdQ?oc=5",
+          "source": "dagsavisen.no",
+          "date": "2026-11-13T05:00:00.000Z",
+          "lang": "Norwegian"
+        },
+        {
+          "title": "Advarer mot å dele ut post kun én dag i uka",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOSnVSQnAtckJaZjVtRDNlZV85YWg2LVpOV0Q5SGFSOEQ1a01NbnhVZ3hnOUk1M2pzWWcxZXQtWEV2bnVTU1VaaElsRXY2OW9PNGk5MVplX0F2UUZoZF9OR1VVSVRtTXdqenlRSVJHRFBiaFE1YzA4SHA4OGxQU0poemJwRU1CWGxXSmpIcEpzYkxVcVkza1lXQXFVUQ?oc=5",
+          "source": "fvn.no",
+          "date": "2026-11-13T05:30:01.000Z",
+          "lang": "Norwegian"
+        },
+        {
+          "title": "Snøen skapte flykaos – fikk nytt fly om tre dager",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4yV29jYkVfTEo5VU9zdUpoTFY5Nng1RURrbE01dDRtYzhIaUx4VThaaktncV80RlFsVDlydXM3d1g4Si1VSVExMlYybG1jX3MxZXM5ZGhjckhSWWUxdS1ad1B4SWt0cG9MeUEybzN5OEpvalh2bjFRYml3WQ?oc=5",
+          "source": "ht.no",
+          "date": "2026-11-13T08:16:33.000Z",
           "lang": "Norwegian"
         }
       ]
