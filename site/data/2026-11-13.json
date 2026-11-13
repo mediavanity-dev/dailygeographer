@@ -1,6 +1,6 @@
 {
   "date": "2026-11-13",
-  "updated": "2026-11-13T01:19:59.643Z",
+  "updated": "2026-11-13T07:23:27.743Z",
   "qid": "Q20",
   "name": "Norway",
   "status": "UN member state",
@@ -38,7 +38,7 @@
   },
   "news": {
     "local": {
-      "label": "Last 24 hours",
+      "label": "Last 7 days",
       "items": [
         {
           "title": "Sandvika, Oslo S | Nok en gang jordfeil - togene ble stående",
@@ -99,66 +99,123 @@
       ]
     },
     "international": {
-      "label": "No recent headlines found",
-      "items": []
+      "label": "Last 7 days",
+      "items": [
+        {
+          "title": "Nordic Defence Cooperation countries agree to draft common agreement",
+          "url": "http://thepeninsulaqatar.com/article/13/11/2026/nordic-defence-cooperation-countries-agree-to-draft-common-agreement",
+          "source": "thepeninsulaqatar.com",
+          "date": "20261113T004500Z",
+          "lang": "English"
+        },
+        {
+          "title": "Norwegian Journo Says MHA Cancelled Visa Hours Before Hyderabad Summit",
+          "url": "https://www.deccanchronicle.com/nation/politics/helle-lyng-claims-indian-visa-to-attend-congress-bharat-summit-in-hyderabad-cancelled-at-last-minute-2003709",
+          "source": "deccanchronicle.com",
+          "date": "20261112T070000Z",
+          "lang": "English"
+        },
+        {
+          "title": "Cumbria mum calls for newborn MLD screening after tragic loss",
+          "url": "https://www.nwemail.co.uk/news/26720504.cumbria-mum-calls-newborn-mld-screening-tragic-loss/",
+          "source": "nwemail.co.uk",
+          "date": "20261112T064500Z",
+          "lang": "English"
+        },
+        {
+          "title": "Norway to buy carbon offsets from Indonesian power projects, Indonesia says",
+          "url": "https://hot96.com/2026/11/11/norway-to-buy-carbon-offsets-from-indonesian-power-projects-indonesia-says/",
+          "source": "hot96.com",
+          "date": "20261112T064500Z",
+          "lang": "English"
+        },
+        {
+          "title": "All Whites v India live updates: International friendly",
+          "url": "https://www.nzherald.co.nz/sport/football/all-whites/all-whites-v-india-live-updates-international-friendly/BMVNFIBUZRBR7CI7ZMVY5ZCVKU/",
+          "source": "nzherald.co.nz",
+          "date": "20261112T064500Z",
+          "lang": "English"
+        },
+        {
+          "title": "NFF warns Albanese Government over global COP31 methane push | Stock & Land",
+          "url": "https://www.stockandland.com.au/story/9389799/nff-warns-albanese-government-over-global-cop31-methane-push/",
+          "source": "stockandland.com.au",
+          "date": "20261112T053000Z",
+          "lang": "English"
+        },
+        {
+          "title": "Can Trump Weakness Be Europe Opportunity for Peace? - The American Conservative",
+          "url": "https://www.theamericanconservative.com/can-trumps-weakness-be-europes-opportunity-for-peace/",
+          "source": "theamericanconservative.com",
+          "date": "20261112T053000Z",
+          "lang": "English"
+        },
+        {
+          "title": "NFF warns Albanese Government over global COP31 methane push | Stock Journal",
+          "url": "https://www.stockjournal.com.au/story/9389799/nff-warns-albanese-government-over-global-cop31-methane-push/",
+          "source": "stockjournal.com.au",
+          "date": "20261112T053000Z",
+          "lang": "English"
+        }
+      ]
     },
     "google": {
       "label": "Top stories, NO:no edition",
       "items": [
         {
-          "title": "Jordfeil førte til togkaos på Østlandet – trafikken gjenopptatt",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQb0xBOWg1RWREU09GWlo5dEF6OUFFMkJqVVN6VFRvTms1a2o4OEtnLXpTS0ZMeS1GMmh0RGUwQzY1NGVIbEJCQm9wOGV3TmhaYWh6WnFRSXR0LVBBRHBGS1VLY1JmNUUwOUtISGZpM0ctVmlXM3c5VkVXQ1dfc1FfV2xJNmZSU3p1Vjl5Y3NwSjVXcmU5QTJ3T1psNC1Idw?oc=5",
+          "title": "Fullt kaos i togtrafikken på Oslo S",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE54dTBrRlNNQ3ZiWXd3eUJGb2xUMld2dUZOYTZzRXVIazZoVHdoM3BoUExfTDBYaHYxa2F3TnRpR1lOX0tNUnk0TExyZER2eXFlbFZzOF9KSzkyTG1OVWtudHMyNU9rOVRUbXdfYndWRmxNUXN2OEFiWS1hMA?oc=5",
           "source": "vg.no",
-          "date": "2026-11-12T22:26:26.000Z",
+          "date": "2026-11-13T06:40:09.000Z",
           "lang": "Norwegian"
         },
         {
-          "title": "Senatoren ba folk velge et annet protein. I stedet valgte de en annen senator.",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOWml0YWJTVHpuUDlIT2x5T3l5emY5bDBCdzlLN1ZsckdjSldfQ3JDTEZCMTVnazhHdW51V2lUbG03UVdmVlAwdXV3emU5dGNoakM1NE9Dc0phQTVMR05HT3VXY0pRTmxaWVppcHltTHJPVmNVYXgxY2RkVERzQVFLUXhfTG9VMUwzUUdNVk5BSnBCMTlxYWFNT21tQTZLN1FpNF96SUFRNHZ4X1p6YW5oYTZfVG5Dd0V1ZlhGT3Y5MUZvRHRkZV83M1R6VnMzdjU2em93?oc=5",
+          "title": "Akershus med nytt forbud mot ansiktsdekkende plagg",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPSnYyVF9RS3JHUVQzZ1JpNDBqdmI3SExQX0tkUFZ0cW1ndjVDMWRKLVJYQmZBcW8xV2F2RTJQWlRKWWhZS2pCTkQ3QV9XZkJJMWlyZjBWWFlFMlZCd0c3SXFHd2N1TW5MbmhaWnNFVTl2Q0IyNk5mSDczWGZ4NlJRd1lkblhRWlBLeHhCSVNiQmJfUQ?oc=5",
+          "source": "nettavisen.no",
+          "date": "2026-11-13T06:02:08.000Z",
+          "lang": "Norwegian"
+        },
+        {
+          "title": "Ordfører: Over 100 droner skutt ned over Moskva",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNWjBtdWRWQ3p2LV9haUI0VDFDSC1rYlNVMjNlZGVPd2VTODJVRTlDSE00aVdMaENmMWdmWmZodFJUblJFZW43Wnp6M21mMGZxY2g0SXFNbWJGaXRHc2hWVFVCQWFFVHExX2JGQmtjblY0RThRZjJVcW9lb18yd193bXdicWdFemRKOTFVdXFJNUdqZw?oc=5",
+          "source": "abcnyheter.no",
+          "date": "2026-11-13T02:26:32.000Z",
+          "lang": "Norwegian"
+        },
+        {
+          "title": "Zelenskyj advarer Europa: – Må være våkne",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPUzFYclNlcHN4Z3pTOEEtX2hYRjMtWGRiQ0thMUxUTXgzQXNNTUJPX3lIZzV3OUxCaXo1cTRIU01fY1ZQeEdZaTBMZkFKQTZWaVp4amZlTXJTVGhOY3I3bkNEaHVyUW9LSG1hVUZQcjVrUi04RGZKQXBNbjJjUHhxMEZWZS12blBqaF9YOQ?oc=5",
           "source": "aftenposten.no",
-          "date": "2026-11-12T21:06:54.000Z",
+          "date": "2026-11-12T17:48:44.000Z",
           "lang": "Norwegian"
         },
         {
-          "title": "Frykter fange har stukket av",
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB0elQ3b2Z4cGxmSFhYNzY4RzNrM1lObFVmYzliMjRmUWF1RnFvSFdJQ281ZzBwVEQ2TGRSSjBFV2JBR1YybjNKcGhrNk0zY2lmcHhsZWZEbjd6bXRFcVVCU0lHSFgxYVA4SVoxdHZ6MHFyeE5mR25kYndR?oc=5",
-          "source": "dagbladet.no",
-          "date": "2026-11-12T18:14:03.000Z",
+          "title": "Nye vinterdekk – samme snøkaos",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPUXpqcS1jVWdzTG4yOWkySWw3RGllLTRaOWdqOWdUZWFjMzkyRXNLcWpNRm5Ua2tVYWRadmU2enhMV3hJeEdJRXA0Qjd5RmdGbXpXZVVWQnE2bTY1eWhGaDdpeHRpMTNXOURLSUR4M0lVZm1WQ3M1dS1LVkdpUDRXTF9YSTg3ZFRVd0w2OXhnVW1wSDlKNFRjei1rUQ?oc=5",
+          "source": "vg.no",
+          "date": "2026-11-13T06:15:32.000Z",
           "lang": "Norwegian"
         },
         {
-          "title": "Store forsinkelser på Gardermoen",
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0xTy1iNHJkS1ZmSUY4Mzk4Uk5xYXZBZ3lKdWt6cHN5QzZiY09OZWt3Y09uWlpRWE5fU0w4OVEzMmQ2QV9GNkMtU2NqT1JVRE54SkI3NDl2c2RPNkotSDh3am42R2p0d1NQY2VRMy0zZy1pVG93R1FGa2d3?oc=5",
-          "source": "bt.no",
-          "date": "2026-11-12T17:00:40.000Z",
+          "title": "Jomfruturen, Isak Dreyer | Reagerer etter NRKs jomfru-grep: – Gi NRK mindre penger",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOMkdLaTBKTHBsTThfMXpHYzJkZjBJb0JHczJrc3g3R2xXY1ZKOVJhX1Y3eHpkeU5FMTExS1JLMHVCRk4td3ZtbGpLa0hTMm5kMkJDellFQnhNVFZoOU9IYnVncDdwR2NvVE0wRkVJclhRYndObm1EOG5vTVNvSjhlSl9xcDBuRnJvSE84QVpLWGs4ckdhTk9iY3BKTF9oeG05TnhF?oc=5",
+          "source": "nettavisen.no",
+          "date": "2026-11-13T06:26:34.000Z",
           "lang": "Norwegian"
         },
         {
-          "title": "Kushner og Witkoff i møte med Putin",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1GTWpCY251UUEwcGU3WnItNkFTN2pDREZJRkJkNlgzQmxzRVA4aTFyaTV3M1VZNTZfQ3cxN2lJeW0yYUt6SFNid24yWkNTRGE0am9Zd2d4Y0xrSVR1MzFaUE9WVUY0OWwwZDZ6OEc0dkNwaWJTM2tSX3UwMA?oc=5",
+          "title": "Høgre med 25 milliardar i skattekutt: – Ny retning for landet",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNR2pkNXotUEFJcmZ4ZFRtMmNxME9LQ01KV25DTzd4U3hLMHRZUEY2S2ZuZDRTclg2SHJmNHgtM0V2ZDExTDEzM2xPR3FQSmZZcDYzYkllOFJyRldrYnJISm1GdjNPazJ2cXdwWHJSMnJtbDQtc0hQbUd1V0N0VXhFMzc1OGZMRVZRQlo1NmVZQVdmVVVpcG5YUXBB?oc=5",
           "source": "nrk.no",
-          "date": "2026-11-12T07:23:45.000Z",
+          "date": "2026-11-13T06:10:05.000Z",
           "lang": "Norwegian"
         },
         {
-          "title": "Jenny Stray Spetalen har kuttet pris på Bygdøy-luksus",
-          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOMzJ6VExCc2JRbWhvaE15QS0tMGZwOHlZc242OVBJamZDMjhlN3dLdnlUZWdRRGloWHpxN2JKSVh0WG5DMTlzd2pUc1FUY0RqV0lmdC1wS2s3d3lBam1nYnZqY3l1OXhGU1M0UF9Fc3JTZGwzSW5JSmY1WFFMMkZSUlR4a0RUREdMVGo1dks2ODhmcExtSXJiV0RHSXdwZGc5OUNUYWI2Yy1pZ0g2b1BldWtvQkl4cjhVVmVhaG8xMDFVZ2Y3Z1d4ZXd3OHh6T1VxM2lDa2MzWnF0UQ?oc=5",
-          "source": "dn.no",
-          "date": "2026-11-11T07:22:00.000Z",
-          "lang": "Norwegian"
-        },
-        {
-          "title": "Vær, Nittedal | Meteorologen: – Kan bli en ny kaosdag",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE54VkVHbkhFcE1XeGFtSWtad0NRb21MZWdVVDFxS0dLdzBqNk1VSnA4V3BDSFgzOE9xUjJIU01fR003MG0tMVNuOXdOUndxRGFLSS1YMEVCRC1DbnA3ejVvVzFxeFlieUw1U2piVkRtUEZQaWJVX25KZHE5dDU?oc=5",
-          "source": "varingen.no",
-          "date": "2026-11-12T12:33:06.000Z",
-          "lang": "Norwegian"
-        },
-        {
-          "title": "Mann i 50-årene bekreftet død etter ulykke",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPQXNZcERUN0llZlZLQ1V3aUdYd2FkbGFLYnRKVjdyMGxUYXRndjAtRmZoT2lLZV95bU1vREJJWjloZ1Z4cXoyRnB1X3B5ZzgwN01FcGRVeHJHX3NzMnpoS1RRWWxmbHhucXNwUHFmUHhDUGd2ZmhLSFpRX044ZGJOendfR2Q?oc=5",
-          "source": "fvn.no",
-          "date": "2026-11-12T14:13:43.000Z",
+          "title": "Advarer mot glatte veier: - Beregn ekstra god tid",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPbUlXT1V5VDJpWkdVZ2xVc3U2R3AtVzRTYnN0TDZRc0YtVmdWejZsYUhPZmVXX0I1S0dSV0RXTjlhX0Nkc2JMbDV6U3ZLX2RoYnUwaEZIbXZDa1MzRjd4WThkbmdKWTByeF9nWXhrOWNqSUJjR21laXpkbzUxS0dnbFFCYk5IbTAzSkhvQjEzdEtxZw?oc=5",
+          "source": "dagbladet.no",
+          "date": "2026-11-13T04:49:01.000Z",
           "lang": "Norwegian"
         }
       ]
