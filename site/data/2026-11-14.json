@@ -1,0 +1,219 @@
+{
+  "date": "2026-11-14",
+  "updated": "2026-11-13T23:28:25.626Z",
+  "qid": "Q215",
+  "name": "Slovenia",
+  "status": "UN member state",
+  "officialName": "Slovenia",
+  "flag": {
+    "svg": "https://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Slovenia.svg",
+    "alt": "Flag of Slovenia"
+  },
+  "facts": {
+    "Capital": "Ljubljana",
+    "Continent": "Europe",
+    "Population": "2,066,880",
+    "Area": "20,271 km²",
+    "Languages": "Slovene",
+    "Currency": "euro",
+    "Time zones": "UTC+01:00",
+    "Calling code": "+386"
+  },
+  "map": "https://www.openstreetmap.org/?mlat=46.0&mlon=15.0#map=5/46.0/15.0",
+  "summary": {
+    "extract": "Slovenia, officially the Republic of Slovenia, is a country in Central Europe. It borders Italy to its west, Austria to its north, Hungary to its northeast, and Croatia to its south and southeast; its southwestern boundary consists of a 46.6-kilometre (29.0 mi) coastline on the Adriatic Sea. The country is mostly mountainous and forested, covering 20,271 square kilometres (7,827 sq mi). Its population is approximately 2.1 million people. Slovene is the official language. Slovenia has a predominantly temperate continental climate, with the exception of the Slovene Littoral and the Julian Alps. Ljubljana, the capital and largest city, is geographically situated near the centre of the country. Other urban centers include Maribor, Ptuj, Kranj, Celje, Koper, Novo Mesto, Velenje, Nova Gorica, Sežana, Murska Sobota, and Jesenice.",
+    "url": "https://en.wikipedia.org/wiki/Slovenia"
+  },
+  "history": {
+    "title": "History of Slovenia",
+    "paragraphs": [
+      "The history of Slovenia chronicles the period of the Slovenian territory from the 5th century BC to the present. In the Early Bronze Age, Proto-Illyrian tribes settled an area stretching from present-day Albania to the city of Trieste. The Slovenian territory was part of the Roman Empire, and it was devastated by the Migration Period's incursions during late Antiquity and the Early Middle Ages. The main route from the Pannonian plain to Italy ran through present-day Slovenia. Alpine Slavs, ancestors of modern-day Slovenians, settled the area in the late 6th Century AD. The Holy Roman Empire controlled the land for nearly 1,000 years. Between the mid-14th century through 1918 most of Slovenia was under Habsburg rule. In 1918, most Slovene territory became part of the Kingdom of Serbs, Croats, and Slovenes, and in 1929 the Drava Banovina was created within the Kingdom of Yugoslavia with its capital in Ljubljana, corresponding to Slovenian-majority territories within the state. The Socialist Republic of Slovenia was created in 1945 as part of federal Yugoslavia. Slovenia gained its independence from Yugoslavia in June 1991, and today it is a member of the European Union and NATO."
+    ],
+    "url": "https://en.wikipedia.org/wiki/History_of_Slovenia"
+  },
+  "news": {
+    "local": {
+      "label": "Last 7 days",
+      "items": [
+        {
+          "title": "ESS ne nasprotuje nadaljevanju postopka o demografskem skladu, o zaposlovanju tujcev brez soglasja",
+          "url": "https://www.rtvslo.si/gospodarstvo/ess-ne-nasprotuje-nadaljevanju-postopka-o-demografskem-skladu-o-zaposlovanju-tujcev-brez-soglasja/800067",
+          "source": "rtvslo.si",
+          "date": "20261113T180000Z",
+          "lang": "Slovenian"
+        },
+        {
+          "title": "V Italiji obilno deževje v več deželah povzročilo poplave in zemeljske plazove",
+          "url": "https://www.rtvslo.si/okolje/v-italiji-obilno-dezevje-v-vec-dezelah-povzrocilo-poplave-in-zemeljske-plazove/800070",
+          "source": "rtvslo.si",
+          "date": "20261113T180000Z",
+          "lang": "Slovenian"
+        },
+        {
+          "title": "Olimpija in Maribor sta preteklost, Kronaveter pa še vedno rešuje tekme",
+          "url": "https://snportal.si/slovenska-tekmovanja/olimpija-in-maribor-sta-preteklost-kronaveter-pa-se-vedno-resuje-tekme/",
+          "source": "snportal.si",
+          "date": "20261113T180000Z",
+          "lang": "Slovenian"
+        },
+        {
+          "title": "NZS sporočila odlično novico: za obračun s Švico ni več vstopnic",
+          "url": "https://snportal.si/reprezentanca/nzs-sporocila-odlicno-novico-za-obracun-s-svico-ni-vec-vstopnic/",
+          "source": "snportal.si",
+          "date": "20261113T180000Z",
+          "lang": "Slovenian"
+        },
+        {
+          "title": "Kaj ve Paul Scholes o Haalandu?  Vidim ga v dresu Reala Madrida, toda odšel bo v Barcelono  - Novica",
+          "url": "https://www.nogomania.com/Novica/Kaj-ve-Paul-Scholes-o-Haalandu-Vidim-ga-v-dresu-Reala-Madrida-toda-odsel-bo-v-Barcelono",
+          "source": "nogomania.com",
+          "date": "20261112T070000Z",
+          "lang": "Slovenian"
+        },
+        {
+          "title": "Očaran nad božičem",
+          "url": "https://www.24ur.com/spored/kanal/popkino?e=13243930",
+          "source": "24ur.com",
+          "date": "20261112T064500Z",
+          "lang": "Slovenian"
+        },
+        {
+          "title": "Najini mostovi",
+          "url": "https://www.24ur.com/spored/kanal/poptv?e=13244680",
+          "source": "24ur.com",
+          "date": "20261112T064500Z",
+          "lang": "Slovenian"
+        },
+        {
+          "title": "Soočenje kandidatov za župana občine Slovenska Bistrica: Trojica ponuja nov zagon, aktualni župan stavi na izkušnje",
+          "url": "https://vecer.com/maribor/aktualno/slovenska-bistrica-kandidati-volitve-zupan-10433109",
+          "source": "vecer.com",
+          "date": "20261112T040000Z",
+          "lang": "Slovenian"
+        }
+      ]
+    },
+    "international": {
+      "label": "Last 7 days",
+      "items": [
+        {
+          "title": "Luka Lakers? That entertainment",
+          "url": "https://www.pasadenastarnews.com/2026/11/13/alexander-lukas-lakers-thats-entertainment/",
+          "source": "pasadenastarnews.com",
+          "date": "20261113T180000Z",
+          "lang": "English"
+        },
+        {
+          "title": "354 arrested in massive dark - web drug operation, DOJ says",
+          "url": "https://www.fox26houston.com/news/hundreds-arrested-dark-web-drug-operation",
+          "source": "fox26houston.com",
+          "date": "20261113T180000Z",
+          "lang": "English"
+        },
+        {
+          "title": "Indian - American astronaut Sunita Williams honoured as Grand Marshal of New York Veterans Parade",
+          "url": "https://www.mangalorean.com/indian-american-astronaut-sunita-williams-honoured-as-grand-marshal-of-new-york-veterans-parade/",
+          "source": "mangalorean.com",
+          "date": "20261112T053000Z",
+          "lang": "English"
+        },
+        {
+          "title": "The world we know is over  without urgent climate action, leaders tell COP31",
+          "url": "https://pina.com.fj/2026/11/12/the-world-we-know-is-over-without-urgent-climate-action-leaders-tell-cop31/",
+          "source": "pina.com.fj",
+          "date": "20261112T033000Z",
+          "lang": "English"
+        },
+        {
+          "title": "Eastern Europe - Casino & Gambling",
+          "url": "https://www.worldcasinodirectory.com/region/eastern-europe",
+          "source": "worldcasinodirectory.com",
+          "date": "20261112T030000Z",
+          "lang": "English"
+        },
+        {
+          "title": "Stable URLs for 42, 000 Huts and Peaks",
+          "url": "https://peter-hoffmann.com/2026/stable-urls-for-huts-and-peaks.html",
+          "source": "peter-hoffmann.com",
+          "date": "20261111T010000Z",
+          "lang": "English"
+        },
+        {
+          "title": "Nearly 7, 000 Jewish Leaders Unite at Chabad Conference Amid Heightened Antisemitism Worldwide",
+          "url": "https://www.algemeiner.com/2026/11/09/nearly-7000-jewish-leaders-unite-chabad-conference-heightened-antisemitism-worldwide/",
+          "source": "algemeiner.com",
+          "date": "20261110T013000Z",
+          "lang": "English"
+        },
+        {
+          "title": "They must listen to us, Israeli envoy to UN in Geneva tells JNS days before retiring after 40 years in Foreign Ministry | JNS",
+          "url": "https://www.clevelandjewishnews.com/jns/they-must-listen-to-us-israeli-envoy-to-un-in-geneva-tells-jns-days-before/article_ac2c1748-6850-585b-8c86-0a835d662a50.html",
+          "source": "clevelandjewishnews.com",
+          "date": "20261110T000000Z",
+          "lang": "English"
+        }
+      ]
+    },
+    "google": {
+      "label": "Top stories, SI:sl edition",
+      "items": [
+        {
+          "title": "Reka Vipava poplavila številne ceste, do Renč je mogoče priti le prek Krasa",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUDVZWDlxWUVZOXpsY28tc1loVGFxTGFmRmhxdGlTQldEZjl5QktQYnloUDJWOVZhTUpGaXR1OERfc2IxY29HcU9OdExHc0NWbUsxbHd3dnN1RkFwQ1FkNTc4Rkc2MHc0Mi1VcjRQVFplVEs4emZqS0FKUUtNdDBpOE5YbDN0RThmX0JncHNsd2hzRzJESEpDY1dyX2J5NUpTN29QbExIUVJRTlZTbUNPRGVBcHJycUk?oc=5",
+          "source": "rtvslo.si",
+          "date": "2026-11-13T15:11:28.000Z",
+          "lang": "Slovenian"
+        },
+        {
+          "title": "Evropo bodo na pogajanjih zastopali predstavniki petih držav in EU-ja",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOWGZMSzc2a0REOGFZenZWZHJjVk1idzhQRnJ0Qk1HeVFjREpPR1RnU3Fzb2w3TjA3aTVVd0R1S3hTRHppbkZKNy15X3F4c3Fhc0gzWGoyWFdFSkNReFpoSjk1dzRQYkdSNkNLUWM1NHctcXExTFpHNzA5bWJsZ3owQWxGb05TUml2cGdHc2ZkQU1YUG5WMFFVNm43eUc2cDRYMWM3cUFUbmVuc2dqY2NEaU9kOXVTNGVVTGFVNg?oc=5",
+          "source": "rtvslo.si",
+          "date": "2026-11-13T20:56:33.000Z",
+          "lang": "Slovenian"
+        },
+        {
+          "title": "Microsoft: Šlo je za tehnično napako, zelo nam je žal",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZXdDVkl2Q2hsQk5TLWJ2bVd3bGRTNTZGLUdXM2xvRkhGWVVjWExUZ0V1elNoYVZlajNvdG9IX05DMWQ5djd3eU1ZUTJzdjhROHJ2YzJJM2VJSkpQUERHWmR0X2dWM3E3bFg5aktlVlhVQTVkOUd1LWVRdHdtbzVTUEdXeVJzTnc?oc=5",
+          "source": "24ur.com",
+          "date": "2026-11-13T21:01:03.000Z",
+          "lang": "Slovenian"
+        },
+        {
+          "title": "Anketarski kaos v Ljubljani: zakaj ima Repić pri enih štirikrat več podpore kot pri drugih?",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPSGFwWjVXT21DaHdHd0Q1UnRiSWlaYjFNSEZ1b3ZaUmYyMV9TNEZnZ0ZycTZYVkxuWnRUYzNheGpFR3hTMjE5bUFLaDJWdmpqbk0zODdhdDZLMks3b2hHU1NPZWt0ZXdqMWk3dXJnN3U3dmhiX0E2VFRQTW96M2JMX3ZOQ1VFSGlUV2poMW1STVlEQXdCTEEtVDNFOS1wNDR3SXNVMTU1WEJSRmZNSHl1eG44Y2xpYi04LTllWlBkRk9uSFBDUTB6SlVB?oc=5",
+          "source": "info360.si",
+          "date": "2026-11-13T12:12:46.000Z",
+          "lang": "Slovenian"
+        },
+        {
+          "title": "Evroposlanci pozvali k ukrepanju proti Sloveniji. Kaj piše v njihovem pismu?",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNHotZnU0dTcySHV4aV9DMFdBVFRES0R5ZGt2VHUweVBrZm15SU1oYnNCZ0xCZjk2UDJDWGdSbm5TTWEySXdaMDZyQ1AtWUthUFBQQzhzaExlTVJCT2hjLUhxbzdmY3pNclNIajc4YlYtUTJ5bFg1cWh1Q1FLNEdHM21uNm5hOUpIMGZwaTgyNlVRc242YkJjVDdaWE56MkIxX2FwOHhUdXMzUQ?oc=5",
+          "source": "delo.si",
+          "date": "2026-11-13T08:43:00.000Z",
+          "lang": "Slovenian"
+        },
+        {
+          "title": "Plačujejo visoke najemnine, do lastnega stanovanja ne morejo. Vlada predlaga dva ukrepa",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPS0drLXJVWDZjMWVaV0pFMzBGbHR3VzJEU3JRR05EWnAyN0FTenVnT2FNT05fX2lWM0F6aW56VVVvVGZ4OHk4c0haaGpCVWFLU210SmZnYzIyWkQ2VzQtcFFTOGNyOElnRENhVm9QVE1xYjRqUWZweVZWOENQRktCRmtYV0RiRkpBbThONWtOVGUxZm85ZWFMRHBhR0N0RW81YVFkVGg4MnNTdkxITGh0cGlYV3ZXbDQwV1FMQlF3?oc=5",
+          "source": "forbes.n1info.si",
+          "date": "2026-11-12T13:40:55.000Z",
+          "lang": "Slovenian"
+        },
+        {
+          "title": "Kabinet predsednika vlade s spleta umaknil gradivo o Snavu: šlo je za delovni osnutek",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVV9xX2p2bzZVT0Y5cWk2alRkb0RiTTM1U0xrcWdyeW5VdDdpdzdaYURHY2Z2TExPRUE2dm9OaDdZQ0RhWGRLVDkzOHNxM1lGZFJvQjBrcS05azFzd0JrZ2x4U205S2Fjdm5PZTkybW5DTGtiT1lWVEZuVlUtY0dUOWZYd1c3NUt3RmtBY2sxMEJYNDJCUks5bi1tUzFOcHlk?oc=5",
+          "source": "siol.net",
+          "date": "2026-11-13T13:59:00.000Z",
+          "lang": "Slovenian"
+        },
+        {
+          "title": "Merzev ultimat razburil del EU",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5TU2EyWU1sQkZXelFzMEs5b2dJR1Azc1YyMTlBUmE3WWhVcGZlLXdEcVFGLW83eFktd0F0dUx6eXh4VUpOd2xGZXkwMUU2RndiMGYzYUY2dXgxWU5HNVRITzR4cXpETEZCdmRQdkRsVQ?oc=5",
+          "source": "delo.si",
+          "date": "2026-11-13T19:41:42.000Z",
+          "lang": "Slovenian"
+        }
+      ]
+    }
+  }
+}

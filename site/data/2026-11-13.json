@@ -1,6 +1,6 @@
 {
   "date": "2026-11-13",
-  "updated": "2026-11-13T19:06:18.154Z",
+  "updated": "2026-11-13T23:27:42.971Z",
   "qid": "Q20",
   "name": "Norway",
   "status": "UN member state",
@@ -14,7 +14,7 @@
     "Continent": "Europe",
     "Population": "5,627,400",
     "Area": "385,207 km²",
-    "Languages": "Norwegian, Nynorsk, Bokmål, Sámi",
+    "Languages": "Nynorsk, Norwegian, Bokmål, Sámi",
     "Currency": "Norwegian krone",
     "Time zones": "UTC+01:00",
     "Calling code": "+47"
@@ -38,8 +38,36 @@
   },
   "news": {
     "local": {
-      "label": "Last 7 days",
+      "label": "Last 24 hours",
       "items": [
+        {
+          "title": "LEGO Gregor opnar eigen leikebutikk på Etne Senter",
+          "url": "https://www.grannar.no/nyhende/lego-gregor-opnar-eigen-leikebutikk-pa-etne-senter/560831",
+          "source": "grannar.no",
+          "date": "20261113T180000Z",
+          "lang": "NorwegianNynorsk"
+        },
+        {
+          "title": "Kan retinol gjøre huden yngre?",
+          "url": "https://www.bt.no/amagasinet/i/4EqzWR/hjelper-retinol-mot-rynker-og-aldring",
+          "source": "bt.no",
+          "date": "20261113T180000Z",
+          "lang": "Norwegian"
+        },
+        {
+          "title": "KDE Ships Frameworks 6 . 32 . 0 - KDE Community",
+          "url": "https://kde.org/announcements/frameworks/6/6.32.0/",
+          "source": "kde.org",
+          "date": "20261113T180000Z",
+          "lang": "English"
+        },
+        {
+          "title": "Nyheter, Øståsen skiløyper | Melder om nykjørte løyper og en halvmeter snø",
+          "url": "https://www.hadeland.no/melder-om-nykjorte-loyper-og-en-halvmeter-sno/s/80-21-32649",
+          "source": "hadeland.no",
+          "date": "20261113T180000Z",
+          "lang": "Norwegian"
+        },
         {
           "title": "Sandvika, Oslo S | Nok en gang jordfeil - togene ble stående",
           "url": "https://www.budstikka.no/nok-en-gang-jordfeil-togene-star/s/80-55-45682",
@@ -67,40 +95,40 @@
           "source": "bt.no",
           "date": "20261113T004500Z",
           "lang": "Norwegian"
-        },
-        {
-          "title": "Ulykker og hendelser, Oslo S | Godstog sporet av ved Oslo S",
-          "url": "https://www.moss-avis.no/godstog-sporet-av-ved-oslo-s/s/80-67-56150",
-          "source": "moss-avis.no",
-          "date": "20261113T004500Z",
-          "lang": "Norwegian"
-        },
-        {
-          "title": "Kuriøse KI - krumspring",
-          "url": "https://klassekampen.no/artikkel/2026-11-13/leder4",
-          "source": "klassekampen.no",
-          "date": "20261113T004500Z",
-          "lang": "Norwegian"
-        },
-        {
-          "title": "Derfor får KOM24 nei til pressestøtte – mens M24 får ja",
-          "url": "https://www.journalisten.no/derfor-far-kom24-nei-til-pressestotte-mens-m24-far-ja/688787",
-          "source": "journalisten.no",
-          "date": "20261112T070000Z",
-          "lang": "Norwegian"
-        },
-        {
-          "title": "Debatt, Bil | Staten ber oss unge jobbe, men tar pengene når vi kjører dit",
-          "url": "https://www.f-b.no/staten-ber-oss-unge-jobbe-men-tar-pengene-nar-vi-kjorer-dit/o/80-59-105365",
-          "source": "f-b.no",
-          "date": "20261112T070000Z",
-          "lang": "Norwegian"
         }
       ]
     },
     "international": {
       "label": "Last 7 days",
       "items": [
+        {
+          "title": "Man, 72, says  best purchase I made this holiday  ditches costly phone bills abroad",
+          "url": "https://www.gazettelive.co.uk/whats-on/shopping/man-72-says-best-purchase-34902042",
+          "source": "gazettelive.co.uk",
+          "date": "20261113T180000Z",
+          "lang": "English"
+        },
+        {
+          "title": "Europe pushes for a seat at Ukraine peace talks but lacks a unified voice",
+          "url": "https://www.pressdemocrat.com/2026/11/13/russia-ukraine-war-europe-envoy/",
+          "source": "pressdemocrat.com",
+          "date": "20261113T180000Z",
+          "lang": "English"
+        },
+        {
+          "title": "Microsoft reports progress restoring email, other services affected by outage",
+          "url": "https://www.pressdemocrat.com/2026/11/13/microsoft-outage-progress-outlook-teams-email/",
+          "source": "pressdemocrat.com",
+          "date": "20261113T180000Z",
+          "lang": "English"
+        },
+        {
+          "title": "European voice in Ukraine peace talks must include united kingdom, Taoiseach says",
+          "url": "https://www.sloughobserver.co.uk/news/national/26726258.european-voice-ukraine-peace-talks-must-include-uk-taoiseach-says/",
+          "source": "sloughobserver.co.uk",
+          "date": "20261113T180000Z",
+          "lang": "English"
+        },
         {
           "title": "Nordic Defence Cooperation countries agree to draft common agreement",
           "url": "http://thepeninsulaqatar.com/article/13/11/2026/nordic-defence-cooperation-countries-agree-to-draft-common-agreement",
@@ -128,34 +156,6 @@
           "source": "hot96.com",
           "date": "20261112T064500Z",
           "lang": "English"
-        },
-        {
-          "title": "All Whites v India live updates: International friendly",
-          "url": "https://www.nzherald.co.nz/sport/football/all-whites/all-whites-v-india-live-updates-international-friendly/BMVNFIBUZRBR7CI7ZMVY5ZCVKU/",
-          "source": "nzherald.co.nz",
-          "date": "20261112T064500Z",
-          "lang": "English"
-        },
-        {
-          "title": "NFF warns Albanese Government over global COP31 methane push | Stock & Land",
-          "url": "https://www.stockandland.com.au/story/9389799/nff-warns-albanese-government-over-global-cop31-methane-push/",
-          "source": "stockandland.com.au",
-          "date": "20261112T053000Z",
-          "lang": "English"
-        },
-        {
-          "title": "Can Trump Weakness Be Europe Opportunity for Peace? - The American Conservative",
-          "url": "https://www.theamericanconservative.com/can-trumps-weakness-be-europes-opportunity-for-peace/",
-          "source": "theamericanconservative.com",
-          "date": "20261112T053000Z",
-          "lang": "English"
-        },
-        {
-          "title": "NFF warns Albanese Government over global COP31 methane push | Stock Journal",
-          "url": "https://www.stockjournal.com.au/story/9389799/nff-warns-albanese-government-over-global-cop31-methane-push/",
-          "source": "stockjournal.com.au",
-          "date": "20261112T053000Z",
-          "lang": "English"
         }
       ]
     },
@@ -163,59 +163,59 @@
       "label": "Top stories, NO:no edition",
       "items": [
         {
+          "title": "Alle fly settes på bakken i USA",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOTUtmZ0NCMzNtR3puUXAwbENlZGJVQnJwSngxR1NVaWRFZlY1OEl3UkNqZ1BXSk9XR3BLVGt5VEloWGZFTGtNanFsTUZhTUR1TnllM01fQkt5a0ZEaHM5ckJaS0c4UTh3MGwwNlc2d3FOZzM0Rnc1N3dXbldCTmdQOA?oc=5",
+          "source": "aftenposten.no",
+          "date": "2026-11-13T21:00:35.000Z",
+          "lang": "Norwegian"
+        },
+        {
+          "title": "Tankskip kolliderte med elvebåt i New Orleans",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMzB5RWxGbTJqVVZsbFVLcjE1S1dhWnZxZDFjd0x4eFRQQU15eVRUUUpyM3RaS0toa3JNMXE3dWZnTS13TGZIR3pWeFh6MFNKdmFRdDB5VFFoWkRGRnVSVV9KdFRRaGFqalo1M1h1ZGNhazV1NU1hSk9hcXpMNl9xVGd1TUMyU1pj?oc=5",
+          "source": "nrk.no",
+          "date": "2026-11-13T20:36:38.000Z",
+          "lang": "Norwegian"
+        },
+        {
+          "title": "Bekreftet: Dette er Europas lag i Ukraina-forhandlingene",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdC0wcm5mZlVkS1lIWjA3bWVZTG4ydG5XZ1ZyMmdiekRjeExES3VOaXUydEhSUmI5VENQRTU4dXBzUWNjd2tmY0dpYURDQWFtdjdERXNUNmJGOHNUc1dDMHlaRTA2TlllenJaT0lfTnBCX2xPa2NBUzQyMjduSVFkSzZGR0tySUJWRVRweDVKbzYzaUhlaVVDMV9hd3F1VUJrVTZPQ0xBMVF5enh3VWlV?oc=5",
+          "source": "vg.no",
+          "date": "2026-11-13T17:10:44.000Z",
+          "lang": "Norwegian"
+        },
+        {
+          "title": "Marthe Scharning Lund trekker seg som toppkandidat i Oslo Ap",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMWtjT29uWlhoQW9vbmN1UDRrdG96d2FOdmxtSXoxN2w4U3dud1dGLWNvb2FHRU5oVzdKbndTM0N2blRPdS1NS2RtZGcyMjUwNmRkZlZIVGNTeHdiN0NnYk0wLUZHdzBfSlFGdTBjckdIUGw0b0QwQWt4b0l2dFFiLW1vTEM2LTdkaWdFeTF3cDJqSkRWemxGMWtMWnk?oc=5",
+          "source": "nrk.no",
+          "date": "2026-11-13T17:35:54.000Z",
+          "lang": "Norwegian"
+        },
+        {
+          "title": "Kongehuset, Prinsesse | Skal ha sjekket om Ingrid Alexandra hadde brukt narkotika",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPd1ZtLURleU13bTlLaEc3WWRycGxYQXctYlR1WGxNTk9ZZUNIZmR4cldMNUFsRnY1RWE2b1Fwam15N3J4S09UUGw2S0c4VnV3cnZuaDA1RENuY3F2M1JjQmh6dnFHMjFwNHFPeTdmeXUxbUFGLUhFUU1VYXZ0cTRfOEV2c1FjenRCcW4wM2RlQ2diTlJyNkE?oc=5",
+          "source": "f-b.no",
+          "date": "2026-11-13T15:13:05.000Z",
+          "lang": "Norwegian"
+        },
+        {
+          "title": "Sjefen for Royal Navy advarer om Russland: –Ville blitt sett på som forberedelser til krig",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPX20xRGR2S25zUjY3UmRkNkxULUZRUW14bzhVMGVsRUY2Rk13U1BEa1pKdVJ4eXpvX1NZR01uT196N1NqMk5qX0doNXpSTmRYYk1scjBzUGJLRUpCdm5zai11WG9aZTg0cjBnWFlnRXFMeGY4LWxHeVdjdVYzdG8td0NqWG5IS2ZjNVN6MXU1YWp3Z0ZkdHBpTnF3N2dmdWlGMXhvbzI2MmR0dEZZbllhUFNSaXA2Zm9fNlk4SWI4UGdhMmNo?oc=5",
+          "source": "aftenposten.no",
+          "date": "2026-11-13T22:10:52.000Z",
+          "lang": "Norwegian"
+        },
+        {
+          "title": "Brann, Boligbrann | Brann i fritidsbolig – ikke mistanke om personer i huset",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTjJ3V3ZtT0JYRUE0cnVOVXFkbEhJZzRlWkxSVnBTT183Wm9yOWZ2VXQ3Q0ZfaG53Z1Qyc3lZU0pxcXhEMjNmcXMxb0pWVS1adV9rbG04d3NRT0RjRHpOMXNHWkk0S1FGMkxBZXZIa0x4aW5WT1UySktZLS1rNWRFVlZDNA?oc=5",
+          "source": "nordlys.no",
+          "date": "2026-11-13T21:56:02.000Z",
+          "lang": "Norwegian"
+        },
+        {
           "title": "Microsoft: Forbedring for Outlook – nærmer seg normalen",
           "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8wa0pwVU9DeW8yVEJ5eGFvQnZrd1lBNEo2R1h1eHRlOXhZQTVZX1o5Z3BRVnkzQ05zWVdWRm1hZUdvblI3anRVYzJHMkVldjQ2S3lUZXdLcWxFZy1mRmswRFRMN0NqZkx3SFI3WUdjQWtla0Vyb1FvcERrdDlOQQ?oc=5",
           "source": "aftenbladet.no",
           "date": "2026-11-13T09:45:23.000Z",
-          "lang": "Norwegian"
-        },
-        {
-          "title": "Trekker seg som byrådslederkandidat i Oslo",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPN0ptRjlINmMxLW5uTzJJNW4xR2JjVUgxSUUtRXhCYmI4TDFFczdaS2Y0ZzYzWmtxS3dpRTFDNWptSFJuV3pOVHJoSmp3WFpQOE93Q1BNQU1aazZKZWpnSERnLUNsckE2RkxuQnJ5Mk5XYVdmQnpFSEpIUWQtWUZINUtfcw?oc=5",
-          "source": "vg.no",
-          "date": "2026-11-13T17:37:23.000Z",
-          "lang": "Norwegian"
-        },
-        {
-          "title": "Togtrafikken i gang igjen på Oslo S",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVUlhdnF1WGROQnVuNHdBRWFGTzlJTFZzX29fd1V1UEFDYm9fQ3Jxa0FHa3lnOU1meGRvZExPWnhrSFhPSkFCbkN2OHk4TTk1ZVJoZG5kTnpEbWJLQnJQTDRuZWxCaXVWZjhYME1ocXVLYmFTTHl4eHctT1NQQnBLdVVCVXRjVkZseU9pSW9USjFVNDJqV3pXQm5VYmlNWkhfUnB3LUpTZmE1bDdUNVo1MUtB?oc=5",
-          "source": "aftenposten.no",
-          "date": "2026-11-13T13:18:48.000Z",
-          "lang": "Norwegian"
-        },
-        {
-          "title": "Frykt for krigens hittil tøffeste vinter i Ukraina: – Mye større",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQRGdZblNGSHpaUGJuSDVCWUVLbW1YRUlxay11MzV6T19LS2YyR2U1UGxxME11S0NHdVBLazFwX3MtTlI1cGNxNkVZZjVsTDF1a2JZVmtBY25USTdzdjV3UGdCZU1uel9tc2RRWkNWMm9TYm5XaXZOT09JSVFnTjlqQlU5aGxXNHJFWTd2a1dVMU9aWHdnbGJPWmJpaUFIYk8zbWhGSFBiZGVqMTVfR3Fv?oc=5",
-          "source": "nettavisen.no",
-          "date": "2026-11-13T16:19:04.000Z",
-          "lang": "Norwegian"
-        },
-        {
-          "title": "Gikk i politiets felle",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9wcHA3elRGSldpTC1tVm5OakF2cFFwVjdyTHBYUmVfcHUtdGZHczFBTy12WWxGTHVHdGt6aU1iV3N2Mm80RjFFY1U2dXNjUktqNzhsQkRyQVBKSEhjZUl6aEp2bThwUVJIR05hY1Q2Ujdnay1UV2c?oc=5",
-          "source": "bt.no",
-          "date": "2026-11-13T16:05:37.000Z",
-          "lang": "Norwegian"
-        },
-        {
-          "title": "Zelenskyj advarer Europa: – Må være våkne",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPUzFYclNlcHN4Z3pTOEEtX2hYRjMtWGRiQ0thMUxUTXgzQXNNTUJPX3lIZzV3OUxCaXo1cTRIU01fY1ZQeEdZaTBMZkFKQTZWaVp4amZlTXJTVGhOY3I3bkNEaHVyUW9LSG1hVUZQcjVrUi04RGZKQXBNbjJjUHhxMEZWZS12blBqaF9YOQ?oc=5",
-          "source": "aftenposten.no",
-          "date": "2026-11-12T17:48:44.000Z",
-          "lang": "Norwegian"
-        },
-        {
-          "title": "Miljøbevegelsen med seier i Høyesterett: Oljefelt var ugyldige",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOMjZqX3FGRnF3bGQ0NWk0eUtJWS1zRXZ6N3IyLXNUR2pGdHU1cXpnN0FqSmdsZVdvYmtNdzZONmtrTW9MYWpaX3R2ZzRsaUFtTTZJX1NURVBfVzdYTk1hY0VDb2RydGNIdEtTUTdsb29PZ2Y4TDRrMFpKaGtMVzJpdVVIY3JpMFR5Und4d0JWUURfby02TkE?oc=5",
-          "source": "e24.no",
-          "date": "2026-11-13T17:12:37.000Z",
-          "lang": "Norwegian"
-        },
-        {
-          "title": "Høyre-rådgiver (24) utsatt for seksualisert hets fra ukjent mann",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOalBKOUhDQUNEX1FrRzhvQmQ2d1JvTXRybGJQcXpaaWJ6T1ppXzQ5OTVub2ZiMjRXT19WaGFfUmdNUzhDZDZOY2xOWTdXNkE2M3BLZmNKS1NOM0p2VUlucnU3QUF2UTJaY3FvQ1pheVRsM0h5Sm4xNWxBLV9sQWFXT2I5NVBFR0ZYV2pJMXFleERldmt5MDRFMWlya2tCbmZPNGs3NnBSdw?oc=5",
-          "source": "nrk.no",
-          "date": "2026-11-13T17:53:56.000Z",
           "lang": "Norwegian"
         }
       ]
