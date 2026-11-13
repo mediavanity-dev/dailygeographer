@@ -1,6 +1,6 @@
 {
   "date": "2026-11-13",
-  "updated": "2026-11-12T23:38:02.613Z",
+  "updated": "2026-11-13T01:19:59.643Z",
   "qid": "Q20",
   "name": "Norway",
   "status": "UN member state",
@@ -38,8 +38,65 @@
   },
   "news": {
     "local": {
-      "label": "No recent headlines found",
-      "items": []
+      "label": "Last 24 hours",
+      "items": [
+        {
+          "title": "Sandvika, Oslo S | Nok en gang jordfeil - togene ble stående",
+          "url": "https://www.budstikka.no/nok-en-gang-jordfeil-togene-star/s/80-55-45682",
+          "source": "budstikka.no",
+          "date": "20261113T004500Z",
+          "lang": "Norwegian"
+        },
+        {
+          "title": "Stabæk, Arbeidsliv | Her står opprykkspilsen til Stabæk klar",
+          "url": "https://www.budstikka.no/her-star-opprykkspilsen-til-stabak-klar/s/80-55-43582",
+          "source": "budstikka.no",
+          "date": "20261113T004500Z",
+          "lang": "Norwegian"
+        },
+        {
+          "title": "Næringsliv, Klepp | Næringslivsloggen: Tomt for penger i konkursbo",
+          "url": "https://www.jbl.no/naringslivsloggen-tomt-for-penger-i-konkursbo/s/80-103-45082",
+          "source": "jbl.no",
+          "date": "20261113T004500Z",
+          "lang": "Norwegian"
+        },
+        {
+          "title": "Tog sporet av ved Oslo S - sperrer flere spor",
+          "url": "https://www.bt.no/innenriks/i/QrolnR/tog-sporet-av-ved-oslo-s-sperrer-flere-spor",
+          "source": "bt.no",
+          "date": "20261113T004500Z",
+          "lang": "Norwegian"
+        },
+        {
+          "title": "Ulykker og hendelser, Oslo S | Godstog sporet av ved Oslo S",
+          "url": "https://www.moss-avis.no/godstog-sporet-av-ved-oslo-s/s/80-67-56150",
+          "source": "moss-avis.no",
+          "date": "20261113T004500Z",
+          "lang": "Norwegian"
+        },
+        {
+          "title": "Kuriøse KI - krumspring",
+          "url": "https://klassekampen.no/artikkel/2026-11-13/leder4",
+          "source": "klassekampen.no",
+          "date": "20261113T004500Z",
+          "lang": "Norwegian"
+        },
+        {
+          "title": "Derfor får KOM24 nei til pressestøtte – mens M24 får ja",
+          "url": "https://www.journalisten.no/derfor-far-kom24-nei-til-pressestotte-mens-m24-far-ja/688787",
+          "source": "journalisten.no",
+          "date": "20261112T070000Z",
+          "lang": "Norwegian"
+        },
+        {
+          "title": "Debatt, Bil | Staten ber oss unge jobbe, men tar pengene når vi kjører dit",
+          "url": "https://www.f-b.no/staten-ber-oss-unge-jobbe-men-tar-pengene-nar-vi-kjorer-dit/o/80-59-105365",
+          "source": "f-b.no",
+          "date": "20261112T070000Z",
+          "lang": "Norwegian"
+        }
+      ]
     },
     "international": {
       "label": "No recent headlines found",
@@ -49,10 +106,10 @@
       "label": "Top stories, NO:no edition",
       "items": [
         {
-          "title": "Godstog har sporet av på Oslo S - fem spor er sperret",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOQURnTzdMaDZHQ2JqbUMxNVBNZzFPU1NPSnhqZU55QnYzS1lNMVVhLVg5NUo0Y1JkN2NKckc1LXUtSnJ4SFQzV2hWc2g2NnZERERVeWVRLThiamowM0ozbzZpREZHeGF4MWlLM2t6TlA3d2VxZzIxNkplcEJmcWZkWjJ6UDJJR190bkFnbEl3Y2g?oc=5",
+          "title": "Jordfeil førte til togkaos på Østlandet – trafikken gjenopptatt",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQb0xBOWg1RWREU09GWlo5dEF6OUFFMkJqVVN6VFRvTms1a2o4OEtnLXpTS0ZMeS1GMmh0RGUwQzY1NGVIbEJCQm9wOGV3TmhaYWh6WnFRSXR0LVBBRHBGS1VLY1JmNUUwOUtISGZpM0ctVmlXM3c5VkVXQ1dfc1FfV2xJNmZSU3p1Vjl5Y3NwSjVXcmU5QTJ3T1psNC1Idw?oc=5",
           "source": "vg.no",
-          "date": "2026-11-12T22:47:39.000Z",
+          "date": "2026-11-12T22:26:26.000Z",
           "lang": "Norwegian"
         },
         {
@@ -77,17 +134,24 @@
           "lang": "Norwegian"
         },
         {
-          "title": "Nyheter, Trafikk | Lange køer: Slik ser det ut på veiene",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9kUF9sRXllTW5zRkMyUVZlNjYxWWZBMnA0dzNxLXRsZjZNYlJIMzd1dGtweXVyNG15Njc0aUdhSGNOWG5xT1c4clB5eGJYbFhPbjNzbGxDT3ltam1TR3BwSm8tTFdQT3NWY2c?oc=5",
-          "source": "rb.no",
-          "date": "2026-11-12T11:34:52.000Z",
+          "title": "Kushner og Witkoff i møte med Putin",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1GTWpCY251UUEwcGU3WnItNkFTN2pDREZJRkJkNlgzQmxzRVA4aTFyaTV3M1VZNTZfQ3cxN2lJeW0yYUt6SFNid24yWkNTRGE0am9Zd2d4Y0xrSVR1MzFaUE9WVUY0OWwwZDZ6OEc0dkNwaWJTM2tSX3UwMA?oc=5",
+          "source": "nrk.no",
+          "date": "2026-11-12T07:23:45.000Z",
           "lang": "Norwegian"
         },
         {
-          "title": "Nettavisen erfarer: Ikke flertall for Nussir-vedtak",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOX3hyZTNHS1oxOFd0bFRFVlR5ZWtZcV9VX1VDQWNJZWE5WDdIMnNudTNhSkpPMVluTUtkUmZFVWJTYk5BUkZzRk9lX1ROemVFeURoV3plMUd0QTlrc3RvdnNtU3EyNnNUOTIxNVlta0c1OVVOOHNDYkxZQUVOenhjSUp6S2VYd2hnVTNVczZ6WVNBN2hvLXRFWHBXdmtfYTJtVGwtVkdRQXY1MG9tdzJSVG5nQ1k4ZGJ5QnNkSGhGa0poRjg?oc=5",
-          "source": "nettavisen.no",
-          "date": "2026-11-12T13:43:17.000Z",
+          "title": "Jenny Stray Spetalen har kuttet pris på Bygdøy-luksus",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOMzJ6VExCc2JRbWhvaE15QS0tMGZwOHlZc242OVBJamZDMjhlN3dLdnlUZWdRRGloWHpxN2JKSVh0WG5DMTlzd2pUc1FUY0RqV0lmdC1wS2s3d3lBam1nYnZqY3l1OXhGU1M0UF9Fc3JTZGwzSW5JSmY1WFFMMkZSUlR4a0RUREdMVGo1dks2ODhmcExtSXJiV0RHSXdwZGc5OUNUYWI2Yy1pZ0g2b1BldWtvQkl4cjhVVmVhaG8xMDFVZ2Y3Z1d4ZXd3OHh6T1VxM2lDa2MzWnF0UQ?oc=5",
+          "source": "dn.no",
+          "date": "2026-11-11T07:22:00.000Z",
+          "lang": "Norwegian"
+        },
+        {
+          "title": "Vær, Nittedal | Meteorologen: – Kan bli en ny kaosdag",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE54VkVHbkhFcE1XeGFtSWtad0NRb21MZWdVVDFxS0dLdzBqNk1VSnA4V3BDSFgzOE9xUjJIU01fR003MG0tMVNuOXdOUndxRGFLSS1YMEVCRC1DbnA3ejVvVzFxeFlieUw1U2piVkRtUEZQaWJVX25KZHE5dDU?oc=5",
+          "source": "varingen.no",
+          "date": "2026-11-12T12:33:06.000Z",
           "lang": "Norwegian"
         },
         {
@@ -95,13 +159,6 @@
           "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPQXNZcERUN0llZlZLQ1V3aUdYd2FkbGFLYnRKVjdyMGxUYXRndjAtRmZoT2lLZV95bU1vREJJWjloZ1Z4cXoyRnB1X3B5ZzgwN01FcGRVeHJHX3NzMnpoS1RRWWxmbHhucXNwUHFmUHhDUGd2ZmhLSFpRX044ZGJOendfR2Q?oc=5",
           "source": "fvn.no",
           "date": "2026-11-12T14:13:43.000Z",
-          "lang": "Norwegian"
-        },
-        {
-          "title": "Egypt set norsk moské på terrorliste",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5zREhuM2g2bnJZWDFzSzU4YU1uZHd5NGVpS0ZoeWwxdnpDaUo3WFhkdE5MYjlTOFBVU3hkb2RXZGF5TUdpTlRFRzE4dzBoT3RfRDFSRlRsYU5tSU1VR0ZvV3IzUUpIZWxyb1hFRTdzV1BKSGVGZnIycG1fSjM?oc=5",
-          "source": "nrk.no",
-          "date": "2026-11-12T15:03:32.000Z",
           "lang": "Norwegian"
         }
       ]
