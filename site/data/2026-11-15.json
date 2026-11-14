@@ -1,0 +1,33 @@
+{
+  "date": "2026-11-15",
+  "updated": "2026-11-14T23:31:14.740Z",
+  "qid": "Q27561",
+  "name": "Caribbean Netherlands",
+  "status": "Special municipalities of the Netherlands",
+  "officialName": "Caribbean Netherlands",
+  "flag": {
+    "alt": "Flag of Caribbean Netherlands"
+  },
+  "facts": {
+    "Continent": "North America",
+    "Population": "29,418",
+    "Area": "322 km²",
+    "Languages": "English, Dutch, Papiamento",
+    "Currency": "United States dollar",
+    "Time zones": "Atlantic Time Zone, America/Curacao",
+    "Calling code": "+599"
+  },
+  "map": "https://www.openstreetmap.org/?mlat=12.183333333&mlon=-68.233333333#map=5/12.183333333/-68.233333333",
+  "summary": {
+    "extract": "The Caribbean Netherlands is a geographic region of the Netherlands located outside Europe, in the Caribbean, consisting of three special municipalities. These are the islands of Bonaire, Sint Eustatius, and Saba, as they are also known in legislation, or the BES islands for short. The islands are officially classified as public bodies in the Netherlands and as overseas territories of the European Union; as such, European Union law does not automatically apply to them.",
+    "url": "https://en.wikipedia.org/wiki/Caribbean_Netherlands"
+  },
+  "history": null,
+  "news": {
+    "local": null,
+    "international": {
+      "label": "No recent headlines found",
+      "items": []
+    }
+  }
+}

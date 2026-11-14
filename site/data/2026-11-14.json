@@ -1,6 +1,6 @@
 {
   "date": "2026-11-14",
-  "updated": "2026-11-14T18:53:33.932Z",
+  "updated": "2026-11-14T23:28:28.058Z",
   "qid": "Q215",
   "name": "Slovenia",
   "status": "UN member state",
@@ -36,6 +36,27 @@
       "label": "Last 7 days",
       "items": [
         {
+          "title": "Stelvio odpira novo in obenem staro smer za kolesarje",
+          "url": "https://www.bicikel.com/novica/stelvio-odpira-novo-in-obenem-staro-smer-za-kolesarje-25529",
+          "source": "bicikel.com",
+          "date": "20261114T210000Z",
+          "lang": "Slovenian"
+        },
+        {
+          "title": "Drama na Celjskem: avtobus brez voznika zapeljal čez križišče in podrl ograjo",
+          "url": "https://siol.net/novice/slovenija/drama-na-celjskem-avtobus-brez-voznika-zapeljal-cez-krizisce-in-podrl-ograjo-706316",
+          "source": "siol.net",
+          "date": "20261114T200000Z",
+          "lang": "Slovenian"
+        },
+        {
+          "title": "ZDA svarijo pred nadaljevanjem odpovedi in zamud letal",
+          "url": "https://siol.net/novice/svet/zda-svarijo-pred-nadaljevanjem-odpovedi-in-zamud-letal-706307",
+          "source": "siol.net",
+          "date": "20261114T200000Z",
+          "lang": "Slovenian"
+        },
+        {
           "title": "ESS ne nasprotuje nadaljevanju postopka o demografskem skladu, o zaposlovanju tujcev brez soglasja",
           "url": "https://www.rtvslo.si/gospodarstvo/ess-ne-nasprotuje-nadaljevanju-postopka-o-demografskem-skladu-o-zaposlovanju-tujcev-brez-soglasja/800067",
           "source": "rtvslo.si",
@@ -68,27 +89,6 @@
           "url": "https://www.nogomania.com/Novica/Kaj-ve-Paul-Scholes-o-Haalandu-Vidim-ga-v-dresu-Reala-Madrida-toda-odsel-bo-v-Barcelono",
           "source": "nogomania.com",
           "date": "20261112T070000Z",
-          "lang": "Slovenian"
-        },
-        {
-          "title": "Očaran nad božičem",
-          "url": "https://www.24ur.com/spored/kanal/popkino?e=13243930",
-          "source": "24ur.com",
-          "date": "20261112T064500Z",
-          "lang": "Slovenian"
-        },
-        {
-          "title": "Najini mostovi",
-          "url": "https://www.24ur.com/spored/kanal/poptv?e=13244680",
-          "source": "24ur.com",
-          "date": "20261112T064500Z",
-          "lang": "Slovenian"
-        },
-        {
-          "title": "Soočenje kandidatov za župana občine Slovenska Bistrica: Trojica ponuja nov zagon, aktualni župan stavi na izkušnje",
-          "url": "https://vecer.com/maribor/aktualno/slovenska-bistrica-kandidati-volitve-zupan-10433109",
-          "source": "vecer.com",
-          "date": "20261112T040000Z",
           "lang": "Slovenian"
         }
       ]
@@ -158,31 +158,24 @@
       "label": "Top stories, SI:sl edition",
       "items": [
         {
-          "title": "Dokument: Putin zahteva umik Nata iz vzhodne Evrope in nevtralno Ukrajino",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPMHF1SXk5ZGEzaGZVVzJGWV9WV2E5dnJOZ3JxdldhejNQTWJLanhZR1ZkLUp4YmpnRDRCcGM2Wk43Y09KQ1FPOUFBRGp1b29ydGR6b0t4WjE5Q28tSTJfeEVjdklHLTgydHp3X0JTMHQ3dVpLeTBfaEpGNlFtaFp0QkplNGNBNUlvSzZJNFhkZzZNbWhycUlZR2VEOFFkR1cwSHZMSzljZGJEZ1FmLS1icExSX1otSnVjYjhHX09lTkNuSW8?oc=5",
-          "source": "24ur.com",
-          "date": "2026-11-14T15:37:53.000Z",
-          "lang": "Slovenian"
-        },
-        {
           "title": "Potrjen rekordni proračun za leto 2027. Šircelj: Denarja za socialo ne bo zmanjkalo.",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPYVdRQ3Zkdm5QNm5OVVdQemw0d3cyV2wzWmE5MERKVk55Vm5TaTlJaW9ubFowYlJPc0xhSWVNTWo2Y2dEOWdkcFp6V01hRi12Zm96V1lyR2trLWN2TlNmS3pCcDZRNXFtMk1MR0I0M0wyQXdCYnZ0cm1WbUVySUIwN2o5bXFTazQ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPNlo5RHh0WWxDUTdQYTlWY1ZSY0g2TERvaFR3Z05qbUdJODhXM2I1aWxhZk9aR011MEQwTmpNX29JNjd4RF9mdkNHTGxPRVYyRWdvVERPZWxzemthWlhJSHJPNTNmYldpLUdQQXJxWFpHTVRkUUg4X1dJSTF0VkVCWHZCVWQ3TEUyU0hDQ0xWS1puVDZUbVJwSk9ZOVNMWTV0NE1jSjl6cXpwQU1JVE04bDZFU2lxbWVmaWhfdg?oc=5",
           "source": "rtvslo.si",
-          "date": "2026-11-14T15:38:49.000Z",
+          "date": "2026-11-14T20:32:13.000Z",
           "lang": "Slovenian"
         },
         {
-          "title": "Do 14.30 ure 17 prijav domnevnih kršitev volilnega molka",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQNUVncTVUeXlleldVbUQzN0h6UUd4aEV4NXNOc21scEVyM0R6a1dtZEc4MW9BT2VlOHNadC1FaFBDYmxNWHgwQ0hqMUxmWEZNMzhUSWd3MHZHUHYyY1ZwdkVra21jbDhOY3UwdlpiZW1IOEdYZVNFMG1YemNiVGw3UHVGTUdXU0V5eE1qVVVwZnlBRHpOWWk1SVZoQQ?oc=5",
-          "source": "rtvslo.si",
-          "date": "2026-11-14T16:55:11.000Z",
-          "lang": "Slovenian"
-        },
-        {
-          "title": "Reka Vipava se vrača v strugo, ponekod padlo več kot 300 milimetrov dežja",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOOHRQcGxsTTBpMWRTNW4wUHpkSXlDUGlJalM0R1haN05sSHNuOVQ4VW8wQ1lBQlo0SnJlQVk0T00zUkNjRXRFelUtMWdsR0hfbVRVSDJQMkN0alJkc0owYjd0dmNhTjZiRTdQakthcHVSSVVjREFLZ0xMcFN0RVhnVWNhTU85dWtNb0pGbXBXTHl4a29tR3BueldacG9rbkpRV1drWm9EenB4OW8?oc=5",
+          "title": "Nastopil je volilni molk: Do 9. ure šest obvestil o domnevnih kršitvah",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE83RlBPRlN0Mk5OVFZIZFpkb1hwUVJ1ZEV1dlJoeWJHejd0Y3JoYkxRaWp5bmp2NnhRelJCNzBtSWZ2aGp6bHhlaXI4SDM1bW1DZ3ViZ1JGcHBQUG1IVnVfdG9ITE5QTmFfczMxQm9ISlV3NVZFQ1k3ckpfaDd5dXM?oc=5",
           "source": "24ur.com",
-          "date": "2026-11-14T09:41:40.000Z",
+          "date": "2026-11-14T06:25:53.000Z",
+          "lang": "Slovenian"
+        },
+        {
+          "title": "Na Hrvaškem shodi v spomin na bolnika, ki je umrl v psihiatrični bolnišnici",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVXhaNzU4WmJ3OEhwdEQ1RFhVbmxLVnpnYnlzWkdxeTZBeGEtYUF2RFoyOENydjEzdHh2SlZYOGRmSlBjTHZ0enc3S0l2WXM0ZUpOYzlwSV90dWpfQUhrRUdSZy1KZ0g1TVkyeTgwdGlyaWluMVNaQWs0VDZzaXBNWUc1aHJhakdkYzhjM0NKS19Xci1XVWJKTVNkUVFBbldkbUtGNjItbkZmeTFhanc4YnEyOFUwZw?oc=5",
+          "source": "rtvslo.si",
+          "date": "2026-11-14T20:53:43.000Z",
           "lang": "Slovenian"
         },
         {
@@ -193,24 +186,31 @@
           "lang": "Slovenian"
         },
         {
-          "title": "Zasegli 17,7 milijona evrov: denar je bil tudi zakopan v gozdovih",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPS3ZqR0RadGZSNFU5SS1yeWJYMXVwaDNMTXdhVDNCb0x3bkwtVFRPOUF4cnR0NGZjaXlLY0RHVkpGb3dQUllXVEhfV3Y4SFNUbGsyb21URzFFTFpIMGl4eG10bXo0VTI5aGlxaHowNzlFdFlNZGM3MXRYYkNqaFlNbkJBbEhrdEVTbU5ESUFBRmZieWhXV3BOT1pJbTlBc2FGSVhCWXYyWHgtZmJ1UEVmRUg0Yw?oc=5",
+          "title": "Reka Vipava se vrača v strugo, ponekod padlo več kot 300 milimetrov dežja",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOOHRQcGxsTTBpMWRTNW4wUHpkSXlDUGlJalM0R1haN05sSHNuOVQ4VW8wQ1lBQlo0SnJlQVk0T00zUkNjRXRFelUtMWdsR0hfbVRVSDJQMkN0alJkc0owYjd0dmNhTjZiRTdQakthcHVSSVVjREFLZ0xMcFN0RVhnVWNhTU85dWtNb0pGbXBXTHl4a29tR3BueldacG9rbkpRV1drWm9EenB4OW8?oc=5",
+          "source": "24ur.com",
+          "date": "2026-11-14T09:41:40.000Z",
+          "lang": "Slovenian"
+        },
+        {
+          "title": "V torek novo presenečenje na bencinskih črpalkah",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQS01jUVY2czFBY05oWDNtQnh1VU9IVDlzUE9fbUVyd1gxREpGQnZQVlJkZ2pQaVBNUnoxZk1pSXlXTzFENHBjdl9aUGZzcVFndk5KMUVEVWUyTF9rSkRjSmc4N1RBN2UyaGR0b0pGVVVhYjNtalh2NjlaMVVCZUVOY3Y5eGtOdGpXZ2RCcHo5YU9KT0E?oc=5",
           "source": "siol.net",
-          "date": "2026-11-14T09:48:00.000Z",
+          "date": "2026-11-14T18:46:00.000Z",
           "lang": "Slovenian"
         },
         {
-          "title": "Sem'ška ohcet znova oživela",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9LalhOOWw2NzFMMl9WRXY4b0pDSmlvVTJxSUViOEs5aFY0MnVyRnFYVXc1dEh2WkRZMjRuTkdQbDVkaHk3eWlabVA4WUlOT2l5RlBKaDZkRi1XWkV2MDEtMm9XQjhTNXdTM0E?oc=5",
-          "source": "radio-odeon.com",
-          "date": "2026-11-14T12:00:00.000Z",
+          "title": "Drama na Celjskem: avtobus brez voznika zapeljal čez križišče in podrl ograjo",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPakVlVEdUMHBoaXA5ZXFxSURTeWlBcG1pdHNpcGJ1SDdlWlhXdEpHdDh3enRBWFQtMFJJRmoxVWhpaGlCQjR2UEg5LW5EeEQzWEg1bnBKZkhjRFdNanZEcm94ak9iWVJrazNwSWRzbGM5UnMzblFaMkRxRUNrU3RDNHhNNWJCSWUzV1c2VG5GSUV4b1cxWk5CSDd3d3FHcmZPOGMxeV9wbGl5R2VYX0E0R0dXVG9UNmxM?oc=5",
+          "source": "siol.net",
+          "date": "2026-11-14T18:17:00.000Z",
           "lang": "Slovenian"
         },
         {
-          "title": "Cene goriv: v pričakovanju nove pocenitve",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQLTA4TmMzTlNaYnB6WFZhSk9FWmVYNEpqenM3V2EyZUdEbWNWLTlWZHJRQlp0Y0ZzVEMzMkxBZ0VQRHNQRzBjbHFjSy1JY3hzR3NnZW1GVUEwa3BfeGNpTUQ0WU9sT2hYR2lOdGRGdWFiU3NmVmhoQUdYOVF2TDU2enhSaG1nX1FBTGkzVTVkeWQ3ZXlJRUE?oc=5",
-          "source": "finance.si",
-          "date": "2026-11-14T09:41:00.000Z",
+          "title": "Pogrešanega k sreči našli živega",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1sYzhqTkNfM0hMWFhkQnRHbE9yWkxNSG81T3hLQ1JvcTcwNUdPVUlrZmc4MDJNbVFwUzdkMW1XbHB6LVdwZEpHOVgxUU9ibTh0ZjRWNXgzMXJQY2VrbDd5azBuUG9QVEZZNnNaWUdJdVM0Q1dXZEE?oc=5",
+          "source": "lokalec.si",
+          "date": "2026-11-14T22:29:00.000Z",
           "lang": "Slovenian"
         }
       ]
