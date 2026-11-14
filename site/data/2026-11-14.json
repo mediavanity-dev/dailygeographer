@@ -1,6 +1,6 @@
 {
   "date": "2026-11-14",
-  "updated": "2026-11-13T23:28:25.626Z",
+  "updated": "2026-11-14T01:07:50.723Z",
   "qid": "Q215",
   "name": "Slovenia",
   "status": "UN member state",
@@ -158,13 +158,6 @@
       "label": "Top stories, SI:sl edition",
       "items": [
         {
-          "title": "Reka Vipava poplavila številne ceste, do Renč je mogoče priti le prek Krasa",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUDVZWDlxWUVZOXpsY28tc1loVGFxTGFmRmhxdGlTQldEZjl5QktQYnloUDJWOVZhTUpGaXR1OERfc2IxY29HcU9OdExHc0NWbUsxbHd3dnN1RkFwQ1FkNTc4Rkc2MHc0Mi1VcjRQVFplVEs4emZqS0FKUUtNdDBpOE5YbDN0RThmX0JncHNsd2hzRzJESEpDY1dyX2J5NUpTN29QbExIUVJRTlZTbUNPRGVBcHJycUk?oc=5",
-          "source": "rtvslo.si",
-          "date": "2026-11-13T15:11:28.000Z",
-          "lang": "Slovenian"
-        },
-        {
           "title": "Evropo bodo na pogajanjih zastopali predstavniki petih držav in EU-ja",
           "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOWGZMSzc2a0REOGFZenZWZHJjVk1idzhQRnJ0Qk1HeVFjREpPR1RnU3Fzb2w3TjA3aTVVd0R1S3hTRHppbkZKNy15X3F4c3Fhc0gzWGoyWFdFSkNReFpoSjk1dzRQYkdSNkNLUWM1NHctcXExTFpHNzA5bWJsZ3owQWxGb05TUml2cGdHc2ZkQU1YUG5WMFFVNm43eUc2cDRYMWM3cUFUbmVuc2dqY2NEaU9kOXVTNGVVTGFVNg?oc=5",
           "source": "rtvslo.si",
@@ -172,24 +165,31 @@
           "lang": "Slovenian"
         },
         {
-          "title": "Microsoft: Šlo je za tehnično napako, zelo nam je žal",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZXdDVkl2Q2hsQk5TLWJ2bVd3bGRTNTZGLUdXM2xvRkhGWVVjWExUZ0V1elNoYVZlajNvdG9IX05DMWQ5djd3eU1ZUTJzdjhROHJ2YzJJM2VJSkpQUERHWmR0X2dWM3E3bFg5aktlVlhVQTVkOUd1LWVRdHdtbzVTUEdXeVJzTnc?oc=5",
+          "title": "\"Omejevanje dostopa do informacij nacionalne varnosti med državnimi institucijami ni prava pot\"",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPN1Mwd0c2NGwzTlFRZzRzcEZjaXRTS2VEZ1I0R3QweHBvMEp1ZXFDaXVTMFNqNl8wNUdlVDRsT25pREM1MXBhVmpTUFBqTnRibFhNWmRtTFE4R0FzNGFKalU3el9rWHBzeGhwT0NfUnhkUGlWMnZwY0dlUjMzanExOFU3c1hkNEdqaF9MZ2FYRkRBMnpFU1RGU25TTkxRcHRYY2JEZEhjVkswZEhOM2tPcUJZYXNWNTNmVUFZUFBvMURxUi1GUEp6R1pCUno?oc=5",
+          "source": "rtvslo.si",
+          "date": "2026-11-13T21:33:23.000Z",
+          "lang": "Slovenian"
+        },
+        {
+          "title": "Izredne razmere: ZDA ustavile vse odhodne polete, letala ne smejo vzleteti #video #foto",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOV1JCY09xX2VuU05HOXk1QXk3bTZWNnBzSXBRNUVZZWIybDQyNlVjcXJFbEZ2Q3Z2ZXFtVi1SZHJNNTlDcFdXQ1ZQNU1qdGQ2YURpb1Q5cG9IV3djUWpLaXpzUnJSSE50UDhQdlJnRXFobjd0YlYxMERKbmc2RFF2aFhwOENWUC1PMWtFRWFHSllWUFNJZFRVNUtLN1lzTGFyN0tTdmtKWGtobmsxTWZvdEt6QWt5cG5uaHc4?oc=5",
+          "source": "siol.net",
+          "date": "2026-11-13T23:42:05.000Z",
+          "lang": "Slovenian"
+        },
+        {
+          "title": "Ponekod padle prve snežinke: višje predele Slovenije pobelil sneg",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQR2JIS0lSX2ZlSzZ1cFBEdEdReEtHNi1ENzA3UE1nY1R5SFdYNFBkcGhQUGQ0Ti1ZT3FsbEU2eHdhV212Ym9qLWh5SW0wZXNpWG5ZalNZbVNlSVU0d19sQXl4ZkpnS2EzZ2VDa3o5TXFDUm14XzhBMFVIS25WRUU2VDJBOWlCbURFTG00UjhGLS1fb2RFTFRZcUt1OE11VzYyQ0o0cGZ3djhlbFE?oc=5",
           "source": "24ur.com",
-          "date": "2026-11-13T21:01:03.000Z",
+          "date": "2026-11-13T19:23:52.000Z",
           "lang": "Slovenian"
         },
         {
-          "title": "Anketarski kaos v Ljubljani: zakaj ima Repić pri enih štirikrat več podpore kot pri drugih?",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPSGFwWjVXT21DaHdHd0Q1UnRiSWlaYjFNSEZ1b3ZaUmYyMV9TNEZnZ0ZycTZYVkxuWnRUYzNheGpFR3hTMjE5bUFLaDJWdmpqbk0zODdhdDZLMks3b2hHU1NPZWt0ZXdqMWk3dXJnN3U3dmhiX0E2VFRQTW96M2JMX3ZOQ1VFSGlUV2poMW1STVlEQXdCTEEtVDNFOS1wNDR3SXNVMTU1WEJSRmZNSHl1eG44Y2xpYi04LTllWlBkRk9uSFBDUTB6SlVB?oc=5",
-          "source": "info360.si",
-          "date": "2026-11-13T12:12:46.000Z",
-          "lang": "Slovenian"
-        },
-        {
-          "title": "Evroposlanci pozvali k ukrepanju proti Sloveniji. Kaj piše v njihovem pismu?",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNHotZnU0dTcySHV4aV9DMFdBVFRES0R5ZGt2VHUweVBrZm15SU1oYnNCZ0xCZjk2UDJDWGdSbm5TTWEySXdaMDZyQ1AtWUthUFBQQzhzaExlTVJCT2hjLUhxbzdmY3pNclNIajc4YlYtUTJ5bFg1cWh1Q1FLNEdHM21uNm5hOUpIMGZwaTgyNlVRc242YkJjVDdaWE56MkIxX2FwOHhUdXMzUQ?oc=5",
-          "source": "delo.si",
-          "date": "2026-11-13T08:43:00.000Z",
+          "title": "V Ljubljani se prvič po 20 letih obeta drugi krog lokalnih volitev",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPY1B3Wi14UzlwWHdOMVhZZE5LdmEwelBXMl9hOFoya2E1Y3VHeVJTZmhkWGtoamNsSlJQUGpib19RQ1czbk10Y3AwVXlBSUp5UDlUV3NqaWt4ZVpXT0xLektITGpPYTlWa3FRNTQ0dGV5Q0ljdXJaWDJpWWhMalpmSkVqS1FxOXN5eDlVb0xjeEN5b1BnWUhnVC1KaVJUczQyeWtMSHNvOFkycDJCZVE?oc=5",
+          "source": "24ur.com",
+          "date": "2026-11-13T12:11:00.000Z",
           "lang": "Slovenian"
         },
         {
@@ -200,17 +200,17 @@
           "lang": "Slovenian"
         },
         {
-          "title": "Kabinet predsednika vlade s spleta umaknil gradivo o Snavu: šlo je za delovni osnutek",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVV9xX2p2bzZVT0Y5cWk2alRkb0RiTTM1U0xrcWdyeW5VdDdpdzdaYURHY2Z2TExPRUE2dm9OaDdZQ0RhWGRLVDkzOHNxM1lGZFJvQjBrcS05azFzd0JrZ2x4U205S2Fjdm5PZTkybW5DTGtiT1lWVEZuVlUtY0dUOWZYd1c3NUt3RmtBY2sxMEJYNDJCUks5bi1tUzFOcHlk?oc=5",
-          "source": "siol.net",
-          "date": "2026-11-13T13:59:00.000Z",
-          "lang": "Slovenian"
-        },
-        {
           "title": "Merzev ultimat razburil del EU",
           "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5TU2EyWU1sQkZXelFzMEs5b2dJR1Azc1YyMTlBUmE3WWhVcGZlLXdEcVFGLW83eFktd0F0dUx6eXh4VUpOd2xGZXkwMUU2RndiMGYzYUY2dXgxWU5HNVRITzR4cXpETEZCdmRQdkRsVQ?oc=5",
           "source": "delo.si",
           "date": "2026-11-13T19:41:42.000Z",
+          "lang": "Slovenian"
+        },
+        {
+          "title": "Smrt Kristiana (32) pretresla javnost, zdaj se je oglasila družina: »Za tem ne stojimo!«",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbHhBRHhIeXlKMGQ5SFBqMWYxekVzTjJ4ZUYybHlrbzdzU3hwdTQzSkZVNTkyTlZwUDJENXdNa3JlaWxYY0NKeGw0WldVUE5yYXQtOHgzOWVDdHdOR1dXdHUtX0NmeUNLSFBVeWpHUVo5YmFxYXpKY2dPUDlMOFl0dlVSMzRZRkdBTFF2b0pyajdmWFJKVzcwaW0zT0NnMU1lOU5Hc2xlU2hhemFTNU5NS2JkSV95QnBJYTFTYVJaVFZuUE0?oc=5",
+          "source": "slovenskenovice.delo.si",
+          "date": "2026-11-13T17:11:00.000Z",
           "lang": "Slovenian"
         }
       ]
