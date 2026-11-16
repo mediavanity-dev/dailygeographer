@@ -1,6 +1,6 @@
 {
   "date": "2026-11-16",
-  "updated": "2026-11-16T08:59:10.624Z",
+  "updated": "2026-11-16T15:16:29.772Z",
   "qid": "Q37",
   "name": "Lithuania",
   "status": "UN member state",
@@ -16,7 +16,7 @@
     "Area": "65,300 km²",
     "Languages": "Lithuanian",
     "Currency": "euro",
-    "Time zones": "UTC+02:00, UTC+03:00",
+    "Time zones": "UTC+03:00, UTC+02:00",
     "Calling code": "+370"
   },
   "map": "https://www.openstreetmap.org/?mlat=55.2&mlon=24.0#map=5/55.2/24.0",
@@ -37,6 +37,27 @@
     "local": {
       "label": "Last 7 days",
       "items": [
+        {
+          "title": "Stabdant krantų eroziją Alksnynėje rengiamasi statyti dambą, Klaipėdos uosto direkcija ieško rangovo",
+          "url": "https://www.15min.lt/naujiena/aktualu/lietuva/stabdant-krantu-erozija-alksnyneje-rengiamasi-statyti-damba-klaipedos-uosto-direkcija-iesko-rangovo-56-2806742",
+          "source": "15min.lt",
+          "date": "20261116T081500Z",
+          "lang": "Lithuanian"
+        },
+        {
+          "title": "Marija Zacharova skundžiasi „ agresyviais Rusijos nemylėtojais  šioje Baltijos šalyje",
+          "url": "https://www.15min.lt/naujiena/aktualu/pasaulis/marija-zacharova-skundziasi-agresyviais-rusijos-nemyletojais-sioje-baltijos-salyje-57-2806740",
+          "source": "15min.lt",
+          "date": "20261116T081500Z",
+          "lang": "Lithuanian"
+        },
+        {
+          "title": "Staro Rīga 2026: 52 Lichtinstallationen in Riga",
+          "url": "https://baltische-rundschau.eu/staro-riga-2026-lichtfestival-riga/",
+          "source": "baltische-rundschau.eu",
+          "date": "20261116T081500Z",
+          "lang": "German"
+        },
         {
           "title": "Rudens darbai darže: Gurskas pataria, kaip sodinti svogūnus ir česnakus",
           "url": "https://www.lrt.lt/mediateka/irasas/2000923027/rudens-darbai-darze-gurskas-pataria-kaip-sodinti-svogunus-ir-cesnakus",
@@ -71,27 +92,6 @@
           "source": "lrytas.lt",
           "date": "20261114T200000Z",
           "lang": "Lithuanian"
-        },
-        {
-          "title": "Lenkijos kreditingumui – dar vienas smūgis . Ekspertai įspėja: padariniai gali būti skaudūs",
-          "url": "https://www.vz.lt/finansai/2026/11/10/lenkijos-kreditingumui-dar-vienas-smugis-ekspertai-ispeja-padariniai-gali-buti-skaudus-592546",
-          "source": "vz.lt",
-          "date": "20261114T200000Z",
-          "lang": "Lithuanian"
-        },
-        {
-          "title": "Valmiera Region Restaurant Week highlights local Latvian food",
-          "url": "https://baltic-review.com/valmiera-region-restaurant-week-local-latvian-food/",
-          "source": "baltic-review.com",
-          "date": "20261114T200000Z",
-          "lang": "English"
-        },
-        {
-          "title": "Dzień Zaduszny w Pszczelniku . Modlitwa i cierpliwe budowanie wielkiej historii – Kurier Wileński",
-          "url": "https://kurierwilenski.lt/2026/11/13/dzien-zaduszny-w-pszczelniku-modlitwa-i-cierpliwe-budowanie-wielkiej-historii/",
-          "source": "kurierwilenski.lt",
-          "date": "20261114T200000Z",
-          "lang": "Polish"
         }
       ]
     },
@@ -160,59 +160,59 @@
       "label": "Top stories, LT:lt edition",
       "items": [
         {
-          "title": "Neterminuotą streiką pradėjo apie 4 tūkst. pedagogų, reikalauja didesnių atlyginimų",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOdGsyaUFmM0xMUW9qZXR6WnlybEpsM0V2cG8tcFc0UHhCYjMzNFlZNld5SzVFeVljZUM4N3Z0YXFjRWNmVGVla1FJU0psMVBqMy04bjg2enJDODVxR0w0WF81MXdLdnpGalFOWHdMWXo5eGtTbWpYZjgxQzYxcExmUjdtNnZjeGlkWWtQY2hRWEZlZVFUT1BuMDZSaXVvS0laQ0I2XzdaSVNWNFZaSm5EaU54YUJLZG4yTnNGZF83Y0MxZkVRQVk4ZmRnZw?oc=5",
+          "title": "Švietimo darbuotojų profesinė sąjunga pradeda neterminuotą streiką",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOY1lKbmhFYXRUNG15Szh3eDE3cGZqODQ5NFdQWTFyY3ZvWUhOZUdKZG9aUUxKRnFhbVFnOFF1eUY2S2ZmbC1oeDdtOFNMMnFfOEtOQU1uOTZ5VzU0Y1hDS2haMXQwUlBlZFlJNGFnSzU2NEtRelRyYlg4Z2V1THZZYmVDZHZFRklRNmNDVlNLVXRfTE1qYXhFR3NoX3NFRFg5blVrT1MtcUVYcVNINUFyZFM0dmx4cDA?oc=5",
           "source": "lrt.lt",
           "date": "2026-11-16T04:19:00.000Z",
           "lang": "Lithuanian"
         },
         {
-          "title": "Karas Ukrainoje. Rusijoje po Ukrainos dronų atakos liepsnoja naftos bazė",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPaEdKcjJLR1BjQmVuLWFQRmN2bC1JbFZyU2tYYXhRNmhkcEx4LS1RdDdXRWtUTnBodWJoNW9tZUdZd1k4WkNCUnB3ZTY5QkJGSFdzb1RPTkhJZDlENlNlc2J0WDdaeHlHUnY1NG9fSmhCSXdFYXRHd005SG4yeUxJUS1rN2ZEeHBlZnVxa002ZTRjTVhrRnNMY2pLUVFtZXBkMlBLb09CZXlHZTYycmlITzc2MmJ6c0laNUpRbg?oc=5",
-          "source": "lrt.lt",
-          "date": "2026-11-16T04:11:00.000Z",
-          "lang": "Lithuanian"
-        },
-        {
-          "title": "Volodymyras Zelenskis: Ukrainos sąjungininkai nustatys Europos poziciją deryboms",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNTWljUDFnTE1ocmdCaU0wMVk0MEVUTU5zZGFpRVRVR3Z0N1Q5YUI4OHNNaWcwdVVqanBsTG5nSVhjUU9rQVdXUjVaNGZyOEYzV3lFTllCblV3ckZhcU1VbmVneTREVThOQlRZeDlPenhJNV9YcHdTQm5HdWtUT0gxRGxldVhNZ0N6WjJIOHRrNllmaGN5U0x1a0l2Y3BlWE1NemdKbmh2dXhQaF9QYkVyY0N0dkRqdjVMM0ZDWXV0S3VRandndlRQdUNkU216aFB3TnBN?oc=5",
-          "source": "15min.lt",
-          "date": "2026-11-16T04:48:02.000Z",
-          "lang": "Lithuanian"
-        },
-        {
-          "title": "Tragiškos avarijos Vilniuje detalės: susidūręs su automobiliu žuvo 16-metis motociklininkas",
-          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOanlTNTZvdGZXVFBDSzlzMlpBNnlhb1VKb3ZYaGRFc0paOHBuOUdOMlFEMjlqT2dHcjVfY0swaVgzWGZVSEJpZTJBdE81QnJuRVhySjA1QkZhQmhWOHBZTkRBb3QtaGxINWNmVHg2X181dkk4YmN1NUYxeFJSR3RDTTZYN2dSa3BLUWo4OHYwSUFFRy1nNUlGdi0tUDI1ajFSelFoYnNBR3lqWGdNVXBuVER6N0NoN1VyTWt3akw5RU9CcHFDRVc4TnJtbUxQTzZaVWxjd3UzNjdIRVVlOElB?oc=5",
+          "title": "Vilniuje Jėzaus skulptūrą sudaužęs turistas tapo pasauliniu interneto hitu",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOT1pMUlQ3YjR5aGFPVUsyOFBPMmxXbThzdnp1SGJDRW9Ec3FHSzZvdnpxSEpRSE1jaVg5dHJKTTZXTy01SWJPLWdvMVBOcXdjRVpwT0hpNGttcnZWSUI3ZnZ1YnV5LXppUVZhVnBIRFhfYnR3Vm52UWQ0dnF2a09vaWFrNElabE56Vk9iRDVvcUZhbVl5bzEwZHdrQVhidUloMHd3UThObFpiSWEzX1QzNkZGajlJczhsZUJDQ3NJbThsaDh2WWpEWWhLVGJWRXZzUUNueFl1ODhrdjQ4UEY2TQ?oc=5",
           "source": "delfi.lt",
-          "date": "2026-11-16T06:07:22.000Z",
+          "date": "2026-11-16T13:54:00.000Z",
           "lang": "Lithuanian"
         },
         {
-          "title": "Ministras: Lietuva JAV perdavė siūlymų paketą dėl nuolatinės amerikiečių karinės bazės šalyje",
-          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQSlhkeDhtVTljdGtQT2VEc1N2REVwN3NTU0xZc0Z3RmdzUW5BbGhpUndITDQ4OTBZYkdFeEliUUtSeFl0RERqUml5TlVOOGpELVVVT2RQdzYtRlNVbXkyMlpRTkN6eENQTE1Lb2loUnpMV0ZuM0NGZGZhb0thOV9JZzJmdUYzenFnRmVBM2ZSWnM1aDdrRzNXQVh5Tm43cW1qeXpoYTN3dUQzc19NWDBSdU15MWRGU2VUa1A4UGVqLTk2azhSVC1MX2RvcHpvTTVCbG1ONkJ5OGtoeEhpai1NYWVOVQ?oc=5",
+          "title": "Pokiliminės ES kovos: smūgis diplomatijos vadovei Kallas – ir bejėgė, ir paniekinta?",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQSi1KWUZhcXYyMEkteFN2eU1wMEJmY3dyWlg3LW0xbDgxRGgwNjFxelBnZ3k0ek1IZXNzMWJraEVtRHZoYk9wbWlPR2EtV0V2a2ktTWpGNDllS1lHbkVPUTdYcnRPUVFjblNmTlZYSVZHOHowclZrVmZmQUhOZmxjdWdwbGhKLWRVR0pIUkl2QUluV2ZWRWRPdDZXdDZoSWM2MGdCSHlWSXl0MFFBdUtLaFQ0NGt0aDNEc2ozaHZ6bXpCNWRaLTIw?oc=5",
+          "source": "lrt.lt",
+          "date": "2026-11-16T13:48:00.000Z",
+          "lang": "Lithuanian"
+        },
+        {
+          "title": "Pabradėje vyks naujosios JAV karių rotacijos sutikimo ceremonija",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVTNQZlEwUTdqVmgta2NmYm5jTlg1T0pyZVF5dWQ5QmVERm5pdHZXcW9rcUNZV0M0a3Vjd3BXYjlSUGJKWTZLRjkzQlVELWhfZ0VlWUVzQzdKbGl4aUFmcEVHdFFpajFlRklJTGo2UGpWMjVvNGJjWTJsZVV5UlJ0MmRoZnlFX2FkS3ZpbzJtR3NFb2pPb2s1VHVBblpGZy1CWTZITUVfMzFFdFktQXljTjNCMzQ5UQ?oc=5",
+          "source": "delfi.lt",
+          "date": "2026-11-16T05:09:27.000Z",
+          "lang": "Lithuanian"
+        },
+        {
+          "title": "Dr. Audrius Šimaitis. Viešas laiškas sveikatos apsaugos ministrui",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNbTN3M0JxUFE3YlpSZE1pb1JoVUJGUHMzek45YjU2Q3BPN3Y1dXZBdTRveWllZzM5a3pfUXR5ajFTbE93QU5IejdEdTg0a3Q2RDJYQ0lSMnRSa1Q0QmUyMXp4Z3R2V1NacDM5aXpPVEwtNk5VSFZQb1V4NGw5OWhmeGhLTXFxa0dIY3Q5bi1YWUc4UlNVN3cySWI0cndOaEZhTVVmNGlhc0hMVGd0MWxGX01ETVVZd1dxY2NiMzRn?oc=5",
           "source": "15min.lt",
-          "date": "2026-11-16T06:51:02.000Z",
+          "date": "2026-11-16T06:08:23.000Z",
           "lang": "Lithuanian"
         },
         {
-          "title": "Lietuvoje maišysis stichijos – pasieks žiemiški orai: sinoptikai siunčia perspėjimą",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPcndReU9kbU94dmxtVEdfSFlrdlNodERqZzdNNTV2SHFkdURzSUNJS19hcTdObzVzd2lRUFFPcnM3M041SGFSOGxOdVFldWFHRmVrTU55YTIxbzZwaThReVI5RUl2UXFYeHNRQmYyZ1lVQmV3NTM3UktnekM4bFdHLXZ5ckNSbm91SEhnNjlaakhyU3hlU1hLVjhuaEZsb01tWTVxRk5pWVo1OHltYjZYc19kakdZMzFHYzUybWlTbEpEdlU?oc=5",
-          "source": "tv3.lt",
-          "date": "2026-11-16T04:00:20.000Z",
-          "lang": "Lithuanian"
-        },
-        {
-          "title": "Kėdainių rajone – tragiškas vilkiko ir lengvojo automobilio susidūrimas",
-          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPZXZleTBDVjVzX1hyTjZaQWNFRkNtSF9vZU82TE1oRHdVZHpXNjdWOEFFc01reENfWnZ1VzNpQU1veXBDQjNZaGJGS21VV19uWDBsVnVELXVOYzVCNm9QR3RwZFlMZlN6VnJDV3ZEQWNxQV9ZUGlrTmV6RUc5WXhRakFObk85a2hQbk5NMUFkSmJBU1hlVlBYaU1ibWZybjZCenN1ZVdPbXFjV2VEZWlERzJEdHY4UUVQVmNrbU9zOXRpT3FzVG1Xc3ZLTklLZFMwMVFKaTdB?oc=5",
+          "title": "M. Dubnikovas rėžė valdžiai be užuolankų: „Mano akimis, tai yra košmaras“",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOSFl1a3hYSGNZcmJBWjVUZ1J0V2FfY084TEtrWl9KTnU0cUlKT1dUUG1vaU93MjFOT2dabzBiMkJhdExCbUhMS2twV0J6UWQtRWhHVGc0cEFPRXdSTWN0eDZGeXZyV1NmVEctV09ITU5peXRUR3RtaXJLVkhOZDRKWmM2NktxN1BYUWRvTzRLekR0bUNfbEhLeHBWaDh6cjExbmlRZTdQeGZobUxmZm9vb3pzb0xYOTc0V3loOTB0YmgzUEZOWWROYzdpamw1LVRoRUFjZQ?oc=5",
           "source": "lrytas.lt",
-          "date": "2026-11-16T07:05:00.000Z",
+          "date": "2026-11-16T08:00:44.000Z",
           "lang": "Lithuanian"
         },
         {
-          "title": "Krymo tiltas uždarytas: Ukraina sudavė smūgį, įkurtas avarinių situacijų centras",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQellDNDBlMzJPZXVnMDdVQldnNUFsYnRfQWp2dWpNT1RpWmxJVkFXbjVfRjI3RE52S0VnbGNzX3RNTkd1OTJkZUttcV9zVWtiSGNjUWp3UnNFLWh1Y0JLQzhsQkFNWnR1ZkhGeDRxVFNzQzdHT19aei0wMU55YjVVOHZOZlFlUnhNcUZKejgzQTd5OHdyV2NjS1piRWlGM1RNZm9iTERZQlE1bUVyWUxfR3VoQWVXeHlHdzRrVTZhVl9Vdw?oc=5",
-          "source": "tv3.lt",
-          "date": "2026-11-16T06:35:00.000Z",
+          "title": "Vilniuje plinta naujas sukčiavimo būdas – nusitaikė į visus vairuotojus",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPLU9JbjZiOGpabVhQR3M5TDRKZXlpRm9VdzBGYWVQTXVUVHVpSFhtREtXM0QtOU1kVjkxLXA1andYS1dSVXh0ZFZ6NVNTSTJINWZmTXcxWFB0OHhUSkZnTzNJNFJPTjRNTjJqTTNzY0xlMlJIbU5hWDNoTlZpVGZWMWxWMEN0SXltb3d5X0o5T3FQZkF0eDdOcTBOTDBrQ3Q2MWtwb1hiMVpUUnlhR3NQTnl3Qnk1ckVMdmNYZ0JWMFp6UnE3TzFpOQ?oc=5",
+          "source": "lrytas.lt",
+          "date": "2026-11-16T08:46:00.000Z",
+          "lang": "Lithuanian"
+        },
+        {
+          "title": "Ryšių reguliavimo tarnyba skyrė baudą bendrovei „Bitė Lietuva“",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPNk53RUh2VTdrU2JGYnRfS3N2cFk1YTNFcEpobHBYWU5jVjkyZU8yWkFGdVVvdE5pVXRfd3M0ekJFdTE5Q0tpcjVrcU04UGNFd004b2lYVThrYmlxMlFLRUpiQ29fR3FFTDd1RVljb3ZiMF9jUEk5M2Q3UmZ0Nk5hUE1vRDVQRkd5UjBGWm1sZ3hDbFFlemUxYy1VRjB0b1kzbzNOb2ZjQXNuRkhkRjR6U3h5YWR4ZEFTbDVzUA?oc=5",
+          "source": "15min.lt",
+          "date": "2026-11-16T12:43:58.000Z",
           "lang": "Lithuanian"
         }
       ]
