@@ -1,0 +1,160 @@
+{
+  "date": "2026-11-17",
+  "updated": "2026-11-16T23:35:40.129Z",
+  "qid": "Q750",
+  "name": "Bolivia",
+  "status": "UN member state",
+  "officialName": "Plurinational State of Bolivia",
+  "flag": {
+    "svg": "https://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Bolivia.svg",
+    "alt": "Flag of Bolivia"
+  },
+  "facts": {
+    "Capital": "La Paz, Sucre",
+    "Continent": "South America",
+    "Population": "12,244,159",
+    "Area": "1,098,581 km²",
+    "Languages": "Spanish, Aymara, Quechua, Guarani",
+    "Currency": "boliviano",
+    "Time zones": "UTC−04:00, America/La_Paz",
+    "Calling code": "+591"
+  },
+  "map": "https://www.openstreetmap.org/?mlat=-17.056869611&mlon=-64.991228611#map=5/-17.056869611/-64.991228611",
+  "summary": {
+    "extract": "Bolivia, officially the Plurinational State of Bolivia, is a landlocked country located in central South America. Its geography primarily consists of an Andean region to the west and tropical lowlands to the east and north. The country has a diverse environment, including the vast Amazonian plain, the Gran Chaco, temperate valleys, the high-altitude Altiplano plateau, snow-capped peaks, and mountains, encompassing a wide range of climates and biomes across its regions and cities. It includes part of the Pantanal, the largest tropical wetland in the world, along its eastern border. Bolivia is bordered by Brazil to the north and east, Paraguay to the southeast, Argentina to the south, Chile to the southwest, and Peru to the west. The seat of government is La Paz, which contains the executive, legislative, and electoral branches of government, while the constitutional capital is Sucre, the seat of the judiciary. While most population and urban centers lie in the Andean region, the largest city and principal industrial center is Santa Cruz de la Sierra, located in the eastern tropical lowlands.",
+    "url": "https://en.wikipedia.org/wiki/Bolivia"
+  },
+  "history": {
+    "title": "History of Bolivia",
+    "paragraphs": [
+      "The history of Bolivia involves thousands of years of human habitation. Lake Titicaca had been an important center of culture and development for thousands of years. The Tiwanaku people reached an advanced level of civilization before being conquered by a rapidly expanding Inca Empire in the 15th and 16th centuries. The Inca themselves were shortly afterward conquered by the Spanish led by Francisco Pizarro in the early 16th century. The region that now makes up Bolivia fell under the Viceroyalty of Peru. It was specifically known as Upper Peru, and in 1776 was transferred to the newly established Viceroyalty of Rio de la Plata with its capital in Buenos Aires.",
+      "A notable but ill-fated indigenous revolt against the Spanish authorities occurred in the late 18th century being led by Túpac Amaru II. Upper Peru joined the Spanish American wars of independence in the early 19th century and the Bolivian Republic was established in 1825, being named after Simon Bolivar. In the course of the 19th century, Bolivia fell repeatedly into wars against its neighbors, culminating in a devastating loss in the War of the Pacific, which resulted in Bolivia losing its access to the sea, along with rich nitrate fields.",
+      "Bolivia faced a further losses in the Chaco War against Paraguay of the 1930s. The Bolivian National Revolution broke out in the 1950s and attempted a program of nationalization of resources and expansion of suffrage. The country fell into military rule and experienced a series of coups until a transition to democratic government in the 1980s which still struggled with a rapidly deteriorating economy. 21st century Bolivian politics would be dominated by Evo Morales until he resigned in the wake of the 2019 Bolivian political crisis."
+    ],
+    "url": "https://en.wikipedia.org/wiki/History_of_Bolivia"
+  },
+  "news": {
+    "local": {
+      "label": "Last 7 days",
+      "items": [
+        {
+          "title": "Resultados de 1xBet HYPE Fighting en Roma: Raúl Rosas Jr . somete rápidamente a Colby Covington ante el legendario Conor McGregor",
+          "url": "https://www.opinion.com.bo/deportes/resultados-1xbet-hype-fighting-roma-raul-rosas-jr-somete-rapidamente-colby-covington-legendario-conor-mcgregor/20261115023806999175.html",
+          "source": "opinion.com.bo",
+          "date": "20261115T074500Z",
+          "lang": "Spanish"
+        },
+        {
+          "title": "Caso maleta: fijan audiencia para el abogado al que señalan de ser  palo blanco  de Rómer Saucedo",
+          "url": "https://eju.tv/2026/11/caso-maletas-fijan-audiencia-para-el-abogado-al-que-senalan-de-ser-palo-blanco-de-romer-saucedo/",
+          "source": "eju.tv",
+          "date": "20261114T210000Z",
+          "lang": "Spanish"
+        },
+        {
+          "title": "¿ Habrá un ajuste en el calendario escolar? Esto dice el ministro de Educación",
+          "url": "https://eju.tv/2026/11/habra-un-ajuste-en-el-calendario-escolar-esto-dice-el-ministro-de-educacion/",
+          "source": "eju.tv",
+          "date": "20261114T210000Z",
+          "lang": "Spanish"
+        },
+        {
+          "title": "EL DÍA - Noticias de Bolivia para el mundo",
+          "url": "https://www.eldia.com.bo/2026-11-14/economia/nueva-ley-ofrece-una-salida-al-pedido-de-arbitrajes-internacionales-bolivia-requiere-$us-1600-millones-para-hidrocarburos.html",
+          "source": "eldia.com.bo",
+          "date": "20261114T210000Z",
+          "lang": "Spanish"
+        },
+        {
+          "title": "Tren de carga se descarrila tras colisionar con una volqueta en Río Grande",
+          "url": "https://www.lostiempos.com/actualidad/seguridad/20261114/tren-carga-se-descarrila-colisionar-volqueta-rio-grande",
+          "source": "lostiempos.com",
+          "date": "20261114T210000Z",
+          "lang": "Spanish"
+        },
+        {
+          "title": "Le dijimos al chofer que no corra: Hecho de tránsito en la vía Oruro - Potosí deja fallecidos y heridos",
+          "url": "https://www.lostiempos.com/actualidad/seguridad/20261114/le-dijimos-al-chofer-que-no-corra-hecho-transito-oruro-potosi-deja",
+          "source": "lostiempos.com",
+          "date": "20261114T210000Z",
+          "lang": "Spanish"
+        },
+        {
+          "title": "Ministerio de Minería invita a Fencomin y sus afiliadas a revisar el anteproyecto de Código Minero",
+          "url": "https://www.erbol.com.bo/econom%C3%ADa/ministerio-de-miner%C3%ADa-invita-fencomin-y-sus-afiliadas-revisar-el-anteproyecto-de-c%C3%B3digo",
+          "source": "erbol.com.bo",
+          "date": "20261112T040000Z",
+          "lang": "Spanish"
+        },
+        {
+          "title": "Un jet privado, 32 maletas y una fábrica de hielo: lo que Saucedo habría contado a Quezada en México",
+          "url": "https://www.erbol.com.bo/seguridad/un-jet-privado-32-maletas-y-una-f%C3%A1brica-de-hielo-lo-que-saucedo-habr%C3%ADa-contado-quezada-en",
+          "source": "erbol.com.bo",
+          "date": "20261112T040000Z",
+          "lang": "Spanish"
+        }
+      ]
+    },
+    "international": {
+      "label": "Last 7 days",
+      "items": [
+        {
+          "title": "Robert Redford 110 - Minute Western Action Thriller Still Beats  Tombstone  at Its Own Game",
+          "url": "https://movieweb.com/butch-cassidy-sundance-beats-tombstone/",
+          "source": "movieweb.com",
+          "date": "20261114T200000Z",
+          "lang": "English"
+        },
+        {
+          "title": "Silver Elephant to Submit Environmental Impact Assessment for 12, 000 Tonne - per - Day Pulacayo - Paca Processing Plant; Environmental License Decision Expected by June 2027",
+          "url": "https://www.theobserver.ca/press-releases/newsfile/silver-elephant-to-submit-environmental-impact-assessment-for-12000-tonne-per-day-pulacayo-paca-processing-plant-environmental-license-decision-expected-by-june-2027/",
+          "source": "theobserver.ca",
+          "date": "20261113T180000Z",
+          "lang": "English"
+        },
+        {
+          "title": "EBANX and Eneba strengthen partnership in Latin America with 138% YoY growth in payment volume",
+          "url": "https://www.manilatimes.net/2026/11/13/tmt-newswire/media-outreach-newswire/ebanx-and-eneba-strengthen-partnership-in-latin-america-with-138-yoy-growth-in-payment-volume/2469214",
+          "source": "manilatimes.net",
+          "date": "20261113T004500Z",
+          "lang": "English"
+        },
+        {
+          "title": "Minna Tarkka Lectures 2026 - Announcements",
+          "url": "https://www.e-flux.com/announcements/6788450/minna-tarkka-lectures-2026",
+          "source": "e-flux.com",
+          "date": "20261112T064500Z",
+          "lang": "English"
+        },
+        {
+          "title": "Namibia Visa and Residency Rules for Foreigners 2026",
+          "url": "https://www.riotimesonline.com/namibia-visa-residency-2026/",
+          "source": "riotimesonline.com",
+          "date": "20261112T053000Z",
+          "lang": "English"
+        },
+        {
+          "title": "Vatican theologians advance sainthood cause of Wisconsin missionary priest",
+          "url": "https://www.ewtnnews.com/world/us/theologians-advance-walijewski-cause",
+          "source": "ewtnnews.com",
+          "date": "20261112T040000Z",
+          "lang": "English"
+        },
+        {
+          "title": "Ecuador Steps Up Offensive Against Illegal Gold And Transnational Crime Finances - Analysis",
+          "url": "https://www.eurasiareview.com/12112026-ecuador-steps-up-offensive-against-illegal-gold-and-transnational-crime-finances-analysis/",
+          "source": "eurasiareview.com",
+          "date": "20261112T033000Z",
+          "lang": "English"
+        },
+        {
+          "title": "South America - Casino & Gambling",
+          "url": "https://www.worldcasinodirectory.com/region/south-america",
+          "source": "worldcasinodirectory.com",
+          "date": "20261112T030000Z",
+          "lang": "English"
+        }
+      ]
+    }
+  }
+}
