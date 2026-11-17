@@ -1,6 +1,6 @@
 {
   "date": "2026-11-17",
-  "updated": "2026-11-17T07:26:44.637Z",
+  "updated": "2026-11-17T13:17:43.448Z",
   "qid": "Q750",
   "name": "Bolivia",
   "status": "UN member state",
@@ -10,11 +10,11 @@
     "alt": "Flag of Bolivia"
   },
   "facts": {
-    "Capital": "Sucre, La Paz",
+    "Capital": "La Paz, Sucre",
     "Continent": "South America",
     "Population": "12,244,159",
     "Area": "1,098,581 km²",
-    "Languages": "Spanish, Guarani, Quechua, Aymara",
+    "Languages": "Spanish, Quechua, Aymara, Guarani",
     "Currency": "boliviano",
     "Time zones": "UTC−04:00, America/La_Paz",
     "Calling code": "+591"
