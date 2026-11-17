@@ -1,0 +1,171 @@
+{
+  "date": "2026-11-18",
+  "updated": "2026-11-17T23:44:48.111Z",
+  "qid": "Q924",
+  "name": "Tanzania",
+  "status": "UN member state",
+  "officialName": "Tanzania",
+  "flag": {
+    "svg": "https://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Tanzania.svg",
+    "alt": "Flag of Tanzania"
+  },
+  "facts": {
+    "Capital": "Dodoma",
+    "Continent": "Africa",
+    "Population": "57,310,019",
+    "Area": "947,303 km²",
+    "Languages": "English, Swahili",
+    "Currency": "Tanzanian shilling",
+    "Time zones": "UTC+03:00, East Africa Time, Africa/Dar_es_Salaam",
+    "Calling code": "+255"
+  },
+  "map": "https://www.openstreetmap.org/?mlat=-6.306944444&mlon=34.853888888#map=5/-6.306944444/34.853888888",
+  "summary": {
+    "extract": "Tanzania, officially the United Republic of Tanzania, is a country in East Africa within the African Great Lakes region. It is bordered by Uganda to the northwest, Kenya to the northeast, the Indian Ocean to the east, Mozambique and Malawi to the south, Zambia to the southwest, and Rwanda, Burundi, and the Democratic Republic of the Congo to the west. According to a 2024 estimate, Tanzania has a population of around 67.5 million, making it the most populous country located entirely south of the equator.",
+    "url": "https://en.wikipedia.org/wiki/Tanzania"
+  },
+  "history": {
+    "title": "History of Tanzania",
+    "paragraphs": [
+      "The modern-day African Great Lakes state of Tanzania dates formally from 1964, when it was formed out of the union of the much larger mainland territory of Tanganyika and the coastal archipelago of Zanzibar. The former was a colony and part of German East Africa from the 1880s to 1919 when, under the League of Nations, it became a British mandate. It served as a British colony, providing financial help, munitions, and soldiers. In 1947, Tanganyika became a United Nations Trust Territory under British administration, a status it kept until its independence in 1961. The island of Zanzibar thrived as a trading hub, successively controlled by the Portuguese, the Sultanate of Oman, and then as a British protectorate by the end of the nineteenth century.",
+      "Julius Nyerere, independence leader and \"baba wa taifa\" (father of the nation) for Tanganyika, ruled the country for decades, while Abeid Amaan Karume, governed Zanzibar as its president and Vice President of the United Republic of Tanzania. Following Nyerere's retirement in 1985, various political and economic reforms began. He was succeeded in office by President Ali Hassan Mwinyi."
+    ],
+    "url": "https://en.wikipedia.org/wiki/History_of_Tanzania"
+  },
+  "news": {
+    "local": {
+      "label": "Last 7 days",
+      "items": [
+        {
+          "title": "How to Plan a No - Errand Day That Actually Feels Restful",
+          "url": "https://businesstimes.co.tz/how-plan-no-errand-day-that-actually-feels-restful/",
+          "source": "businesstimes.co.tz",
+          "date": "20261112T033000Z",
+          "lang": "English"
+        }
+      ]
+    },
+    "international": {
+      "label": "Last 7 days",
+      "items": [
+        {
+          "title": "The Trump administration is diverting billions in health funding away from low - income countries, defying Congres plans",
+          "url": "https://kesq.com/news/national-world/cnn-world/2026/11/14/the-trump-administration-is-diverting-billions-in-health-funding-away-from-low-income-countries-defying-congress-plans/",
+          "source": "kesq.com",
+          "date": "20261114T210000Z",
+          "lang": "English"
+        },
+        {
+          "title": "Lookman ruled out of Tanzania return leg with knee ligament sprain",
+          "url": "https://www.vanguardngr.com/2026/11/lookman-ruled-out-of-tanzania-return-leg-with-knee-ligament-sprain/",
+          "source": "vanguardngr.com",
+          "date": "20261114T210000Z",
+          "lang": "English"
+        },
+        {
+          "title": "Barker trophy - winning start earns major recogn …",
+          "url": "https://www.kickoff.com/world-news/africa-news/steve-barker-earns-tanzania-award-nomination-after-simba-trophy-double",
+          "source": "kickoff.com",
+          "date": "20261113T180000Z",
+          "lang": "English"
+        },
+        {
+          "title": "Introducing Father Martin Kilonzo, Parochial Vicar, St . Joseph Catholic Church",
+          "url": "https://www.devilslakejournal.com/news/15650/introducing-father-martin-kilonzo-parochial-vicar-st-joseph-catholic-church/",
+          "source": "devilslakejournal.com",
+          "date": "20261113T180000Z",
+          "lang": "English"
+        },
+        {
+          "title": "Tanzania / Nigeria: Nigeria Vs Tanzania Live Updates - Super Eagles Seek Crucial Victory in Uyo",
+          "url": "https://allafrica.com/stories/202611130518.html",
+          "source": "allafrica.com",
+          "date": "20261113T180000Z",
+          "lang": "English"
+        },
+        {
+          "title": "U - 23 AFCONQ: Nigeria suffer 2 - 0 defeat to DR Congo in first leg",
+          "url": "https://www.vanguardngr.com/2026/11/u-23-afconq-nigeria-suffer-2-0-defeat-to-dr-congo-in-first-leg/",
+          "source": "vanguardngr.com",
+          "date": "20261113T180000Z",
+          "lang": "English"
+        },
+        {
+          "title": "Eagles face early AFCON 2027 qualifiers test in Uyo",
+          "url": "https://punchng.com/eagles-face-early-afcon-2027-qualifiers-test-in-uyo/",
+          "source": "punchng.com",
+          "date": "20261113T004500Z",
+          "lang": "English"
+        },
+        {
+          "title": "AFCON 2027 qualifier: Super Eagles must fire on all cylinder against Tanzania - Mouktar",
+          "url": "https://blueprint.ng/afcon-2027-qualifier-super-eagles-must-fire-on-all-cylinder-against-tanzania-mouktar/",
+          "source": "blueprint.ng",
+          "date": "20261112T070000Z",
+          "lang": "English"
+        }
+      ]
+    },
+    "google": {
+      "label": "Top stories, TZ:en edition",
+      "items": [
+        {
+          "title": "DC Lugangira rallies councils on universal health insurance",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdVRfLWl5MUVJd3F6R1ZXeUZYY2FBaHMyajdtYmpiN2Rna2xXcG9MX0Z5Uzk4ejI4V01nOHd3ejFDVDFqcmZ3c3FsaG9Ua3ZVM3pXdVVoX19fNHBDeGJYTDlYOEhkWWNhVncyTW1aUks0QXFDRXA5NHZ1S3dwMV8tck9rZ0hJRXYtT1NtMGdkUENsZWJWdTBpVg?oc=5",
+          "source": "dailynews.co.tz",
+          "date": "2026-11-17T17:18:04.000Z",
+          "lang": "English"
+        },
+        {
+          "title": "Tanzania''s event industry gets digital platform connecting organisers, audiences and businesses",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVlZxOTFZUzhZRHNtSVRsZkVnUFRmVlhvcktRakFqeWhGMXF5QTZzN2lfRzhLeEJEVjY3bXhKRXAzcDFrQkZMMEhDRXdjbkM1YXMwOTM3T2xKV29GZ0YzNGlKVVZVUTROajl1NV8wOXMweEhRMm9vZ0g3dWJ2Zkd4S3RrQUlDaGdobk1uTHRIa0JaZENicTlwVFVjb2hOZUhjVkF3VklmaFNpVndXcUpLS08zMzVKLU1hTHc?oc=5",
+          "source": "dailynews.co.tz",
+          "date": "2026-11-17T15:25:17.000Z",
+          "lang": "English"
+        },
+        {
+          "title": "How Banyan Tree Supports Tanzania’s Conservation-Led Tourism Growth in the Southern Circuit",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOWlVYT084NGRPOWx2ZEx1NmtWTmgxYTFyUDlxYmtvRjA0V1ZqSW53a2pmdjRSQU01d215c1Z3MDBZYm00M0VFZVotX1JwZlpIUTFQZGZ6R0drNXBTUVJMdlFQRVM1OC1kVDFLbmhBa0tSYUpVaG1tLUluTHgwZVE1VnJacXFYUnJWNDdpMWVGdV9XRDdJbXVqVzd1U1l1cHBBUWIzQ05vVmlxbEVMMXM0WVlPR0VzWlJO?oc=5",
+          "source": "tanzaniatimes.net",
+          "date": "2026-11-17T18:01:55.000Z",
+          "lang": "English"
+        },
+        {
+          "title": "At COP31, Tanzania’s clean cooking share climbs to 28.6% from 6.9% in 2021",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZ2lYeGF4V2xlX3l0Ty0xTjU2NG0zNkViUmNNSHY1UXl3NXRRVjdBSEtaMENaV1JqNjlmTXYyU3NNRHUzeGZoc0p6bU9EcFk2Mm94Q3oxWmZGU1U5Q0dsOGQwWGZCajNrZk5kYWJ3Z2IxSHN3bU5PUHc1QnlfQVZxZWNWc0czbUJYdXIyTVVtZXJ4dw?oc=5",
+          "source": "energy-news-network.com",
+          "date": "2026-11-16T20:28:36.000Z",
+          "lang": "English"
+        },
+        {
+          "title": "Tanzania | Hazard - Riverine Floods: Early Action Protocol Activation (EAP No.: EAP2022TZ01, Operation No.: MDRTZ041), 11th November 2026",
+          "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOOV8tZTFwMlAwWHB2VXN0VWFleGtFdVVBdUpYYWEzb0tlSEFYTHZSY0FvemlEY0Vqc29wMkxDYmpja1AtTTRVNzFiTWRERmstZ0xKTnM5dlZyS2FLaG0wRUpPaTZwQ1FwaVlITjNtTVY5dWc1dTZBQ3ByUG1XN0g4bE40RHlSNHdkdEFoS1loNHQ4MFFoTlVMMFJubDdEbEpzZnNNRWtKeGpqNTQ0aW9tRlJicG1md215RnI0ZHpNQXpqZ25SS1RMRVpzV0xSdm1xRWhULVFva25vcDJLNUc1Z2xDRERwdW9ESWp3S2ExZVpnUFBLYXQxVmlBRnFHTE1Yd1R4bThnVDV1QQ?oc=5",
+          "source": "reliefweb.int",
+          "date": "2026-11-17T00:19:01.000Z",
+          "lang": "English"
+        },
+        {
+          "title": "Mpango succeeds Warioba at Sokoine University as Samia appoints three ambassadors",
+          "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQZE9LbHAwaVlWNTdBY1REUGJIUkJnRkV3MWdiTy1ucTJiVWZvTVM0bnBPRkVpMTlURDlRNGZKVk13Z1BhMnVnVVJLTFNTT2RWNE54X3B4WHo0U0k5U1FfZVhob241MWdjaU5oMGpGaGt0SXEtalFzSlo3OUJ5dXBubTJmNmtpSThnZDU3WWFSc2EzSk90cm0wOVhGWjRNQ3A5SzRJOHdyOVNBSXBlUWN6ZmlFNXFidUVjWEc4c0FHRVJ1T1hJWlBpWk1FX25aSWR0Q21BZnhGS294cGZVdVNDQWdnY2lnQlphZXdTS2RLYi1yZw?oc=5",
+          "source": "ippmedia.co.tz",
+          "date": "2026-11-17T14:19:12.000Z",
+          "lang": "English"
+        },
+        {
+          "title": "Algeria hosts African Skills Olympics to foster continental vocational training",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNeVJISXllenl1Vi03RDIzeGxLYXhLY20taHlyaUtwekVnVm1GemJSWk5FaW5oZTNrQnEyUHFqcmR0QzdXQnNVWEVrS0J3YVl5b1J3dWdmeGFKaWVNNEpDZ2MwWmJHdVZ4Y1JkS1Z0WnBfdDB4c3cwQ29GdjZKRk5PSjdjbHhRZw?oc=5",
+          "source": "english.news.cn",
+          "date": "2026-11-16T20:54:30.000Z",
+          "lang": "English"
+        },
+        {
+          "title": "United Nations Mission in South Sudan-supported (UNMISS) screening identifies 54 children among police recruits",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOOFlXalE4ell4aHhmQ3U2c1dGQVBKQXpWQTZWQ0oxUl9aMDhUZG54d1Y5clBHdEVxSExtSU5NYWpEV2M1eS1wdTBfTDNFRkNReVcxNlpxTGktLXRsaXlESE5aVXlCazNUQ0dPZDZIMlItbE4tMklsbEpSYnFjS2NPSWhDeXJSQ05XeVlhSkdSelZBdFdDWElEbmM5aDI3dElWczNENFRzQlhOZE1pVUdFQl92Y1YwTloyVkNlSTF3dEozQ2s?oc=5",
+          "source": "africa.com",
+          "date": "2026-11-17T06:43:26.000Z",
+          "lang": "English"
+        }
+      ]
+    }
+  }
+}
