@@ -1,6 +1,6 @@
 {
   "date": "2026-11-18",
-  "updated": "2026-11-18T01:30:18.224Z",
+  "updated": "2026-11-18T07:28:57.460Z",
   "qid": "Q924",
   "name": "Tanzania",
   "status": "UN member state",
@@ -34,7 +34,7 @@
   },
   "news": {
     "local": {
-      "label": "Last 7 days",
+      "label": "Last month",
       "items": [
         {
           "title": "How to Plan a No - Errand Day That Actually Feels Restful",
@@ -42,6 +42,55 @@
           "source": "businesstimes.co.tz",
           "date": "20261112T033000Z",
           "lang": "English"
+        },
+        {
+          "title": "Madarasa janja yanavyoleta mapinduzi ya elimu vijijini – HabariLeo",
+          "url": "https://habarileo.co.tz/madarasa-janja-yanavyoleta-mapinduzi-ya-elimu-vijijini/",
+          "source": "habarileo.co.tz",
+          "date": "20261110T043000Z",
+          "lang": "Swahili"
+        },
+        {
+          "title": "BOOST yavuka lengo, madarasa 16, 000 yajengwa, 51 chakavu yakarabatiwa – HabariLeo",
+          "url": "https://habarileo.co.tz/boost-yavuka-lengo-madarasa-16000-yajengwa-51-chakavu-yakarabatiwa/",
+          "source": "habarileo.co.tz",
+          "date": "20261110T043000Z",
+          "lang": "Swahili"
+        },
+        {
+          "title": "BOOST Programme boosts 140pc performance in primary education overhaul",
+          "url": "https://dailynews.co.tz/boost-programme-boosts-140pc-performance-in-primary-education-overhaul/",
+          "source": "dailynews.co.tz",
+          "date": "20261110T043000Z",
+          "lang": "English"
+        },
+        {
+          "title": "How smart classrooms, smartboards are smartly connecting schools",
+          "url": "https://dailynews.co.tz/how-smart-classrooms-smartboards-are-smartly-connecting-schools/",
+          "source": "dailynews.co.tz",
+          "date": "20261110T043000Z",
+          "lang": "English"
+        },
+        {
+          "title": "Tanzania ranks eighth in Africa for health sector development",
+          "url": "https://www.thecitizen.co.tz/tanzania/news/national/tanzania-ranks-eighth-in-africa-for-health-sector-development-5663326",
+          "source": "thecitizen.co.tz",
+          "date": "20261108T183000Z",
+          "lang": "English"
+        },
+        {
+          "title": "It not  colonialism, it  invasion: Burkina Faso corrects Africa history",
+          "url": "https://www.thecitizen.co.tz/tanzania/news/africa/it-s-not-colonialism-it-s-invasion-burkina-faso-corrects-africa-s-history-5663480",
+          "source": "thecitizen.co.tz",
+          "date": "20261108T183000Z",
+          "lang": "English"
+        },
+        {
+          "title": "Je, prodyuza wanakuja kuwanyanganya wasanii tonge?",
+          "url": "https://www.mwananchi.co.tz/mw/burudani/je-prodyuza-wanakuja-kuwanyang-anya-wasanii-tonge--5662712",
+          "source": "mwananchi.co.tz",
+          "date": "20261108T103000Z",
+          "lang": "Swahili"
         }
       ]
     },
@@ -110,52 +159,31 @@
       "label": "Top stories, TZ:en edition",
       "items": [
         {
-          "title": "DC Lugangira rallies councils on universal health insurance",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdVRfLWl5MUVJd3F6R1ZXeUZYY2FBaHMyajdtYmpiN2Rna2xXcG9MX0Z5Uzk4ejI4V01nOHd3ejFDVDFqcmZ3c3FsaG9Ua3ZVM3pXdVVoX19fNHBDeGJYTDlYOEhkWWNhVncyTW1aUks0QXFDRXA5NHZ1S3dwMV8tck9rZ0hJRXYtT1NtMGdkUENsZWJWdTBpVg?oc=5",
+          "title": "KCMC University introduces three health programmes",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOM1c1bXNoNkpWaVFYeWVoUEhidjhRUUlJZDdBVHdDUFh1ek1ldEpyUzlQaUh4WVRLZ0JMcjRIREx0Qk9Ebk1MSlRwRmt5XzZTU3doZEVROTFDQlpCQUhOaWVYdi1QSmdWU0dDQmRINngyam45SkU2NTlrbk9NN1BxTg?oc=5",
           "source": "dailynews.co.tz",
-          "date": "2026-11-17T17:18:04.000Z",
+          "date": "2026-11-18T06:42:40.000Z",
           "lang": "English"
         },
         {
-          "title": "Tanzania''s event industry gets digital platform connecting organisers, audiences and businesses",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVlZxOTFZUzhZRHNtSVRsZkVnUFRmVlhvcktRakFqeWhGMXF5QTZzN2lfRzhLeEJEVjY3bXhKRXAzcDFrQkZMMEhDRXdjbkM1YXMwOTM3T2xKV29GZ0YzNGlKVVZVUTROajl1NV8wOXMweEhRMm9vZ0g3dWJ2Zkd4S3RrQUlDaGdobk1uTHRIa0JaZENicTlwVFVjb2hOZUhjVkF3VklmaFNpVndXcUpLS08zMzVKLU1hTHc?oc=5",
+          "title": "Charity must go beyond occasional acts of kindness",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQaG5DbEdDYVA0djctcENzTW9DTW5iR1BLTHlrdk05UXZYMUdqSkd5c3NXdHhRdTVmTTBWMlE4R0VVbEFjSTFRWkdHR0EzU1ZLeVMxcGdmbzdSdi0yZ0ZZSVBUNHdHMnByUVFhUTA5LTdqTEQ2eldCaV9DSk1NQnRUMQ?oc=5",
           "source": "dailynews.co.tz",
-          "date": "2026-11-17T15:25:17.000Z",
+          "date": "2026-11-18T06:25:41.000Z",
           "lang": "English"
         },
         {
-          "title": "At COP31, Tanzania’s clean cooking share climbs to 28.6% from 6.9% in 2021",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZ2lYeGF4V2xlX3l0Ty0xTjU2NG0zNkViUmNNSHY1UXl3NXRRVjdBSEtaMENaV1JqNjlmTXYyU3NNRHUzeGZoc0p6bU9EcFk2Mm94Q3oxWmZGU1U5Q0dsOGQwWGZCajNrZk5kYWJ3Z2IxSHN3bU5PUHc1QnlfQVZxZWNWc0czbUJYdXIyTVVtZXJ4dw?oc=5",
-          "source": "energy-news-network.com",
-          "date": "2026-11-16T20:28:36.000Z",
+          "title": "Stakeholders outline long-term solutions to Uyui water shortages",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNQThvTWp6OGg1d2RnWllfSkM3Z2d2SjljMklvZjd0Zl9aVVcwbnlFbUdHS1pKY1BNamJtWmF2TEE0a1dhd2hEMENLZjk0SFpNbFJpYlNVZVMyYjQ1MHVzaTlyeHRIcDM2YWxuS3VOaWFlSlo0S1c3QWYxcng2ZzNaSlJaWXBFeTNGYTdmOFk5elNKT0gzZ0E3SFRremJPN0FqUEhjcGdzbnFzaFhoV3lkbjcwRFpiZWhNWG8taW5tOUNSZw?oc=5",
+          "source": "thecitizen.co.tz",
+          "date": "2026-11-18T06:14:31.000Z",
           "lang": "English"
         },
         {
-          "title": "How Banyan Tree Supports Tanzania’s Conservation-Led Tourism Growth in the Southern Circuit",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOWlVYT084NGRPOWx2ZEx1NmtWTmgxYTFyUDlxYmtvRjA0V1ZqSW53a2pmdjRSQU01d215c1Z3MDBZYm00M0VFZVotX1JwZlpIUTFQZGZ6R0drNXBTUVJMdlFQRVM1OC1kVDFLbmhBa0tSYUpVaG1tLUluTHgwZVE1VnJacXFYUnJWNDdpMWVGdV9XRDdJbXVqVzd1U1l1cHBBUWIzQ05vVmlxbEVMMXM0WVlPR0VzWlJO?oc=5",
-          "source": "tanzaniatimes.net",
-          "date": "2026-11-17T18:01:55.000Z",
-          "lang": "English"
-        },
-        {
-          "title": "Tanzania | Hazard - Riverine Floods: Early Action Protocol Activation (EAP No.: EAP2022TZ01, Operation No.: MDRTZ041), 11th November 2026",
-          "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOOV8tZTFwMlAwWHB2VXN0VWFleGtFdVVBdUpYYWEzb0tlSEFYTHZSY0FvemlEY0Vqc29wMkxDYmpja1AtTTRVNzFiTWRERmstZ0xKTnM5dlZyS2FLaG0wRUpPaTZwQ1FwaVlITjNtTVY5dWc1dTZBQ3ByUG1XN0g4bE40RHlSNHdkdEFoS1loNHQ4MFFoTlVMMFJubDdEbEpzZnNNRWtKeGpqNTQ0aW9tRlJicG1md215RnI0ZHpNQXpqZ25SS1RMRVpzV0xSdm1xRWhULVFva25vcDJLNUc1Z2xDRERwdW9ESWp3S2ExZVpnUFBLYXQxVmlBRnFHTE1Yd1R4bThnVDV1QQ?oc=5",
-          "source": "reliefweb.int",
-          "date": "2026-11-17T00:19:01.000Z",
-          "lang": "English"
-        },
-        {
-          "title": "Tanzania explores carbon capture in petroleum industry",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxORjEyejVxRzlKR1BvYjhsXzBleUF2WmlYV1UzeXo1MHdzSDFqdXJjNmI5Q243b0FseDg2LWZyM0hUQnV4dVVnY2Iyb2Z1MzZrSm02cXJOdzdtZjk1UWpYd3FQWDVGWllpVWp6MTROYWd3WmJaTUtUVXpxWEY0MmpKZk9tYU50YkQ1aWhJZ0lNVWdEa0lyQ0pFZHlXMEp5S1dtUi1leGtlTk1jZDZieFZvYXFVR1Y0azZDUlJEV1lldVpKS240VE9iVw?oc=5",
-          "source": "ippmedia.co.tz",
-          "date": "2026-11-16T16:21:07.000Z",
-          "lang": "English"
-        },
-        {
-          "title": "Mozambique opposition leader charged with terrorism over 2024 unrest",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMEY5SWlzSk5rNGMxRUhKMGRUMTI0WGFkVXdFdHhsdkg0S05aZnJyVUVQVjdEUG9GVHhVZVV0R3ZmNVhqSXBFejZjSWc1LXpUQnR3UlducXB2a1Rhc3JNakxuT1QzdURwZFg0N1d6aGFvaW5Gc2N6aHZmNEhzdWhLMkczWjZLLUhMX3hiUWJBbXZQSi1BWFBCZTByOGdCWDhPMzJ6NjRkZ1VVaWPSAbABQVVfeXFMTVgya1NPUzJTVFY3X2ZiYkFCY1Bqd1ZvOHRFQmZ6VE9zWHYtTmlSMjZ6OTdMdTdXc1k0YnRwbUtHNm9mVlBxUUhESlkxRXdzVHg3SlpCeFZ2STl6MHFsYk9iY3otdFU1QjgzbGRmWGc1dFo0aEttTTRWaHQ4Q08zdEdKSTVsR1Q5eGhtME1MQlIzdER5NnJKcnZ6U2xPWDlFaGVrY2o1LUpNeEtUMGJqNEU?oc=5",
-          "source": "africanews.com",
-          "date": "2026-11-17T17:59:30.000Z",
+          "title": "How land rights, savings groups help women rebuild livelihoods",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNVG1pQTc0OGFrTEhGY0dtUXZpb01YT2J1TndJaVdlTGNwVFh3d25qSksybmJyQUY2cnVCR2xzMTZpVmhFbnF6dW0tSU5hOW9wd2FTd0VPYWR1Ni0tdzU3T2o0LTJCYy0xZWFHcUJ2NHVfdFlWWk1ydFdNOUQ3VDhoalVtX3h4a2EzMDNSd0xKVXZreEFiYlVYZ3EwVnREWkx2cmwyUk0wR21lVWNLY3pNNTVESW52UG5LdDdjLVh3?oc=5",
+          "source": "thecitizen.co.tz",
+          "date": "2026-11-18T06:42:39.000Z",
           "lang": "English"
         },
         {
@@ -163,6 +191,27 @@
           "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNeVJISXllenl1Vi03RDIzeGxLYXhLY20taHlyaUtwekVnVm1GemJSWk5FaW5oZTNrQnEyUHFqcmR0QzdXQnNVWEVrS0J3YVl5b1J3dWdmeGFKaWVNNEpDZ2MwWmJHdVZ4Y1JkS1Z0WnBfdDB4c3cwQ29GdjZKRk5PSjdjbHhRZw?oc=5",
           "source": "english.news.cn",
           "date": "2026-11-16T20:54:30.000Z",
+          "lang": "English"
+        },
+        {
+          "title": "United Nations Mission in South Sudan-supported (UNMISS) screening identifies 54 children among police recruits",
+          "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNVVNXcTlpQjZnZlpMTEpJRDhjUThwQjVaQjJiMkYyY0t3ZFVDNUJEaTlVbTJUZzE1TnJwZjZnQ3Rza0VkLW1tU0E0Y3pyUDFOSWMyVUFSblJuY2xiekk3NENBM1RZNFR3QlV1d0oxRHJnVDVWWDNzVll4ZmlfNThFN3pfYlVsX3dKR3BoemEtSUUyaXowUzJTZWRBRlpLU1BpNFJjSlFXaVlxTHRmNzZWNmZpdzNaX3hGLTlxUHBlNXNtWUQxeC1LbHAyUnp3cmoxMmhTamdSQ3hWd3VkSjJhMkNQejU2M2lYal9PMmdBY1Y3M204VHBhcXJrSl9vUXdkN2F2b0hfbzRNUQ?oc=5",
+          "source": "zawya.com",
+          "date": "2026-11-17T06:01:00.000Z",
+          "lang": "English"
+        },
+        {
+          "title": "World Bank Says 43% of Sub Saharan Africans Are Poor",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBHUGx5blRQZXFkMDI5SldsRWdSRnREdHBkYlZFMVhsOXZ4VTFsMS1fRVdtdFd2Mm5Fb1ZtaVJvblJ4ODJDRTlKbXFLWUVDZkFXMjBsWXVVbWJmRm5qM2c?oc=5",
+          "source": "uchumi360.com",
+          "date": "2026-11-17T18:44:29.000Z",
+          "lang": "English"
+        },
+        {
+          "title": "Coca-Cola HBC set for Johannesburg listing on November 23",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQ0tzWWtTTW14LTY2cWMzSGxJai00bjItcFRkbFI3cUwxTlRaZnl6YVZIVG5GemE2dlh0TU1Nbmd1TkNQVzRRbUpQUGQ5YUxPSTRaYmVIbngxQ3hYVU12M25VTWVKdWhUSTJnRXBQdnJONDBuMjI3MjMzS2dKVXJSMy1SVG1EVS1Bam9Nb3NhTDRFU05sUU9pUU13LXZaZjdCaENHQ0dFQ1JQZw?oc=5",
+          "source": "reuters.com",
+          "date": "2026-11-16T15:18:52.000Z",
           "lang": "English"
         }
       ]
