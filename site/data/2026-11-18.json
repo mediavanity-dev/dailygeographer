@@ -1,6 +1,6 @@
 {
   "date": "2026-11-18",
-  "updated": "2026-11-18T19:08:25.889Z",
+  "updated": "2026-11-18T23:44:38.793Z",
   "qid": "Q924",
   "name": "Tanzania",
   "status": "UN member state",
@@ -16,7 +16,7 @@
     "Area": "947,303 km²",
     "Languages": "English, Swahili",
     "Currency": "Tanzanian shilling",
-    "Time zones": "UTC+03:00, East Africa Time, Africa/Dar_es_Salaam",
+    "Time zones": "East Africa Time, Africa/Dar_es_Salaam, UTC+03:00",
     "Calling code": "+255"
   },
   "map": "https://www.openstreetmap.org/?mlat=-6.306944444&mlon=34.853888888#map=5/-6.306944444/34.853888888",
@@ -98,6 +98,13 @@
       "label": "Last 7 days",
       "items": [
         {
+          "title": "Setback for Atletico Madrid as Lookman injury more serious than expected",
+          "url": "http://www.nigeriasun.com/news/279440923/setback-for-atletico-madrid-as-lookman-injury-more-serious-than-expected",
+          "source": "nigeriasun.com",
+          "date": "20261118T173000Z",
+          "lang": "English"
+        },
+        {
           "title": "The Trump administration is diverting billions in health funding away from low - income countries, defying Congres plans",
           "url": "https://kesq.com/news/national-world/cnn-world/2026/11/14/the-trump-administration-is-diverting-billions-in-health-funding-away-from-low-income-countries-defying-congress-plans/",
           "source": "kesq.com",
@@ -145,13 +152,6 @@
           "source": "punchng.com",
           "date": "20261113T004500Z",
           "lang": "English"
-        },
-        {
-          "title": "AFCON 2027 qualifier: Super Eagles must fire on all cylinder against Tanzania - Mouktar",
-          "url": "https://blueprint.ng/afcon-2027-qualifier-super-eagles-must-fire-on-all-cylinder-against-tanzania-mouktar/",
-          "source": "blueprint.ng",
-          "date": "20261112T070000Z",
-          "lang": "English"
         }
       ]
     },
@@ -159,10 +159,17 @@
       "label": "Top stories, TZ:en edition",
       "items": [
         {
-          "title": "Tanzania orders probe after new MV Mwanza hits rocks during trial run",
-          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPazhoOHVuMVZ3RzF3QnFXSThDaXh5Q0Q3T091R0Z3bUI4NE11Y2xwTEFfRkVfbXJsYmhTTjhnYzNXbWRPb2xZOTU5NnJ4T0sxb0djS0lrMVVwSFFkTDlibVJSbXljUnlUTWF6azYzZG9PalhoaG5hRFRUN2c4R3dTMEdZbVUyZ0VfbFBOWm1iaFBCZnFsaUxhSi16SDc0RFlFZ0lfSnF4WjVjbVo0T290ekVqb01sQXFqa0FLbnM3YVJmRUVuMVBTdlI0Z21Bd1VTeVcwV3VBcmFoQjJjdlRUMHd3?oc=5",
-          "source": "ippmedia.co.tz",
-          "date": "2026-11-18T13:52:47.000Z",
+          "title": "From TAZARA to orphanages, Huawei seeks to bridge Tanzania’s digital divide through inclusive technology initiatives",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQS1NJNHBwWkgtZldKZ2FwOFV2WXdmUldVZmp6aFMya0daYjVtNi1XWmtLck9KUTVaMTRwNkJXRU10X3dEcWNkN2pXZGRKNW5qbzE4Xy1CbThkdVE2NkNHbWNWb1d2UTdaVDVJQmEtS2xkUGZmTjRQRjFpMjlFeXVuaEZlYWo3ZFJlU3J0X3R4NXdsdC1ha2dYS0ZRVWZRNURicER4aDFBd3h4aW1VaDROZWxmZHkwYnc3dHI0c3lFZHBYOTVFMG9CamlKVUZjTUhwWTdPQlNn?oc=5",
+          "source": "dailynews.co.tz",
+          "date": "2026-11-18T19:13:45.000Z",
+          "lang": "English"
+        },
+        {
+          "title": "Indusmach Tanzania 2026 opens with 30 exhibitors",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4yWFJfZGE1RWsta1V6ZVcwUkY4a2gxXzUwSDFVcFJnTFE5N3BoX3hJZnc3akdTRmVzaURRd1N5X0VmSHFObzVweHU1U3pXZVU0ZV9mUEUtcklmb1NTeVp3N2ptb3hYX1QtRnZLTVVBYXh1ZmpJSlpKMGE1and2QQ?oc=5",
+          "source": "dailynews.co.tz",
+          "date": "2026-11-18T15:33:33.000Z",
           "lang": "English"
         },
         {
@@ -173,31 +180,10 @@
           "lang": "English"
         },
         {
-          "title": "The Diplomacy Beneath the Veto: Tanzania, Russia, and the Mechanics of Multilateral Leverage: Stratgic Non-Alignment and Executive Realism in Modern Geopolitics",
-          "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPWUE4MmdnenU2dmdxUkQ0Wjd5VndMbUpZNnphbGlEQnYzU1Q5RGl5aDJ3OFgwcHpWaHBQVE9EMFNZZU4xX0JDeXQtMTJMemdNSGhHWk4xRDM0ODYzNlpTRUMzTDRZeGVXelV1MXFUR3BuX2haQ3BKbEhHUWloa21RbFFDdG01UF9QRzlwS3NOOVZ3Qkg4NzE3TE1LQV9Bai0yMVQxbzRld1ZMV1ZlVlp0YXFySW9OVUxCWXg3X0Ytbk11a2x5WDlObDFteFhzb2o2aU9BMnNseW9GcWdnTkRlM3dCUjZ4TTNXcDYyQ3k4eUFEMnVzSnZXTml2cjM5N1JjVjBacS1uUUFGTG1QNkE?oc=5",
-          "source": "dailynews.co.tz",
-          "date": "2026-11-18T18:42:14.000Z",
-          "lang": "English"
-        },
-        {
-          "title": "Tanzania calls on ICAO to invest more in human capital, infrastructure, technology",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUFpmNDM0bmVHMnlHRXpwdURzT0I0bWxvUXQ1Q0xHMFV0c1J0WWtXLVhhc1NtUzdEVEkzUmZFLVplTTBYUmppRGZNdlRNalJubFJFajExeHZVNjk2c0NfZ3hoMVFpVnBLWEU0ZnZlemJXQUNjWEhRVGhRclpCSmowam9BbWg3ak1NeWNialIxenQxMUF6cTRWTVRTNDNPNF9sNVE4NGJ4M04?oc=5",
-          "source": "dailynews.co.tz",
-          "date": "2026-11-18T16:19:22.000Z",
-          "lang": "English"
-        },
-        {
-          "title": "Tanzania’s GBT urges betting operators to strengthen compliance",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE94NW5NTFRlanZ0WU9qU0EtRUV2TE5uR0pXdHFIUHB2R044Rl9xMkRSVW1aWnlGNHdUSHlDNlNRX3NLMTE0SVN4cVRFWm5PZkUtUFN2TTNUc2pKY2liZE1MS3lvanVKYllzWk1HeW9MWmJLb1NVTnlJ?oc=5",
-          "source": "focusgn.com",
-          "date": "2026-11-18T14:09:12.000Z",
-          "lang": "English"
-        },
-        {
-          "title": "Pangani villagers cut deforestation rate through community forest management",
-          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPMmdLeWtmLURSX0g3VmhxdGFjc3NGWEpyNHdEbVZwSUxxV0laVEl0QkVqbl9DSlRvU0twamdyUTl0UHduU1l0Y3lOVG1VRlZOZHk4ZXVBcEx3UEJkZmprTlNhUkVwakVfMDdfcTlsbWNUMHRKUWN3Y0Z6MUNlS2FtN3hpdENQLWhXSC1zY05jVXBiZG4zNzJVUkhxSWFNMkxucWYzUDlKRlhaeV9FOTJwZFVYTjhyckFGaVJzdXlpbU13LS1mQ3VoNzhtMnZMSVVzSFJJZWR2eDFxZ1Vu?oc=5",
+          "title": "Tanzania opens new framework to fund green, social projects",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNUHFUaEpKblZKNmgwS1lwVU5WWDJ6WkJkc1NINU9tMjFoZExmQXBhcDZrekpCSTY0cTVaakp3U2V1XzZWM2JyQ0FKalg4OUUycjZ3bEpGVGhSdkdMZGVXaFV0SlRoVlZRcGNBemZyMjlRYXk5cW51Rlg1ekFzanE1cG1qOXk2SWExa05HREhXVjQ5eHNoSlU2dHgxTkhZUWpaeW1UMWVkMzVXN0k5S0RJQ3VwSzBncEhKTjJOVWpvVkxWM3pqV1dXRkEwbjVMZw?oc=5",
           "source": "ippmedia.co.tz",
-          "date": "2026-11-18T14:33:58.000Z",
+          "date": "2026-11-18T14:16:24.000Z",
           "lang": "English"
         },
         {
@@ -208,10 +194,24 @@
           "lang": "English"
         },
         {
-          "title": "MV Mwanza, the largest ship on Lake Victoria crashes onto Bismark Rock",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMjQwd2wtT2RMNVE3NzJFMFRMWjBxS3FKUng1SXlldGdzeWZCanNHVExfakNmVHFDblZaS05lS2xMSEdCZWhuT1ZLMG5iVTB5c3MzVFJsRHlQSlhmVzdmeVIwWUtOV0JXenE2SXRNNmZTbnVVX2V2Z1FHd1lCbllCcHNJbzRhbjI3dU1hTHJXZFQ2UjFGb1hVN2JmVng?oc=5",
-          "source": "tanzaniatimes.net",
-          "date": "2026-11-18T11:59:19.000Z",
+          "title": "Tanzania’s GBT urges betting operators to strengthen compliance",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE94NW5NTFRlanZ0WU9qU0EtRUV2TE5uR0pXdHFIUHB2R044Rl9xMkRSVW1aWnlGNHdUSHlDNlNRX3NLMTE0SVN4cVRFWm5PZkUtUFN2TTNUc2pKY2liZE1MS3lvanVKYllzWk1HeW9MWmJLb1NVTnlJ?oc=5",
+          "source": "focusgn.com",
+          "date": "2026-11-18T14:09:12.000Z",
+          "lang": "English"
+        },
+        {
+          "title": "Zanzibar hosts seven African countries in push for transparency in reproductive health financing",
+          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxONEYxek15UjdocnEwWWFjdGdYczdvTmQ3RHplM3RrVThaVDNENDZZUllyWjNpYmFhaHZTTWxxb0pObnlEMmY4MEFUbEh1QmpmSS1Gb3NwNlFtNDRnUHlHRThpRW93OE8xX0ctNk9XUWpTU1NIUTRRT1FvdDV3cUdfc1ptQ1NwNm5XN05KOC0tT2wtME5fa29panRFamJFY2IzR2dRa3ZPcXo5MHlVb1VHRC1adVV1Q084ZDNhb2JaV21PMk8xelNTcmlaclRSYjhZTWNudDV3YVpXd1ItaFQwV1ZhQkxLQQ?oc=5",
+          "source": "thecitizen.co.tz",
+          "date": "2026-11-18T16:37:58.000Z",
+          "lang": "English"
+        },
+        {
+          "title": "Ugandan political activist seized last year is charged in military court",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOTkJvT0FVaF9MaXVoYndUX2ROWVRpZjczTzZKeEFEaFBTM1U0WEJVNE1PcDA5a19BMzUybFI2eHVOai1RYzdwa1BQRi0yZzVtY280ZlJNakhWcXVENldPUHBwSWVLd291Y0dYTU56VG52ZUw0RnlDdjNRUEFLSUFMd1RMOWNodw?oc=5",
+          "source": "sg.news.yahoo.com",
+          "date": "2026-11-18T16:33:31.000Z",
           "lang": "English"
         }
       ]

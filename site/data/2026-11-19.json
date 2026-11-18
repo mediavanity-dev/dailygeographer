@@ -1,0 +1,137 @@
+{
+  "date": "2026-11-19",
+  "updated": "2026-11-18T23:46:38.616Z",
+  "qid": "Q813",
+  "name": "Kyrgyzstan",
+  "status": "UN member state",
+  "officialName": "Kyrgyzstan",
+  "flag": {
+    "svg": "https://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Kyrgyzstan.svg",
+    "alt": "Flag of Kyrgyzstan"
+  },
+  "facts": {
+    "Capital": "Bishkek",
+    "Continent": "Asia",
+    "Population": "7,281,800",
+    "Area": "199,951 km²",
+    "Languages": "Kyrgyz",
+    "Currency": "Kyrgyz som",
+    "Time zones": "UTC+06:00",
+    "Calling code": "+996"
+  },
+  "map": "https://www.openstreetmap.org/?mlat=41.0&mlon=75.0#map=5/41.0/75.0",
+  "summary": {
+    "extract": "Kyrgyzstan, officially the Kyrgyz Republic, formerly known as Kirghizia, is a landlocked country located in Central Asia, lying in the Tian Shan and Pamir mountain ranges. It is bordered by Kazakhstan to the north, Uzbekistan to the west, Tajikistan to the south, and China to the east and southeast. The capital and largest city is Bishkek which lies on the northern border with Kazakhstan. Ethnic Kyrgyz make up the majority of the 7.5 million people, followed by significant minorities of Uzbeks and Russians.",
+    "url": "https://en.wikipedia.org/wiki/Kyrgyzstan"
+  },
+  "history": {
+    "title": "History of Kyrgyzstan",
+    "paragraphs": [
+      "The history of the Kyrgyz people and the land now called Kyrgyzstan goes back more than 3,000 years. Although geographically isolated by its mountainous location, it had an important role as part of the historical Silk Road trade route. Turkic nomads, who trace their ancestry to many Turkic states such as the First and Second Turkic Khaganates, have inhabited the country throughout its history. In the 13th century, Kyrgyzstan was conquered by the Mongols; subsequently it regained independence but was invaded by Kalmyks, Manchus, and Uzbeks. In 1876, it became part of the Russian Empire, remaining in the USSR as the Kirghiz Soviet Socialist Republic after the Russian Revolution. Following Mikhail Gorbachev's democratic reforms in the USSR, in 1990 pro-independence candidate Askar Akayev was elected president of the SSR. On 31 August 1991, Kyrgyzstan declared independence from Moscow, and a democratic government was subsequently established."
+    ],
+    "url": "https://en.wikipedia.org/wiki/History_of_Kyrgyzstan"
+  },
+  "news": {
+    "local": {
+      "label": "Last 7 days",
+      "items": [
+        {
+          "title": "Two teenagers with gunfire wounds sent to hospital in Chui region",
+          "url": "https://akipress.com/news:931933:Two_teenagers_with_gunfire_wounds_sent_to_hospital_in_Chui_region/",
+          "source": "akipress.com",
+          "date": "20261118T011500Z",
+          "lang": "English"
+        },
+        {
+          "title": "Share of taxes in GDP to decrease from 21% to 18 . 9% due to tax exemptions - Cabinet Chairman",
+          "url": "https://akipress.com/news:931937:Share_of_taxes_in_GDP_to_decrease_from_21__to_18_9__due_to_tax_exemptions_-_Cabinet_Chairman/",
+          "source": "akipress.com",
+          "date": "20261118T011500Z",
+          "lang": "English"
+        },
+        {
+          "title": "Нацификация и невежество парламента в Кыргызстане",
+          "url": "https://www.stanradar.com/news/full/54422-natsifikatsija-i-nevezhestvo-parlamenta-v-kyrgyzstane.html",
+          "source": "stanradar.com",
+          "date": "20261112T070000Z",
+          "lang": "Russian"
+        },
+        {
+          "title": "Что на самом деле происходило за колючей проволокой ликвидированной колонии « Жаслык »?",
+          "url": "https://www.stanradar.com/news/full/60932-chto-na-samom-dele-proishodilo-za-koljuchej-provolokoj-likvidirovannoj-kolonii-zhaslyk.html",
+          "source": "stanradar.com",
+          "date": "20261112T070000Z",
+          "lang": "Russian"
+        },
+        {
+          "title": "В Кара - Балте задержали двух подозреваемых в хулиганстве после конфликта на улице » Gazeta . kg - новости Кыргызстана и Бишкека сегодня",
+          "url": "https://gazeta.kg/incidents/234747-v-kara-balte-zaderzhali-dvuh-podozrevaemyh-v-huliganstve-posle-konflikta-na-ulice.html",
+          "source": "gazeta.kg",
+          "date": "20261112T053000Z",
+          "lang": "Russian"
+        },
+        {
+          "title": "В Кыргызстане внедряют единые стандарты диагностики и лечения неинфекционных заболеваний » Gazeta . kg",
+          "url": "https://gazeta.kg/exclusive/234758-v-kyrgyzstane-vnedrjajut-edinye-standarty-diagnostiki-i-lechenija-neinfekcionnyh-zabolevanij.html",
+          "source": "gazeta.kg",
+          "date": "20261112T053000Z",
+          "lang": "Russian"
+        },
+        {
+          "title": "В ОДКБ поддержали создание Евразийской экспертно - аналитической платформы",
+          "url": "https://www.vb.kg/doc/462985_v_odkb_podderjali_sozdanie_evraziyskoy_ekspertno_analiticheskoy_platformy.html",
+          "source": "vb.kg",
+          "date": "20261112T053000Z",
+          "lang": "Russian"
+        },
+        {
+          "title": "Владимир Агафонов:  Туристический кружок должен быть в каждой школе КР",
+          "url": "https://www.vb.kg/doc/462974_vladimir_agafonov:_tyristicheskiy_kryjok_doljen_byt_v_kajdoy_shkole_kr.html",
+          "source": "vb.kg",
+          "date": "20261112T053000Z",
+          "lang": "Russian"
+        }
+      ]
+    },
+    "international": {
+      "label": "Last 7 days",
+      "items": [
+        {
+          "title": "Kazakhstan, Kyrgyzstan and Tajikistan at CSTO summit - Different approaches to common security",
+          "url": "https://www.trend.az/casia/4245372.html",
+          "source": "trend.az",
+          "date": "20261112T053000Z",
+          "lang": "English"
+        },
+        {
+          "title": "AJA Newsbites – November 12, 2026",
+          "url": "https://theasian.asia/archives/205560",
+          "source": "theasian.asia",
+          "date": "20261112T033000Z",
+          "lang": "English"
+        },
+        {
+          "title": "Kyrgyzstan SME foreign trade turnover rises 9 . 2% to $8 . 66B in 2025",
+          "url": "https://www.trend.az/casia/kyrgyzstan/4245433.html",
+          "source": "trend.az",
+          "date": "20261112T030000Z",
+          "lang": "English"
+        },
+        {
+          "title": "Armenia Rejects Legal Grounds for Possible EAEU Suspension, Finance Minister Says • MassisPost",
+          "url": "https://massispost.com/2026/11/armenia-rejects-legal-grounds-for-possible-eaeu-suspension-finance-minister-says/",
+          "source": "massispost.com",
+          "date": "20261112T030000Z",
+          "lang": "English"
+        },
+        {
+          "title": "Kyrgyzstan Manas Airport to Build 40, 000m² Cargo Terminal for China - Europe Trade Corridor",
+          "url": "https://english.pravda.ru/news/world/172488-manas-airport-cargo-terminal-china-europe-corridor/",
+          "source": "english.pravda.ru",
+          "date": "20261112T030000Z",
+          "lang": "English"
+        }
+      ]
+    }
+  }
+}
