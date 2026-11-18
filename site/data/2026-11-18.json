@@ -1,6 +1,6 @@
 {
   "date": "2026-11-18",
-  "updated": "2026-11-18T07:28:57.460Z",
+  "updated": "2026-11-18T13:24:26.655Z",
   "qid": "Q924",
   "name": "Tanzania",
   "status": "UN member state",
@@ -16,7 +16,7 @@
     "Area": "947,303 km²",
     "Languages": "English, Swahili",
     "Currency": "Tanzanian shilling",
-    "Time zones": "UTC+03:00, East Africa Time, Africa/Dar_es_Salaam",
+    "Time zones": "East Africa Time, Africa/Dar_es_Salaam, UTC+03:00",
     "Calling code": "+255"
   },
   "map": "https://www.openstreetmap.org/?mlat=-6.306944444&mlon=34.853888888#map=5/-6.306944444/34.853888888",
@@ -159,24 +159,45 @@
       "label": "Top stories, TZ:en edition",
       "items": [
         {
-          "title": "KCMC University introduces three health programmes",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOM1c1bXNoNkpWaVFYeWVoUEhidjhRUUlJZDdBVHdDUFh1ek1ldEpyUzlQaUh4WVRLZ0JMcjRIREx0Qk9Ebk1MSlRwRmt5XzZTU3doZEVROTFDQlpCQUhOaWVYdi1QSmdWU0dDQmRINngyam45SkU2NTlrbk9NN1BxTg?oc=5",
+          "title": "Tanzania taps into Tourism Ambassadors’ business networks to lure visitors from Gulf countries",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNHNMalBlTHZUNkZZa1VaYkxudWpVbDdnUERENEZoNkRJaXFjTjhQc1ZRSWdFLV80N1NKVjdaclRNWHpOZ0RPcDUybjAydFpUQ1FNcHhFYmFZNnlGbktlR0ZEYnlMcndKMVNUcDRvLVVXamp2Z2NRZmpnUzhXdFpEb1haM21fTmpObVNDYnZXQkIyenM3by03T2Jwdlo2dUI3VDExeVdmTFQyQUdndlFMRTNIaWdBMzVCeHc?oc=5",
           "source": "dailynews.co.tz",
-          "date": "2026-11-18T06:42:40.000Z",
+          "date": "2026-11-18T12:17:33.000Z",
           "lang": "English"
         },
         {
-          "title": "Charity must go beyond occasional acts of kindness",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQaG5DbEdDYVA0djctcENzTW9DTW5iR1BLTHlrdk05UXZYMUdqSkd5c3NXdHhRdTVmTTBWMlE4R0VVbEFjSTFRWkdHR0EzU1ZLeVMxcGdmbzdSdi0yZ0ZZSVBUNHdHMnByUVFhUTA5LTdqTEQ2eldCaV9DSk1NQnRUMQ?oc=5",
-          "source": "dailynews.co.tz",
-          "date": "2026-11-18T06:25:41.000Z",
+          "title": "Leaders warned against demanding kickbacks from 10pc loan beneficiaries",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNT0ZFVHlTc1J3VFZnNXhFZnJibGVfM1RiWjYxendJc003SW5GbUZJT2sySzBFNjF0Rkk0RHpMUXpJcHV5dGFBem1GRmtVX053RVlIelVlUVRzM1NaMVZoUGVwU21zdm9OQmh4U3hvbE5KbndpdEpLU25iUGFDbTJ4TTg2TkpOWTM5RmVJTVJFaV9FOE1nRHpPQ2djUUZMRVpmVUZPVUxqS3BtbTVDTW9MOWNfRXdqVm85bGt2YWIwLVB2QWI0ZkdTXzY4ZllndXRkN0Q1VTQ3OVJId3J2WTRZ?oc=5",
+          "source": "ippmedia.co.tz",
+          "date": "2026-11-18T11:53:42.000Z",
           "lang": "English"
         },
         {
-          "title": "Stakeholders outline long-term solutions to Uyui water shortages",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNQThvTWp6OGg1d2RnWllfSkM3Z2d2SjljMklvZjd0Zl9aVVcwbnlFbUdHS1pKY1BNamJtWmF2TEE0a1dhd2hEMENLZjk0SFpNbFJpYlNVZVMyYjQ1MHVzaTlyeHRIcDM2YWxuS3VOaWFlSlo0S1c3QWYxcng2ZzNaSlJaWXBFeTNGYTdmOFk5elNKT0gzZ0E3SFRremJPN0FqUEhjcGdzbnFzaFhoV3lkbjcwRFpiZWhNWG8taW5tOUNSZw?oc=5",
-          "source": "thecitizen.co.tz",
-          "date": "2026-11-18T06:14:31.000Z",
+          "title": "Scholarship scheme builds local conservation expertise",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQVTV3X0c5VS0wUnEyVFN3TDc5YUQyUmk3SWEtYlQ1WmhiSDhaRk5IQVF4MUxETEx0UFFfWTQtb2xkd1FucERERlBzQl9YemRNYnYtdUZodVhCQ3AtUm1JM0dDV3puejYwWE0yLTFYeGRYNmdZbndCRmdENlphY1U4Z3VYLUg3Q3VFTnFha3Z2V09URjRPOFZwN3NoeUtmbHdfbHVPRWRGYkpFb2ktalBSbU93UmpzR21Dd1hwM291MGVqMFpTbGJ6Mw?oc=5",
+          "source": "ippmedia.co.tz",
+          "date": "2026-11-18T10:43:39.000Z",
+          "lang": "English"
+        },
+        {
+          "title": "TPA moves to expand its ports’ capability in Dar, Mwanza for cargo handling efficiency",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdmp3Q09lRzc0dWtXV0taYlRhNFZWdHNYSWg1S3hOMXhTN1JQNFFMM3VTNVJ5S0NCdE52Ni0waUxwZnpCMVpFZ0E0cWFUSzYzZDdJOHA4R1FDUFRxaUFhdHFwT040ZFhIUHd0N05EU2s5enQ2WThnVTVNX2h2THpBRGZwN0dlRkpGRVpUVkJ4Q3gzMlpCTk4zdGtxNExZTE1hYkRfRmZYRzhQUXZ2OGc?oc=5",
+          "source": "dailynews.co.tz",
+          "date": "2026-11-18T09:56:59.000Z",
+          "lang": "English"
+        },
+        {
+          "title": "Tanzania | Hazard - Riverine Floods: Early Action Protocol Activation (EAP No.: EAP2022TZ01, Operation No.: MDRTZ041), 11th November 2026",
+          "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOOV8tZTFwMlAwWHB2VXN0VWFleGtFdVVBdUpYYWEzb0tlSEFYTHZSY0FvemlEY0Vqc29wMkxDYmpja1AtTTRVNzFiTWRERmstZ0xKTnM5dlZyS2FLaG0wRUpPaTZwQ1FwaVlITjNtTVY5dWc1dTZBQ3ByUG1XN0g4bE40RHlSNHdkdEFoS1loNHQ4MFFoTlVMMFJubDdEbEpzZnNNRWtKeGpqNTQ0aW9tRlJicG1md215RnI0ZHpNQXpqZ25SS1RMRVpzV0xSdm1xRWhULVFva25vcDJLNUc1Z2xDRERwdW9ESWp3S2ExZVpnUFBLYXQxVmlBRnFHTE1Yd1R4bThnVDV1QQ?oc=5",
+          "source": "reliefweb.int",
+          "date": "2026-11-17T00:19:01.000Z",
+          "lang": "English"
+        },
+        {
+          "title": "‘People have absolutely nothing’ – Venezuelans are struggling to get basics like food and water, says Irish missionary",
+          "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNbW5CZ1dVUTJUdWpTcTRHWmFfLU1tdXJnNG9WY2E0OHk5Q2liTm1HWUVKeWJlcHFEZ24wY2RVeHgwbWdudE04Yk54cEtPS1FCajB1ZFA0d21ERFpSbU95VzFzUUxWTktKNFhnbl9vdmloU0hDZWFMc0Z4anpoc0JNQmFnM3FZT05IdHdsSVhPand2UlF3OVg5MnNnbEtBT0pPRks1TWRscXlQN1B2Y1Vld3ZlbTRNYmpjM2laQWF4Ml9faWhzckd1anMwT05VVVBROVV6MV92UkhXS21uOHN1U3o1ekJJODJQNDNUUzVjaFBRWTFpNTlPQlFkU1E?oc=5",
+          "source": "independent.ie",
+          "date": "2026-11-18T05:30:00.000Z",
           "lang": "English"
         },
         {
@@ -187,31 +208,10 @@
           "lang": "English"
         },
         {
-          "title": "Algeria hosts African Skills Olympics to foster continental vocational training",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNeVJISXllenl1Vi03RDIzeGxLYXhLY20taHlyaUtwekVnVm1GemJSWk5FaW5oZTNrQnEyUHFqcmR0QzdXQnNVWEVrS0J3YVl5b1J3dWdmeGFKaWVNNEpDZ2MwWmJHdVZ4Y1JkS1Z0WnBfdDB4c3cwQ29GdjZKRk5PSjdjbHhRZw?oc=5",
-          "source": "english.news.cn",
-          "date": "2026-11-16T20:54:30.000Z",
-          "lang": "English"
-        },
-        {
-          "title": "United Nations Mission in South Sudan-supported (UNMISS) screening identifies 54 children among police recruits",
-          "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNVVNXcTlpQjZnZlpMTEpJRDhjUThwQjVaQjJiMkYyY0t3ZFVDNUJEaTlVbTJUZzE1TnJwZjZnQ3Rza0VkLW1tU0E0Y3pyUDFOSWMyVUFSblJuY2xiekk3NENBM1RZNFR3QlV1d0oxRHJnVDVWWDNzVll4ZmlfNThFN3pfYlVsX3dKR3BoemEtSUUyaXowUzJTZWRBRlpLU1BpNFJjSlFXaVlxTHRmNzZWNmZpdzNaX3hGLTlxUHBlNXNtWUQxeC1LbHAyUnp3cmoxMmhTamdSQ3hWd3VkSjJhMkNQejU2M2lYal9PMmdBY1Y3M204VHBhcXJrSl9vUXdkN2F2b0hfbzRNUQ?oc=5",
-          "source": "zawya.com",
-          "date": "2026-11-17T06:01:00.000Z",
-          "lang": "English"
-        },
-        {
-          "title": "World Bank Says 43% of Sub Saharan Africans Are Poor",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBHUGx5blRQZXFkMDI5SldsRWdSRnREdHBkYlZFMVhsOXZ4VTFsMS1fRVdtdFd2Mm5Fb1ZtaVJvblJ4ODJDRTlKbXFLWUVDZkFXMjBsWXVVbWJmRm5qM2c?oc=5",
-          "source": "uchumi360.com",
-          "date": "2026-11-17T18:44:29.000Z",
-          "lang": "English"
-        },
-        {
-          "title": "Coca-Cola HBC set for Johannesburg listing on November 23",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQ0tzWWtTTW14LTY2cWMzSGxJai00bjItcFRkbFI3cUwxTlRaZnl6YVZIVG5GemE2dlh0TU1Nbmd1TkNQVzRRbUpQUGQ5YUxPSTRaYmVIbngxQ3hYVU12M25VTWVKdWhUSTJnRXBQdnJONDBuMjI3MjMzS2dKVXJSMy1SVG1EVS1Bam9Nb3NhTDRFU05sUU9pUU13LXZaZjdCaENHQ0dFQ1JQZw?oc=5",
-          "source": "reuters.com",
-          "date": "2026-11-16T15:18:52.000Z",
+          "title": "Malawi: Ben Phiri Calls for Food Self-Sufficiency in New WFP Partnership",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9MS0Q2NWJsN0JKRTlDR25oa1lrOEZaeW5VdFY1OU05Tjkycl8yY3J1dUhPX2ZnTWRvdDFIYkFYZ3RFeXRHUVMzY19RM1hIR1c2T0RPcndZLU15TUE?oc=5",
+          "source": "allafrica.com",
+          "date": "2026-11-18T06:16:57.000Z",
           "lang": "English"
         }
       ]
