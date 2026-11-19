@@ -1,0 +1,215 @@
+{
+  "date": "2026-11-20",
+  "updated": "2026-11-19T23:37:33.357Z",
+  "qid": "Q218",
+  "name": "Romania",
+  "status": "UN member state",
+  "officialName": "Romania",
+  "flag": {
+    "svg": "https://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Romania.svg",
+    "alt": "Flag of Romania"
+  },
+  "facts": {
+    "Capital": "Bucharest",
+    "Continent": "Europe",
+    "Population": "19,053,815",
+    "Area": "238,397 km²",
+    "Languages": "Romanian",
+    "Currency": "Romanian leu",
+    "Time zones": "UTC+02:00",
+    "Calling code": "+40"
+  },
+  "map": "https://www.openstreetmap.org/?mlat=46.0&mlon=25.0#map=5/46.0/25.0",
+  "summary": {
+    "extract": "Romania is a country in Central and Southeastern Europe. It lies on the lower course of the Danube, north of the Balkan Peninsula, and on the northwestern shore of the Black Sea. It borders Ukraine to the north and east, Hungary to the west, Serbia to the southwest, Bulgaria to the south, Moldova to the east, and the Black Sea to the southeast. It is the twelfth-largest country in Europe by area, covering 238,397 km2 (92,046 mi2), and the sixth-most populous member state of the European Union, with 19 million inhabitants. The capital, largest city and economic centre is Bucharest. Other major cities include Cluj-Napoca, Iași, Constanța, Timișoara, Brașov and Craiova.",
+    "url": "https://en.wikipedia.org/wiki/Romania"
+  },
+  "history": {
+    "title": "History of Romania",
+    "paragraphs": [
+      "Romania has been inhabited by humans since the paleolithic. During antiquity, the main population that lived in the area corresponding to modern-day Romania were the Dacians. Dacian civilisation prospered from the second century BC to the second century AD, resulting in the establishment of a Dacian kingdom as a regional power. Following several wars with the Roman Empire, Dacia was conquered in 106 AD, and the kingdom's core was turned into a Roman province. The province was abandoned by 276 AD following several invasions from various barbarian peoples. Many Romanian historians believe that the origin of the Romanians can be traced back to the Dacians and Romans intermixing, which in turn formed the basis of the Romanian ethnicity.",
+      "During the early Middle Ages, numerous migratory peoples moved across and settled the territory of Romania. A prominent Turkic population also settled Romanian territory, particularly the Cumans. Early Romanian culture was martially influenced by these peoples. Vlachs – Romance-language speakers in the Balkans – were first clearly attested in the 10th century, inhabiting areas on both sides of the Danube. By the 13th century, numerous small Vlach political entities abounded in areas such as Muntenia, Oltenia and Transylvania. These political entities gradually unified, and by the mid-14th century, the two major historical Romanian principalities had emerged, Wallachia and Moldavia.",
+      "The principalities partook in many conflicts against their often stronger neighbours, such as the Ottoman Empire. Eventually, they became vassal states to the Ottomans, however they always managed to preserve their autonomy as well as slowly progress a Romanian national identity. In 1600, Michael the Brave managed to unite all the Romanian-inhabited states, including Transylvania for the first time, however the union was short-lived and folded under pressure from the Habsburgs, Hungarians and Poles. Nevertheless, the Romanian identity continued to cultivate, culminating in movements such as the Transylvanian School and blossoming in the 19th century through the 1848 revolutions in both Wallachia and Moldavia. The modern Romanian state was established in 1859 through a personal union of the Danubian Principalities. The new state, which fought for and gained its independence in 1877, consolidated itself as a kingdom in 1881.",
+      "During World War I, after declaring its neutrality in 1914, Romania fought together with the Allied Powers from 1916. In the aftermath of the war, Bukovina, Bessarabia and  Transylvania, as well as parts of the Banat, Crișana, and Maramureș united with Romania, resulting in the establishment of Greater Romania. In the summer of 1940, as a consequence of the Molotov–Ribbentrop Pact and Second Vienna Award, Romania was compelled to cede Bessarabia and Northern Bukovina to the Soviet Union and Northern Transylvania to Hungary. In November 1940, Romania signed the Tripartite Pact and, consequently, in June 1941 entered World War II on the Axis side, fighting against the Soviet Union until August 1944, when it joined the Allies and recovered Northern Transylvania. Following the war and occupation by the Red Army, Romania became a socialist republic and a member of the Warsaw Pact. After the 1989 Revolution, Romania began a transition towards democracy and a market economy. Romania joined NATO in 2004, and the European Union in 2007."
+    ],
+    "url": "https://en.wikipedia.org/wiki/History_of_Romania"
+  },
+  "news": {
+    "local": {
+      "label": "Last 24 hours",
+      "items": [
+        {
+          "title": "Primăria Piatra Neamț: „ Crăciun de poveste la Piatra: un întreg oraș în sărbătoare",
+          "url": "https://zch.ro/primaria-piatra-neamt-craciun-de-poveste-la-piatra-un-intreg-oras-in-sarbatoare/",
+          "source": "zch.ro",
+          "date": "20261119T193000Z",
+          "lang": "Romanian"
+        },
+        {
+          "title": "Românii care dețin o singură locuință ar putea fi scutiți de impozitul pe casă și teren . Ce condiții trebuie îndeplinite și de când s - ar aplica măsura",
+          "url": "https://www.kanald.ro/romanii-care-detin-o-singura-locuinta-ar-putea-fi-scutiti-de-impozitul-pe-casa-si-teren-ce-conditii-trebuie-indeplinite-si-de-cand-s-ar-aplica-masura-20551146",
+          "source": "kanald.ro",
+          "date": "20261119T193000Z",
+          "lang": "Romanian"
+        },
+        {
+          "title": "PRIMA NEWS Fostul ministru Radu Miruţă, despre extinderea atribuţiilor lui Marian Neacşu: „ Imaginaţi - vă ce mai poate face ministrul de Finanţe dacă domnul vicepremier Neacşu dă aviz şi pe Ministerul de Finanţe",
+          "url": "https://www.cotidianul.ro/prima-news-fostul-ministru-radu-miruta-despre-extinderea-atributiilor-lui-marian-neacsu-imaginati-va-ce-mai-poate-face-ministrul-de-finante-daca-domnul-vicepremier-neacsu-da-aviz-si-pe-mini/",
+          "source": "cotidianul.ro",
+          "date": "20261119T193000Z",
+          "lang": "Romanian"
+        },
+        {
+          "title": "În Gara de Nord din București se ascunde o încăpere demnă de un palat, care poate fi vizitată de oricine",
+          "url": "https://stirileprotv.ro/divers/in-gara-de-nord-din-bucuresti-se-ascunde-o-incapere-demna-de-un-palat-care-poate-fi-vizitata-de-oricine.html",
+          "source": "stirileprotv.ro",
+          "date": "20261119T193000Z",
+          "lang": "Romanian"
+        },
+        {
+          "title": "Nicușor Dan explică de ce se teme de 2028: „ Mi - e teamă de un eventual rezultat al alegerilor parlamentare",
+          "url": "https://www.cotidianul.ro/nicusor-dan-explica-de-ce-se-teme-de-2028-mi-e-teama-de-un-eventual-rezultat-al-alegerilor-parlamentare/",
+          "source": "cotidianul.ro",
+          "date": "20261119T193000Z",
+          "lang": "Romanian"
+        },
+        {
+          "title": "A patra ședință consecutivă de scădere pentru euro",
+          "url": "https://www.viata-libera.ro/economie/265804-a-patra-sedinta-consecutiva-de-scadere-pentru-euro",
+          "source": "viata-libera.ro",
+          "date": "20261119T193000Z",
+          "lang": "Romanian"
+        },
+        {
+          "title": "Bucureștiul va găzdui prima expoziție internațională pentru orașe inteligente din Europa de Sud - Est . Când va avea loc evenimentul",
+          "url": "https://www.mediafax.ro/politic/bucurestiul-va-gazdui-prima-expozitie-internationala-pentru-orase-inteligente-din-europa-de-sud-est-cand-va-avea-loc-evenimentul-23846274",
+          "source": "mediafax.ro",
+          "date": "20261119T193000Z",
+          "lang": "Romanian"
+        },
+        {
+          "title": "Trump îi presează pe liderii europeni în privința ajutorului pentru Ucraina, într - o convorbire după summitul cu Putin",
+          "url": "https://stirileprotv.ro/stiri/international/trump-ii-preseaza-pe-liderii-europeni-in-privinta-ajutorului-pentru-ucraina-intr-o-convorbire-dupa-summitul-cu-putin.html",
+          "source": "stirileprotv.ro",
+          "date": "20261119T193000Z",
+          "lang": "Romanian"
+        }
+      ]
+    },
+    "international": {
+      "label": "Last 7 days",
+      "items": [
+        {
+          "title": "Poles close in on  Fort Trump  – POLITICO",
+          "url": "https://www.politico.eu/newsletter/brussels-playbook-capitals/poles-close-in-on-fort-trump/",
+          "source": "politico.eu",
+          "date": "20261119T193000Z",
+          "lang": "English"
+        },
+        {
+          "title": "The IPSOS Cost of Living Monitor",
+          "url": "https://www.philstar.com/business/2026/11/20/2571250/ipsos-cost-living-monitor",
+          "source": "philstar.com",
+          "date": "20261119T171500Z",
+          "lang": "English"
+        },
+        {
+          "title": "Deadline",
+          "url": "https://deadline.com/print-article/1237227159/",
+          "source": "deadline.com",
+          "date": "20261118T011500Z",
+          "lang": "English"
+        },
+        {
+          "title": "Willi Weber Breaks Silence on Horrific Villa Robbery as Former Schumacher Manager Faces Courtroom Ordeal",
+          "url": "https://thejudge13.com/2026/11/18/willi-weber-stuttgart-villa-robbery-trial-schumacher-manager/",
+          "source": "thejudge13.com",
+          "date": "20261118T011500Z",
+          "lang": "English"
+        },
+        {
+          "title": "Quebec ready to vote independently from Canada for Francophonie leadership: premier",
+          "url": "https://panow.com/2026/11/14/quebec-ready-to-vote-independently-from-canada-for-francophonie-leadership-premier/",
+          "source": "panow.com",
+          "date": "20261114T210000Z",
+          "lang": "English"
+        },
+        {
+          "title": "Europe unrest: Behind the riots, Europe wrestles with hard choices",
+          "url": "https://www.smh.com.au/world/europe/behind-the-riots-europe-wrestles-with-hard-choices-20261115-p61d23.html",
+          "source": "smh.com.au",
+          "date": "20261114T200000Z",
+          "lang": "English"
+        },
+        {
+          "title": "New Avengers Release Conquers Disney+ Ahead Of Doomsday",
+          "url": "https://screenrant.com/avengers-endgame-encore-disney-plus-streaming-success-november-2026/",
+          "source": "screenrant.com",
+          "date": "20261114T200000Z",
+          "lang": "English"
+        }
+      ]
+    },
+    "google": {
+      "label": "Top stories, RO:ro edition",
+      "items": [
+        {
+          "title": "Mesajul transmis de șeful NATO, Mark Rutte, după întâlnirea lui Trump cu Putin și Xi Jinping din China",
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQVktCYmFZbE4yT0pBb1pud2NETkJSSjFCSUxSZ2tjVFRvVVJPczBTSUJjR1ZBZXFNTk9Ub05fNUlvRU0xSHcyM2RSYkhGUkVOWVFCTmhWVU91a1NmdzVMQWxrcnhSSExTT2lBQVVFSkh4ZmRzMG1qd3h5eU05QjV6R2hKcTRpRDJfQ0xDZmdHZW9WdlhPVVEzTWNWajlQTHVXbjJQVUNlOVU1ZXVFNnNJWXNaQ0g5bU05OHRnNGNxQjJLTXE2QXV1TnQ2MFlibjZvQUVJdUZzVm5VaVkx0gHnAUFVX3lxTE5Kejl4Z1NJNVNCTzI5dnVid1doOXdCRDhSVnN4SHFUcXJXa0N4cmhPNTh1dWdUNWRRczFscjRZd2NxNFZkdTNSal8ycFNkSGZXZU0xcTdqUlhmR2JIRmtKbDZGU2NCdW1lYUhQTTE5WTU5UFgySy1mTWlaTE4yZW12QlZOSGtEaDhKVjVpcjd1c083eGFLU0hselBJa2lNd0hHUEtHek03UmhyLXA5OEdsTmx0amxsd1FpTTBTQWNjQWQzWDZ2ZjJIMHd5UC1Ib3hSMTJDTzJZOXNHb2taOFNFYzh1d2NlWQ?oc=5",
+          "source": "digi24.ro",
+          "date": "2026-11-19T20:22:36.000Z",
+          "lang": "Romanian"
+        },
+        {
+          "title": "Cum răspunde Nicușor Dan întrebat dacă Marian Neacșu este premierul din umbră: „E un profesionist”",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTUNRSDdSZlNJc2tNMTQyampmQXp2amxHRUFYdko3emxyVms5Yjk0Yy05c055T2VIZWVFbkV6bndBVzZLQ0xxaU5BWkdJMHd3dGVtNHpXeWRGc2E1YmFTNmFaT3JQcllSQnI0ZE0tZWdfMXBYTjFkQ01Sa1laVWQ2UkliSWpaUnRIMVA4YmpMQ1N2TGFPVVI2alVtX3dOM2lSVDhHUnQ4eW1Fb1BUbnFhTWdhb2FsTFMzWUNHeTFEYw?oc=5",
+          "source": "hotnews.ro",
+          "date": "2026-11-19T17:49:29.000Z",
+          "lang": "Romanian"
+        },
+        {
+          "title": "Nicușor Dan, despre majorarea pensiilor și a salariului minim în 2027: „Suntem pe o linie subțire de corectare”",
+          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPbXIwVTkwcGUxZEZMNk0wejdwN1dOR3ZnYnJJaVJsbHVMM3lXLXk0NUxWcEc3UkVfQXN2WW55cTA3Rlh3SmRJNU5GeWJrZExIV0VRWVJCOHh5N1V1a1BOVE5hNmFlZGkyTlNKSVdub3BiZUM0a2JzOTlfeWdqbWpSNUM3aTlkVUlsa3VHdDdMTXlVZ1BxbzRKMGQ1dnhKUlVXRnZGM0IzQ3RFcXNMY3ByZzFWVEFQcmFZZmtuOXd6UVY5eGdTQzNKWktOZjhwVFdsb1drdnF1RzQ3UDA0cFBlc0RySXpxNXc?oc=5",
+          "source": "stirileprotv.ro",
+          "date": "2026-11-19T18:18:36.000Z",
+          "lang": "Romanian"
+        },
+        {
+          "title": "Activitate NATO intensă deasupra Mării Negre. Avioane de supraveghere, aeronave-cisternă și de comandă au...",
+          "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNQzF1dW5HcU9zNkg3NkFrOTVFRVRlN3lIVkZUeVpfakhDWkRjWDBTSjhfeWdMdDBIVU1DeU4ySVVodjNrMkphNndNTmN5RzBNQ3R3M2FwNGxuazZKdlZtdGhrdDItUmlvU0NZOEU1UVV1WTI1VWk5em1OeE1DRTNpT3BaVWExcWQ0TEllbzZfYW0ycGFqcUotUHh5VWpOaEZLTWVtblVDQS1FMjhLeU1ZbzdJR1VhalRPcW54YUJLcFhERmR1MUppbXN1QS1yZnBSSm4xeXF4aHFvckZaOVVXam1EQl8tbTU3MXdDLS1RRmRzblZ1M0x3bNIBgwJBVV95cUxNbjRjWjRBOC1SMUxCU3oyTF8weEV3MGhBMDlkeThhUFd3QjE0Mm94ZFlOZzBNWjJJYXAwWUlFa01rcTVDanZhWlIxblAyaWotak5LYnZwaElvYlpHZHNsTlVwRlVnVWdnbXpwVzA3ZVVnbUl2TlJTXzNSMzJhVF9IWW5pNzA2djROTnBZVHJweWpsSmUzWERTVWpKdHhWZmVtNWN2ZUUwS1ZwWnR5Z1hFbVIxdkRDSVFERW9NajNaeDdsZnh6Yy05b2J6Q1ZibW93R0NoNV9zWkUzRVEyaWU2ckVocW1rRGt3TmdzeW9Bd01BU0k2OGI3STNncjB5YWlvYVA4?oc=5",
+          "source": "digi24.ro",
+          "date": "2026-11-19T21:15:06.000Z",
+          "lang": "Romanian"
+        },
+        {
+          "title": "Cine e şoferul maşinii de gunoi care a lovit-o mortal pe Teodora. Ce a făcut în cele 3 ore după accident",
+          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQUnZpWWM0cDVaaHgxTE1rWXFyQXpXOU5HbmlPTzBsVVJKVS1zS3A4bkVoSFNhUTktcnA1SGpldlU5Umx1cjJvUmZZcU4wV2dvd0FNcmJ2eWJ2X2F1dng2Y29OTFRFbml1cy1aNklpcnE0V0J1MldDNmZGSDVoclNTbWVCdHV4c2Q3Q2UwUFV5U1VJUnlsX2lOS25DR3g2Z3B5cFRTUlF3eENBV0J6TldyRU45dVpMQmo2V2Q2c3ZsNG1SUTJkY2VYUm1vTXkxOTVzS2hVT2Z4MXlOUENiVVEtTmtDRW8?oc=5",
+          "source": "observatornews.ro",
+          "date": "2026-11-19T13:41:00.000Z",
+          "lang": "Romanian"
+        },
+        {
+          "title": "Primele imagini cu șoferul acuzat că a lovit-o cu mașina de gunoi pe eleva de 17 ani găsită moartă pe Șoseaua Mihai Bravu din București",
+          "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOX2gwVlo5bk5QMHFDQ2ZWNUswOFNLNElXQUVWclQ1YkhjZzFCUTAxWVhicU96SnY3QWlwLWZkYTBlcEdwRnBKRnlIb09TLUh1Vm1NeGdOeElaN2RYMWExbFFZbi1nQW05Mzk5U1FOMXFoNTNTeVhBMTctX1JmNndFNXNtSjVJYUlCOVdXZjBCQ1pjQnlVRDdJUXRzMG5hQ0NVTWcwTHVQRndmZThQN3pXVHMwdUhkdFpCTUJqakdDQ1h6eGFTb3NSRXpQbWZwTkkweWpleEljTTE0bWx6QjlhdXNZYUhPY3J1Z2lkcThPcFF4RmRJWXlTdWo0VUFxdi0wUWZMY3hrNi1oUEE?oc=5",
+          "source": "antena3.ro",
+          "date": "2026-11-19T12:53:00.000Z",
+          "lang": "Romanian"
+        },
+        {
+          "title": "Arafat, despre decizia de a nu emite mesaj RO-Alert la cutremur: \"Mulți oameni ar fi intrat în panică, ar fi reacționat într-un mod probabil greșit\"",
+          "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNZ2RSMDlGQzF0RlNmYlNlcUVBWThNdWlQaExhVDJjb1hYQWEwdmFGWUJWOGg1M1B6bVE4dXN2bV90UnBFQnJSQVNLLXd0RXpxT21maC1kSWU4UVE1dTRpSU1aZmxqUFhHWVA4T180Qm5VV1cxRU5xbnI1Si1tZzNpajhJWEZpOGpSX21QZ0Fya05ZWnNZaE52VnJIbTlYd2NMNnhaWTVoNGhQUmpMblpCMVFJSlEzOEllWkJpa29JbEJTazYwT1ZRcjlfUWp3Rm9Lc3d0VW5uUm5fUzBJYkRjQkJtUm40TjlNQXVyaEFSZEVGY2RKOTUyUm85TVRyTEFL?oc=5",
+          "source": "g4media.ro",
+          "date": "2026-11-18T19:35:04.000Z",
+          "lang": "Romanian"
+        },
+        {
+          "title": "Europenii, invitați la Moscova: Anunțul lui Putin după summitul istoric. Solicitarea „destul de insistentă” din partea SUA recunoscută",
+          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPTUxnS3lZV01ZeVM0bnVobkcxLUt3ekZmc2VFUFU3NGMtaV9SbHd6dTZzVDliN1FBeUhXOFppbnhDUnNkLXlKUFU4YnR0ajVPMVNraEx3cEk3UktQM2o1TlhmR1ZwMnMwM3lXWGpwdnFhdFdwelZsUkhOQ1lfcnN1SFFzODNNSTN4RzdObmgyS3NoNEg1V2NiSWJVT0dMZklWb0V0UVF1eURHV3BMVlZ3enozUXd3NVlzQUljMkRnaVZrNF9qTHU0RmJXOWJtVXZiODlYOE11VHVGOWtYVzIxdTZ4Ukd0TGU4UmFxYw?oc=5",
+          "source": "hotnews.ro",
+          "date": "2026-11-19T18:09:33.000Z",
+          "lang": "Romanian"
+        }
+      ]
+    }
+  }
+}
