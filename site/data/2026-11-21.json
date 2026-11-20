@@ -1,0 +1,55 @@
+{
+  "date": "2026-11-21",
+  "updated": "2026-11-20T23:45:22.199Z",
+  "qid": "Q30971",
+  "name": "French Polynesia",
+  "status": "Overseas collectivity of France",
+  "officialName": "French Polynesia",
+  "flag": {
+    "svg": "https://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20French%20Polynesia.svg",
+    "alt": "Flag of French Polynesia"
+  },
+  "facts": {
+    "Capital": "Papeete",
+    "Continent": "Insular Oceania",
+    "Population": "278,786",
+    "Area": "4,167 km²",
+    "Languages": "French",
+    "Currency": "CFP Franc",
+    "Time zones": "UTC−10:00",
+    "Calling code": "+689"
+  },
+  "map": "https://www.openstreetmap.org/?mlat=-17.7&mlon=-149.4#map=5/-17.7/-149.4",
+  "summary": {
+    "extract": "French Polynesia is an overseas collectivity of France and its sole overseas country; it is classified as a non-self-governing territory by the United Nations. It comprises 121 geographically dispersed islands and atolls stretching over more than 2,000 kilometres (1,200 mi) in the South Pacific Ocean. French Polynesia is associated with the European Union as an overseas country and territory (OCT). The total land area of French Polynesia is 3,521 square kilometres (1,359 sq mi), with a population of 282,596 as of September 2025 of which at least 205,000 live in the Society Islands and the remaining population lives in the rest of the archipelago.",
+    "url": "https://en.wikipedia.org/wiki/French_Polynesia"
+  },
+  "history": {
+    "title": "French Polynesia: History",
+    "paragraphs": [
+      "Anthropologists and historians believe the Great Polynesian Migration commenced around 1500 BC as Austronesian peoples went on a journey using celestial navigation to find islands in the South Pacific Ocean. The first islands of French Polynesia to be settled were the Marquesas Islands in about 200 BC. The Polynesians later ventured southwest and discovered the Society Islands around AD 300.",
+      "European encounters began in 1521 when Portuguese explorer Ferdinand Magellan, sailing at the service of the Spanish Crown, sighted Puka-Puka in the Tuāmotu-Gambier Archipelago. In 1606 another Spanish expedition under Pedro Fernandes de Queirós sailed through Polynesia sighting an inhabited island on 10 February which they called Sagitaria (or Sagittaria), probably the island of Rekareka to the southeast of Tahiti. In 1722, Dutchman Jakob Roggeveen while on an expedition sponsored by the Dutch West India Company, charted the location of six islands in the Tuamotu Archipelago and two islands in the Society Islands, one of which was Bora Bora.",
+      "British explorer Samuel Wallis became the first European navigator to visit Tahiti in 1767. French explorer Louis Antoine de Bougainville also visited Tahiti in 1768, while British explorer James Cook arrived in 1769, and observed the transit of Venus. He would stop in Tahiti again in 1773 during his second voyage to the Pacific, and once more in 1777 during his third and last voyage before being killed in Hawaii.",
+      "In 1772, the Spanish Viceroy of Peru Don Manuel de Amat ordered a number of expeditions to Tahiti under the command of Domingo de Bonechea who was the first European to explore all of the main islands beyond Tahiti. A short-lived Spanish settlement was created in 1774, and for a time some maps bore the name Isla de Amat after Viceroy Amat. Christian missions began with Spanish priests who stayed in Tahiti for a year. Protestants from the London Missionary Society settled permanently in Polynesia in 1797."
+    ],
+    "url": "https://en.wikipedia.org/wiki/French_Polynesia#History"
+  },
+  "news": {
+    "local": {
+      "label": "No recent headlines found",
+      "items": []
+    },
+    "international": {
+      "label": "Last 24 hours",
+      "items": [
+        {
+          "title": "Navy chief to visit Japan, Tahiti for talks on maritime cooperation",
+          "url": "https://www.koreaherald.com/article/10944178",
+          "source": "koreaherald.com",
+          "date": "20261120T061500Z",
+          "lang": "English"
+        }
+      ]
+    }
+  }
+}
