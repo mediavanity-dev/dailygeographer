@@ -1,6 +1,6 @@
 {
   "date": "2026-11-22",
-  "updated": "2026-11-22T19:02:27.324Z",
+  "updated": "2026-11-22T23:35:19.057Z",
   "qid": "Q963",
   "name": "Botswana",
   "status": "UN member state",
@@ -58,6 +58,13 @@
       "label": "Last 7 days",
       "items": [
         {
+          "title": "Botswana Speaker elected SADC PF president",
+          "url": "https://newsday.co.zw/article/botswana-speaker-elected-sadc-pf-president",
+          "source": "newsday.co.zw",
+          "date": "20261122T213000Z",
+          "lang": "English"
+        },
+        {
           "title": "Africa: 13 july 2010 [ Little challenge as Tanzania leader seeks new term ]",
           "url": "https://burundi-agnews.org/africa-13-july-2010-little-challenge-as-tanzania-leader-seeks-new-term/",
           "source": "burundi-agnews.org",
@@ -105,17 +112,17 @@
       "label": "Top stories, BW:en edition",
       "items": [
         {
-          "title": "Uganda's Alupo Arrives in Addis Ababa for Health Summit",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNaTY5OHhsSnFPajYyMkxsdHQzdXFpUmdDYmNZTFdBci1sVWlKYXZiZWZ0SmY2dlNQenNiNGtpOXhmTUFUNmlabWxNcHU0cjYtVVN4Y3E2aFdpSlk3TjVlLWNVMzF2cEVWVm1tV1ZVaHhDWkNRUHBOUEFQM2JmWnlZalBSR3d2S3phSXItWHJsQzNrdw?oc=5",
-          "source": "wisevoter.com",
-          "date": "2026-11-22T18:50:19.000Z",
-          "lang": "English"
-        },
-        {
           "title": "Barys Resources Ltd. (ASX:BRY) Stock Price, News & Quote",
           "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0zQW9EczUtTi0yR0YwS0QwamRIRlNPQWVyeDZUdkswY2wwNEF0ZGkxem9nZ05iTjVxSVhUWHR0R2tlaWZpUWtMRTE0WG9oajZObGxZNUd1WWRnTWpNWmJIWkd1eVhBYTF4ZllPM3l3?oc=5",
           "source": "investingnews.com",
           "date": "2026-11-22T18:00:26.000Z",
+          "lang": "English"
+        },
+        {
+          "title": "An ancient failed rift is reawakening inside one of Africa's oldest landmasses",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB3aWVvNWw5Qk1BamlTX0ZpcTUzWHF3UkQ5ZEp1WmNHN2Q1RmY0RlRHYmRZeVZKVWdwUTFpZVRNY1FMc2ZTTVlKMXEtRHZZenFXVGF6RHdyMkpYdDd5RVA4OG5SRTBZYlhtZjZTZDhZelczR3BmUTduMmpJMzZBQQ?oc=5",
+          "source": "phys.org",
+          "date": "2026-11-21T14:00:06.000Z",
           "lang": "English"
         },
         {
@@ -133,17 +140,17 @@
           "lang": "English"
         },
         {
-          "title": "Speaker Mudenda in Eswatini for Sadc Parliamentary Forum Plenary Assembly",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPX0ZER29IazVjZENEUWdPM25jVTdSOWNjdmxYcWw4N2RadmxIbUVTaEdDUlZRMDhxVHI2RHhPNW1ZbmVCWko0UVprUlRvY09ZQkh4YWZTb2tBb2RPajBGRXZ5Ri1KOElRYk9BSmpBV1NYVFV4OF9HdnprODd1T0pfU2hrWmtaUE5sV0ltVUFwQVE2SFlxa3RYLXRCWWR6VXBCYTBKVW02UzVUSnc?oc=5",
-          "source": "heraldonline.co.zw",
-          "date": "2026-11-21T22:09:03.000Z",
-          "lang": "English"
-        },
-        {
           "title": "Botswana-origin cheetah gives birth to four cubs in India",
           "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxONzhQYnlKVmFJUXZheFRvUzd3Z2ZBYWIyLU9pb3A1MG42aTgxVEE4eVg4MFcyR0tfcEh6aFpTZlExYzd4MVVEVzA2VFlzLWpMU2Y3NVA4NUFZdEZRdG9JdGdVLUpXNndXektGeTMtekxEZWd3ZWdhQnZOMmNQc3BXSVNzZWp0R2RtM0puc3BrVDJMTWFvdWlpdEVITHVxal9WMTBN?oc=5",
           "source": "theanimalreader.com",
           "date": "2026-11-22T15:08:00.000Z",
+          "lang": "English"
+        },
+        {
+          "title": "Angola opens its first gold refinery as state diamond giant Endiama seeks to keep more value from the metal at home",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNMUZKaGtrQ3RCTjlBaDdpUXcyYmctQkY1czl5YXZrT1FMdEU3V3dzVU9RNHJ5aHlvbm4zTnZTNzF6NTU5ZllxeVpEcWlTS3hTSWR0UzRQd1g5TllQVEliMlNmM3RmeklSOU9sMG5oZWtNMHlsXzU3dFJTU2VKMkJUSTh2N29UcWJvZVFod21OcWhhX1JFVWJDZG9LWWoyQW8zQ1FWMWE5VlA4N1UydlNxVW1PSnRPQ2RMdV9Wdmd2c2N5RXphc2l5Ums2WWFEOHYtUXpPQw?oc=5",
+          "source": "africa.businessinsider.com",
+          "date": "2026-11-22T06:07:34.000Z",
           "lang": "English"
         },
         {

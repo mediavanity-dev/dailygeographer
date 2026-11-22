@@ -1,0 +1,91 @@
+{
+  "date": "2026-11-23",
+  "updated": "2026-11-22T23:38:29.331Z",
+  "qid": "Q34020",
+  "name": "Niue",
+  "status": "Self-governing in free association with New Zealand",
+  "officialName": "Niue",
+  "flag": {
+    "svg": "https://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Niue.svg",
+    "alt": "Flag of Niue"
+  },
+  "facts": {
+    "Capital": "Alofi",
+    "Continent": "Insular Oceania",
+    "Population": "1,821",
+    "Area": "260 km²",
+    "Languages": "English, Niuean",
+    "Currency": "Niue dollar, New Zealand dollar",
+    "Time zones": "UTC−11:00, Pacific/Niue",
+    "Calling code": "+683"
+  },
+  "map": "https://www.openstreetmap.org/?mlat=-19.05&mlon=-169.916666666#map=5/-19.05/-169.916666666",
+  "summary": {
+    "extract": "Niue is a self-governing island country in the South Pacific Ocean, in Polynesia, part of Oceania. Like the neighbouring Cook Islands, it is in free association with New Zealand. Its population is predominantly Polynesian. As one of the world's largest coral islands, Niue is nicknamed \"The Rock\", which comes from the traditional name \"Rock of Polynesia\".",
+    "url": "https://en.wikipedia.org/wiki/Niue"
+  },
+  "history": {
+    "title": "History of Niue",
+    "paragraphs": [
+      "The history of Niue is the history of the area and people of Niue, including its indigenous Polynesian societies. Niue was first settled by Polynesian sailors from Samoa in around 900 AD. Further settlers (or possibly invaders) arrived from Tonga in the 16th century.",
+      "The first known sighting of the island by a European was by Captain James Cook in 1774 during his second Pacific voyage. The pioneering missionary John Williams was the first European to land on the island in 1830. After years of British missionary activity, negotiations with the local kings for British protection of the island began in 1879. Lord Ranfurly, Governor of New Zealand proclaimed British Sovereignty over Niue in 1900, therefore laid the island under the patronage of New Zealand.",
+      "Niue lost around 4% of its population in World War I as 150 Niuean men were sent to France under the New Zealand army, of which nearly none returned. World War II however did not directly affect the island.",
+      "Niue became self-governing in 1974. Since then, the island has been shrinking in population from emigration due to frequent devastating natural disasters and lack of economic opportunities."
+    ],
+    "url": "https://en.wikipedia.org/wiki/History_of_Niue"
+  },
+  "news": {
+    "local": {
+      "label": "Last 7 days",
+      "items": [
+        {
+          "title": "Produktionen på Bornholm steg til 23 milliarder kroner",
+          "url": "https://bornholm.nu/?Id=143527",
+          "source": "bornholm.nu",
+          "date": "20261121T203000Z",
+          "lang": "Danish"
+        },
+        {
+          "title": "Noter » Produktionen på Bornholm steg til 23 milliarder kroner » Bornholm . nu",
+          "url": "https://bornholm.nu/noter/produktionen-paa-bornholm-steg-til-23-milliarder-kroner/143527",
+          "source": "bornholm.nu",
+          "date": "20261121T203000Z",
+          "lang": "Danish"
+        },
+        {
+          "title": "Guide till julmarknader i Luleå med omnejd",
+          "url": "https://www.kuriren.nu/nyheter/ersnas/artikel/guide-till-julmarknader-i-lulea-med-omnejd/rgo0vy7j",
+          "source": "kuriren.nu",
+          "date": "20261121T203000Z",
+          "lang": "Swedish"
+        }
+      ]
+    },
+    "international": {
+      "label": "Last 7 days",
+      "items": [
+        {
+          "title": "Prince William presents Earthshot Prize winners with $1 . 3M each in Mumbai:: WRAL . com",
+          "url": "https://www.wral.com/news/ap/ca7f0-prince-william-s-presents-earthshot-prize-winners-with-1-3m-each-in-mumbai/",
+          "source": "wral.com",
+          "date": "20261118T011500Z",
+          "lang": "English"
+        },
+        {
+          "title": "Mahindra Last Mile Mobility wins Earthshot Prize 2026 for promoting electric vehicles in India",
+          "url": "http://www.europesun.com/news/279439296/mahindra-last-mile-mobility-wins-earthshot-prize-2026-for-promoting-electric-vehicles-in-india",
+          "source": "europesun.com",
+          "date": "20261118T011500Z",
+          "lang": "English"
+        },
+        {
+          "title": "Prince William presents Earthshot Prize winners with $1 . 3 million each",
+          "url": "https://www.ksat.com/tech/2026/11/17/prince-william-presents-earthshot-prize-winners-with-13-million-each/",
+          "source": "ksat.com",
+          "date": "20261118T011500Z",
+          "lang": "English"
+        }
+      ]
+    }
+  }
+}
