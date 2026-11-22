@@ -1,6 +1,6 @@
 {
   "date": "2026-11-22",
-  "updated": "2026-11-22T01:20:21.448Z",
+  "updated": "2026-11-22T07:19:50.897Z",
   "qid": "Q963",
   "name": "Botswana",
   "status": "UN member state",
@@ -16,7 +16,7 @@
     "Area": "581,737 km²",
     "Languages": "English",
     "Currency": "Botswana pula",
-    "Time zones": "Central Africa Time, Africa/Gaborone, UTC+02:00",
+    "Time zones": "UTC+02:00, Central Africa Time, Africa/Gaborone",
     "Calling code": "+267"
   },
   "map": "https://www.openstreetmap.org/?mlat=-22.2&mlon=23.7#map=5/-22.2/23.7",
@@ -55,8 +55,51 @@
       ]
     },
     "international": {
-      "label": "No recent headlines found",
-      "items": []
+      "label": "Last 7 days",
+      "items": [
+        {
+          "title": "Africa: 13 july 2010 [ Little challenge as Tanzania leader seeks new term ]",
+          "url": "https://burundi-agnews.org/africa-13-july-2010-little-challenge-as-tanzania-leader-seeks-new-term/",
+          "source": "burundi-agnews.org",
+          "date": "20261121T133000Z",
+          "lang": "English"
+        },
+        {
+          "title": "Islam to be world largest religion by 2035, Christianity surges in Africa . Where does Hinduism stand?",
+          "url": "https://www.businesstoday.in/world/story/islam-to-be-worlds-largest-religion-by-2035-christianity-surges-in-africa-where-does-hinduism-stand-568896-2026-11-21",
+          "source": "businesstoday.in",
+          "date": "20261121T103000Z",
+          "lang": "English"
+        },
+        {
+          "title": "Gordon Buchanan brings wildlife tour to Venue Cymru | North Wales Chronicle",
+          "url": "https://www.northwaleschronicle.co.uk/news/26742225.gordon-buchanan-brings-wildlife-tour-venue-cymru/",
+          "source": "northwaleschronicle.co.uk",
+          "date": "20261121T064500Z",
+          "lang": "English"
+        },
+        {
+          "title": "Honey badger vs Cape porcupine: biological mechanisms of predator - prey conflict in South Africa",
+          "url": "https://english.pravda.ru/news/animal/173667-honey-badger-porcupine-defense-battle/",
+          "source": "english.pravda.ru",
+          "date": "20261120T004500Z",
+          "lang": "English"
+        },
+        {
+          "title": "Women entrepreneurs need access, not just opportunity",
+          "url": "https://mg.co.za/thought-leader/2026-11-19-women-entrepreneurs-need-access-not-just-opportunity/",
+          "source": "mg.co.za",
+          "date": "20261120T001500Z",
+          "lang": "English"
+        },
+        {
+          "title": "44 Cool Finds for Holiday Hosting That Make Entertaining Easier",
+          "url": "https://www.wyomingnewsnow.tv/news/national/44-cool-finds-for-holiday-hosting-that-make-entertaining-easier/article_8c592b45-0c09-5ad2-9996-ed3728b2143b.html",
+          "source": "wyomingnewsnow.tv",
+          "date": "20261118T011500Z",
+          "lang": "English"
+        }
+      ]
     },
     "google": {
       "label": "Top stories, BW:en edition",
@@ -97,17 +140,10 @@
           "lang": "English"
         },
         {
-          "title": "China's WHO candidate champions support for vulnerable countries",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOa05GZ2xpY21yYzUxbGZhd3haMU9kSkpRMW9ONk81TFk1ZXE0a1FSQnpOS3FKalBkd1M1RVlmOG1TX1d1eW1Mbm5xcmFDWTJXMG1SVWk5dGJPdk1IZEd2RG1uWmo5YTZ4Mk9yS1U5aDRKNUwxSXd1amVTaFJsOXAyTndtZEt4UzZSaWRUOWdyczBEd1hMeEtIZWJPTndCaHdONENRT1FjTXpKd29NVWZoVG5zMWEzOERhWGE3MmZn?oc=5",
-          "source": "news.cgtn.com",
-          "date": "2026-11-20T14:30:41.000Z",
-          "lang": "English"
-        },
-        {
-          "title": "Botswana Healthcare Financing Reforms Face Alignment Challenges Toward Universal Health Coverage",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNUtuSExnVE1nQ2xJZ052TGRLWC1weFY1eVpsQlg3c080NTE0ZHJMako2bWNJaWRVN2F0eW53YndEZzBtN040VTRVY2hST1V6ci10VjJPWU1yVzQyR2tJSG5KOUFSeUphWVFDT2RKRXFQYk1GdEp3U3dRN2RzUy1aNTQxUnNMVjhrVGVzbTkyMWVZNHV2Ym9sQlpjY29QYTlLZ3Z3aFg2YXpnRzR3b09uRXdlSUp6alJodWpIV0Jn?oc=5",
-          "source": "bioengineer.org",
-          "date": "2026-11-21T16:37:55.000Z",
+          "title": "An ancient failed rift is reawakening inside one of Africa's oldest landmasses",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB3aWVvNWw5Qk1BamlTX0ZpcTUzWHF3UkQ5ZEp1WmNHN2Q1RmY0RlRHYmRZeVZKVWdwUTFpZVRNY1FMc2ZTTVlKMXEtRHZZenFXVGF6RHdyMkpYdDd5RVA4OG5SRTBZYlhtZjZTZDhZelczR3BmUTduMmpJMzZBQQ?oc=5",
+          "source": "phys.org",
+          "date": "2026-11-21T14:00:06.000Z",
           "lang": "English"
         },
         {
@@ -115,6 +151,13 @@
           "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQQ2QtRDNUTjVIamFNZVBBUGlyb0hlQmJsd2FnN01DVTJsWXJpeURqaks1WlhLcDBwYTZYQmJvSjJTR2Z2V1FUejlzVzZzYkQyNE5NampTRURqazNrc0FNaEw4QWliamNVSDBYQ3lGb0hFOWVUM1VHNVNndy15MUFlNm82RTctNl9OeUE?oc=5",
           "source": "apanews.net",
           "date": "2026-11-18T17:04:17.000Z",
+          "lang": "English"
+        },
+        {
+          "title": "WHO DG candidates tackle finance, priority, leadership questions",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPbzBHN1RtM3Q4UTNqQlY5V2xhVnJUMkUzQ3RGLTNhLWRodjNQYlZHOFdPOUFPOVdMZHpEWEVuZGF3QmltdHNXSlBpVVk5dUt1U0ZvZWtKWWJIUVplRmNNOTZfczEtVG03S0RPVFliaHotNlB2Q0doUW9hdE9mMVZXQWFKUmx5Sk1yLVpwTUZCNmdTazZJdUQtbUtwY2s?oc=5",
+          "source": "devex.com",
+          "date": "2026-11-20T14:40:57.000Z",
           "lang": "English"
         }
       ]
