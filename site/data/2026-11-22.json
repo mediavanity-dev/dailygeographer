@@ -1,6 +1,6 @@
 {
   "date": "2026-11-22",
-  "updated": "2026-11-21T23:40:03.788Z",
+  "updated": "2026-11-22T01:20:21.448Z",
   "qid": "Q963",
   "name": "Botswana",
   "status": "UN member state",
@@ -16,7 +16,7 @@
     "Area": "581,737 km²",
     "Languages": "English",
     "Currency": "Botswana pula",
-    "Time zones": "UTC+02:00, Central Africa Time, Africa/Gaborone",
+    "Time zones": "Central Africa Time, Africa/Gaborone, UTC+02:00",
     "Calling code": "+267"
   },
   "map": "https://www.openstreetmap.org/?mlat=-22.2&mlon=23.7#map=5/-22.2/23.7",
