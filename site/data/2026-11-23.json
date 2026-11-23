@@ -1,6 +1,6 @@
 {
   "date": "2026-11-23",
-  "updated": "2026-11-23T07:46:09.370Z",
+  "updated": "2026-11-23T13:32:01.916Z",
   "qid": "Q34020",
   "name": "Niue",
   "status": "Self-governing in free association with New Zealand",
@@ -36,7 +36,7 @@
   },
   "news": {
     "local": {
-      "label": "Last 7 days",
+      "label": "Last month",
       "items": [
         {
           "title": "Produktionen på Bornholm steg til 23 milliarder kroner",
@@ -57,6 +57,41 @@
           "url": "https://www.kuriren.nu/nyheter/ersnas/artikel/guide-till-julmarknader-i-lulea-med-omnejd/rgo0vy7j",
           "source": "kuriren.nu",
           "date": "20261121T203000Z",
+          "lang": "Swedish"
+        },
+        {
+          "title": "Elpriset rusade – flera faktorer bakom ökningen",
+          "url": "https://lidkopingsnytt.nu/2026/11/12/elpriset-rusade-flera-faktorer-bakom-okningen/",
+          "source": "lidkopingsnytt.nu",
+          "date": "20261112T070000Z",
+          "lang": "Swedish"
+        },
+        {
+          "title": "Ny ägare till fastigheten på postadress Norra Niemiholm 359 i Råneå",
+          "url": "https://www.kuriren.nu/bostad/fastighetsaffarer/artikel/ny-agare-till-fastigheten-pa-postadress-norra-niemiholm-359-i-ranea/jn3wk4nr",
+          "source": "kuriren.nu",
+          "date": "20261112T053000Z",
+          "lang": "Swedish"
+        },
+        {
+          "title": "EFS – Niclas Eklund om fjärilsåret 2026 – Sveriges entomologiska förening",
+          "url": "https://www.sef.nu/etn/efs-niclas-eklund-om-fjarilsaret-2026/",
+          "source": "sef.nu",
+          "date": "20261112T034500Z",
+          "lang": "Swedish"
+        },
+        {
+          "title": "Ny svensk julfilm på Netflix – premiär idag",
+          "url": "https://www.tv.nu/tipsar/ny-svensk-julfilm-pa-netflix-premiar-idag",
+          "source": "tv.nu",
+          "date": "20261112T030000Z",
+          "lang": "Swedish"
+        },
+        {
+          "title": "Rögle BK - Skellefteå AIK på Viaplay ikväll 19: 00",
+          "url": "https://www.tv.nu/s/s_4735329_20261110",
+          "source": "tv.nu",
+          "date": "20261111T030000Z",
           "lang": "Swedish"
         }
       ]
