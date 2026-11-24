@@ -1,6 +1,6 @@
 {
   "date": "2026-11-24",
-  "updated": "2026-11-24T07:32:46.924Z",
+  "updated": "2026-11-24T13:23:47.168Z",
   "qid": "Q424",
   "name": "Cambodia",
   "status": "UN member state",
@@ -42,18 +42,18 @@
       "label": "Last 7 days",
       "items": [
         {
+          "title": "Siem Reap célèbre la Fête des Eaux avec des courses de bateaux traditionnels",
+          "url": "https://www.akp.gov.kh/fr/post/detail/387820",
+          "source": "akp.gov.kh",
+          "date": "20261124T071500Z",
+          "lang": "French"
+        },
+        {
           "title": "Joyous Crowds Fill Chaktomuk Walk Street on First Day of Water Festival",
           "url": "https://www.akp.gov.kh/post/detail/387809",
           "source": "akp.gov.kh",
           "date": "20261124T044500Z",
           "lang": "English"
-        },
-        {
-          "title": "Naissance de deux petits gaur au parc zoologique et centre de sauvetage de la faune de Phnom Tamao",
-          "url": "https://www.akp.gov.kh/fr/post/detail/387813",
-          "source": "akp.gov.kh",
-          "date": "20261124T044500Z",
-          "lang": "French"
         },
         {
           "title": "Ryan Fitzgerald late field goal helps Panthers rally past Ravens",
@@ -72,62 +72,62 @@
       ]
     },
     "international": {
-      "label": "Last 7 days",
+      "label": "Last 24 hours",
       "items": [
         {
-          "title": "Cambodia highlights rule of law, legal cooperation during China – ASEAN forum",
-          "url": "https://asianews.network/cambodia-highlights-rule-of-law-legal-cooperation-during-china-asean-forum/",
-          "source": "asianews.network",
-          "date": "20261123T033000Z",
-          "lang": "English"
-        },
-        {
-          "title": "Analysis: The frontline trap: Indonesians lured into Russia war - Academia",
-          "url": "http://www.thejakartapost.com/opinion/2026/11/23/analysis-the-frontline-trap-indonesians-lured-into-russias-war",
-          "source": "thejakartapost.com",
-          "date": "20261123T023000Z",
-          "lang": "English"
-        },
-        {
-          "title": "China - Pakistan scam networks seek foothold in Bangladesh",
-          "url": "https://organiser.org/2026/11/22/427637/international/bangladesh-emerges-as-new-cybercrime-hub-china-pakistan-scam-networks-seek-foothold-security-gaps-raises-alarm/",
-          "source": "organiser.org",
-          "date": "20261122T123000Z",
-          "lang": "English"
-        },
-        {
-          "title": "AJA Newsbites – November 22, 2026",
-          "url": "https://theasian.asia/archives/205628",
-          "source": "theasian.asia",
-          "date": "20261122T103000Z",
-          "lang": "English"
-        },
-        {
-          "title": "Shared cultural heritage a strong bridge connecting SCO nations: Union Minister Gajendra Shekhawat",
-          "url": "http://www.shanghaisun.com/news/279447418/shared-cultural-heritage-a-strong-bridge-connecting-sco-nations-union-minister-gajendra-shekhawat",
-          "source": "shanghaisun.com",
-          "date": "20261122T003000Z",
-          "lang": "English"
-        },
-        {
-          "title": "Thaco founder Tran Ba Duong steps down as Thaco Agri chairman",
-          "url": "https://vietnamnet.vn/en/thaco-founder-tran-ba-duong-steps-down-as-thaco-agri-chairman-2577443.html",
+          "title": "Lao PM Saleumxay Kommasith to make first official visit to Vietnam",
+          "url": "https://vietnamnet.vn/en/lao-pm-saleumxay-kommasith-to-make-first-official-visit-to-vietnam-2578127.html",
           "source": "vietnamnet.vn",
-          "date": "20261121T123000Z",
+          "date": "20261124T074500Z",
           "lang": "English"
         },
         {
-          "title": "Carney keeps an insane pace in his quest for a saner world",
-          "url": "https://www.stcatharinesstandard.ca/politics/federal/mark-carney-keeps-an-insane-pace-in-his-quest-for-a-saner-world/article_7767477b-1f76-54cf-94e0-d3f95548fac0.html",
-          "source": "stcatharinesstandard.ca",
-          "date": "20261121T123000Z",
+          "title": "Asean warns on Thai - Cambodian conflict, backs Singapore",
+          "url": "https://www.straitstimes.com/asia/se-asia/asean-sec-gen-warns-of-renewed-thai-cambodian-fighting-backs-spore-to-conclude-south-china-sea-pact",
+          "source": "straitstimes.com",
+          "date": "20261124T063000Z",
           "lang": "English"
         },
         {
-          "title": "Myanmar found responsible for Rohingya genocide by ICJ",
-          "url": "http://www.phoenixherald.com/news/279443669/myanmar-found-responsible-for-rohingya-genocide-by-icj",
-          "source": "phoenixherald.com",
-          "date": "20261121T064500Z",
+          "title": "Macquarie - led group to buy Axiata assets for US$1 . 2bil",
+          "url": "https://www.freemalaysiatoday.com/category/business/2026/11/24/macquarie-led-group-to-buy-axiata-assets-for-us-1-2bil",
+          "source": "freemalaysiatoday.com",
+          "date": "20261124T063000Z",
+          "lang": "English"
+        },
+        {
+          "title": "Macquarie - led group to buy telecom assets of Malaysia Axiata for US$1 . 2 billion",
+          "url": "https://www.businesstimes.com.sg/property/macquarie-led-group-buy-telecom-assets-malaysias-axiata-us1-2-billion",
+          "source": "businesstimes.com.sg",
+          "date": "20261124T061500Z",
+          "lang": "English"
+        },
+        {
+          "title": "Malaysian Artisans Build Custom Dragon For Johor Guan Gong Parade",
+          "url": "https://www.therakyatpost.com/living/2026/11/24/malaysian-artisans-build-custom-dragon-for-johor-guan-gong-parade/",
+          "source": "therakyatpost.com",
+          "date": "20261124T023000Z",
+          "lang": "English"
+        },
+        {
+          "title": "Cambodia unveils new boat route, facilities at West Mebon Temple in Angkor park",
+          "url": "https://www.globaltimes.cn/page/202611/1374919.shtml",
+          "source": "globaltimes.cn",
+          "date": "20261124T021500Z",
+          "lang": "English"
+        },
+        {
+          "title": "Macquarie Led Group to Buy Axiata International Towers in $1 . 2 Billion Deal",
+          "url": "https://www.morningstar.com/news/dow-jones/2026112310159/macquarie-led-group-to-buy-axiatas-international-towers-in-12-billion-deal",
+          "source": "morningstar.com",
+          "date": "20261124T014500Z",
+          "lang": "English"
+        },
+        {
+          "title": "Adventures by Disney Offering Savings Up to $750 on Select Adventures in 2027",
+          "url": "https://www.laughingplace.com/disney-parks/adventures-by-disney-black-friday-2026/",
+          "source": "laughingplace.com",
+          "date": "20261124T013000Z",
           "lang": "English"
         }
       ]
