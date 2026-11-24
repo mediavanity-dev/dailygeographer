@@ -1,0 +1,158 @@
+{
+  "date": "2026-11-25",
+  "updated": "2026-11-24T23:50:11.233Z",
+  "qid": "Q805",
+  "name": "Yemen",
+  "status": "UN member state",
+  "officialName": "Yemen",
+  "flag": {
+    "svg": "https://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Yemen.svg",
+    "alt": "Flag of Yemen"
+  },
+  "facts": {
+    "Capital": "Sanaa, Aden",
+    "Continent": "Asia",
+    "Population": "28,250,420",
+    "Area": "455,503 km²",
+    "Languages": "Arabic",
+    "Currency": "Yemeni rial",
+    "Time zones": "Asia/Aden, UTC+03:00",
+    "Calling code": "+967"
+  },
+  "map": "https://www.openstreetmap.org/?mlat=15.5&mlon=48.0#map=5/15.5/48.0",
+  "summary": {
+    "extract": "Yemen, officially the Republic of Yemen, is a country in West Asia. Located in southern Arabia, the country includes the Socotra Archipelago and borders Saudi Arabia to the north, Oman to the northeast, the Arabian Sea to the east, the Gulf of Aden to the south, and the Red Sea to the west. It also shares maritime borders with Djibouti, Eritrea, and Somalia across the Horn of Africa. Covering 455,503 square kilometres (175,871 sq mi), with a coastline of approximately 2,000 kilometres (1,200 mi), Yemen is the second-largest country on the Arabian Peninsula by both area and population. Sanaa is its constitutional capital and largest city. Yemen's population is estimated at 34.7 million, predominantly Muslim Arabs.",
+    "url": "https://en.wikipedia.org/wiki/Yemen"
+  },
+  "history": {
+    "title": "History of Yemen",
+    "paragraphs": [
+      "Yemen is one of the oldest centers of civilization in the Near East. Its relatively fertile land and adequate rainfall in a moister climate helped sustain a stable population, a feature recognized by the ancient Greek geographer Ptolemy, who described Yemen as Eudaimon Arabia, meaning \"Fertile Arabia\" or \"Happy Arabia\". The South Arabian alphabet was developed at latest between the 12th century BC and the 6th century AD, when Yemen was successively dominated by six civilizations that controlled the lucrative spice trade: Ma'in, Qataban, Hadhramaut, Awsan, Saba, and Himyar. With the arrival of Islam in 630 AD, Yemen became part of the wider Muslim world, where it has remained."
+    ],
+    "url": "https://en.wikipedia.org/wiki/History_of_Yemen"
+  },
+  "news": {
+    "local": {
+      "label": "Last 7 days",
+      "items": [
+        {
+          "title": "سبتمبر نت - وقفة احتجاجية لقطاع الاتصالات في رداع تنديدًا باستهداف منشآت الاتصالات بالحديدة",
+          "url": "https://26sep.net/index.php/more/reports/140131-304j",
+          "source": "26sep.net",
+          "date": "20261124T221500Z",
+          "lang": "Arabic"
+        },
+        {
+          "title": "سبتمبر نت - بورصة لندن تهبط للمركز الـ14 .. كيف خسرت بريقها لصالح ماليزيا وتركا",
+          "url": "https://26sep.net/index.php/finance/140135-304n",
+          "source": "26sep.net",
+          "date": "20261124T221500Z",
+          "lang": "Arabic"
+        },
+        {
+          "title": "Yemeni Coast Guard Intercepts Major Drug Shipment from Iran off Al - Mahrah Coast",
+          "url": "https://www.khabaragency.net/news256167.html",
+          "source": "khabaragency.net",
+          "date": "20261124T071500Z",
+          "lang": "English"
+        },
+        {
+          "title": "مانشستر سيتي يستضيف نابولي في صدام أوروبي حاسم على ملعب الاتحاد",
+          "url": "https://www.khabaragency.net/news256168.html",
+          "source": "khabaragency.net",
+          "date": "20261124T071500Z",
+          "lang": "Arabic"
+        },
+        {
+          "title": "الأمم المتحدة تطالب بتخفيف الحصار عن تعز وتؤكد استمرار النزوح",
+          "url": "https://www.almontasaf.net/news153507.html",
+          "source": "almontasaf.net",
+          "date": "20261124T014500Z",
+          "lang": "Arabic"
+        },
+        {
+          "title": "ولايات أمريكية تقاضي SpaceX:  جروك  يولد صوراً إباحية للأطفال وصوراً انتقامية",
+          "url": "https://www.almontasaf.net/news153492.html",
+          "source": "almontasaf.net",
+          "date": "20261124T014500Z",
+          "lang": "Arabic"
+        },
+        {
+          "title": "بن بريك يحث اليمنيين في السعودية على تصحيح أوضاعهم ويحذر من الوسطاء",
+          "url": "https://alwahdawi.net/news-41324",
+          "source": "alwahdawi.net",
+          "date": "20261123T213000Z",
+          "lang": "Arabic"
+        },
+        {
+          "title": "اللجنة الوطنية للمرأة تبحث تداعيات حصار تعز على النازحات وحشد الدعم الإنساني",
+          "url": "https://alwahdawi.net/news-41326",
+          "source": "alwahdawi.net",
+          "date": "20261123T213000Z",
+          "lang": "Arabic"
+        }
+      ]
+    },
+    "international": {
+      "label": "Last 24 hours",
+      "items": [
+        {
+          "title": "Arab News | 350, 000 Yemeni children in besieged Taiz miss out on measles vaccine as war hinders UN access",
+          "url": "https://www.arabnews.com/middle-east/350000-yemeni-children-in-besieged-taiz-miss-out-on-measles-vaccine-as-war-hinders-un-access-3013932",
+          "source": "arabnews.com",
+          "date": "20261124T223000Z",
+          "lang": "English"
+        },
+        {
+          "title": "Lebanon, Qatar condemn Houthi attack on Riyadh tower that injured 11, including 2 Indians",
+          "url": "http://www.arabherald.com/news/279452752/lebanon-qatar-condemn-houthi-attack-on-riyadh-tower-that-injured-11-including-2-indians",
+          "source": "arabherald.com",
+          "date": "20261124T223000Z",
+          "lang": "English"
+        },
+        {
+          "title": "Saudi civil defense says 11 people injured in Houthi attack on Riyadh financial district",
+          "url": "http://www.arabherald.com/news/279452596/saudi-civil-defense-says-11-people-injured-in-houthi-attack-on-riyadh-financial-district",
+          "source": "arabherald.com",
+          "date": "20261124T223000Z",
+          "lang": "English"
+        },
+        {
+          "title": "Eleven hurt as skyscraper in Saudi capital struck",
+          "url": "https://www.maitlandmercury.com.au/story/9397707/eleven-hurt-as-skyscraper-in-saudi-capital-struck/",
+          "source": "maitlandmercury.com.au",
+          "date": "20261124T223000Z",
+          "lang": "English"
+        },
+        {
+          "title": "Houthi rebels close in on the city of Aden as Yemeni forces dig in behind a fortified line",
+          "url": "https://www.hindustantimes.com/world-news/us-news/houthi-rebels-close-in-on-the-city-of-aden-as-yemeni-forces-dig-in-behind-a-fortified-line-101795554051541.html",
+          "source": "hindustantimes.com",
+          "date": "20261124T221500Z",
+          "lang": "English"
+        },
+        {
+          "title": "Houthis wont seize Aden, Yemeni government forces say",
+          "url": "https://www.sowetan.co.za/news/world/2026-11-24-houthis-wont-seize-aden-yemeni-government-forces-say/",
+          "source": "sowetan.co.za",
+          "date": "20261124T214500Z",
+          "lang": "English"
+        },
+        {
+          "title": "Saudi Airstrikes on Equestrian Club in Yemen Kill Dozens of Horses",
+          "url": "https://news.antiwar.com/2026/11/24/saudi-airstrikes-on-equestrian-club-in-yemen-kill-dozens-of-horses/",
+          "source": "news.antiwar.com",
+          "date": "20261124T214500Z",
+          "lang": "English"
+        },
+        {
+          "title": "Saudi Airstrikes on Buses and Trucks in Southwest Yemen Lahj Province Kill 26",
+          "url": "https://news.antiwar.com/2026/11/24/saudi-airstrikes-on-buses-and-trucks-in-southwest-yemens-lahj-province-kill-26/",
+          "source": "news.antiwar.com",
+          "date": "20261124T214500Z",
+          "lang": "English"
+        }
+      ]
+    }
+  }
+}
