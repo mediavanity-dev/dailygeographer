@@ -1,6 +1,6 @@
 {
   "date": "2026-11-24",
-  "updated": "2026-11-24T01:24:15.674Z",
+  "updated": "2026-11-24T07:32:46.924Z",
   "qid": "Q424",
   "name": "Cambodia",
   "status": "UN member state",
@@ -42,6 +42,20 @@
       "label": "Last 7 days",
       "items": [
         {
+          "title": "Joyous Crowds Fill Chaktomuk Walk Street on First Day of Water Festival",
+          "url": "https://www.akp.gov.kh/post/detail/387809",
+          "source": "akp.gov.kh",
+          "date": "20261124T044500Z",
+          "lang": "English"
+        },
+        {
+          "title": "Naissance de deux petits gaur au parc zoologique et centre de sauvetage de la faune de Phnom Tamao",
+          "url": "https://www.akp.gov.kh/fr/post/detail/387813",
+          "source": "akp.gov.kh",
+          "date": "20261124T044500Z",
+          "lang": "French"
+        },
+        {
           "title": "Ryan Fitzgerald late field goal helps Panthers rally past Ravens",
           "url": "http://www.cambodiantimes.com/news/279449305/ryan-fitzgerald-late-field-goal-helps-panthers-rally-past-ravens",
           "source": "cambodiantimes.com",
@@ -54,20 +68,6 @@
           "source": "cambodiantimes.com",
           "date": "20261122T223000Z",
           "lang": "English"
-        },
-        {
-          "title": "Le ministre de lInformation souligne la troisième référence de Trump au cessez - le - feu Cambodge - Thaïlande en quatre jours",
-          "url": "https://www.akp.gov.kh/fr/post/detail/387603",
-          "source": "akp.gov.kh",
-          "date": "20261120T054500Z",
-          "lang": "French"
-        },
-        {
-          "title": "Le Cambodge et les États - Unis réaffirment leur engagement à renforcer leur coopération bilatérale",
-          "url": "https://www.akp.gov.kh/fr/post/detail/387586",
-          "source": "akp.gov.kh",
-          "date": "20261120T054500Z",
-          "lang": "French"
         }
       ]
     },
