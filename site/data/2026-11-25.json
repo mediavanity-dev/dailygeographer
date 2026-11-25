@@ -1,6 +1,6 @@
 {
   "date": "2026-11-25",
-  "updated": "2026-11-25T13:36:26.191Z",
+  "updated": "2026-11-25T19:01:33.310Z",
   "qid": "Q805",
   "name": "Yemen",
   "status": "UN member state",
@@ -10,13 +10,13 @@
     "alt": "Flag of Yemen"
   },
   "facts": {
-    "Capital": "Aden, Sanaa",
+    "Capital": "Sanaa, Aden",
     "Continent": "Asia",
     "Population": "28,250,420",
     "Area": "455,503 km²",
     "Languages": "Arabic",
     "Currency": "Yemeni rial",
-    "Time zones": "UTC+03:00, Asia/Aden",
+    "Time zones": "Asia/Aden, UTC+03:00",
     "Calling code": "+967"
   },
   "map": "https://www.openstreetmap.org/?mlat=15.5&mlon=48.0#map=5/15.5/48.0",
@@ -35,6 +35,20 @@
     "local": {
       "label": "Last 7 days",
       "items": [
+        {
+          "title": "عصائر طبيعية تدعم صحة القلب وتخفض الكوليسترول",
+          "url": "https://www.almontasaf.net/news153593.html",
+          "source": "almontasaf.net",
+          "date": "20261125T031500Z",
+          "lang": "Arabic"
+        },
+        {
+          "title": "المقاولون العرب يتفاوض مع محمد الشيخ لقيادة الفريق خلفاً لقمصان",
+          "url": "https://www.almontasaf.net/news153592.html",
+          "source": "almontasaf.net",
+          "date": "20261125T031500Z",
+          "lang": "Arabic"
+        },
         {
           "title": "سبتمبر نت - عدوان سعودي على صنعاء وعمران والحديدة",
           "url": "https://26sep.net/index.php/local/140136-304o",
@@ -61,20 +75,6 @@
           "url": "https://www.khabaragency.net/news256205.html",
           "source": "khabaragency.net",
           "date": "20261124T233000Z",
-          "lang": "Arabic"
-        },
-        {
-          "title": "الأمم المتحدة تطالب بتخفيف الحصار عن تعز وتؤكد استمرار النزوح",
-          "url": "https://www.almontasaf.net/news153507.html",
-          "source": "almontasaf.net",
-          "date": "20261124T014500Z",
-          "lang": "Arabic"
-        },
-        {
-          "title": "ولايات أمريكية تقاضي SpaceX:  جروك  يولد صوراً إباحية للأطفال وصوراً انتقامية",
-          "url": "https://www.almontasaf.net/news153492.html",
-          "source": "almontasaf.net",
-          "date": "20261124T014500Z",
           "lang": "Arabic"
         },
         {
