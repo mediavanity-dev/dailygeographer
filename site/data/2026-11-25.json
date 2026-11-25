@@ -1,6 +1,6 @@
 {
   "date": "2026-11-25",
-  "updated": "2026-11-25T07:36:46.923Z",
+  "updated": "2026-11-25T13:36:26.191Z",
   "qid": "Q805",
   "name": "Yemen",
   "status": "UN member state",
@@ -10,13 +10,13 @@
     "alt": "Flag of Yemen"
   },
   "facts": {
-    "Capital": "Sanaa, Aden",
+    "Capital": "Aden, Sanaa",
     "Continent": "Asia",
     "Population": "28,250,420",
     "Area": "455,503 km²",
     "Languages": "Arabic",
     "Currency": "Yemeni rial",
-    "Time zones": "Asia/Aden, UTC+03:00",
+    "Time zones": "UTC+03:00, Asia/Aden",
     "Calling code": "+967"
   },
   "map": "https://www.openstreetmap.org/?mlat=15.5&mlon=48.0#map=5/15.5/48.0",
