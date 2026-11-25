@@ -1,6 +1,6 @@
 {
   "date": "2026-11-25",
-  "updated": "2026-11-24T23:50:11.233Z",
+  "updated": "2026-11-25T01:25:21.174Z",
   "qid": "Q805",
   "name": "Yemen",
   "status": "UN member state",
@@ -10,7 +10,7 @@
     "alt": "Flag of Yemen"
   },
   "facts": {
-    "Capital": "Sanaa, Aden",
+    "Capital": "Aden, Sanaa",
     "Continent": "Asia",
     "Population": "28,250,420",
     "Area": "455,503 km²",
@@ -36,31 +36,31 @@
       "label": "Last 7 days",
       "items": [
         {
-          "title": "سبتمبر نت - وقفة احتجاجية لقطاع الاتصالات في رداع تنديدًا باستهداف منشآت الاتصالات بالحديدة",
-          "url": "https://26sep.net/index.php/more/reports/140131-304j",
+          "title": "سبتمبر نت - عدوان سعودي على صنعاء وعمران والحديدة",
+          "url": "https://26sep.net/index.php/local/140136-304o",
           "source": "26sep.net",
-          "date": "20261124T221500Z",
+          "date": "20261125T001500Z",
           "lang": "Arabic"
         },
         {
-          "title": "سبتمبر نت - بورصة لندن تهبط للمركز الـ14 .. كيف خسرت بريقها لصالح ماليزيا وتركا",
-          "url": "https://26sep.net/index.php/finance/140135-304n",
+          "title": "سبتمبر نت - القوات المسلحة: ميناء جدة وجميع الموانئ السعودية على البحر الاحمر هدف لقواتنا",
+          "url": "https://26sep.net/index.php/local/140139-304r",
           "source": "26sep.net",
-          "date": "20261124T221500Z",
+          "date": "20261125T001500Z",
           "lang": "Arabic"
         },
         {
-          "title": "Yemeni Coast Guard Intercepts Major Drug Shipment from Iran off Al - Mahrah Coast",
-          "url": "https://www.khabaragency.net/news256167.html",
+          "title": "تعادل مثير بين مانشستر سيتي ونابولي في دوري أبطال أوروبا",
+          "url": "https://www.khabaragency.net/news256207.html",
           "source": "khabaragency.net",
-          "date": "20261124T071500Z",
-          "lang": "English"
+          "date": "20261124T233000Z",
+          "lang": "Arabic"
         },
         {
-          "title": "مانشستر سيتي يستضيف نابولي في صدام أوروبي حاسم على ملعب الاتحاد",
-          "url": "https://www.khabaragency.net/news256168.html",
+          "title": "تحديث iOS 27 . 3 المرتقب: مزايا ذكية وتغييرات جذرية في 6 تطبيقات أساسية على آيفون",
+          "url": "https://www.khabaragency.net/news256205.html",
           "source": "khabaragency.net",
-          "date": "20261124T071500Z",
+          "date": "20261124T233000Z",
           "lang": "Arabic"
         },
         {
