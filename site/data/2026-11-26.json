@@ -1,0 +1,222 @@
+{
+  "date": "2026-11-26",
+  "updated": "2026-11-25T23:44:57.239Z",
+  "qid": "Q142",
+  "name": "France",
+  "status": "UN member state",
+  "officialName": "France",
+  "flag": {
+    "svg": "https://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20France.svg",
+    "alt": "Flag of France"
+  },
+  "facts": {
+    "Capital": "Paris",
+    "Continent": "Europe",
+    "Population": "68,605,616",
+    "Area": "643,801 km²",
+    "Languages": "French",
+    "Currency": "euro, CFP Franc",
+    "Time zones": "UTC+01:00",
+    "Calling code": "+33"
+  },
+  "map": "https://www.openstreetmap.org/?mlat=47.0&mlon=2.0#map=5/47.0/2.0",
+  "summary": {
+    "extract": "France, officially the French Republic, is a country primarily located in Western Europe. Its overseas regions and territories include French Guiana in South America, Saint Pierre and Miquelon in the North Atlantic, the French West Indies, and many islands in Oceania and the Indian Ocean. Metropolitan France shares borders with Belgium and Luxembourg to the north; Germany to the northeast; Switzerland to the east; Italy and Monaco to the southeast; Andorra and Spain to the south; and a maritime border with the United Kingdom to the northwest. Its metropolitan area extends from the Rhine to the Atlantic Ocean and from the Mediterranean Sea to the English Channel and the North Sea. Its 18 integral regions—five of which are overseas—span a combined area of 632,702 km2 (244,288 sq mi), with a total population estimated at over 69.1 million in 2026. Its capital, largest city and main cultural and economic centre is Paris, with a metropolitan population of over 13 million.",
+    "url": "https://en.wikipedia.org/wiki/France"
+  },
+  "history": {
+    "title": "History of France",
+    "paragraphs": [
+      "The first written records for the history of France appeared in the Iron Age. What is now France made up the bulk of the region known to the Romans as Gaul. Greek writers noted the presence of three main ethno-linguistic groups in the area: the Gauls, Aquitani and Belgae. Over the first millennium BC the Greeks, Romans and Carthaginians established colonies on the Mediterranean coast and offshore islands. The Roman Republic annexed southern Gaul in the late 2nd century BC, and legions under Julius Caesar conquered the rest of Gaul in the Gallic Wars of 58–51 BC. A Gallo-Roman culture emerged, and Gaul was increasingly integrated into the Roman Empire. In the later stages of the empire, Gaul was subject to barbarian raids and migration. The Frankish king Clovis I united most of Gaul in the late 5th century. Frankish power reached its fullest extent under Charlemagne. The medieval Kingdom of France emerged from the western part of Charlemagne's Carolingian Empire, known as West Francia, and achieved increasing prominence under the rule of the House of Capet, founded in 987. The monarchy initially wielded only limited authority, but Philip II of France brought the Angevin Empire to an end by defeating a coalition of his rivals at the Battle of Bouvines in 1214. Following this victory, France became the most prosperous and powerful kingdom in Europe.",
+      "A succession crisis in 1328 led to the Hundred Years' War between the House of Valois and the House of Plantagenet. The war began in 1337 following Philip VI's attempt to seize the Duchy of Aquitaine from its hereditary holder Edward III of England, the Plantagenet claimant to the French throne. A notable figure of the war was Joan of Arc, a French peasant girl who led forces against the English, establishing herself as a national heroine. The war ended with a Valois victory in 1453, strengthening French nationalism and increasing the power and reach of the French monarchy. During the Ancien Régime over the next centuries, France transformed into a centralized absolute monarchy through the Renaissance and Reformation. At the height of the French Wars of Religion, France became embroiled in another succession crisis, as the last Valois king, Henry III, fought against factions of the House of Bourbon and House of Guise. Henry, the Bourbon King of Navarre, won and established the Bourbon dynasty. A burgeoning worldwide colonial empire was established in the 16th century.",
+      "By the mid-17th century, France had emerged as the dominant hegemonic power in Europe, building Europe's strongest army, engaging in a series of wars, and undergoing a period of artistic and scientific development. In the late 18th century the monarchy and associated institutions were overthrown in the French Revolution. The Revolutionary Tribunal executed political opponents by guillotine, instituting the Reign of Terror (1793–94). The country was governed as a Republic, until Napoleon's French Empire was declared in 1804. Following his defeat in the Napoleonic Wars, France went through regime changes, being ruled as a monarchy, then Second Republic, then Second Empire, until a more lasting French Third Republic was established in 1870.",
+      "During World War I, France played a decisive role in defeating the Central Powers as part of the Triple Entente, while participating in the majority of the war's major battles fought on the Western Front. France during World War II was one of the Allied Powers but was conquered by Nazi Germany in 1940. The Third Republic was dismantled, and most of the country was controlled directly by Germany, while the south was controlled until 1942 by the collaborationist Vichy government. Following liberation in 1944, the Fourth Republic was established. France slowly recovered and enjoyed a baby boom that reversed its low fertility rate. Long wars in Indochina and Algeria drained French resources and ended in political defeat. In the wake of the 1958 Algerian crisis, Charles de Gaulle set up the French Fifth Republic. Into the 1960s most of the French colonial empire became independent, while smaller parts were incorporated into the French state as overseas departments and collectivities. Since World War II France has been a permanent member in the UN Security Council and NATO. It played a central role in the unification process after 1945 that led to the European Union. It remains a strong economic, cultural, military and political factor in the 21st century."
+    ],
+    "url": "https://en.wikipedia.org/wiki/History_of_France"
+  },
+  "news": {
+    "local": {
+      "label": "Last 24 hours",
+      "items": [
+        {
+          "title": "Le Parlement adopte définitivement le projet de loi de fin de gestion pour 2026",
+          "url": "https://www.journaldunet.com/business/action-publique/1559103-le-parlement-adopte-definitivement-le-projet-de-loi-de-fin-de-gestion-pour-2026/",
+          "source": "journaldunet.com",
+          "date": "20261125T141500Z",
+          "lang": "French"
+        },
+        {
+          "title": "Dépendances numériques: cartographier ne suffit plus, il faut éprouver sa capacité daction",
+          "url": "https://www.silicon.fr/business-1367/dependances-numeriques-cartographier-ne-suffit-plus-il-faut-eprouver-sa-capacite-daction-230599",
+          "source": "silicon.fr",
+          "date": "20261125T141500Z",
+          "lang": "French"
+        },
+        {
+          "title": "LAllemand mis à lhonneur au collège Font dAurumy de Fuveau avec 12 élèves célébrés pour leur niveau en langue",
+          "url": "https://www.laprovence.com/article/region/622795858190814/l-allemand-mis-a-l-honneur-au-college-font-d-aurumy-de-fuveau-avec-12-eleves-celebres-pour-leur-niveau-en-langue",
+          "source": "laprovence.com",
+          "date": "20261125T141500Z",
+          "lang": "French"
+        },
+        {
+          "title": "LAnses rendra mi - janvier sa décision sur la réintroduction dun insecticide dans les betteraves - 25 / 11 / 2026 à 14: 07",
+          "url": "https://www.boursorama.com/actualite-economique/actualites/l-anses-rendra-mi-janvier-sa-decision-sur-la-reintroduction-d-un-insecticide-dans-les-betteraves-22a06de7f729930e9a7a3953faae154d",
+          "source": "boursorama.com",
+          "date": "20261125T141500Z",
+          "lang": "French"
+        },
+        {
+          "title": "LUE de von der Leyen veut fermer les stades aux athlètes russes là où le CIO et le judo avaient déjà rouvert les portes",
+          "url": "https://www.francesoir.fr/politique-monde/l-ue-de-von-der-leyen-veut-fermer-les-stades-aux-athletes-russes-alors-que-le-cio",
+          "source": "francesoir.fr",
+          "date": "20261125T141500Z",
+          "lang": "French"
+        },
+        {
+          "title": "Bourgoin - Jallieu . Trois cents euros de chewing - gum pour butin",
+          "url": "https://www.leprogres.fr/faits-divers-justice/2026/11/25/trois-cents-euros-de-chewing-gum-pour-butin",
+          "source": "leprogres.fr",
+          "date": "20261125T141500Z",
+          "lang": "French"
+        },
+        {
+          "title": "Jai disjoncté: Fabienne Carat révèle les raisons de son départ de Plus belle la vie suite à un  burn - out",
+          "url": "https://www.femmeactuelle.fr/actu/jai-disjoncte-fabienne-carat-revele-les-raisons-de-son-depart-de-plus-belle-la-vie-suite-a-un-burn-out-2213568",
+          "source": "femmeactuelle.fr",
+          "date": "20261125T141500Z",
+          "lang": "French"
+        },
+        {
+          "title": "LIA augmente lindividu, mais pas lorganisation",
+          "url": "https://www.silicon.fr/data-ia-1372/lia-augmente-lindividu-mais-pas-lorganisation-230656",
+          "source": "silicon.fr",
+          "date": "20261125T141500Z",
+          "lang": "French"
+        }
+      ]
+    },
+    "international": {
+      "label": "Last 24 hours",
+      "items": [
+        {
+          "title": "Puerto Rico Jennifer Barreto first mom to be crowned Miss Universe",
+          "url": "https://torontosun.com/news/world/puerto-rico-jennifer-barreto-first-mom-crowned-miss-universe",
+          "source": "torontosun.com",
+          "date": "20261125T141500Z",
+          "lang": "English"
+        },
+        {
+          "title": "Authorities concerned by influx of counterfeit firearms in criminal underworld",
+          "url": "https://nltimes.nl/2026/11/25/authorities-concerned-influx-counterfeit-firearms-criminal-underworld",
+          "source": "nltimes.nl",
+          "date": "20261125T141500Z",
+          "lang": "English"
+        },
+        {
+          "title": "Why The 24 Hours Of Le Mans Is Exactly 24 Hours Long",
+          "url": "https://www.motor1.com/features/816610/why-le-mans-cars-have-to-run-for-24-hours/",
+          "source": "motor1.com",
+          "date": "20261125T141500Z",
+          "lang": "English"
+        },
+        {
+          "title": "CAC 40 Advances As Luxury Stocks Move Up",
+          "url": "https://www.rttnews.com/3717938/cac-40-advances-as-luxury-stocks-move-up.aspx",
+          "source": "rttnews.com",
+          "date": "20261125T141500Z",
+          "lang": "English"
+        },
+        {
+          "title": "Thomas Markle Indicted By L . A . Federal Grand Jury",
+          "url": "https://whnz.iheart.com/content/2026-11-25-thomas-markle-indicted-by-la-federal-grand-jury/",
+          "source": "whnz.iheart.com",
+          "date": "20261125T141500Z",
+          "lang": "English"
+        },
+        {
+          "title": "BrenX to Host Investor Webinar on Europe Planned 1 Billion Euro Industrial Heat Auction and Recent Business Developments",
+          "url": "https://www.timminspress.com/press-releases/newsfile/brenx-to-host-investor-webinar-on-europes-planned-1-billion-euro-industrial-heat-auction-and-recent-business-developments/",
+          "source": "timminspress.com",
+          "date": "20261125T141500Z",
+          "lang": "English"
+        },
+        {
+          "title": "Aid cuts leave 446, 000 fewer people on HIV prevention drugs, UN agency warns",
+          "url": "https://www.euronews.com/2026/11/25/aid-cuts-leave-446000-fewer-people-on-hiv-prevention-drugs-un-agency-warns",
+          "source": "euronews.com",
+          "date": "20261125T141500Z",
+          "lang": "English"
+        },
+        {
+          "title": "Holiday sales growth masks rising cash flow pressure for retailers, warns Atradius",
+          "url": "http://www.australiannews.net/news/279453667/holiday-sales-growth-masks-rising-cash-flow-pressure-for-retailers-warns-atradius",
+          "source": "australiannews.net",
+          "date": "20261125T141500Z",
+          "lang": "English"
+        }
+      ]
+    },
+    "google": {
+      "label": "Top stories, FR:fr edition",
+      "items": [
+        {
+          "title": "Avec les maires aussi, les outrances de David Lisnard portent leurs fruits",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQWlUzdVZGZGQyTk84elQ5Mzg3YkRsUks5MGRUZUJhZWJJcDU4aGo5UFJxVWNBYmNRUHdTeFpsQkFMcW5NVHdJSkdFSWdrSndFVno1NHlqa2NjX1VjWFFOVkJvNzdZSHFNMFBxWHJhODRhRjBJZzROY240WHZueVlCSm1NeXZiaDJBLWJqWnh4VVNpS21KUW9KbHNvQ3dscTllakRjRXFDbTJIZHFxd3JZbnE0eWRpYWRrWUxtSG9GUUg?oc=5",
+          "source": "mediapart.fr",
+          "date": "2026-11-25T17:19:57.000Z",
+          "lang": "French"
+        },
+        {
+          "title": "Cette sortie de Teddy Riner sur la guerre en Ukraine relance les doutes sur sa candidature",
+          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNb2xCMkhDZXhWQVMtUjdzaXpLQUFWMHdYSXA4UWg2LUJ5RHp1RUlvTm1nLVZwVDBOeXhFSUwxYXJ4cTlWRW5xZTI1clFQSzVhQlpra2xGb0pTT3dtUEtFV1kxQXpOdUZmdGhiWklURUxnN0IzZDVQNUZXVUpxSkg5QVNyUmszUFJtMWtDaDd0WFY3VWtjbzJVOENIajlvRlB5dFVyOEkxc0xnbzgwTWlBRUNPekFaOVFKTzI5a1ozT182eGszdHdwWWUwVlR2UG5MUTdHM09iV0xxakxrTmZsMDU4Nkk?oc=5",
+          "source": "huffingtonpost.fr",
+          "date": "2026-11-25T17:31:02.000Z",
+          "lang": "French"
+        },
+        {
+          "title": "EN DIRECT, guerre en Ukraine : un mort et dix blessés dans un bombardement russe à Sloviansk, selon les autorités locales",
+          "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNNWNTaW1TcWRRXzZJZXB5VUJNc3I3b29XRFg0ZENaWXdwY05ic3hUMFdZaTBnWVRVa1doNzBVVmdRSmI1Q1dOcWhVb1EzVEc5OWZZZ2pIQ2pRSVBmSm5ER2dvT2l4WUJwcnAxbXBUbWJNSkVKNGJKQUdpazh1SThWUWhXQno3MFBfQWZDZTZlOHB0SVhldlBJOFlMN0drUUgyLXVMaTRPdlBQV2I5UmlraExBUzU1eHZISVhUdjB2TVN5WVRVZVRoYzR4YU5VQXppbHFFVk8wOTB5dmtlZXVESTVKU1JrTmR2N2dodjNkemVYMnZuYXl5RTctQ1JIS1ZoVmFhTXpzemNPYU1OV1VCaUYwUVlnUQ?oc=5",
+          "source": "lemonde.fr",
+          "date": "2026-11-25T17:18:53.000Z",
+          "lang": "French"
+        },
+        {
+          "title": "Procureur présent au siège du RN : Gérald Darmanin saisit l’Inspection générale de la justice",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWGY2dDVtS3FkZVg0SDhicnVVNEVucDBfQlhROE5DZ1dWUWhJNmIwZlVpb0Q2d2liSmZoejRlTGVzN19tZ200TTFmRE1tR2hETER0dDZ2ZkEweHVZNk9wVE13czNGTDNldmxPcFdrd2w2elNuOWMwTUZMclpxUHFKYXl2V3FJTmkxb0YzOWlvVmZyQVlVd0hQVDNfVVBzM3ZQTTdWODdZT2xXWDNoc3hj?oc=5",
+          "source": "la-croix.com",
+          "date": "2026-11-25T08:51:56.000Z",
+          "lang": "French"
+        },
+        {
+          "title": "Violences du 17 octobre à Marseille : des ordres ont été donnés pour relâcher des casseurs, selon Benoît Payan",
+          "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPb3Z0NEFhNXRFa0tOdnVFMlBQMnVCN19xZWxiSXJfU0tKTU5UaVBLeU9SaW5ZNVRfRVVEMWo3Z0c5Zl9RXzBDWGRwYWJKeXpCT3pIb0ZvT3ZtQlh1NnBHZkxmQnhzeTVhRUhxbmlYUHYxSzJuME1vdnBEQ3pqWWVSWnZqZFhlSFktbWtVTkp4ZlVNcTVoOXluYk9OaVdFQnB0RTM0RG1zVmZ4aWZTZGUtZlJKNV95WVNMTUpnX2gwaC1PZWtLRXJ1WDBFUHdkSWQ5MG5qWlBydTB6WjBnaVFfSVpabFF5OEJMN0VhRVFwaW5xLXFrSGI0OFJsUHdlRjV2Y0NGbzRn?oc=5",
+          "source": "lemonde.fr",
+          "date": "2026-11-25T21:24:09.000Z",
+          "lang": "French"
+        },
+        {
+          "title": "Le Sénat réduit la niche fiscale des retraités (mais ne la supprime pas)",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdmtWTEJ0ZlNjVUxILVFRQ3NnUFFCb0V1NklPV1JzYXcyVXMwNWkzYVFZcXgxR2NfYUljMTlOZ0hNdDctQ1ctdUYxNi1ValRBRTVyaU1VSHBsUU4wSEZrblY2VldRVzhQYjZZYUtLeFJzNnZ4X3hWalZ0VnkyZXBGcG5wM09JN1Q0cUMzdjV3NGQ1ekRXbmExSVkzcVhqd3B1SjJaOHFrdXBWOWdWY2c?oc=5",
+          "source": "20minutes.fr",
+          "date": "2026-11-25T07:55:00.000Z",
+          "lang": "French"
+        },
+        {
+          "title": "Le prix des boîtes de paracétamol fabriqué en France va bien augmenter",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNeG45TWM0QkR4dlJLb0RndGNIM0t1ZThSclFFZDhqTkN1U01PWjdsZzRWSGtyU1dvMW5OemtjaFNmQ3BVcFY1Z19SRFJFbFBYM0NEUmZMel94amkwcmFHTkN1di1ub1ZDcFc1UXRnMHI2cVJNZUhFMjdPN2NVYWp6aThVQ3h3NUlXYzFaTDdnM1Y1T0lWYmJoenVoTGhfbG9DUFo1V2Z2Slpnd1Y2V1VXZ0NaekgtOW1HM29kd0Vn?oc=5",
+          "source": "20minutes.fr",
+          "date": "2026-11-25T15:41:00.000Z",
+          "lang": "French"
+        },
+        {
+          "title": "EN DIRECT - Épisode méditerranéen : levée des vigilances orange pour le Var et les Alpes-Maritimes",
+          "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQOHZKRkNkRE9PbU9XbzVTMVNscEJldUlhV0xHXzNVU25aVndiMHBmazJLM2RLSUFCSDh0MEdTUW1FY3Z1eG9od3hWZFU4RjQ4c3NiX0xIbU9NR3BkcTA2dTM4dnI3UFQwcEN1VUdFQ0dZX2lrMkdKZkc5S0Fscy1qcDZaQzFUQ3BhcVVIUWNqOXRzYnBicC1CZ0VyS3lVd2dLTUFNVlJ6ZEUtTDdhZUg3SEV5ekFrb1NTWWw2NkU3MExub0RON2VkRWpZa0JQdl82Ym4zZmhrc0xqUmk4UmFwSGNvZ0JVVlFhNU5EbVhRcEVna3c?oc=5",
+          "source": "tf1info.fr",
+          "date": "2026-11-25T21:32:37.000Z",
+          "lang": "French"
+        }
+      ]
+    }
+  }
+}
