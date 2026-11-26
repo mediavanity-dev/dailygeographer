@@ -1,6 +1,6 @@
 {
   "date": "2026-11-26",
-  "updated": "2026-11-26T13:31:18.071Z",
+  "updated": "2026-11-26T19:13:37.985Z",
   "qid": "Q142",
   "name": "France",
   "status": "UN member state",
@@ -15,7 +15,7 @@
     "Population": "68,605,616",
     "Area": "643,801 km²",
     "Languages": "French",
-    "Currency": "CFP Franc, euro",
+    "Currency": "euro, CFP Franc",
     "Time zones": "UTC+01:00",
     "Calling code": "+33"
   },
@@ -38,6 +38,34 @@
     "local": {
       "label": "Last 24 hours",
       "items": [
+        {
+          "title": "Mornac: des parcelles acquises pour sécuriser la traversée du Quéroy",
+          "url": "https://www.charentelibre.fr/charente/mornac/mornac-des-parcelles-acquises-pour-securiser-la-traversee-du-queroy-31678085.php",
+          "source": "charentelibre.fr",
+          "date": "20261126T144500Z",
+          "lang": "French"
+        },
+        {
+          "title": "Même avec un abonnement payant, ChatGPT peut encore vous raconter nimporte quoi",
+          "url": "https://www.24matins.fr/meme-avec-un-abonnement-payant-chatgpt-peut-encore-vous-raconter-nimporte-quoi-1424794",
+          "source": "24matins.fr",
+          "date": "20261126T144500Z",
+          "lang": "French"
+        },
+        {
+          "title": "Proton Unlimited, Duo et Family comparés sur les prix et usages",
+          "url": "https://www.linformatique.org/proton-unlimited-duo-family-prix-avis/",
+          "source": "linformatique.org",
+          "date": "20261126T144500Z",
+          "lang": "French"
+        },
+        {
+          "title": "Jordan Bardella visé par de nouveaux écrits antisémites qui lui sont attribués",
+          "url": "https://www.24matins.fr/jordan-bardella-vise-par-de-nouveaux-ecrits-antisemites-qui-lui-sont-attribues-1424819",
+          "source": "24matins.fr",
+          "date": "20261126T144500Z",
+          "lang": "French"
+        },
         {
           "title": "Worksaga | Miroir Social",
           "url": "https://www.miroirsocial.com/taxonomy/term/27617",
@@ -63,34 +91,6 @@
           "title": "Vosges: plusieurs entreprises cambriolées et des véhicules professionnels dérobés",
           "url": "https://www.magnumlaradio.com/vosges-plusieurs-entreprises-cambriolees-et-des-vehicules-professionnels-derobes",
           "source": "magnumlaradio.com",
-          "date": "20261126T124500Z",
-          "lang": "French"
-        },
-        {
-          "title": "Culture: le comédien Simon Abkarian prendra la tête du Thtre du Soleil en 2027, annonce Ariane Mnouchkine",
-          "url": "https://www.sudouest.fr/culture/theatre/culture-le-comedien-simon-abkarian-prendra-la-tete-du-theatre-du-soleil-en-2027-annonce-ariane-mnouchkine-31678983.php",
-          "source": "sudouest.fr",
-          "date": "20261126T124500Z",
-          "lang": "French"
-        },
-        {
-          "title": "Fondation de lAvenir: Appel à Projets Recherche Médicale 2027",
-          "url": "https://www.miroirsocial.com/participatif/fondation-de-lavenir-appel-projets-recherche-medicale-2027",
-          "source": "miroirsocial.com",
-          "date": "20261126T124500Z",
-          "lang": "French"
-        },
-        {
-          "title": "Alexander Isak fait enfin taire les critiques et porte Liverpool",
-          "url": "https://www.footmercato.net/a4636838166725456480-alexander-isak-fait-enfin-taire-les-critiques-et-porte-liverpool",
-          "source": "footmercato.net",
-          "date": "20261126T124500Z",
-          "lang": "French"
-        },
-        {
-          "title": "Mornac: des parcelles acquises pour sécuriser la traversée du Quéroy",
-          "url": "https://www.charentelibre.fr:443/charente/mornac/mornac-des-parcelles-acquises-pour-securiser-la-traversee-du-queroy-31678085.php",
-          "source": "charentelibre.fr",
           "date": "20261126T124500Z",
           "lang": "French"
         }
@@ -161,59 +161,59 @@
       "label": "Top stories, FR:fr edition",
       "items": [
         {
-          "title": "EN DIRECT, congrès des maires de France, suites des propos antisémites de Bardella, campagne présidentielle : suivez l’actualité politique",
-          "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxNazlpWmxqcmg3aU9lc04tNC1fS1A3REQ1S21PRUpNSUVwWEN0RS13cEtGcHI5QXBOVlc0elVPeGRYUXp3Nmp1dGJnekMwWmJ1MDJBazAxaFkxQzhpRk5DM2dHNjQ2bkpFaEt6NldycGFxbXlJREtyNkNkc1g3TEtDN3V0Z2YtMXpFWWdjWHl1ZDJwRk9JNlVNSUZNV3Q2UGhPTmN1UW9SRUVodHAwbzFOemJCS3dxMGhUQ1k5bzBVVlJNNGtkS0l4OTA3WG0ySEU4QjNrbXVxMzNZckdrMVhhbTI2SUlLZ2g1dkttYVhWQzU0WUlSeVl6TUpfSVRRTHRBU2RvTnlTVE5JRnhoeU1pQVJVVndFNnJEOTZYel84ZWZqRkg4VnhENVpB?oc=5",
-          "source": "lemonde.fr",
-          "date": "2026-11-26T09:50:56.000Z",
-          "lang": "French"
-        },
-        {
-          "title": "Émilie König, l’ancienne « égérie » de l’État islamique, jugée aux assises à partir de ce jeudi",
-          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOeklhV2Z3b0c3d1BTSk9GUUtKUzMwZC1FRUlhejhCREpmV1h0V2k2TUxHdHVVRWlUc2luU3d3NXExOThfcFlLMmdFTG16S1NCamxpeHlHQU9XOHdSZm44R3VqMTdGUUVmd092XzRFTk9sZDBCZmxQRVBQSFFYRDVvNkZKcnB3VHdGLXcxU2h3NTEzUDVqWkhDXzJnb2ZBUGliclpmV3ZEY0ZTQVE5YnRhRkd2NHIwN3NQWVdBcWtnVml1QUxvbURWR0ZVeXpDeHluSWplNEh1MHRrNmFESUZj?oc=5",
+          "title": "Écrits antisémites : ces éléments techniques et biographiques qui accablent Jordan Bardella",
+          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPWjlQSmo0OVdYaTJfQ3VkYkh3UHZ4VlBaQjZOQ1VRYjNlR24wbFhFcUFhQVcwUG4yT0lUZ08yY1dJMWpwSmpKbzgtbGxYTjRVRUE3cGpNdVVjUmpUcFhITnBkUmw1UHNpeHpiLVpYNHpDMk1jLTNzOXptUkdpb3B5RTkxNE5xODU3dFNTR2c4endrRmNXcVh3Z09GbndSeEg1cW4wT0FEMDFSOW1JekFUWVg4TURydExGMXFIaG5uVW4xSmZmbm1MMEJmbjZEeC1DMlltY0s1em5xRmYxOG9ja25LZw?oc=5",
           "source": "huffingtonpost.fr",
-          "date": "2026-11-26T04:50:11.000Z",
+          "date": "2026-11-26T15:20:05.000Z",
           "lang": "French"
         },
         {
-          "title": "« Ce n’est pas notre guerre » : Teddy Riner s’empêtre sur le conflit en Ukraine avant de se rétracter",
-          "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOWTJnZXpEOHpzTktGX0JaeGF3dElmYWh0RFBfTHozOEhEUmd0bkp5WTBIaW5laldsTXpzWmMwb3ZObEtjanNqdFk0ODlPLU0tdUx4ZEVIUmdfQnJBakRJRlBaSjVSNEhtWV9SMVlJMDZYMUsxNkVUY2NBZHVEUU83R1JZenhTeVdHZFczR05VbHRCSGh6ZW9Ta3U1X0diRkRLMFFxN0VwSkdCQ3dkdlZ2RVNXWHlwQU9wb0RYZFc3TzVaMnpYaVhHYldpc3BOUUdlMmNiX3kzclNaMURmajNBYmUzWC1rR0hnaUNKaFFDc1h4TkhWaUpXRktWUml5Qm9wUVdZOXgtNklwXzRmaGt5YkhROA?oc=5",
-          "source": "leparisien.fr",
-          "date": "2026-11-25T15:22:31.000Z",
-          "lang": "French"
-        },
-        {
-          "title": "Présidentielle 2027 : où en sont les candidats dans leur quête des 500 parrainages nécessaires pour s'aligner au premier tour ?",
-          "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNOFdLbXdzYlZBU19zRzhwZEVZNW1uM1NwejBhMmowMkRRLUpuNlQ4RElFcjVzdXE0MU9BWThUVWtVMkxTaHdDRUdIZ1ZSS292QlVJa0hzOWtlc2Z4cEdGNlV5NGdnSGIwaTlXR1FlSG14bnRTbUc1Zk8zc3BKRHlmY04zSHc2d0I3ZTdrU0RFdmg3dWZHaXZQdG14Qm8yVURLN2NkWmxpeHg0WEYxS1NPdy03dEdmMlVTWVY2RlFWMkczYkZyZi13cEZDLVVlbjNVX3pZWW1FX1E5NnVUTGRiOU1iaFk2SDItMmMyM0hJcTcxU0xqQl9zdkN1eTU?oc=5",
-          "source": "rtl.fr",
-          "date": "2026-11-26T06:01:00.000Z",
-          "lang": "French"
-        },
-        {
-          "title": "Donald Trump et le secrétaire général de l'Otan exhortent la Russie à ne pas \"étendre la guerre\" avec l'Ukraine",
-          "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxPdnhTWG11M1EtT19zSzRIUGdLR1hYRGFJOXJwV3dqNzQxYmgzT2N2Tnhoc3lrc012WFpJcmJpT1hzZjFHMkhmSHZyMkhiLXlrMHRPcy1qT1ZHZ1RkdG5IcjBIR2xjOU93ZEg4dmQxd2RGSzEzR3diWkp0a2t5RlYxZzlBRE9aaTNqYjhyeXZ3eGp3dEJxOVgwZkxlZWZrbU9vYWRLYlUzWGtrUGlnLUZCN3pRNUJGaE44RVR4bjJoa0VuX0JEWE5pZ1VMMkhsRllONzB1Sy1xMVIyeW9oZGllU0NoWUtiOHNfbnl4alY1RDFhM0tDOFlyQno4R0cyYXU3WUZiWEhqTVBLc3FNc1hoTTdOX0ZHTlQ3T2s3MmEwdTZFajJXNkpDYXpqeV8?oc=5",
-          "source": "bfmtv.com",
-          "date": "2026-11-26T05:22:03.000Z",
-          "lang": "French"
-        },
-        {
-          "title": "Colère des lycéens : Plus de 400 élèves exclus définitivement de leur lycée après des violences",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVm44aHJHZW1NZ1BzMXA1NTE5UFRNaE9sWFVCMXRIbGhJb3JtN3ZBcnc3UUZsZ1ZhY2J6YlhDczk0RTZaa21WdzVoa1RTT0RHSTltVS04emFtVG12SEJielFDN3dFaUQwZ3g4YlRlbEVEYzFPTlF2Umt5aEFsa1E4TURqSzlKNTB0UEdzSExlQ1FFR1Y0Tzg5a2xiUldURjRILUwyVUFxdHV2RGswbjdRY2tNYVphckdaZmk4V2hheC1iQQ?oc=5",
-          "source": "20minutes.fr",
-          "date": "2026-11-26T08:16:00.000Z",
-          "lang": "French"
-        },
-        {
-          "title": "EN DIRECT, congrès des maires de France : David Lisnard est accusé de « compromission » avec l’extrême droite par Gérald Darmanin",
-          "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxPR2p1c3o1NDdKbHlvQTZDSnFrTzV2cFozX0EwbmQwRGpwU19iUmc2b3dMTngxS0d4UnZybXpyamFKdndGazlMRUJVdGN1WmdRV2ZFVzZ4OXM1RnJIX1piNk9VN2o3ZG1NMWZSZm5lUWRuSndOM0hhZk43dWJQa0xBQWVSVkdQcXV3NGt2Mmc3eGhlamFwajNtdW5Qd1JCbnJRU3l6VjZfdnJVaW9UWU91UW9XRUppUzh5TDRhZ1VvWmNZMUQtNHdVTF9xYXQ1M01pSEhFZlBuRk9Yb2hLRGNNUXhlbUZwMTFNR05CeHJpRlpjY0N2bnJYdExUUVVYYkVraGR4OWJ6Q3dHd2xJNG1BWWhLdmRyRWZJU19F?oc=5",
+          "title": "Présidentielle 2027 : Edouard Philippe passe à l’offensive face à David Lisnard",
+          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOOVUxNVRwbFdIX1EyMEYtemFFR0t6cFA2dl9LMUtSMkp5aDVDWFVUQ3Q4ZlEzXzRkY1dBNkVPeUFYdEhDazhuNGpxQTZDcktFOWFiOE40ZlRyQmpPNzlKekZ0UDZKTmxzRlNGVmY5aDljMm1BMjB0SHFwVWZ3Y2NwYU9MMENTWHk3Z0c5MjBmYUVXQmY0SG9KM0JKZFp4bEhXSm9ndy0tZHRoaVhpaWI3d3BaQWs5ak0yQjhkY1VHd2c1RUVmbHEzQ2lwWWFJOE45cG9YaDUtaGhqQkxuUDBXcElERQ?oc=5",
           "source": "lemonde.fr",
-          "date": "2026-11-26T12:32:28.000Z",
+          "date": "2026-11-26T12:00:07.000Z",
           "lang": "French"
         },
         {
-          "title": "« C’est une guerrière » : qui est Charlotte Arnould, la première à avoir porté plainte contre Gérard Depardieu ?",
-          "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQbHN2S285aEpRWURZN1hRSXdfcW0yUXphaWJIOFBQUmRXd1B3Y1dLS3lPeUNtbHBsaUNJWUJEYThVdXVvRElxRjZSOEFzYW14NDE1clRyTjV5Vktxa1VpMUpIM2dnbFdONDBYeUgwalkyb1pmX0loWTZPVjAzQjQxbmtoR0s1ZDhrRmJUNmZnLUlEMVEwY3k0azZOVVNjS0VUaW03a3NTNUM1ZHljdVlTaGFRSW5qUVljczF0R0xBQ3huVjVUMi1UM2tZQ1ktSnNaWHFRMzE1alNtVEhHZW8yMEY4SWtKMXNkT1FlRnFzbDNBc3FyOTBBUlFnU2J6N0Q5N1hpLU5QemUtbms3amdoejJ3WHk?oc=5",
-          "source": "leparisien.fr",
-          "date": "2026-11-26T03:00:00.000Z",
+          "title": "DIRECT - Procès de la djihadiste bretonne Émilie König : sa mère en dresse un portrait au vitriol, dans une lettre lue devant la cour",
+          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNeXdsZXJkQzAyN2JRZVZjQzFxeXVBSzN5TVlUc01CVkgtQWxuY3JISzY3RThPVkZfa3FWR1duYTFfalZZXzNDaHpENmdfaGs2MW5MalZVS2YwMy1Hc0ozT2V0YTFJSFZLbl9US1RtQ0RQWEx2SnVjbXR1SzFkQXRSekxxRFRTMnF6QlgxWjhQRVkzZUNmdDh5d1RtZk5MdXRWUmJpY0pjNjk0dGtHbTdiSjlZTjNWR0FEX1R4bUhWM3U1UUZQeE4wZlFPZVpsMHM0azBLeDNRWDlQeGpyX0VhclIxMVVrUQ?oc=5",
+          "source": "letelegramme.fr",
+          "date": "2026-11-26T15:38:11.000Z",
+          "lang": "French"
+        },
+        {
+          "title": "Gérard Depardieu est renvoyé devant la cour criminelle pour viol commis sur la comédienne Charlotte Arnould",
+          "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQekxNZDNaU3dfeDNZbGpCQ09jS1JsS2pkMFcyZi1qbG45T2tYUXhLaGNTOFpuRzU4b0FhaGxTQy1BNnFFNU1icnVRV2hoRDNBUXhGZDVBMGJ3cW1GdjBsWnQ4QldMV1ZjT1FPUGNWYjJnWEtpOEVEZE8xYWMzT2ROa3pab2R6ZmZzWWVXNjdfdmN4N1VrVHpkVFNZVWx3LWpXeGY5YUh3TFh4cldnR0tWOUNfUE5Zd3lmOE9qbzhkMFFMOEk2VGMyank2YVVZeWNUVDBCRno1SzE4bmszRkR1UWNZSUNZUUNOb3pZVGdmOEN6SUV2VFE?oc=5",
+          "source": "franceinfo.fr",
+          "date": "2026-11-26T13:25:20.000Z",
+          "lang": "French"
+        },
+        {
+          "title": "\"Pas question\" : le ministre de l'Enseignement supérieur refuse d'annuler les partiels et appelle à \"cesser\" les blocages \"immédiatement\"",
+          "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxPWUNKZmRZNW40N2FIUmVuQXEyZnBZaUo2ODZfU1dxYzdKTG0yQ1daeklMREtGa2hvd1lDV2p0cTVQb2U3Um0xNUpxTTFhdjhMbWFINUtPNFlmeHNQVWlDLVJZTmZra3psR0F2ZUgxRFpLRllRa2pfWWlDNDhSMktkVHZOa3FTdjBnTTBGZ0E5a1RsYzIzOUFQNHlaMHROLU1INW9kOXQ3Sm9aNUM4MTQ4THdxeTZucWRFX2I5bmZJNmZmQ3RfTE9SN2otY1FJY3ZLNFBoa3hQTzNpSXEtWlkya0dQSi1KcjdCRXFycFUzQXBrUkxrWUN1Rll1eVV1ZHVvYXJGdFc1ME90dUhZUFVmMXkzWGRYLVFHY3Bnd05DaEI5S2J5SnVXN3FR?oc=5",
+          "source": "franceinfo.fr",
+          "date": "2026-11-26T11:44:03.000Z",
+          "lang": "French"
+        },
+        {
+          "title": "Règle d’or d’Emmanuel Macron : Sous quel président le déficit s’est-il le plus creusé ?",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNnJDSmJIZjFzR2lkYVExMVoxNkktUXNKOWM2RHlFQjdoZFpnVWpYNWY0TFo5eUF2R0RmNG9MWC1nQVB0WFNnbjYyYUg3b0h3WE11SnlEajFmODY0aGNQVVJRbzBvbDhHOWFiRU9yUjhGbWVPc0lLT2VNNjVHRTRNX2szTEJYSHQ1QXp1SXF6TklNUXN4aDJySmZULUd1VE1WeUFHdThxYkxWdDJZU0pzdA?oc=5",
+          "source": "20minutes.fr",
+          "date": "2026-11-26T06:02:00.000Z",
+          "lang": "French"
+        },
+        {
+          "title": "Quand Lecornu se lance dans une imitation (réussie) de Chirac",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOdmkxUnc4VnRrTnRCYmljdGtIcUgwcFFiRHpsM2E5SVpqeXg0VHVtS0c3X1lmUkJ4eTR2azZ4Wlo4REhiWGFDWUh0dlBIUkVmQUpHNDBBNkZscno3aGJqSjdibW1PT3dIYWdDdzZramo1RnZOSU9RbE9TNlpPZk9XRk9Ma0dPU0MyNC1CWkM5ZVM4M1ZYNVhWWVNTT0ZmQmF5VXhrWGlLZzRUdzBJSENQWlNmaGlOWkxmR1A2X0VkVQ?oc=5",
+          "source": "20minutes.fr",
+          "date": "2026-11-26T16:26:00.000Z",
+          "lang": "French"
+        },
+        {
+          "title": "Marine Le Pen condamne de «basses manœuvres» pour conclure un accord sur le budget de l'UE avant une éventuelle arrivée du RN au pouvoir",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQU0RfWi1jNUo1dGozWGVXa2Jpa3ZZMlpYTUx0LVdUUkJJZS1hZ1liRWMxdDU2bXE5Vm0xWkJENTFtUW1QVVVlRUs5WTVEa3BUT3VqY1U4MUhJZXc5UDRBV2xobUFIMHhxci0zSTVtU2FJSkM3MTVRSmstNkRIRm55NHpveDNpUWlfQkw5U1NVVHdfTk1fQnd1amtNSjhTeHRPbkNUbWx0ZFJBdG50bHdWbHozNkVZQTVmTE1CeNIBwgFBVV95cUxNd3JuaWphZzlmLVhsREFKWDhMUHBYdGcxdU04QUQ1azNHdEk0TEt0M0tUdVhqZ253ejFCcE1SWlBwYldkYTltSGE1akd3ckVjbVY2eEtHTlZkVWR5VkRXUUthdnJzeVZ4WWp6dGUxRzd1YkNsTHFaSjNQcThQWHNyNlFCTC1jb3lPclBNa29QMGdTbzltUUdkMFpSMzlINWw2Z1BmZ1lqZ3gxR3VxSkJHLU52ZGdjYWNsNExoeXlnV0VCZw?oc=5",
+          "source": "cnews.fr",
+          "date": "2026-11-26T13:03:57.000Z",
           "lang": "French"
         }
       ]
