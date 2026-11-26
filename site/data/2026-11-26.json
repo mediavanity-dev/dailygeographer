@@ -1,6 +1,6 @@
 {
   "date": "2026-11-26",
-  "updated": "2026-11-26T07:29:51.617Z",
+  "updated": "2026-11-26T13:31:18.071Z",
   "qid": "Q142",
   "name": "France",
   "status": "UN member state",
@@ -15,7 +15,7 @@
     "Population": "68,605,616",
     "Area": "643,801 km²",
     "Languages": "French",
-    "Currency": "euro, CFP Franc",
+    "Currency": "CFP Franc, euro",
     "Time zones": "UTC+01:00",
     "Calling code": "+33"
   },
@@ -39,59 +39,59 @@
       "label": "Last 24 hours",
       "items": [
         {
-          "title": "Cest la confirmation de mon identité politique: comment David Lisnard compte utiliser son image de maire pour la présidentielle",
-          "url": "https://www.franceinfo.fr/elections/c-est-la-confirmation-de-mon-identite-politique-comment-david-lisnard-compte-utiliser-son-image-de-maire-pour-la-presidentielle_8296046.html",
-          "source": "franceinfo.fr",
-          "date": "20261126T061500Z",
+          "title": "Worksaga | Miroir Social",
+          "url": "https://www.miroirsocial.com/taxonomy/term/27617",
+          "source": "miroirsocial.com",
+          "date": "20261126T124500Z",
           "lang": "French"
         },
         {
-          "title": "Les 12 meilleurs aliments pour stimuler naturellement la production de collagène",
-          "url": "https://www.marieclaire.fr/les-12-meilleurs-aliments-pour-stimuler-naturellement-la-production-de-collagene,1523701.asp",
-          "source": "marieclaire.fr",
-          "date": "20261126T061500Z",
+          "title": "À Saint - Mary, la future antenne téléphonique nest pas illégale: le collectif débouté par le tribunal administratif",
+          "url": "https://www.charentelibre.fr:443/charente/saint-mary/a-saint-mary-la-future-antenne-telephonique-n-est-pas-illegale-le-collectif-deboute-par-le-tribunal-administratif-31678032.php",
+          "source": "charentelibre.fr",
+          "date": "20261126T124500Z",
           "lang": "French"
         },
         {
-          "title": "Le célèbre chef Gordon Ramsay va devenir le nouveau présentateur de Top Gear",
-          "url": "https://www.caradisiac.com/le-celebre-chef-gordon-ramsay-va-devenir-le-nouveau-presentateur-de-top-gear-225273.htm",
-          "source": "caradisiac.com",
-          "date": "20261126T061500Z",
-          "lang": "French"
-        },
-        {
-          "title": "DIRECT . Présidentielle 2027: à lAssemblée, Les Républicains proposent de durcir la réponse pénale lors de leur  niche parlementaire",
-          "url": "https://www.franceinfo.fr/elections/direct-presidentielle-2027-a-l-assemblee-les-republicains-proposent-de-durcir-la-reponse-penale-lors-de-leur-niche-parlementaire_8300802.html",
-          "source": "franceinfo.fr",
-          "date": "20261126T061500Z",
-          "lang": "French"
-        },
-        {
-          "title": "Horoscope du jeudi 26 novembre 2026 signe par signe",
-          "url": "https://www.marieclaire.fr/horoscope-du-jeudi-26-novembre-2026-signe-par-signe,1523674.asp",
-          "source": "marieclaire.fr",
-          "date": "20261126T061500Z",
-          "lang": "French"
-        },
-        {
-          "title": "Horoscope chinois du Jeudi 26 novembre 2026",
-          "url": "https://www.20minutes.fr/horoscope-quotidien-chinois/4265541-20261126-horoscope-chinois-jeudi-26-novembre-2026",
-          "source": "20minutes.fr",
-          "date": "20261126T061500Z",
-          "lang": "French"
-        },
-        {
-          "title": "Dordogne: cirque, concerts et cinéma au programme des sorties du week - end",
-          "url": "https://www.sudouest.fr/dordogne/dordogne-cirque-concerts-et-cinema-au-programme-des-sorties-du-week-end-31658274.php",
+          "title": "Noël 2026: attention si vous achetez vos jouets en ligne, le gouvernement alerte sur leur dangerosité potentielle",
+          "url": "https://www.sudouest.fr:443/societe/noel-2026-attention-si-vous-achetez-vos-jouets-en-ligne-le-gouvernement-alerte-sur-leur-dangerosite-potentielle-31680089.php",
           "source": "sudouest.fr",
-          "date": "20261126T061500Z",
+          "date": "20261126T124500Z",
           "lang": "French"
         },
         {
-          "title": "Il maintenait enfoncée la même touche de son clavier pendant des heures: le policier en télétravail finalement démasqué",
-          "url": "https://www.lindependant.fr/2026/11/26/il-maintenait-enfoncee-la-meme-touche-de-son-clavier-pendant-des-heures-le-policier-en-teletravail-finalement-demasque-13671222.php",
-          "source": "lindependant.fr",
-          "date": "20261126T061500Z",
+          "title": "Vosges: plusieurs entreprises cambriolées et des véhicules professionnels dérobés",
+          "url": "https://www.magnumlaradio.com/vosges-plusieurs-entreprises-cambriolees-et-des-vehicules-professionnels-derobes",
+          "source": "magnumlaradio.com",
+          "date": "20261126T124500Z",
+          "lang": "French"
+        },
+        {
+          "title": "Culture: le comédien Simon Abkarian prendra la tête du Thtre du Soleil en 2027, annonce Ariane Mnouchkine",
+          "url": "https://www.sudouest.fr/culture/theatre/culture-le-comedien-simon-abkarian-prendra-la-tete-du-theatre-du-soleil-en-2027-annonce-ariane-mnouchkine-31678983.php",
+          "source": "sudouest.fr",
+          "date": "20261126T124500Z",
+          "lang": "French"
+        },
+        {
+          "title": "Fondation de lAvenir: Appel à Projets Recherche Médicale 2027",
+          "url": "https://www.miroirsocial.com/participatif/fondation-de-lavenir-appel-projets-recherche-medicale-2027",
+          "source": "miroirsocial.com",
+          "date": "20261126T124500Z",
+          "lang": "French"
+        },
+        {
+          "title": "Alexander Isak fait enfin taire les critiques et porte Liverpool",
+          "url": "https://www.footmercato.net/a4636838166725456480-alexander-isak-fait-enfin-taire-les-critiques-et-porte-liverpool",
+          "source": "footmercato.net",
+          "date": "20261126T124500Z",
+          "lang": "French"
+        },
+        {
+          "title": "Mornac: des parcelles acquises pour sécuriser la traversée du Quéroy",
+          "url": "https://www.charentelibre.fr:443/charente/mornac/mornac-des-parcelles-acquises-pour-securiser-la-traversee-du-queroy-31678085.php",
+          "source": "charentelibre.fr",
+          "date": "20261126T124500Z",
           "lang": "French"
         }
       ]
@@ -161,59 +161,59 @@
       "label": "Top stories, FR:fr edition",
       "items": [
         {
-          "title": "« Les sionistes sont à la tête des banques, tout est lié » : nouvelles révélations sur les propos antisémites de Jordan Bardella",
-          "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxQaW9IbmJ0ZDg2SEpWbzQtUGZlLTk3UlU2RGQ2Z0hqX3UyVV9ZQ3NrbmlrT0lGNFAwdDdlejJNMlhjQ3EtVXFSeWdwWkFZMlZFSDlpS1hJcHlHVTlXaWN2a2VEeWZ1dkJDZ0RVSUJITWFvckI3c1ZxSzkyR2wwdXpRLUdzS19JT2RhQ1REM2FYZWZmV2dPQ1BuWk9Hb25NQlRLM0Q4VUEzZ2JpUXpIWFpYcFVHbEhGRUhhWE15aVliWF9ENWRXVWNFY043RF9YcVZHUU5icC1EVGZocGY0ZHB1SFE3Z2ppLW84ejFQRUhySFFUWkl6Z3ZCd25Wby1ENzVVUDRVWTJiMTZvb0lmVmphNjRtMVFIeUQxbUtmVlZn?oc=5",
+          "title": "EN DIRECT, congrès des maires de France, suites des propos antisémites de Bardella, campagne présidentielle : suivez l’actualité politique",
+          "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxNazlpWmxqcmg3aU9lc04tNC1fS1A3REQ1S21PRUpNSUVwWEN0RS13cEtGcHI5QXBOVlc0elVPeGRYUXp3Nmp1dGJnekMwWmJ1MDJBazAxaFkxQzhpRk5DM2dHNjQ2bkpFaEt6NldycGFxbXlJREtyNkNkc1g3TEtDN3V0Z2YtMXpFWWdjWHl1ZDJwRk9JNlVNSUZNV3Q2UGhPTmN1UW9SRUVodHAwbzFOemJCS3dxMGhUQ1k5bzBVVlJNNGtkS0l4OTA3WG0ySEU4QjNrbXVxMzNZckdrMVhhbTI2SUlLZ2g1dkttYVhWQzU0WUlSeVl6TUpfSVRRTHRBU2RvTnlTVE5JRnhoeU1pQVJVVndFNnJEOTZYel84ZWZqRkg4VnhENVpB?oc=5",
           "source": "lemonde.fr",
-          "date": "2026-11-26T05:55:12.000Z",
+          "date": "2026-11-26T09:50:56.000Z",
           "lang": "French"
         },
         {
-          "title": "Présidentielle 2027 : David Lisnard ferme la porte au débat proposé par Édouard Philippe",
-          "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQTkpRbXVHYWRZS1d6VkhCdy1MUHlDelA0bUFZeElaTnd2N045UWxoQTAzSEFPNUxCSWFEUUVfN19zNVNnanlrNHVseGRfWjg2eENhakFha3dhd051c0lKMW9DRFZIalZ2c0NzM09VVGhRRk1EYl9idEMyaVU0UGwyNWJSTUNiakhVMDllVGFocUtZa0h3cXE4akJzTThtRVFZNS1IS2dTeHdPUEgtWW16WWVDU08yNFQxUEZ3ZmlQV0FieThUTDVXcnpGYmdrcF84VkV2NXFQbzkwQjN3Z0lHOFMyYkI1QlJHbUFUUnJrVFhZeHl4QjQ4RkliNWJvRjlIWkZ3N1p3?oc=5",
-          "source": "ouest-france.fr",
-          "date": "2026-11-25T20:06:45.000Z",
-          "lang": "French"
-        },
-        {
-          "title": "Cette sortie de Teddy Riner sur la guerre en Ukraine relance les doutes sur sa candidature",
-          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNb2xCMkhDZXhWQVMtUjdzaXpLQUFWMHdYSXA4UWg2LUJ5RHp1RUlvTm1nLVZwVDBOeXhFSUwxYXJ4cTlWRW5xZTI1clFQSzVhQlpra2xGb0pTT3dtUEtFV1kxQXpOdUZmdGhiWklURUxnN0IzZDVQNUZXVUpxSkg5QVNyUmszUFJtMWtDaDd0WFY3VWtjbzJVOENIajlvRlB5dFVyOEkxc0xnbzgwTWlBRUNPekFaOVFKTzI5a1ozT182eGszdHdwWWUwVlR2UG5MUTdHM09iV0xxakxrTmZsMDU4Nkk?oc=5",
+          "title": "Émilie König, l’ancienne « égérie » de l’État islamique, jugée aux assises à partir de ce jeudi",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOeklhV2Z3b0c3d1BTSk9GUUtKUzMwZC1FRUlhejhCREpmV1h0V2k2TUxHdHVVRWlUc2luU3d3NXExOThfcFlLMmdFTG16S1NCamxpeHlHQU9XOHdSZm44R3VqMTdGUUVmd092XzRFTk9sZDBCZmxQRVBQSFFYRDVvNkZKcnB3VHdGLXcxU2h3NTEzUDVqWkhDXzJnb2ZBUGliclpmV3ZEY0ZTQVE5YnRhRkd2NHIwN3NQWVdBcWtnVml1QUxvbURWR0ZVeXpDeHluSWplNEh1MHRrNmFESUZj?oc=5",
           "source": "huffingtonpost.fr",
-          "date": "2026-11-25T17:31:02.000Z",
+          "date": "2026-11-26T04:50:11.000Z",
           "lang": "French"
         },
         {
-          "title": "LFI refuse de rencontrer les anciens insoumis de L’Après en vue «d’une éventuelle coalition»",
-          "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPRTl0d2ZaNWVfbHF5UUlRTGZ1MjhYdmNuOTBJS2xRTmFqWFIwMVlHeEs1elBRdVZWRlBKV1doSWxWWklUbHdvYVJPUUJPak8zWS1vSWF4VjRiOGVDSUl3a2hZUXpNRWRQSkVjU1p4V0FUaEh0cTl0VnNJcWsyQTBiY3M5SXdiYmxvR19Tbm5tekZ1cm9jbmtOVmNEckktNTR2dGVuU3VUWml6d2VSOERCc0pUY042Ykl0and2ZkYwMlMwSzJYREZDNnZEME5xZzdtb0dFQ0pySVYwN3NoanRodlBLbi1GTlc4YWs5V1RaOHVQZkk?oc=5",
-          "source": "liberation.fr",
-          "date": "2026-11-25T19:01:13.000Z",
+          "title": "« Ce n’est pas notre guerre » : Teddy Riner s’empêtre sur le conflit en Ukraine avant de se rétracter",
+          "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOWTJnZXpEOHpzTktGX0JaeGF3dElmYWh0RFBfTHozOEhEUmd0bkp5WTBIaW5laldsTXpzWmMwb3ZObEtjanNqdFk0ODlPLU0tdUx4ZEVIUmdfQnJBakRJRlBaSjVSNEhtWV9SMVlJMDZYMUsxNkVUY2NBZHVEUU83R1JZenhTeVdHZFczR05VbHRCSGh6ZW9Ta3U1X0diRkRLMFFxN0VwSkdCQ3dkdlZ2RVNXWHlwQU9wb0RYZFc3TzVaMnpYaVhHYldpc3BOUUdlMmNiX3kzclNaMURmajNBYmUzWC1rR0hnaUNKaFFDc1h4TkhWaUpXRktWUml5Qm9wUVdZOXgtNklwXzRmaGt5YkhROA?oc=5",
+          "source": "leparisien.fr",
+          "date": "2026-11-25T15:22:31.000Z",
           "lang": "French"
         },
         {
-          "title": "Émilie König : ce que révèlent des entretiens menés avant le départ de la djihadiste française pour la Syrie",
-          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOQVpIM0JRaFFKU09lTzR2NFZnanNSeXBxVXdoLUFab0lkYW9RZW9QWjhreWVuZWJ1Ulg1cTV4RnNhLTVtNGhBR051WGp3RWdQSGhjYWplVXllYWcxVHpGa3IzZzNOX2N3aEZqVHU2a2R1N3ZIYVVHY05HTndINlhrM0FPMW9XVVdZT3ZGVkFfMDBYQUV1QnpRQXhoVTZoYlZwSFBzR2dvaG80VHhEcTF5Zl9SVlBwNnpSWl8tQXp4cTZTbnR3TktBcXRYWUVKRnpiY0NHU0piQ2c?oc=5",
-          "source": "theconversation.com",
-          "date": "2026-11-25T16:17:27.000Z",
+          "title": "Présidentielle 2027 : où en sont les candidats dans leur quête des 500 parrainages nécessaires pour s'aligner au premier tour ?",
+          "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNOFdLbXdzYlZBU19zRzhwZEVZNW1uM1NwejBhMmowMkRRLUpuNlQ4RElFcjVzdXE0MU9BWThUVWtVMkxTaHdDRUdIZ1ZSS292QlVJa0hzOWtlc2Z4cEdGNlV5NGdnSGIwaTlXR1FlSG14bnRTbUc1Zk8zc3BKRHlmY04zSHc2d0I3ZTdrU0RFdmg3dWZHaXZQdG14Qm8yVURLN2NkWmxpeHg0WEYxS1NPdy03dEdmMlVTWVY2RlFWMkczYkZyZi13cEZDLVVlbjNVX3pZWW1FX1E5NnVUTGRiOU1iaFk2SDItMmMyM0hJcTcxU0xqQl9zdkN1eTU?oc=5",
+          "source": "rtl.fr",
+          "date": "2026-11-26T06:01:00.000Z",
           "lang": "French"
         },
         {
-          "title": "Blocage des lycées : Politisés et favorisés, un rapport de l’Education nationale dresse le profil des élèves mobilisés",
-          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNeHlaSG9HS21WbTJjM1FYQTNCOHRyOWc5UVhVcnpLODdFQl94amNDVjNKLWFDYlNTaUp2dktLOHVKelFKZ3lpTHFuOUtycFlna1c3Yi1vUVVqYTNSWjRzdlNZRWZldTlncl9ubkYtWk8yQzY1cjkzYnEwQXpIdEpvd0RILTdYMGxhenZoNG51a1RydVRiRWdBem4zWndQTHpaaDRfZ3hWaW1ZZ0RaUFlwNDlvcWY3WVViTlFuSExZanFZNDJ3ODZ3dktsbUVnSkw2LVN2Q0lTbk5iM28?oc=5",
+          "title": "Donald Trump et le secrétaire général de l'Otan exhortent la Russie à ne pas \"étendre la guerre\" avec l'Ukraine",
+          "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxPdnhTWG11M1EtT19zSzRIUGdLR1hYRGFJOXJwV3dqNzQxYmgzT2N2Tnhoc3lrc012WFpJcmJpT1hzZjFHMkhmSHZyMkhiLXlrMHRPcy1qT1ZHZ1RkdG5IcjBIR2xjOU93ZEg4dmQxd2RGSzEzR3diWkp0a2t5RlYxZzlBRE9aaTNqYjhyeXZ3eGp3dEJxOVgwZkxlZWZrbU9vYWRLYlUzWGtrUGlnLUZCN3pRNUJGaE44RVR4bjJoa0VuX0JEWE5pZ1VMMkhsRllONzB1Sy1xMVIyeW9oZGllU0NoWUtiOHNfbnl4alY1RDFhM0tDOFlyQno4R0cyYXU3WUZiWEhqTVBLc3FNc1hoTTdOX0ZHTlQ3T2s3MmEwdTZFajJXNkpDYXpqeV8?oc=5",
+          "source": "bfmtv.com",
+          "date": "2026-11-26T05:22:03.000Z",
+          "lang": "French"
+        },
+        {
+          "title": "Colère des lycéens : Plus de 400 élèves exclus définitivement de leur lycée après des violences",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVm44aHJHZW1NZ1BzMXA1NTE5UFRNaE9sWFVCMXRIbGhJb3JtN3ZBcnc3UUZsZ1ZhY2J6YlhDczk0RTZaa21WdzVoa1RTT0RHSTltVS04emFtVG12SEJielFDN3dFaUQwZ3g4YlRlbEVEYzFPTlF2Umt5aEFsa1E4TURqSzlKNTB0UEdzSExlQ1FFR1Y0Tzg5a2xiUldURjRILUwyVUFxdHV2RGswbjdRY2tNYVphckdaZmk4V2hheC1iQQ?oc=5",
           "source": "20minutes.fr",
-          "date": "2026-11-25T10:27:00.000Z",
+          "date": "2026-11-26T08:16:00.000Z",
           "lang": "French"
         },
         {
-          "title": "Soupçons de fuite vers le RN : le préfet Hugues Moutouh officiellement démis de ses fonctions, Pierre Ory le remplace",
-          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOdVJPZ2F2SzVwS25BdWFGVHRMQno0SkxGR2tEcmZHVGdBWUFkUHVzVmFGcXdyUm0wX09ZQUpPM0xhbVRiaW1meFk1V2hSU0VxaVdSQjJTcHZrc2tXbnlSV29VR1ZVQm1YempPZVBLUFA4SFZGVkNIdVdGWFZ1YlhiaEJfblkxMUtuSTRZdGJ0WjVYTFlxOWgzU0JaNUE2MUsyYmhFNW1NY19wcnpPc1FjSmxUTXhDaUVNOGJGaC1sbGlTSVctRC1UTEU0d3duc2lCenhuZkN4N3RDM3d1S19YWTJXU2RQcVVWWHhR?oc=5",
-          "source": "larep.fr",
-          "date": "2026-11-25T16:28:42.000Z",
+          "title": "EN DIRECT, congrès des maires de France : David Lisnard est accusé de « compromission » avec l’extrême droite par Gérald Darmanin",
+          "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxPR2p1c3o1NDdKbHlvQTZDSnFrTzV2cFozX0EwbmQwRGpwU19iUmc2b3dMTngxS0d4UnZybXpyamFKdndGazlMRUJVdGN1WmdRV2ZFVzZ4OXM1RnJIX1piNk9VN2o3ZG1NMWZSZm5lUWRuSndOM0hhZk43dWJQa0xBQWVSVkdQcXV3NGt2Mmc3eGhlamFwajNtdW5Qd1JCbnJRU3l6VjZfdnJVaW9UWU91UW9XRUppUzh5TDRhZ1VvWmNZMUQtNHdVTF9xYXQ1M01pSEhFZlBuRk9Yb2hLRGNNUXhlbUZwMTFNR05CeHJpRlpjY0N2bnJYdExUUVVYYkVraGR4OWJ6Q3dHd2xJNG1BWWhLdmRyRWZJU19F?oc=5",
+          "source": "lemonde.fr",
+          "date": "2026-11-26T12:32:28.000Z",
           "lang": "French"
         },
         {
-          "title": "Benoît Payan affirme qu’« il a été demandé » à la police municipale de relâcher des pilleurs",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOYjZLTy1YSDA5UTFkQVNXTFFuV3drS25HNHpHUVYtbGhNZjhkbVlOZHV3MlFaRDZqNXh6U3p0YWlTVGJISVhjS2R0SGFXV2tBR1Z6dXcycDFDS2lJZkVkSTFNbTRNMWpMMndYQ1YxQkYwUWtCOGcySmtEbXMyenpIRFQzM3FXQmFveC1hcVlTQllZRV9ONTdHR25uUFRFLVlvVzNoRzY0cDV5TGp0SUE?oc=5",
-          "source": "marsactu.fr",
-          "date": "2026-11-25T21:23:32.000Z",
+          "title": "« C’est une guerrière » : qui est Charlotte Arnould, la première à avoir porté plainte contre Gérard Depardieu ?",
+          "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQbHN2S285aEpRWURZN1hRSXdfcW0yUXphaWJIOFBQUmRXd1B3Y1dLS3lPeUNtbHBsaUNJWUJEYThVdXVvRElxRjZSOEFzYW14NDE1clRyTjV5Vktxa1VpMUpIM2dnbFdONDBYeUgwalkyb1pmX0loWTZPVjAzQjQxbmtoR0s1ZDhrRmJUNmZnLUlEMVEwY3k0azZOVVNjS0VUaW03a3NTNUM1ZHljdVlTaGFRSW5qUVljczF0R0xBQ3huVjVUMi1UM2tZQ1ktSnNaWHFRMzE1alNtVEhHZW8yMEY4SWtKMXNkT1FlRnFzbDNBc3FyOTBBUlFnU2J6N0Q5N1hpLU5QemUtbms3amdoejJ3WHk?oc=5",
+          "source": "leparisien.fr",
+          "date": "2026-11-26T03:00:00.000Z",
           "lang": "French"
         }
       ]
