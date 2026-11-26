@@ -1,0 +1,162 @@
+{
+  "date": "2026-11-27",
+  "updated": "2026-11-26T23:49:02.056Z",
+  "qid": "Q79",
+  "name": "Egypt",
+  "status": "UN member state",
+  "officialName": "Egypt",
+  "flag": {
+    "svg": "https://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Egypt.svg",
+    "alt": "Flag of Egypt"
+  },
+  "facts": {
+    "Capital": "Cairo",
+    "Continent": "Africa",
+    "Population": "114,535,772",
+    "Area": "1,010,408 km²",
+    "Languages": "Arabic",
+    "Currency": "Egyptian pound",
+    "Time zones": "UTC+02:00, Africa/Cairo, UTC+03:00",
+    "Calling code": "+20"
+  },
+  "map": "https://www.openstreetmap.org/?mlat=27.0&mlon=29.0#map=5/27.0/29.0",
+  "summary": {
+    "extract": "Egypt, officially the Arab Republic of Egypt, is a country spanning the northeast corner of Africa and southwest corner of Asia via the Sinai Peninsula. It is bordered by the Mediterranean Sea to the north, Palestine and Israel to the northeast, the Red Sea to the east, Sudan and the Sahara to the south, and Libya to the west. The Gulf of Aqaba in the northeast separates Egypt from Jordan and Saudi Arabia. Cairo is the capital, largest city, and leading cultural centre, while Alexandria is the second-largest city and an important hub of industry and tourism. With over 107 million inhabitants, Egypt is the most populous country in the Arab world, third-most populous country in Africa, and 15th-most populated in the world.",
+    "url": "https://en.wikipedia.org/wiki/Egypt"
+  },
+  "history": {
+    "title": "History of Egypt",
+    "paragraphs": [
+      "Egypt, one of the world's oldest civilizations, was unified around 3150 BC by King Narmer. It later came under Persian, Greek, Roman, and Arab rule before being joined to the Ottoman Empire in 1517. Controlled by Britain in the late 19th century, it became a republic in 1953. After several political transitions, Abdel Fattah el-Sisi currently leads the country."
+    ],
+    "url": "https://en.wikipedia.org/wiki/History_of_Egypt"
+  },
+  "news": {
+    "local": {
+      "label": "Last 24 hours",
+      "items": [
+        {
+          "title": "بمشاركة إبراهيم عادل .. نورشيلاند يقلب تأخره أمام باناثينايكوس إلى فوز مثير",
+          "url": "https://www.shorouknews.com/news/view.aspx?cdate=27112026&id=19498b25-5778-4378-9355-8ecaec034e1c",
+          "source": "shorouknews.com",
+          "date": "20261126T223000Z",
+          "lang": "Arabic"
+        },
+        {
+          "title": "نقل 3 طالبات للمستشفى إثر إصابتهن باضطراب في الوعي داخل مركز تعليمي بالدقهلية",
+          "url": "https://www.vetogate.com/5779061",
+          "source": "vetogate.com",
+          "date": "20261126T223000Z",
+          "lang": "Arabic"
+        },
+        {
+          "title": "بدء تسليم قطع أراضي بيت الوطن للحاجزين بالمرحلة العاشرة بمدينة بدر 7 ديسمبر",
+          "url": "https://www.vetogate.com/5779080",
+          "source": "vetogate.com",
+          "date": "20261126T223000Z",
+          "lang": "Arabic"
+        },
+        {
+          "title": "بعد حادث الوراق .. طلب إحاطة لرئيس الوزراء و10 وزراء بشأن منظومة نقل المواد البترولية وعدم تنفيذ توصيات الرقابة الإدارية",
+          "url": "https://www.shorouknews.com/news/view.aspx?cdate=26112026&id=3aafe769-1c46-4c01-b561-e9f4d6ad6cfd",
+          "source": "shorouknews.com",
+          "date": "20261126T223000Z",
+          "lang": "Arabic"
+        },
+        {
+          "title": "بدء وصول تحديث HyperOS 4 لهواتف Xiaomi 17 Ultra عالمياً",
+          "url": "https://www.elbadil.com/882201/%D8%A8%D8%AF%D8%A1-%D9%88%D8%B5%D9%88%D9%84-%D8%AA%D8%AD%D8%AF%D9%8A%D8%AB-hyperos-4-%D9%84%D9%87%D9%88%D8%A7%D8%AA%D9%81-xiaomi-17/",
+          "source": "elbadil.com",
+          "date": "20261126T223000Z",
+          "lang": "Arabic"
+        },
+        {
+          "title": "Anthony Lucas update: Skyler Gill - Howard out for the year as Dan Campbell faces Thanksgiving depth test",
+          "url": "https://www.el-balad.com/17070290",
+          "source": "el-balad.com",
+          "date": "20261126T221500Z",
+          "lang": "English"
+        },
+        {
+          "title": "Alix Earle Pokes Fun at Tom Brady Age in Bumble Ad",
+          "url": "https://www.el-balad.com/17070292",
+          "source": "el-balad.com",
+          "date": "20261126T221500Z",
+          "lang": "English"
+        },
+        {
+          "title": "« كان لسه بدري يا نور عيني ».. استغاثة ابنة تامر عبدالسلام تنتهي بخبر وفاته في حادث الوراق",
+          "url": "https://www.elwatannews.com/news/details/8404804",
+          "source": "elwatannews.com",
+          "date": "20261126T204500Z",
+          "lang": "Arabic"
+        }
+      ]
+    },
+    "international": {
+      "label": "No recent headlines found",
+      "items": []
+    },
+    "google": {
+      "label": "Top stories, EG:ar edition",
+      "items": [
+        {
+          "title": "الداخلية المصرية تنشر تسجيلا يوثق لحظات قبل \"حادث الدائري\"",
+          "url": "https://news.google.com/rss/articles/CBMi0ANBVV95cUxOM21TT1pYRVRqd21uZ1JlbjZXX0tmaFpHYlpVM0tIdVJmZ0xVbmNGSVB3WXRIOTJJRTNnMVBGd2FFMnJydXBrbHJIWFFXekEydmVqWUVtYzhEZjE0bDh6R1liQ3l3SS1KRW85aVE2a1R6ZDVqMDZ1ZWdMS1pnTHdaaGdyR3g4TEI2bV9WcmpweERrQ2Y4MGdjM1ZFVFFncnl6a01LZ0JydVkxSm9JbTRaN1RhLUVDUF9wcmhzRGRMZmgzX1lGQUJUVDFmT3d4YXZlQWtrbTFxbjdMcEx6YlAxd29iUllJUjU4THotOFp5ZWI3V3BEVTBvUXBabDV2VEJhQk9IM0ZVbXY0bExVb2g3M1NNRk9KRE85c2JOSW5TdW1jeUhpQzZqQnoxZjAtcXUyUTF1UTlqNDNobTVMSGtGSGxkOTUwakJoZXlLQVpJZUQzZm5CMVpsZ09McEM3ZG5VaThFVDJCbnNzYUg4WDZDRWNLcU9aenc1aGIxRWdJM2dPWkR5RWJfdlMyenR2SThibVNueEM5XzQ5NTVmZFZNSE4ycERGdXEwckg0VTZUZWl0SkF6b0NpVzdYVGYtRDBwQ0sxQTVFYzA3dXYteHhtQdIB1gNBVV95cUxOV1FlZTZlN3JuRFhLMGRmRkNhZW9BUzBpVjA3YVkyV1FpcU9wWUZEREFrMjlYV1I1Nm5zeUFBcmNhRm5yNTU0MGhHSWhKVDJjZXdIaGhtTDNiRExYMWd3bzNyZmUzTFdVd1VlZEktMV9rSEJ0SXZ2eXVzM0N3S3NkLXg5eW95cnhmdDA0T1dfSmIxOENCNHl6dHR4dlU2NWhrcHRvUWVCSVN1VzlDOEFpWHFrRUNMN0ZiemJXSzNaVk1DVnE3cUZnVnVjNms2bl90NGVPcU9fdjVFdDhoSHZCZGVaLW5OUkNTakw1Vnc3cy1PR3ZuQ1pSaHJnUUQ5Z25aYjh3XzkyNVpJSzN0dnhwTEQyTDM1WVF2NV9BX0ExWS1tQ19YR0FBYlV2M3BwU19OUV8wTTVscndkWnhmREVXQTZ5eXlmV2xzV3Y3RHZWVDJCTnE0dVJrRS1aRHBRbzdCWmFxN3pUUmlVTVFRZ2hHTkNhTzRnRURnU0JkODM2VjdFLW9KczBLb0pUSVZyamNnSUQzM2xRYlJ2ZVkwNFlDS1dUVk1aMG5DWHlLSnBFZzlPeDNRX2d0OGNILWIzbnpwbU5UMnhncVA3RHZpTWgwRG1EZUpadw?oc=5",
+          "source": "skynewsarabia.com",
+          "date": "2026-11-26T20:19:09.000Z",
+          "lang": "Arabic"
+        },
+        {
+          "title": "\"فجر اليمن\".. الحوثيون في مرمى ضربات القوات اليمنية",
+          "url": "https://news.google.com/rss/articles/CBMiqwNBVV95cUxNdXhBcXpKYkJfbFk5Nk9relBpUEVxa0FwQnJfN3JSTHU0LWdtYk8xRjBXMEhJeTBzZ0VCRmdJRE83NHV0aEhUMTdDUDRYRXZkblVXb19TdGdQcGI5NG5pS1dwaW9yVjl5cm1qNzFTdnJtVkphYmxScG5seTZIZXNtdTlhdkdtU0RlWlFxeXlsWEluamVRV3BtVlN5cDRoLTA5RXp6UFQyeDJsQnBxclliWTUwdGJVTUV6VDE0RkhibnVkUEFIZlg2ckNyZE1UV09nUlRwOGozbERoNUcybW8tZzc3STA5OE9DZ1lqc2J1Tk9xN2QxOFNwZU1nZjRjQzFCWFVQdU5tQjhaT3hfamttdWNraUw1VlhQOEVpTFVNZkN6NmpLZ3ZtSDhCUGlTenY4Ui0zaW5YV1UzLWFxVldCWWo0TXlobG9hbExudlZDTk1NWHZMTVpncjU5NkJrQ0Rtc0s0UUpDcklUdWgyRkMtZnZnYkxmajMwZ21HVTlaWm8yNXMtbWZlRXhCaktVdGpNOVBRc2U0eFRIcC1vRy1UNXVGMFJVWkxXRmQ4?oc=5",
+          "source": "alarabiya.net",
+          "date": "2026-11-26T21:44:00.000Z",
+          "lang": "Arabic"
+        },
+        {
+          "title": "\"العلم الزائف\".. أول تعليق إيراني على هجوم الكويت ومقتل إيطاليين",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQUwyUTdBUU9kekZYTVBGYTdYSjZkTTZNZVJYOVgtcDFlY19rOXk4Qnd3WUVJU1FyaWwwSjZNa2s1UHRDamtXUTdqcFloTlhmUWsxQVlrSkVqR2lhejAyY3BzX3YxdzlHNU1MY0FFOGRJV0VvNnZWaUpPME1KcXlaWmcxNEdCMi10LXAxVWtKTC1DVTh2ci15MUVJd2EwbVFpTjJXR2sza19xNGZ1NzFqdXZn?oc=5",
+          "source": "arabic.cnn.com",
+          "date": "2026-11-26T18:12:35.000Z",
+          "lang": "Arabic"
+        },
+        {
+          "title": "مانشستر يونايتد يعزي ضحايا حادث الطريق الدائري",
+          "url": "https://news.google.com/rss/articles/CBMiowNBVV95cUxNTlVGRHVBcllMQWpJNzlpTUpUZ0tXMHVJU3dvejJ4OHlVS29OWVhHUVR5cHBJOEFRSUZUVnNBZ2JCaUdTeC00UXpIS2RMRTVoMl9faHJvU09qeTNZbXJUNV8wQy1PMGd3RXl6M2lUY2NCaFVMaU5Rc3Z0TWtFRUtzMW1ubVNFOEtEN05QM2NGSkM5OWdUR1N1Q3pleVUyN3ppUEdydlM0OHQ2N2oyNnh2U09fOGMxTU1NdjVjLU5WdW9vV3hid2tVTjVqQkNEY3dOR3FOTHN1OXFYYXlIY08yUGVMdU5nb1RubDExZHVmcnJoT1VDTjFTR1VxQUhGUlRmZVVvUWxGQ3Z1R2RFZVJJdDgzemtKSjhmeHl3VGlGV25ObXRHY2ZSVWRHVFVFR3Y5c0ZQZHRCT3ZVR2NnWmd3OGR5RmF2X2lUNG9qenhEMVE2QWxuX0tBSVpLamxkQ0tqUlFMT184bkozODVGeTZPbUNZekFxOFZWakNxUHVKRjVnbkZhQTdwU0NScnQtSHhNeVZOek9HU0ZzZzBrclBZa0Y2ONIBngNBVV95cUxPcnRIbjVqckNsaDNhZWJ5cTE0TkY0elNXY1BrS09Oa2VVcGg4dTB1WlVuci1VNHRtMVpNTHNSQm5HSEdVTUV3QmF5YTRtNHFGZFlkTEY1Vjg0Mm5kSXJIX2djUURKeEpYQjRvMVFYZUF6VnlPSGJlYmg1NG1WVFhycDRCbGpRMTdFN19CN3ZIYVFLYm8zNWlvOHFnR0lZQ2JHSlU4WTBsdWgxLW9PX1NsY1JyWExTdEpGVDBrd1hwZUNRQXFrVGVsTjhadG03Y1g3dUdBdDJTQjRzMVdXd2tpdUpEcTVLRGZvNTlnOE9sSk1zYlV6S3FxXzZOOHZwLVo1dWM4NHR5TlBidkNrUVB0ZHVqUHRucGxWV09lM0h4eHh3VGdfaDJkWWV2dURsYkpkb1Y0QnE4bXdYc21zOHJQcDBjSGZsR0ZUbTJTUXJqOGo5ZlluMmhyUHIyWC1ZUXJfV090NTEyX1BVT0NCeW9MaXluNm9VdXd6V2ZZRmJqSDJKNWc3c2FPNjBhS3RRcXQ1SF9fV2p0RmFEaXZTNkE?oc=5",
+          "source": "youm7.com",
+          "date": "2026-11-26T13:54:00.000Z",
+          "lang": "Arabic"
+        },
+        {
+          "title": "قتيل ومصابون بهجوم مصفاة جازان وتوقف جزئي للعمليات",
+          "url": "https://news.google.com/rss/articles/CBMiwANBVV95cUxOd3A4cEVuT2ZGSDh4V2R0eVQzczZ6ZGZRbGJYSE1Vbkdqd2o0QWdKSm5MNWoxcXo3SUxtVEk4dVlWc0R5RnI3dkVXZTZBaG9BSUdqZWpUTndEUUdGdUZMaHM1S0pEX0JrOExOTmtqT3padGVNWG5SbWNOOGxsQ2lKc0FobGIydnBfQjBFUk4zbGZ2MkZYUHlPQmN2eUlWaGNFT1VVVnl4NHBTTkExN2docVZzc29ib3BHczYxWFJGR29kUi1iSXZpWm93T2MzekZaQkpKX0lKNEZWdGt0SkhfcThmUVBKY3ZsSDZCQVc4TzBHaEpRaDcxQVI1MVMteml0cEhKb2JRZDNzOUw0M0tSeE1YbENLTDBQRjIzRVZOclJmdjlXck85VzB5ZjFTZUpaUEFJd3RyVEFjMVJiVl9sNDdlNFA5eGtXZXctcTNwNXZjaFJrdENFOEhubnhyODZ5aXM4MGd4Rkh3OEtXNGpPOW12bGZXU2RsbHUxajNyV0JEQS0xVTNsR3NHa2pZeV9WVW1CaTk1b0tmdHpWS1hzeUdNbHRQbTBjSE5RYXBGTi1Pd0dFMHZSWFBoRjc5R0s50gHGA0FVX3lxTE5aU0RPUVV6djhMQ2Qyb3Voa0R6UzRlaXVDMGRmUm5xSjQxa1pkNkx5TVdVeDNEQ3pvWU9PUUZ4QnpfVi1BdDQ3dEdsMDM1Rk5JSWQ2WFROMjJtSi1oZExTSkM0OW50OWJFWU54WlZYMDAtRFJYZ0xHQzZ0MndkRGFWOWtTS3Z3dTIzWjZDTTN3eVNPVGRjRHl3VDhnZ3lnSTVKVXpNS0xhWWlTdTFkeElxSHRZZFBrWWlXU0s5NGgyaTBJdTYwS0JreWszTlFYWkRoZzNvVkFiWEdlT1pBWW5CbHVXWmNMS3ZXWUxqWm9kSUQxWEZ3aXp0MlRJYXpNcEZRN0xlTGxUYzZONFl3RjBhbXVpNTFFWndvN3E0dHVOU1JJTzlndU0yVU5wRXQzZkJ1LVhYYXlDY0pIQzJGNzJvUU9TdDExUDIyUkdMX0ZHaW5mTFpjZ0xBZjJzVV81MS1RY21pYmdRdXJtdl91enVIOFRiNkp0cE5XR3d6ZmVrNTMyc1U3dFVEV2c4ck5IdFNYLW9WLVprM3dyWDYwcTQwUmtzVzFldlZQdTZtNmV4REE2LVl5aERWeDR4NHRiaUc1blA5Ync?oc=5",
+          "source": "skynewsarabia.com",
+          "date": "2026-11-26T18:34:17.000Z",
+          "lang": "Arabic"
+        },
+        {
+          "title": "فخامة الرئيس السيسى يجدد دعم مصر الكامل لأمن دولة قطر وسائر دول الخليج العربي",
+          "url": "https://news.google.com/rss/articles/CBMixwNBVV95cUxNZ3dzcm1fX3NCRUhSUUZhWVEtMU1PZnRNYzVXVWM2V0RoaEU3a09pOXB0TWJINTRUWEJma2NJNUFydHZfRkpXWUVKV3pZd2VvdGVnblFGLTI1MWVHZDJMcUNfYV91YVljSHByazRUUlE3dE5SUE1jbnA5MGs4cHJ5X1ozYkhWQkFsT1J1cWJkY2JNcU9nOW42OHh3MzRvSGpETTFkU2dlNmZjZnJsdlh0TDFYcy1WSVNvckc5ODZJeEpiR1JYd3hFM3hKWjdkQnkwa1RLYkRacEE3dTlSdUlHNFQ1bzR2WkVvUm1teGhmRnFqWGxCNW85cmlneXhaeXBMTDhVMlAzM2JoOFM5QjlQVXlFamVVaU1DNVd0S1YzS0pJTmM0SUpLVm9La2gwcExpTnRQUGlSbWRQNXltVUdHN0I2MXh6YzlCaTFsRVhUeExtYm0ySFZvX2c2QTBLN0xsZ0VzZGxiRXNvc1pzTzR6SW5wS1A4Qmd0SEFRN2hIT29sU2VPRVVWR3F0bTBkZlBkZy1GblgzSjFDcGxQYjFhNElnbVVWX1Vfb1JxdVdWUnhMV1Y2cnJVYm92WWhaQ0I3Rm52bHhiSdIBwgNBVV95cUxNSDVpUC15bXozcEpCV1NVczAyN0F2Z2VqZEZiUUE4WmNON1VQZmxhLWtGNWhhRjNXWHV1UEFtTmFaMWFiNHBteHV1QWpfNkpSRmZJRVhtRGM2bWhXS2taYU95dmt2R194X0Z4SDdVTFlPTUZFMDB4bzdUTjhKNWRuMV9ZRWQwNTB2STFmdFgxV3RmeEFXLU9FTmpMR0NiUHlHN3dreEdtaF9GdVpQRWMxRHBmd01QTzRxUUxETWhHbC1vUmVzR2ZaVXI2YVM5VDMyQl9tUmFQZTVJeVFWSjUyRDJLMHlpQnNHX29hTEdTTTlRblpDdEhjSGM2NExwU3NGdHc0a0tnTGQ4Yjg4bkhHMlVZejFFOHMzOFB4R1VXTnJYLXBrc3dOY1RGNWtTeEZDdEZEM1l6YWVtR1BWU3ExVWlwS0w4YlR3MjNKUVVFaExnZWEwZ2tMczN0TE1LMXFHYzZtYzVlSFlmWExmN0Q5RFJ1VXVYYVdUMnltbjJiYTV1WmNfNW1SNm5UeDZQY3F4eGY3RFBKaVNYQnltbURFYjktdlAxZmZnT054SXlKX3ZhaHRyMFg5bkNYOU02aVZQU3c?oc=5",
+          "source": "youm7.com",
+          "date": "2026-11-26T12:29:00.000Z",
+          "lang": "Arabic"
+        },
+        {
+          "title": "«هدوء ما قبل العاصفة».. بيان عاجل بشأن تقلبات حالة الطقس في القاهرة والمحافظات",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1DSlk3VWsxR0hfd1hnTWwwOHEyWFp3VUprQjdGUUhET3JsNERJYnF1dVY4eTBqVVhia3d3XzdNV1pTOVotM0hnZUVYdV9vaWNnUHFrRWtMREt1OWJiOFFN?oc=5",
+          "source": "almasryalyoum.com",
+          "date": "2026-11-26T17:27:00.000Z",
+          "lang": "Arabic"
+        },
+        {
+          "title": "\"لا مكان لكبش فداء\".. ماذا قال عمرو موسى عن حادث حريق دائري الوراق؟",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQck85dkZ2TzJoX0U5eUwtb3J3MEJ5amlQZkhsSkMtOUZaOTQ1anhLN2txSWx4SmNiWWxBMmZaSVhOa1BSRjVwdHJBcHhfVllWNmdZWThvdTBBMnpwOHJvd210SGJBTGx5dy10dEFHNXNaRGlyUmRvaU5URFZ0WUdnZUxYSWdBR1lYMkVxdzZ0T0JoM2pGWlRJZWFiWGUyZEoydk9EVA?oc=5",
+          "source": "arabic.cnn.com",
+          "date": "2026-11-26T01:50:51.000Z",
+          "lang": "Arabic"
+        }
+      ]
+    }
+  }
+}
