@@ -1,6 +1,6 @@
 {
   "date": "2026-11-27",
-  "updated": "2026-11-27T01:34:18.512Z",
+  "updated": "2026-11-27T07:30:05.659Z",
   "qid": "Q79",
   "name": "Egypt",
   "status": "UN member state",
@@ -16,7 +16,7 @@
     "Area": "1,010,408 km²",
     "Languages": "Arabic",
     "Currency": "Egyptian pound",
-    "Time zones": "Africa/Cairo, UTC+03:00, UTC+02:00",
+    "Time zones": "UTC+02:00, Africa/Cairo, UTC+03:00",
     "Calling code": "+20"
   },
   "map": "https://www.openstreetmap.org/?mlat=27.0&mlon=29.0#map=5/27.0/29.0",
@@ -36,59 +36,59 @@
       "label": "Last 24 hours",
       "items": [
         {
-          "title": "بمشاركة إبراهيم عادل .. نورشيلاند يقلب تأخره أمام باناثينايكوس إلى فوز مثير",
-          "url": "https://www.shorouknews.com/news/view.aspx?cdate=27112026&id=19498b25-5778-4378-9355-8ecaec034e1c",
+          "title": "مساعد وزير الخارجية للشئون الأمريكية يؤكد حرص مصر على تعزيز شراكتها مع كندا",
+          "url": "https://www.shorouknews.com/news/view.aspx?cdate=27112026&id=be63aea9-b0c1-4dac-8328-538f6332c990",
           "source": "shorouknews.com",
-          "date": "20261126T223000Z",
+          "date": "20261127T063000Z",
           "lang": "Arabic"
         },
         {
-          "title": "نقل 3 طالبات للمستشفى إثر إصابتهن باضطراب في الوعي داخل مركز تعليمي بالدقهلية",
-          "url": "https://www.vetogate.com/5779061",
-          "source": "vetogate.com",
-          "date": "20261126T223000Z",
-          "lang": "Arabic"
-        },
-        {
-          "title": "بدء تسليم قطع أراضي بيت الوطن للحاجزين بالمرحلة العاشرة بمدينة بدر 7 ديسمبر",
-          "url": "https://www.vetogate.com/5779080",
-          "source": "vetogate.com",
-          "date": "20261126T223000Z",
-          "lang": "Arabic"
-        },
-        {
-          "title": "بعد حادث الوراق .. طلب إحاطة لرئيس الوزراء و10 وزراء بشأن منظومة نقل المواد البترولية وعدم تنفيذ توصيات الرقابة الإدارية",
-          "url": "https://www.shorouknews.com/news/view.aspx?cdate=26112026&id=3aafe769-1c46-4c01-b561-e9f4d6ad6cfd",
+          "title": "بنك إنجلترا يحذر من ارتفاع أقساط الرهن العقاري لنحو 6 . 5 مليون أسرة خلال 3 سنوات",
+          "url": "https://www.shorouknews.com/news/view.aspx?cdate=27112026&id=446e0cfa-20a8-4111-88d2-6e2d0681fa25",
           "source": "shorouknews.com",
-          "date": "20261126T223000Z",
+          "date": "20261127T063000Z",
           "lang": "Arabic"
         },
         {
-          "title": "بدء وصول تحديث HyperOS 4 لهواتف Xiaomi 17 Ultra عالمياً",
-          "url": "https://www.elbadil.com/882201/%D8%A8%D8%AF%D8%A1-%D9%88%D8%B5%D9%88%D9%84-%D8%AA%D8%AD%D8%AF%D9%8A%D8%AB-hyperos-4-%D9%84%D9%87%D9%88%D8%A7%D8%AA%D9%81-xiaomi-17/",
-          "source": "elbadil.com",
-          "date": "20261126T223000Z",
-          "lang": "Arabic"
-        },
-        {
-          "title": "Anthony Lucas update: Skyler Gill - Howard out for the year as Dan Campbell faces Thanksgiving depth test",
-          "url": "https://www.el-balad.com/17070290",
-          "source": "el-balad.com",
-          "date": "20261126T221500Z",
-          "lang": "English"
-        },
-        {
-          "title": "Alix Earle Pokes Fun at Tom Brady Age in Bumble Ad",
-          "url": "https://www.el-balad.com/17070292",
-          "source": "el-balad.com",
-          "date": "20261126T221500Z",
-          "lang": "English"
-        },
-        {
-          "title": "« كان لسه بدري يا نور عيني ».. استغاثة ابنة تامر عبدالسلام تنتهي بخبر وفاته في حادث الوراق",
-          "url": "https://www.elwatannews.com/news/details/8404804",
+          "title": "هل خالفت ناقلة الوقود مواعيد السير ؟.. مساعد وزير الداخلية الأسبق يكشف ضوابط النقل الثقيل",
+          "url": "https://www.elwatannews.com/news/details/8404955",
           "source": "elwatannews.com",
-          "date": "20261126T204500Z",
+          "date": "20261127T063000Z",
+          "lang": "Arabic"
+        },
+        {
+          "title": "رابطة الإفريقي التونسي تكشف كواليس مبادرة التبرع بالدم لدعم مصابي حادث الوراق",
+          "url": "https://www.elwatannews.com/news/details/8404929",
+          "source": "elwatannews.com",
+          "date": "20261127T063000Z",
+          "lang": "Arabic"
+        },
+        {
+          "title": "Is Kenneth Walker Playing Today? Chiefs RB ruled out for Thanksgiving game vs . Bills after groin injury",
+          "url": "https://www.el-balad.com/17070330",
+          "source": "el-balad.com",
+          "date": "20261127T023000Z",
+          "lang": "English"
+        },
+        {
+          "title": "وكالة ناسا تطلق مناقصة لمفاعل قمري بقدرة 20 كيلوواط",
+          "url": "https://www.elbadil.com/882212/%D9%88%D9%83%D8%A7%D9%84%D9%87-%D9%86%D8%A7%D8%B3%D8%A7-%D8%AA%D8%B7%D9%84%D9%82-%D9%85%D9%86%D8%A7%D9%82%D8%B5%D9%87-%D9%84%D9%85%D9%81%D8%A7%D8%B9%D9%84-%D9%82%D9%85%D8%B1%D9%8A-%D8%A8%D9%82%D8%AF%D8%B1%D9%87-20/",
+          "source": "elbadil.com",
+          "date": "20261127T021500Z",
+          "lang": "Arabic"
+        },
+        {
+          "title": "دليل تحضير مرق الدجاج المركز من العظام أو استخدام مرقة جاهزة عالية الجودة",
+          "url": "https://www.elbadil.com/882207/%D8%AF%D9%84%D9%8A%D9%84-%D8%AA%D8%AD%D8%B6%D9%8A%D8%B1-%D9%85%D8%B1%D9%82-%D8%A7%D9%84%D8%AF%D8%AC%D8%A7%D8%AC-%D8%A7%D9%84%D9%85%D8%B1%D9%83%D8%B2-%D9%85%D9%86-%D8%A7%D9%84%D8%B9%D8%B8%D8%A7%D9%85-%D8%A7%D9%88/",
+          "source": "elbadil.com",
+          "date": "20261127T021500Z",
+          "lang": "Arabic"
+        },
+        {
+          "title": "أحمد صالح: الزمالك قادر على المنافسة رغم الأزمات .. وبيراميدز الأقرب للقب",
+          "url": "https://el-zamalek.com/%D8%A3%D8%AD%D9%85%D8%AF-%D8%B5%D8%A7%D9%84%D8%AD-%D8%A7%D9%84%D8%B2%D9%85%D8%A7%D9%84%D9%83-%D9%82%D8%A7%D8%AF%D8%B1-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D9%85%D9%86%D8%A7%D9%81%D8%B3%D8%A9-%D8%B1%D8%BA/",
+          "source": "el-zamalek.com",
+          "date": "20261127T014500Z",
           "lang": "Arabic"
         }
       ]
@@ -104,35 +104,28 @@
           "title": "الداخلية المصرية تنشر تسجيلا يوثق لحظات قبل \"حادث الدائري\"",
           "url": "https://news.google.com/rss/articles/CBMi0ANBVV95cUxOM21TT1pYRVRqd21uZ1JlbjZXX0tmaFpHYlpVM0tIdVJmZ0xVbmNGSVB3WXRIOTJJRTNnMVBGd2FFMnJydXBrbHJIWFFXekEydmVqWUVtYzhEZjE0bDh6R1liQ3l3SS1KRW85aVE2a1R6ZDVqMDZ1ZWdMS1pnTHdaaGdyR3g4TEI2bV9WcmpweERrQ2Y4MGdjM1ZFVFFncnl6a01LZ0JydVkxSm9JbTRaN1RhLUVDUF9wcmhzRGRMZmgzX1lGQUJUVDFmT3d4YXZlQWtrbTFxbjdMcEx6YlAxd29iUllJUjU4THotOFp5ZWI3V3BEVTBvUXBabDV2VEJhQk9IM0ZVbXY0bExVb2g3M1NNRk9KRE85c2JOSW5TdW1jeUhpQzZqQnoxZjAtcXUyUTF1UTlqNDNobTVMSGtGSGxkOTUwakJoZXlLQVpJZUQzZm5CMVpsZ09McEM3ZG5VaThFVDJCbnNzYUg4WDZDRWNLcU9aenc1aGIxRWdJM2dPWkR5RWJfdlMyenR2SThibVNueEM5XzQ5NTVmZFZNSE4ycERGdXEwckg0VTZUZWl0SkF6b0NpVzdYVGYtRDBwQ0sxQTVFYzA3dXYteHhtQdIB1gNBVV95cUxOV1FlZTZlN3JuRFhLMGRmRkNhZW9BUzBpVjA3YVkyV1FpcU9wWUZEREFrMjlYV1I1Nm5zeUFBcmNhRm5yNTU0MGhHSWhKVDJjZXdIaGhtTDNiRExYMWd3bzNyZmUzTFdVd1VlZEktMV9rSEJ0SXZ2eXVzM0N3S3NkLXg5eW95cnhmdDA0T1dfSmIxOENCNHl6dHR4dlU2NWhrcHRvUWVCSVN1VzlDOEFpWHFrRUNMN0ZiemJXSzNaVk1DVnE3cUZnVnVjNms2bl90NGVPcU9fdjVFdDhoSHZCZGVaLW5OUkNTakw1Vnc3cy1PR3ZuQ1pSaHJnUUQ5Z25aYjh3XzkyNVpJSzN0dnhwTEQyTDM1WVF2NV9BX0ExWS1tQ19YR0FBYlV2M3BwU19OUV8wTTVscndkWnhmREVXQTZ5eXlmV2xzV3Y3RHZWVDJCTnE0dVJrRS1aRHBRbzdCWmFxN3pUUmlVTVFRZ2hHTkNhTzRnRURnU0JkODM2VjdFLW9KczBLb0pUSVZyamNnSUQzM2xRYlJ2ZVkwNFlDS1dUVk1aMG5DWHlLSnBFZzlPeDNRX2d0OGNILWIzbnpwbU5UMnhncVA3RHZpTWgwRG1EZUpadw?oc=5",
           "source": "skynewsarabia.com",
-          "date": "2026-11-26T21:08:29.000Z",
+          "date": "2026-11-26T20:37:41.000Z",
           "lang": "Arabic"
         },
         {
-          "title": "\"فجر اليمن\".. الحوثيون في مرمى ضربات القوات اليمنية",
-          "url": "https://news.google.com/rss/articles/CBMiqwNBVV95cUxNdXhBcXpKYkJfbFk5Nk9relBpUEVxa0FwQnJfN3JSTHU0LWdtYk8xRjBXMEhJeTBzZ0VCRmdJRE83NHV0aEhUMTdDUDRYRXZkblVXb19TdGdQcGI5NG5pS1dwaW9yVjl5cm1qNzFTdnJtVkphYmxScG5seTZIZXNtdTlhdkdtU0RlWlFxeXlsWEluamVRV3BtVlN5cDRoLTA5RXp6UFQyeDJsQnBxclliWTUwdGJVTUV6VDE0RkhibnVkUEFIZlg2ckNyZE1UV09nUlRwOGozbERoNUcybW8tZzc3STA5OE9DZ1lqc2J1Tk9xN2QxOFNwZU1nZjRjQzFCWFVQdU5tQjhaT3hfamttdWNraUw1VlhQOEVpTFVNZkN6NmpLZ3ZtSDhCUGlTenY4Ui0zaW5YV1UzLWFxVldCWWo0TXlobG9hbExudlZDTk1NWHZMTVpncjU5NkJrQ0Rtc0s0UUpDcklUdWgyRkMtZnZnYkxmajMwZ21HVTlaWm8yNXMtbWZlRXhCaktVdGpNOVBRc2U0eFRIcC1vRy1UNXVGMFJVWkxXRmQ4?oc=5",
-          "source": "alarabiya.net",
-          "date": "2026-11-26T22:09:00.000Z",
-          "lang": "Arabic"
-        },
-        {
-          "title": "\"العلم الزائف\".. أول تعليق إيراني على هجوم الكويت ومقتل إيطاليين",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQUwyUTdBUU9kekZYTVBGYTdYSjZkTTZNZVJYOVgtcDFlY19rOXk4Qnd3WUVJU1FyaWwwSjZNa2s1UHRDamtXUTdqcFloTlhmUWsxQVlrSkVqR2lhejAyY3BzX3YxdzlHNU1MY0FFOGRJV0VvNnZWaUpPME1KcXlaWmcxNEdCMi10LXAxVWtKTC1DVTh2ci15MUVJd2EwbVFpTjJXR2sza19xNGZ1NzFqdXZn?oc=5",
-          "source": "arabic.cnn.com",
-          "date": "2026-11-26T18:12:35.000Z",
-          "lang": "Arabic"
-        },
-        {
-          "title": "مانشستر يونايتد يعزي ضحايا حادث الطريق الدائري",
-          "url": "https://news.google.com/rss/articles/CBMiowNBVV95cUxNTlVGRHVBcllMQWpJNzlpTUpUZ0tXMHVJU3dvejJ4OHlVS29OWVhHUVR5cHBJOEFRSUZUVnNBZ2JCaUdTeC00UXpIS2RMRTVoMl9faHJvU09qeTNZbXJUNV8wQy1PMGd3RXl6M2lUY2NCaFVMaU5Rc3Z0TWtFRUtzMW1ubVNFOEtEN05QM2NGSkM5OWdUR1N1Q3pleVUyN3ppUEdydlM0OHQ2N2oyNnh2U09fOGMxTU1NdjVjLU5WdW9vV3hid2tVTjVqQkNEY3dOR3FOTHN1OXFYYXlIY08yUGVMdU5nb1RubDExZHVmcnJoT1VDTjFTR1VxQUhGUlRmZVVvUWxGQ3Z1R2RFZVJJdDgzemtKSjhmeHl3VGlGV25ObXRHY2ZSVWRHVFVFR3Y5c0ZQZHRCT3ZVR2NnWmd3OGR5RmF2X2lUNG9qenhEMVE2QWxuX0tBSVpLamxkQ0tqUlFMT184bkozODVGeTZPbUNZekFxOFZWakNxUHVKRjVnbkZhQTdwU0NScnQtSHhNeVZOek9HU0ZzZzBrclBZa0Y2ONIBngNBVV95cUxPcnRIbjVqckNsaDNhZWJ5cTE0TkY0elNXY1BrS09Oa2VVcGg4dTB1WlVuci1VNHRtMVpNTHNSQm5HSEdVTUV3QmF5YTRtNHFGZFlkTEY1Vjg0Mm5kSXJIX2djUURKeEpYQjRvMVFYZUF6VnlPSGJlYmg1NG1WVFhycDRCbGpRMTdFN19CN3ZIYVFLYm8zNWlvOHFnR0lZQ2JHSlU4WTBsdWgxLW9PX1NsY1JyWExTdEpGVDBrd1hwZUNRQXFrVGVsTjhadG03Y1g3dUdBdDJTQjRzMVdXd2tpdUpEcTVLRGZvNTlnOE9sSk1zYlV6S3FxXzZOOHZwLVo1dWM4NHR5TlBidkNrUVB0ZHVqUHRucGxWV09lM0h4eHh3VGdfaDJkWWV2dURsYkpkb1Y0QnE4bXdYc21zOHJQcDBjSGZsR0ZUbTJTUXJqOGo5ZlluMmhyUHIyWC1ZUXJfV090NTEyX1BVT0NCeW9MaXluNm9VdXd6V2ZZRmJqSDJKNWc3c2FPNjBhS3RRcXQ1SF9fV2p0RmFEaXZTNkE?oc=5",
-          "source": "youm7.com",
-          "date": "2026-11-26T13:54:00.000Z",
-          "lang": "Arabic"
-        },
-        {
-          "title": "قتيل ومصابون بهجوم مصفاة جازان وتوقف جزئي للعمليات",
-          "url": "https://news.google.com/rss/articles/CBMiwANBVV95cUxOd3A4cEVuT2ZGSDh4V2R0eVQzczZ6ZGZRbGJYSE1Vbkdqd2o0QWdKSm5MNWoxcXo3SUxtVEk4dVlWc0R5RnI3dkVXZTZBaG9BSUdqZWpUTndEUUdGdUZMaHM1S0pEX0JrOExOTmtqT3padGVNWG5SbWNOOGxsQ2lKc0FobGIydnBfQjBFUk4zbGZ2MkZYUHlPQmN2eUlWaGNFT1VVVnl4NHBTTkExN2docVZzc29ib3BHczYxWFJGR29kUi1iSXZpWm93T2MzekZaQkpKX0lKNEZWdGt0SkhfcThmUVBKY3ZsSDZCQVc4TzBHaEpRaDcxQVI1MVMteml0cEhKb2JRZDNzOUw0M0tSeE1YbENLTDBQRjIzRVZOclJmdjlXck85VzB5ZjFTZUpaUEFJd3RyVEFjMVJiVl9sNDdlNFA5eGtXZXctcTNwNXZjaFJrdENFOEhubnhyODZ5aXM4MGd4Rkh3OEtXNGpPOW12bGZXU2RsbHUxajNyV0JEQS0xVTNsR3NHa2pZeV9WVW1CaTk1b0tmdHpWS1hzeUdNbHRQbTBjSE5RYXBGTi1Pd0dFMHZSWFBoRjc5R0s50gHGA0FVX3lxTE5aU0RPUVV6djhMQ2Qyb3Voa0R6UzRlaXVDMGRmUm5xSjQxa1pkNkx5TVdVeDNEQ3pvWU9PUUZ4QnpfVi1BdDQ3dEdsMDM1Rk5JSWQ2WFROMjJtSi1oZExTSkM0OW50OWJFWU54WlZYMDAtRFJYZ0xHQzZ0MndkRGFWOWtTS3Z3dTIzWjZDTTN3eVNPVGRjRHl3VDhnZ3lnSTVKVXpNS0xhWWlTdTFkeElxSHRZZFBrWWlXU0s5NGgyaTBJdTYwS0JreWszTlFYWkRoZzNvVkFiWEdlT1pBWW5CbHVXWmNMS3ZXWUxqWm9kSUQxWEZ3aXp0MlRJYXpNcEZRN0xlTGxUYzZONFl3RjBhbXVpNTFFWndvN3E0dHVOU1JJTzlndU0yVU5wRXQzZkJ1LVhYYXlDY0pIQzJGNzJvUU9TdDExUDIyUkdMX0ZHaW5mTFpjZ0xBZjJzVV81MS1RY21pYmdRdXJtdl91enVIOFRiNkp0cE5XR3d6ZmVrNTMyc1U3dFVEV2c4ck5IdFNYLW9WLVprM3dyWDYwcTQwUmtzVzFldlZQdTZtNmV4REE2LVl5aERWeDR4NHRiaUc1blA5Ync?oc=5",
+          "title": "ترامب: نحاول منح إيران فرصة للتصرف بذكاء",
+          "url": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxPV25RY2I1RGVNTnRUdUp3VmpsaHFCNXp0ZnR0U0preWpiRGw0TFB0VUVSSEY2S2R4cHRMSmJYMFpNLXdoeVVXNTk4cjRxY2poU2M3aGdJeG9GLThtMVpVTW05QVBleGxrMmRscE1fTTlrbTBZWFNYS2lvdjVxWVlOTUZWYUREMlZMNlJWT2U1Y2JGa0N4RWRfcjBzbmZuSjVOUG5iVmdjZFdDeEZRbVFrdnp5YnotdnJQX19TR3ZCa0I2TnpxZDk2N0JBQ25DdzVTdkd5aEhKV3ZkVDBpU2ItWERSandQenRWbHRubWtuQjNGUE45ZTJpQ0IwV05jZTdid3dUd2FTYzdtMEZSNjFtcFVLVV9jYU9zekdyOGlxM0wzRGU1WDF5b3JIY04yenNjX2tpWjJVWGtWTngzcnBuMURJazBPeFJNeU9zTkdKRFF3VG5CZmRfNmotUllTWEIyX2J2dkZHY9IB7AJBVV95cUxPeXdEQzZIOVZzY19VSTlMZmhwTjNhYlAwekxVTFZ1bkUydG5DZVJRaXNZbm5vUHNCOTN1SEJrYlFpWHBUN1d4N3lpUDJreE5Vc0p2UERVR2FTdXowSHJNMVhtaUt6RGk1Uzk3TVhKOGRUSll1SG91R3VaUk1qVUljRGg3eHlsNUlWY0ZMRWxDMEtycDNNTnQtQi1Ed1l4eWhDSTc3X1gwQ3oydFVqeFdQRUlpVjN1cUozTGx6S1JkWnE2LVRNX0hFbHdUY1RpNVhYUFI4d0FzZ28tMEJaWG1ZS0tIUUFza0l4bUZ0UUR3RkRKRktOcFk0dDAtZUZSQThuV3p3LTFKYTlBQmZUU0FSelQ1eVB1aWdxYzFQelZtMTNmcWpmS1FOY3VZMENoXzY4N2NsM3FhRmxEb3hDMVRLVmNub1BhV1pxV19hYkl5bl9FZDIyNWtMUjRxVUtDaDI2ekNlZTNUZGVpSmMz?oc=5",
           "source": "skynewsarabia.com",
-          "date": "2026-11-26T18:34:17.000Z",
+          "date": "2026-11-27T01:49:23.000Z",
+          "lang": "Arabic"
+        },
+        {
+          "title": "إيران تنفي مسؤوليتها عن مقتل إيطالييْن في هجوم بالكويت",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1Qd2ZDNFhsa2RYYXBLQjYwSnZBa2w0eVluR1FBcFNscnV0OUR0OHZidjZSN3lCWDNQVVQzalVxZjFDZ1ItbXdkUWZCaWtkZXp3YWVKajRCZk43UzEtRnfSAWNBVV95cUxPMWRBak5ORVZHTlZmWmZUbzVVSWl5UWtGR29tSDRXWlE0MFB3N190TktQeUg1a3lHbVB5Qy1pT2NycFJmV0VTR1NUbS16bnVhM2wyUmM5TFluUExubE5QZjFqam8?oc=5",
+          "source": "bbc.com",
+          "date": "2026-11-26T22:54:28.000Z",
+          "lang": "Arabic"
+        },
+        {
+          "title": "مصر.. إيران تعقّب على حادث حريق دائري الوراق في الجيزة",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQbmtBOXA0V3NFVENUX3NURW4tSGF2LUUyUHc1RWtpeTk0SWViYzl0ZlRZSjVMeExaM182ZDFKV0tISDluelZzaTNKVmJ6Tll1VDBBOXVOeS1lU3dxTGN0UmpIN1ZHejhUUU1QTUdZbHc0bTdGRDRIMlRaa19ZaVoxR1IzNFc0MGVCZm5CZnhDWVZDZ1A3NTF3VUU2dWdsVkVJaU1kUTNpY29xc3RtSzN0Smh3?oc=5",
+          "source": "arabic.cnn.com",
+          "date": "2026-11-27T02:33:01.000Z",
           "lang": "Arabic"
         },
         {
@@ -143,17 +136,24 @@
           "lang": "Arabic"
         },
         {
-          "title": "«هدوء ما قبل العاصفة».. بيان عاجل بشأن تقلبات حالة الطقس في القاهرة والمحافظات",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1DSlk3VWsxR0hfd1hnTWwwOHEyWFp3VUprQjdGUUhET3JsNERJYnF1dVY4eTBqVVhia3d3XzdNV1pTOVotM0hnZUVYdV9vaWNnUHFrRWtMREt1OWJiOFFN?oc=5",
+          "title": "«الجو هيقلب».. الأرصاد تُعلن موعد تغير الطقس: انخفاض 6 درجات وأمطار",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5nWmN6SVdQSFg5bldubXM1SnRUNXZmZ0lNZXU5T0hIYnhKdVZrREQ4bXhmR0llVmpyWDc3bVhDeUVpMEVsM3VrMXBrSnZ5Sl9sRnJQVzl2ZFp5bXhKaFNr?oc=5",
           "source": "almasryalyoum.com",
-          "date": "2026-11-26T17:27:00.000Z",
+          "date": "2026-11-26T20:22:00.000Z",
           "lang": "Arabic"
         },
         {
-          "title": "\"لا مكان لكبش فداء\".. ماذا قال عمرو موسى عن حادث حريق دائري الوراق؟",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQck85dkZ2TzJoX0U5eUwtb3J3MEJ5amlQZkhsSkMtOUZaOTQ1anhLN2txSWx4SmNiWWxBMmZaSVhOa1BSRjVwdHJBcHhfVllWNmdZWThvdTBBMnpwOHJvd210SGJBTGx5dy10dEFHNXNaRGlyUmRvaU5URFZ0WUdnZUxYSWdBR1lYMkVxdzZ0T0JoM2pGWlRJZWFiWGUyZEoydk9EVA?oc=5",
-          "source": "arabic.cnn.com",
-          "date": "2026-11-26T01:50:51.000Z",
+          "title": "الطقس اليوم.. انخفاض بالحرارة وشبورة وفرص أمطار والصغرى بالقاهرة 15 درجة",
+          "url": "https://news.google.com/rss/articles/CBMimgRBVV95cUxNNEV5SVdOem9rNC1xQk5BWHhuQi1LVTZDU0tTUWlKMmgydmdHcV9lUkJMNEJkNVc0a0dHUDNURXJFcllHX0R6LU9mTC1rZkVhS3JxTmJmMWNaZ0hscjFYMTlhZXBMczNTNll3bGFWSXRHVkRRanRCaTY1X2FGYTNzX0dVby1EUEJxekJUWUVGU2tXQ2phSzc0ckxpdWNsZjZyOXMyYjJLdFFDU2J5RGNoVXZ4cVcwQk8yXzBjakVzUEwwaTJqVldGMncxUmhUQm1Ha25zSnRnbWJFMV9xdUJkMUdXZWl6bHFMeTF0Y2d2dW5lRW5DRlEtVFBDb20xZXJZOUtwblB4TkpXRVNBRndIS3NYU1hIX1l5ZVVCSjM0OWZnajdOZTU3Q3FEbk1qblU2clpUVzdCS0d1RjM1TmlDdW0tZzE4aG82RERPLUhsdGtpX2JsMzc4VlZaN21rajR6VEhYWGp1a1hnV1ZzMkp4OUpLSUtUakFNVHRxWDIyUUlsLXdCelRMYk9Tb3Rob2ZNS0VESFlaNnlaZkN6bTZUVXZoTmpBT3B4R0JmNDd1UmhmZGhSblRGUER0MnBQUFdNLTkxeDA4S1JNZUE0YlI2QVRfLTF2ZXJHakc1bmNudnduaEJfcDJyX3NMM1FCT0JpUDA2dXU0YXJaVHlOTEVCQ05TdVZ3RGZpdlNoZlYtSVBqdzdDdUluZVJn0gGUBEFVX3lxTFB6TW54TTZ0ZTRnMnJKRnVBVWtZT1lDMXl6UFlKR1haS0RScUFGQmlGeEJ0MjZHVWVuS1AyYkc4WkdBMnA4Zm92YVNock5mYUxUUUU0LTNoeUhuZVRXSTRrYWFRWmh1YzlnV21OekNMUUJ1WlJ5RmhGUHdQYm1Dd3RBX2Q3TlRtQkZ0VXVxMTRiejhWRHRTRE5jQVdweG12THdTS3duSXkzU3ZfZXhLc0dyRU85TVc3VENKSFpNSTVsWk85dEZMc2NZdXJwR1BNRklJWTZHTTJGRTdoVjE4aDZjS2Zfa2V3U0JEVy1tb1ROY2JKVWthY21YdmhJTWNid0hoT0tuRnJOaWVMSzY4eEl1cUlvMmZvY0hpbHJqZ3JaQVVJRUxwTDBYM2V0WXVzN2JjbGdvZ2ZGa1JKQ2tZOTdBNld0RW5WQUhJWXV0WG9qX192SlZtenFSNUJuY1Q4TWRTUkxpcTNVYVFSTG04dzI1LUhUN0Z0NUtFUTFmXzlPNEdsTTA4dTBtOTQ4am4tUURkMV81LXF6OVEwYXdkY1VkV2NhLXoycDk2cS1uSGQ1Um5jdF9hN3RXNVNuYk9acW1SdldFbGhHa1pxcHVkT1VzZXFCTlA0R0VRaHN5TGttZ3EyZGpUTWNxcmJtOUhpY2pSczI4VF9ub0VMYjZyR2dtelY4R1djd0xSdzh6eFB4T0VNTTQ?oc=5",
+          "source": "youm7.com",
+          "date": "2026-11-26T06:00:00.000Z",
+          "lang": "Arabic"
+        },
+        {
+          "title": "سفير العراق بالقاهرة يكشف لـ\"مصراوي\" تفاصيل إلغاء التأشيرات بين القاهرة وبغداد",
+          "url": "https://news.google.com/rss/articles/CBMinwVBVV95cUxPaDFwWl9sQ3Z5OTNLclJZOTZxZW1OVk5kdEx4a21TYm11RUFkdzlYVmJpQ3RCNnhYQ2xjY1NsOVR3SlgwbWRHNUhjc05jZVRRem1QMVQxS19hY3ZVWnhvSWNRRUJ1dFBGck9mSVIzVWZfOWUyM2Q1NTcwNmpybl96ZmU5NUNlNlJyZlJybWkzbjFnV1UyelViX0hjV3hXQ2h1N19FNEZNVVctNkNjWGkxVkpTa01VdnhxN212Z0UyYXF6enR0d1NsaUwwV3pvcnlNbHpkOEdhd1pVU3l3MUNYLUZ6X1pidWl6MVBHMzlKa29RUzg2N0VwNEdZZ2x3QkZnMWRZZHhkbzhncnhvVnZMYWdJd3oyY3dudDNKa0p0TVVwSjBHUFRDaTdBaEQ4NmNUbWxNaDJWVncxZG00YVk5NFJ2OC1TX2RPMFI2Z1Jsdk9TZXN2MUN0YW5VVGk5TmhSbEVzV3BwWEZWNGhJRklNZXoyclFLX2MyLVJmQndZeS00eUp3MjgtRFQ5aFlwMmJ2X2ItdTJYMEo5Y19ybU9pSEpHajhic0FvNGdTZ0toODk2N1VzSmFMOWdNaUc3cUx3ZEE4eDRkLWNVQ3VzcXVyeUljWVJ4VG1rYmZjRk1VbEpGeVpxQzZBT2tRUVJISGRTeGk3UEhVeWtiLTlidXRxNlllSWZET3RHRDNERGduZGdySWNGUXBqWVNROWNJOGwwS3loeGpVbjAwdTNOWWFIZEtiQ0VlRkhTUjQ1UkRRUXd5YlY0TkxjSmJZcXpjbWlUQUxNdElhWjlBeHVEbWRrN2xGRUx3TlZ6ZVRWR0UtTS0zUHhyVzJmVk11Rk5TVFVpdTdtMEpQQUZkZHltV0hTYkNkS19JT242Z2VyTm1tWdIBpAVBVV95cUxOQlFyUUl5dEU1SjY5U3JRTDdnMzVpcFQ4TlBxeEkzUFlSNmo4SnB5RTlONEFiRXNhVS1LUWNPdmczZERZQzRpQjNycS0wVkE3NENjRk0yaGlSMDdPZVVjN3V4dTM1ZnZzUlBSMExKbVlmZTFJT2J0Y1FiMWtiY1BBbjQzVHVSd2VYS1FfTUFJQXdOSEQ0TXRNWmVCRWpVSXJ5aXdwODJNT1hTc1h0aDZhNjZ2M3JReWNUa0ktc2RwRlQ2RW4wUEduclJ4Y0JDRFRHNEN4dEpJRE1WdExxX2hkM0JvMWh1SmIwTkxzWWVsQ1NKdGhuaEhoWGc3RlJ0Y1ByVkFPY2dLLVZ2elJ6NGR1bGMtcmFiREJxaTQ4UlNnd1hfWkMwN0NuSFMwa2Y4VFIyOXc3TGNEc3FLNTN4bU1Td204ckdSWWllSVhFQ0xHcG96ampaWXRGZFZXTkM1RFJyRkozRGlBMkd2Y0diV1FfNkU2Z3FMX1BmY09HVUl4Sl9sOTRqODRuTmMwTDNzVFFLOHhFY2JrRXlRN09teVFLN3JDZy01Z2NueGh6R0RjQzVsNC0zQzR3V20tZE4takp2T3FiSHgwbW1qVExELWlCeUxfV191NzktQmdlM3Qzekt5V2RfODlGR2xhTTV1aHZfQTBNQ09QdEJOU2tFWTJ3YmFJRDVKNUFuOGpvdndvTFlSeTFHNjRmZUhXV2x6ZEJZbGd4Mm4yU1BwQ2JaUWRyaHlQRlJNcVpmbjQyT0QyS1BOb3JQWlpFZTNXRFNTLXh2bmhDT3Jpc3REdzZ3MEVKRm5QWl9tVTJXa1ljRDR1QzNwSk04SHU3U1k4czNFWTBBTFo4MzJheDAwQzVQTWRWQXJTcktUN3ZybGhSNEh0a1RJd1ho?oc=5",
+          "source": "masrawy.com",
+          "date": "2026-11-24T10:46:00.000Z",
           "lang": "Arabic"
         }
       ]
