@@ -1,0 +1,106 @@
+{
+  "date": "2026-11-28",
+  "updated": "2026-11-27T23:54:38.646Z",
+  "qid": "Q804",
+  "name": "Panama",
+  "status": "UN member state",
+  "officialName": "Panama",
+  "flag": {
+    "svg": "https://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Panama.svg",
+    "alt": "Flag of Panama"
+  },
+  "facts": {
+    "Capital": "Panama City",
+    "Continent": "North America",
+    "Population": "4,570,133",
+    "Area": "74,177 km²",
+    "Languages": "Spanish",
+    "Currency": "United States dollar, Panamanian balboa",
+    "Time zones": "America/Panama",
+    "Calling code": "+507"
+  },
+  "map": "https://www.openstreetmap.org/?mlat=8.616667&mlon=-80.366667#map=5/8.616667/-80.366667",
+  "summary": {
+    "extract": "Panama, officially the Republic of Panama, is a country located at the southern end of Central America in North America, bordering South America. It is bordered by Costa Rica to the west, Colombia to the southeast, the Caribbean Sea to the north, and the Pacific Ocean to the south. Its capital and largest city is Panama City, whose metropolitan area is home to nearly half of the country's over 4 million inhabitants. Located on a narrow isthmus between two oceans, Panama is the site of the Panama Canal, a major route for maritime trade.",
+    "url": "https://en.wikipedia.org/wiki/Panama"
+  },
+  "history": {
+    "title": "History of Panama",
+    "paragraphs": [
+      "The history of Panama includes the history of the Isthmus of Panama prior to European colonization.",
+      "Before the arrival of Europeans, Panama was widely settled by peoples speaking Chibchan languages, Choco languages, and Cueva language. There is no accurate knowledge of the size of the Pre-Columbian indigenous population. Estimates range as high as two million people. They lived mainly by fishing, hunting, gathering edible plants and fruits, growing corn, squash, and root crops, and lived in wattle and daub houses with thatched roofs of palm leaves.",
+      "The first permanent European settlement on the Americas mainland, Santa María la Antigua del Darién, was founded in 1510. Vasco Núñez de Balboa and Martín Fernández de Enciso agreed on the site near the mouth of the Tarena River on the Atlantic. This was abandoned in 1519 and the settlement moved to Nuestra Señora de la Asunción de Panamá (present day Panama City), the first European settlement on the shores of the Pacific.",
+      "Panama was part of the Spanish Empire for over 300 years (1513–1821) and its fate changed with its geopolitical importance to the Spanish crown. In the 16th and 17th centuries, at the height of the Empire, no other region would prove of more strategic and economic importance.",
+      "On November 10, 1821, in a special event called Grito de La Villa de Los Santos, the residents of the Azuero declared their separation from the Spanish Empire. As was often the case in the New World after independence, control remained with the remnants of colonial aristocracy. In Panama, this elite was a group of less than ten extended families. The derogatory term rabiblanco (\"white tail\") has been used for generations to refer to the usually White members of the elite families.",
+      "In 1852, the isthmus adopted trial by jury in criminal cases and—30 years after abolition—would finally declare and enforce an end to slavery."
+    ],
+    "url": "https://en.wikipedia.org/wiki/History_of_Panama"
+  },
+  "news": {
+    "local": {
+      "label": "Last 24 hours",
+      "items": [
+        {
+          "title": "Panamá y Canadá se disputan un billete al Mundial femenino de Brasil 2027",
+          "url": "https://www.critica.com.pa/deportes/panama-y-canada-se-disputan-un-billete-al-mundial-femenino-de-brasil-2027-520661",
+          "source": "critica.com.pa",
+          "date": "20261127T224500Z",
+          "lang": "Spanish"
+        },
+        {
+          "title": "Con sensación térmica de 42°C, esto no puede faltar en su auto",
+          "url": "https://www.critica.com.pa/vida/con-sensacion-termica-de-42degc-esto-no-puede-faltar-en-su-auto-520657",
+          "source": "critica.com.pa",
+          "date": "20261127T224500Z",
+          "lang": "Spanish"
+        },
+        {
+          "title": "Horror en La Chorrera: la apuñaló 17 veces y le prendió fuego a la casa con ella adentro",
+          "url": "https://www.panamaamerica.com.pa/provincias/horror-en-la-chorrera-la-apunalo-17-veces-y-le-prendio-fuego-la-casa-con-ella-adentro-1282686",
+          "source": "panamaamerica.com.pa",
+          "date": "20261127T224500Z",
+          "lang": "Spanish"
+        },
+        {
+          "title": "Panamá se proyecta como anfitrión del comercio mundial: Expo Feria Mundial 2027 fortalece alianzas para atraer compradores internacionales",
+          "url": "https://www.panamaamerica.com.pa/economia/panama-se-proyecta-como-anfitrion-del-comercio-mundial-expo-feria-mundial-2027-fortalece-alianzas-para-atraer-compradores-internacionales-1282674",
+          "source": "panamaamerica.com.pa",
+          "date": "20261127T224500Z",
+          "lang": "Spanish"
+        },
+        {
+          "title": "Lionel Messi jugará en Argentina partido de despedida de Carlos Tevez",
+          "url": "https://www.rpctv.com/futbol-internacional/futbol/lionel-messi-jugara-argentina-partido-despedida-carlos-tevez-n6099708",
+          "source": "rpctv.com",
+          "date": "20261127T014500Z",
+          "lang": "Spanish"
+        },
+        {
+          "title": "Delegación equina supera la cuarentena",
+          "url": "https://www.midiario.com/deportivas/delegacion-equina-supera-la-cuarentena/",
+          "source": "midiario.com",
+          "date": "20261127T011500Z",
+          "lang": "Spanish"
+        },
+        {
+          "title": "Ministro promete cumplir fallos a favor de docentes",
+          "url": "https://www.midiario.com/nacionales/ministro-promete-cumplir-fallos-a-favor-de-docentes/",
+          "source": "midiario.com",
+          "date": "20261127T011500Z",
+          "lang": "Spanish"
+        },
+        {
+          "title": "Black Friday in Panama! - Newsroom Panama",
+          "url": "https://newsroompanama.com/2026/11/26/black-friday-in-panama/",
+          "source": "newsroompanama.com",
+          "date": "20261127T004500Z",
+          "lang": "English"
+        }
+      ]
+    },
+    "international": {
+      "label": "No recent headlines found",
+      "items": []
+    }
+  }
+}
