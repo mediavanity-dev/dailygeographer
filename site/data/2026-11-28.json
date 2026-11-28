@@ -1,6 +1,6 @@
 {
   "date": "2026-11-28",
-  "updated": "2026-11-27T23:54:38.646Z",
+  "updated": "2026-11-28T01:28:10.848Z",
   "qid": "Q804",
   "name": "Panama",
   "status": "UN member state",
@@ -15,7 +15,7 @@
     "Population": "4,570,133",
     "Area": "74,177 km²",
     "Languages": "Spanish",
-    "Currency": "United States dollar, Panamanian balboa",
+    "Currency": "Panamanian balboa, United States dollar",
     "Time zones": "America/Panama",
     "Calling code": "+507"
   },
@@ -38,7 +38,7 @@
   },
   "news": {
     "local": {
-      "label": "Last 24 hours",
+      "label": "Last 7 days",
       "items": [
         {
           "title": "Panamá y Canadá se disputan un billete al Mundial femenino de Brasil 2027",
