@@ -1,6 +1,6 @@
 {
   "date": "2026-11-28",
-  "updated": "2026-11-28T01:28:10.848Z",
+  "updated": "2026-11-28T07:23:51.632Z",
   "qid": "Q804",
   "name": "Panama",
   "status": "UN member state",
@@ -15,7 +15,7 @@
     "Population": "4,570,133",
     "Area": "74,177 km²",
     "Languages": "Spanish",
-    "Currency": "Panamanian balboa, United States dollar",
+    "Currency": "United States dollar, Panamanian balboa",
     "Time zones": "America/Panama",
     "Calling code": "+507"
   },
@@ -41,30 +41,30 @@
       "label": "Last 7 days",
       "items": [
         {
+          "title": "Confirman traspaso del aeropuerto de Colón a la administración de la Zona Libre",
+          "url": "https://www.panamaamerica.com.pa/economia/confirman-traspaso-del-aeropuerto-de-colon-la-administracion-de-la-zona-libre-1282685",
+          "source": "panamaamerica.com.pa",
+          "date": "20261128T051500Z",
+          "lang": "Spanish"
+        },
+        {
+          "title": "Un muerto y 3 desaparecidos tras naufragio de buque panameño en Cuba",
+          "url": "https://www.critica.com.pa/nacional/un-muerto-y-3-desaparecidos-tras-naufragio-de-buque-panameno-en-cuba-520675",
+          "source": "critica.com.pa",
+          "date": "20261128T023000Z",
+          "lang": "Spanish"
+        },
+        {
+          "title": "EE . UU . negocia posible acuerdo con Rafael Caro Quintero por cargos de narcotráfico",
+          "url": "https://www.panamaamerica.com.pa/mundo/eeuu-negocia-posible-acuerdo-con-rafael-caro-quintero-por-cargos-de-narcotrafico-1282704",
+          "source": "panamaamerica.com.pa",
+          "date": "20261128T023000Z",
+          "lang": "Spanish"
+        },
+        {
           "title": "Panamá y Canadá se disputan un billete al Mundial femenino de Brasil 2027",
           "url": "https://www.critica.com.pa/deportes/panama-y-canada-se-disputan-un-billete-al-mundial-femenino-de-brasil-2027-520661",
           "source": "critica.com.pa",
-          "date": "20261127T224500Z",
-          "lang": "Spanish"
-        },
-        {
-          "title": "Con sensación térmica de 42°C, esto no puede faltar en su auto",
-          "url": "https://www.critica.com.pa/vida/con-sensacion-termica-de-42degc-esto-no-puede-faltar-en-su-auto-520657",
-          "source": "critica.com.pa",
-          "date": "20261127T224500Z",
-          "lang": "Spanish"
-        },
-        {
-          "title": "Horror en La Chorrera: la apuñaló 17 veces y le prendió fuego a la casa con ella adentro",
-          "url": "https://www.panamaamerica.com.pa/provincias/horror-en-la-chorrera-la-apunalo-17-veces-y-le-prendio-fuego-la-casa-con-ella-adentro-1282686",
-          "source": "panamaamerica.com.pa",
-          "date": "20261127T224500Z",
-          "lang": "Spanish"
-        },
-        {
-          "title": "Panamá se proyecta como anfitrión del comercio mundial: Expo Feria Mundial 2027 fortalece alianzas para atraer compradores internacionales",
-          "url": "https://www.panamaamerica.com.pa/economia/panama-se-proyecta-como-anfitrion-del-comercio-mundial-expo-feria-mundial-2027-fortalece-alianzas-para-atraer-compradores-internacionales-1282674",
-          "source": "panamaamerica.com.pa",
           "date": "20261127T224500Z",
           "lang": "Spanish"
         },
@@ -99,8 +99,65 @@
       ]
     },
     "international": {
-      "label": "No recent headlines found",
-      "items": []
+      "label": "Last 24 hours",
+      "items": [
+        {
+          "title": "US military says it disabled another ship that tried to breach naval blockade on Iranian ports",
+          "url": "https://www.decaturdaily.com/news/other_news/international/us-military-says-it-disabled-another-ship-that-tried-to-breach-naval-blockade-on-iranian/article_f3a1f7bb-d335-4c80-9aa5-b1073bc61503.html",
+          "source": "decaturdaily.com",
+          "date": "20261128T063000Z",
+          "lang": "English"
+        },
+        {
+          "title": "Thousands of lights illuminate Oaks by the Bay Park in historic St . Andrews",
+          "url": "https://www.wjhg.com/2026/11/28/thousands-lights-illuminate-oaks-by-bay-park-historic-st-andrews/",
+          "source": "wjhg.com",
+          "date": "20261128T063000Z",
+          "lang": "English"
+        },
+        {
+          "title": "Salvation Army bell ringers collect donations outside stores on Black Friday",
+          "url": "https://www.wjhg.com/2026/11/28/salvation-army-bell-ringers-collect-donations-outside-stores-black-friday/",
+          "source": "wjhg.com",
+          "date": "20261128T063000Z",
+          "lang": "English"
+        },
+        {
+          "title": "USWNT seal Women World Cup qualification with 8 - 0 win over El Salvador",
+          "url": "https://www.aol.co.uk/articles/uswnt-seals-women-world-cup-041442000.html",
+          "source": "aol.co.uk",
+          "date": "20261128T051500Z",
+          "lang": "English"
+        },
+        {
+          "title": "Veteran Voices: Life on a troopship: Leslie Clarence Hirth diary part 1 | Wimmera Mallee News | Local News covering Sport, Rural, Council & Business News for Horsham, Warracknabeal, Dimboola, Rainbow, Jeparit & Yaapeet in VIC Australia .",
+          "url": "https://www.warrackherald.com.au/veteran-s-voices-life-on-a-troopship-leslie-clarence-hirth-diary-part-1-2026-11-28",
+          "source": "warrackherald.com.au",
+          "date": "20261128T044500Z",
+          "lang": "English"
+        },
+        {
+          "title": "Panama President Called On To Match COP31 Heroism With Action At Shipping Climate Talks",
+          "url": "https://www.scoop.co.nz/stories/WO2611/S00270/panamas-president-called-on-to-match-cop31-heroism-with-action-at-shipping-climate-talks.htm",
+          "source": "scoop.co.nz",
+          "date": "20261128T014500Z",
+          "lang": "English"
+        },
+        {
+          "title": "Iran war: US forces disable another ship that tried to breach blockade",
+          "url": "https://hayspost.com/posts/43e525c3-f16c-4991-a60e-0fd854ccafcb",
+          "source": "hayspost.com",
+          "date": "20261128T014500Z",
+          "lang": "English"
+        },
+        {
+          "title": "With Uncertainty Shrouding UN Shipping Climate Talks, NGOs Call On Governments To Avoid Backsliding On Ambition",
+          "url": "https://www.scoop.co.nz/stories/WO2611/S00271/with-uncertainty-shrouding-un-shipping-climate-talks-ngos-call-on-governments-to-avoid-backsliding-on-ambition.htm",
+          "source": "scoop.co.nz",
+          "date": "20261128T014500Z",
+          "lang": "English"
+        }
+      ]
     }
   }
 }
